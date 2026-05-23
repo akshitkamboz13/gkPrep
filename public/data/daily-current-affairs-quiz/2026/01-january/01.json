@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: January 1, 2026",
+    "date": "2026-01-01",
+    "year": "2026",
+    "month": "01-january",
+    "day": 1,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 05:26:16",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:56:17"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which state has become the first in India to establish a national Artificial Intelligence (AI) research institution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gujarat"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Karnataka"
+        },
+        {
+          "label": "D",
+          "text": "Kerala"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Gujarat"
+      },
+      "explanation": "Gujarat Government led by Chief Minister (CM) Bhupendra Patel approved the Indian Artificial Intelligence Research Organization (IAIRO) at Gujarat International Finance Tec-City (GIFT City), Gandhinagar. Gujarat became the first state in India to establish a national Artificial Intelligence (AI) research institution under a Public-Private Partnership (PPP) model. IAIRO will start operations on 1 January 2026 as a non-profit under Section 8 of the Companies Act, 2013. It will follow a Public-Private Partnership (PPP) model via State Government, Central Government and Indian Pharmaceutical Alliance (IPA)."
+    },
+    {
+      "id": 2,
+      "question": "As per recent report, India recently surpassed which country to become the world’s fourth-largest economy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Japan"
+        },
+        {
+          "label": "B",
+          "text": "Germany"
+        },
+        {
+          "label": "C",
+          "text": "Russia"
+        },
+        {
+          "label": "D",
+          "text": "China"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Japan"
+      },
+      "explanation": "As per recent report by Indian government, India surpassed Japan to become the world’s fourth-largest economy with Gross Domestic Product (GDP) of USD 4.18 trillion. India is expected to overtake Germany to become the third-largest economy by 2030 with projected GDP of USD 7.3 trillion. India remains the world’s fastest-growing major economy despite global trade uncertainties. Real GDP grew 8.2% in Quarter 2 of 2025–26, rising steadily from previous quarters. Growth is driven mainly by strong private consumption and domestic demand. The United States (US) ranks first and China second in global economy size."
+    },
+    {
+      "id": 3,
+      "question": "Kaimur Wildlife Sanctuary is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Karnataka"
+        },
+        {
+          "label": "B",
+          "text": "Bihar"
+        },
+        {
+          "label": "C",
+          "text": "Madhya Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Gujarat"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Bihar"
+      },
+      "explanation": "Bihar government approved a revised proposal to notify Kaimur Wildlife Sanctuary as a Tiger Reserve. The proposal will be sent to the National Tiger Conservation Authority (NTCA) for final clearance. Kaimur Wildlife Sanctuary is the largest sanctuary in Bihar with rich biodiversity and dense forests. It is located in Kaimur and Rohtas districts within the Kaimur Range. The area covers parts of the Kaimur Plateau and Rohtas Plateau."
+    },
+    {
+      "id": 4,
+      "question": "The salvo launch of Pralay missiles was conducted by which organisation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indian Space Research Organisation (ISRO)"
+        },
+        {
+          "label": "B",
+          "text": "Defence Research and Development Organisation (DRDO)"
+        },
+        {
+          "label": "C",
+          "text": "Indian Navy"
+        },
+        {
+          "label": "D",
+          "text": "Bharat Electronics Limited"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Defence Research and Development Organisation (DRDO)"
+      },
+      "explanation": "Defence Research and Development Organisation (DRDO) successfully conducted a salvo launch of two Pralay missiles from the same launcher off Odisha coast. The test was part of user evaluation trials by Indian Air Force and Indian Army. Both missiles followed the planned trajectory and met all flight objectives. Tracking was done by Integrated Test Range (ITR), Chandipur and onboard telemetry systems. Pralay is an indigenously developed solid-propellant quasi-ballistic missile with high-precision guidance. It can carry different warheads for multiple target types. The missile was developed by Research Centre Imarat, Hyderabad with other DRDO labs."
+    },
+    {
+      "id": 5,
+      "question": "Where was India’s first 3D Flex Aqueous Angiography with iStent performed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "AIIMS, Delhi"
+        },
+        {
+          "label": "B",
+          "text": "Army Hospital (Research and Referral), Delhi"
+        },
+        {
+          "label": "C",
+          "text": "Sankara Nethralaya, Chennai"
+        },
+        {
+          "label": "D",
+          "text": "None of the Above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Army Hospital (Research and Referral), Delhi"
+      },
+      "explanation": "Army Hospital (Research and Referral), Delhi, performed India’s first 3D Flex Aqueous Angiography with iStent. The procedure combines advanced imaging with minimally invasive glaucoma surgery. Glaucoma is a leading cause of irreversible blindness with silent progression. The surgery used a stand-mounted Spectralis system and a 3D operating microscope. The breakthrough allows real-time visualization of aqueous outflow pathways. Surgeons can deliver precise, targeted interventions, improving patient outcomes. The procedure positions Armed Forces Medical Services at the forefront of global ophthalmic care."
+    }
+  ]
+}

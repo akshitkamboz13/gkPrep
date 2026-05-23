@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: March 27, 2026",
+    "date": "2026-03-27",
+    "year": "2026",
+    "month": "03-march",
+    "day": 27,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 03:06:34",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:52:17"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "The QS World University Rankings are published by which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Times Higher Education"
+        },
+        {
+          "label": "B",
+          "text": "UNESCO"
+        },
+        {
+          "label": "C",
+          "text": "Quacquarelli Symonds"
+        },
+        {
+          "label": "D",
+          "text": "World Bank"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Quacquarelli Symonds"
+      },
+      "explanation": "Indian Institute of Management Kozhikode (IIM-K) entered the Top 100 in QS World University Rankings by Subject 2026 for the first time, marking a major global achievement. QS World University Rankings are published annually by Quacquarelli Symonds (QS), a global higher education consultancy. Rankings assess universities using parameters like academic reputation, employer reputation, and employment outcomes. IIT (ISM) Dhanbad and IIM Ahmedabad achieved India’s highest rank (21) globally."
+    },
+    {
+      "id": 2,
+      "question": "Amrabad Tiger Reserve is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Karnataka"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Telangana"
+        },
+        {
+          "label": "D",
+          "text": "Gujarat"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Telangana"
+      },
+      "explanation": "Telangana Government has started rehabilitation and relocation of tribal families from Amrabad Tiger Reserve (ATR) to balance tribal development and wildlife conservation. Amrabad Tiger Reserve is located in the Nallamala Hills of Eastern Ghats in Telangana. It was earlier part of Nagarjunasagar-Srisailam Tiger Reserve before Andhra Pradesh–Telangana bifurcation (2014). The reserve has rugged terrain, deep valleys, and dense forests, supporting rich biodiversity. Krishna River and its streams flow through the reserve, feeding Srisailam Dam and Nagarjunasagar Dam. The Chenchu tribe, a Particularly Vulnerable Tribal Group (PVTG), is the main community residing inside the reserve."
+    },
+    {
+      "id": 3,
+      "question": "Which state government has launched Industrial Park Promotion Policy-2026 to boost jobs, investment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "B",
+          "text": "Bihar"
+        },
+        {
+          "label": "C",
+          "text": "Jharkhand"
+        },
+        {
+          "label": "D",
+          "text": "Punjab"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Rajasthan"
+      },
+      "explanation": "Rajasthan Government launched Industrial Park Promotion Policy-2026 under CM Bhajanlal Sharma to boost investment, infrastructure, and employment. It aims to develop world-class industrial parks and make Rajasthan a future-ready industrial hub. Policy aligns with Make in India and Atmanirbhar Bharat, promoting balanced regional development. Industrial parks will be developed through four models: private, hybrid land-sharing, and Public-Private Partnership (PPP) modes."
+    },
+    {
+      "id": 4,
+      "question": "What is the name of the operation launched by the Indian Navy to protect India-bound energy shipments?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Operation Samudra Raksha"
+        },
+        {
+          "label": "B",
+          "text": "Operation Urja Suraksha"
+        },
+        {
+          "label": "C",
+          "text": "Operation Sagar Kavach"
+        },
+        {
+          "label": "D",
+          "text": "Operation Jal Suraksha"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Operation Urja Suraksha"
+      },
+      "explanation": "The Indian Navy has launched Operation Urja Suraksha to safeguard India-bound energy shipments in the Strait of Hormuz amid rising West Asia tensions. The operation is conducted carefully and discreetly to ensure safe transit of Indian-flagged cargo vessels carrying critical energy supplies. A total of 22 vessels have been identified for secure transit, including 20 high-priority ships carrying LNG, LPG, and crude oil."
+    },
+    {
+      "id": 5,
+      "question": "Which organization has launched the Gruh Sugam Portal?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reserve Bank of India (RBI)"
+        },
+        {
+          "label": "B",
+          "text": "National Housing Bank (NHB)"
+        },
+        {
+          "label": "C",
+          "text": "State Bank of India (SBI)"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Housing and Urban Affairs"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "National Housing Bank (NHB)"
+      },
+      "explanation": "The National Housing Bank (NHB) has launched the Gruh Sugam Portal, aimed at promoting cost-effective housing finance and digital lending adoption. The portal specifically targets Defence personnel, Paramilitary members, and Government employees (State and Central) to apply for home loans digitally from their posting locations. It eliminates the need to visit banks or financial institutions for loan approvals and processing, enhancing convenience."
+    }
+  ]
+}

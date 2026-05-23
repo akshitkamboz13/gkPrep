@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-geography-mines-minerals-coal-coal-fields-oil-natural-gas",
+    "title": "Indian Geography - Mines, Minerals, Coal, Coal Fields, Oil & Natural Gas",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:18:38"
+  },
+  "questions": [
+    {
+      "id": 613,
+      "question": "Which of the following is India's largest salt producing state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "B",
+          "text": "Gujarat"
+        },
+        {
+          "label": "C",
+          "text": "Odisha"
+        },
+        {
+          "label": "D",
+          "text": "Tamil Nadu"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Gujarat"
+      },
+      "explanation": "With around 160 Lakh tons of production, India is the third largest salt producing country in the world. Gujarat, Rajasthan , Andhra Pradesh and Tamilnadu are 4 largest salt producing states in India. In Orissa too, salt is produced in coastal districts of Ganjam, Puri and Balasore and around 30 thousand tons of Salt is produced here."
+    },
+    {
+      "id": 3271,
+      "question": "Which of the following states is sole producer of agate, chalk, and perlite in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "B",
+          "text": "Karnataka"
+        },
+        {
+          "label": "C",
+          "text": "Gujarat"
+        },
+        {
+          "label": "D",
+          "text": "Tamil Nadu"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Gujarat"
+      },
+      "explanation": "Gujarat is the sole producer of agate, chalk, and perlite and is leading producer of fluorite (concentrate), fireclay, silica sand, lignite, laterite, petroleum and natural gas and bauxite in the country. State is the sole holder of country’s resources of perlite, 66% of fluorite, 28% of diatomite, 18% of bentonite and 12% of wollastonite. [Ministry of Mines]"
+    },
+    {
+      "id": 3272,
+      "question": "Which of the following states is India's largest Bauxite producer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Odisha"
+        },
+        {
+          "label": "B",
+          "text": "Jharkhand"
+        },
+        {
+          "label": "C",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Odisha"
+      },
+      "explanation": "Orissa is the largest bauxite producing state accounting for more than half of the total production of India."
+    },
+    {
+      "id": 3276,
+      "question": "India's first Uranium Mine is located at which among the following places?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jadugauda"
+        },
+        {
+          "label": "B",
+          "text": "Tummalapalle"
+        },
+        {
+          "label": "C",
+          "text": "Pichli"
+        },
+        {
+          "label": "D",
+          "text": "Dalbhum"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Jadugauda"
+      },
+      "explanation": "Jaduguda is first Uranium Mine in India located in Singhbhum district of Jharkhand. Other mine is located in Tummalapalle in Andhra Pradesh. Pichli near Abrakipahar in Gaya district of Bihar and Sunrgai and Dalbhum areas of Singhbhum district of Jharkhand are other locations where"
+    },
+    {
+      "id": 4291,
+      "question": "In which of the following states of India is located the Chiria iron ore mine complex?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bihar"
+        },
+        {
+          "label": "B",
+          "text": "Chhattisgarh"
+        },
+        {
+          "label": "C",
+          "text": "Jharkhand"
+        },
+        {
+          "label": "D",
+          "text": "Uttar Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Jharkhand"
+      },
+      "explanation": "Chiria iron ore mine complex belongs to SAIL and is located in the Saranda forest in Paschimi Singhbhum district of Jharkhand ."
+    }
+  ]
+}

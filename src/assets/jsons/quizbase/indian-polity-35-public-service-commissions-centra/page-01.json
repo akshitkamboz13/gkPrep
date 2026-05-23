@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-35-public-service-commissions-centra",
+    "title": "Public Service Commissions [Central & States]",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:21:43"
+  },
+  "questions": [
+    {
+      "id": 45641,
+      "question": "Which part of the Constitution contains elaborate provisions regarding the composition, appointment and removal of members of the UPSC?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Part XI"
+        },
+        {
+          "label": "B",
+          "text": "Part XIV"
+        },
+        {
+          "label": "C",
+          "text": "Part XVI"
+        },
+        {
+          "label": "D",
+          "text": "Part XX"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Part XIV"
+      },
+      "explanation": "The Articles 315 to 323 in Part XIV of the Constitution of India contain detailed provisions regarding the composition, appointment and removal of members along with the independence, powers and functions of the UPSC."
+    },
+    {
+      "id": 45642,
+      "question": "Who appoints the chairman op UPSC?",
+      "options": [
+        {
+          "label": "A",
+          "text": "President"
+        },
+        {
+          "label": "B",
+          "text": "Prime Minister"
+        },
+        {
+          "label": "C",
+          "text": "Parliament"
+        },
+        {
+          "label": "D",
+          "text": "Cabinet"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "President"
+      },
+      "explanation": "The Union Public Service Commission (UPSC) consists of a chairman and other members who are appointed by the president of India. The Constitution of India, without specifying the strength of the Commission has left the matter to the discretion of the president, who can determines its composition."
+    },
+    {
+      "id": 45643,
+      "question": "Who determines the conditions of service of the chairman and other members of the Union Public Service Commission?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Parliament"
+        },
+        {
+          "label": "B",
+          "text": "Council of Ministers"
+        },
+        {
+          "label": "C",
+          "text": "Prime MInister"
+        },
+        {
+          "label": "D",
+          "text": "President"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "President"
+      },
+      "explanation": "The Constitution also authorises the president of India to determine the conditions of service of the chairman and other members of the Union Public Service Commission. Usually, the Commission consists of nine to eleven members including the chairman."
+    },
+    {
+      "id": 45644,
+      "question": "What is the maximum age till which UPSC chairman and members can hold office?",
+      "options": [
+        {
+          "label": "A",
+          "text": "60"
+        },
+        {
+          "label": "B",
+          "text": "62"
+        },
+        {
+          "label": "C",
+          "text": "65"
+        },
+        {
+          "label": "D",
+          "text": "70"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "65"
+      },
+      "explanation": "The chairman and members of the Union Public Service Commission hold office for a term of six years or until they attain the age of 65 years, whichever is earlier. The president is authorized to determine the conditions of service of the chairman and other members of the Commission."
+    },
+    {
+      "id": 45645,
+      "question": "The chairman of Union Public Service Commission submits his resignation to?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chief Justice of India"
+        },
+        {
+          "label": "B",
+          "text": "President"
+        },
+        {
+          "label": "C",
+          "text": "Vice-President"
+        },
+        {
+          "label": "D",
+          "text": "Prime Minister"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "President"
+      },
+      "explanation": "The chairman and members of Union Public Service Commission can relinquish their offices at any time by addressing their resignation to the president. They can also be removed before the expiry of their term by the president in the manner as provided in the Constitution of India."
+    }
+  ]
+}

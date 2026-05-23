@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physics-gk-14-simple-harmonic-motion-shm",
+    "title": "Physics GK 14 - Simple Harmonic Motion (SHM)",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:31:03"
+  },
+  "questions": [
+    {
+      "id": 20711,
+      "question": "With reference to a swinging pendulum, which among the following statements is correct when it is at bottom (middle of arc)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It has maximum kinetic energy and minimum potential energy"
+        },
+        {
+          "label": "B",
+          "text": "It has maximum potential energy and minimum kinetic energy"
+        },
+        {
+          "label": "C",
+          "text": "It has zero kinetic energy"
+        },
+        {
+          "label": "D",
+          "text": "It has zero total energy"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "It has maximum kinetic energy and minimum potential energy"
+      },
+      "explanation": "At the lowest point of its motion of swinging pendulum, kinetic energy is maximum and gravitational potential energy is minimum. At the highest point of its motion, kinetic energy is minimum and gravitational potential energy is maximum."
+    },
+    {
+      "id": 26551,
+      "question": "Which type of oscillation can be defined by a single harmonic function?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Functional oscillation"
+        },
+        {
+          "label": "B",
+          "text": "Regular oscillation"
+        },
+        {
+          "label": "C",
+          "text": "Harmonic oscillation"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Harmonic oscillation"
+      },
+      "explanation": "Harmonic oscillation is defined by a single harmonic function, often represented by either a sine or cosine function as y = a*sin(wt) or y = a*cos(wt). This phenomenon is frequently found in nature and physical systems, such as pendulum motion, spring motion, and even in atomic and subatomic particle behaviors."
+    },
+    {
+      "id": 26552,
+      "question": "What is the S.I unit of frequency?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Second"
+        },
+        {
+          "label": "B",
+          "text": "Watt"
+        },
+        {
+          "label": "C",
+          "text": "Hertz"
+        },
+        {
+          "label": "D",
+          "text": "Joule"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Hertz"
+      },
+      "explanation": "The frequency is defined as the number of periodic motions executed by body per second. The S.I unit of frequency is hertz (Hz)."
+    },
+    {
+      "id": 26553,
+      "question": "Which of the following represents angular frequency of a body?",
+      "options": [
+        {
+          "label": "A",
+          "text": "twice the frequency of the body"
+        },
+        {
+          "label": "B",
+          "text": "product of frequency of the body with π"
+        },
+        {
+          "label": "C",
+          "text": "half the frequency of the body"
+        },
+        {
+          "label": "D",
+          "text": "product of frequency of the body with 3 π"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "twice the frequency of the body"
+      },
+      "explanation": "Angular frequency of a body executing periodic motion is equal to product of frequency of the body with factor 2π. Angular frequency = 2 π n The unit of Angular frequency will be rad per second."
+    },
+    {
+      "id": 26554,
+      "question": "Which of these is a physical quantity which completely express the position and direction of motion of the particle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Frequency"
+        },
+        {
+          "label": "B",
+          "text": "Displacement"
+        },
+        {
+          "label": "C",
+          "text": "Phase"
+        },
+        {
+          "label": "D",
+          "text": "Time period"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Phase"
+      },
+      "explanation": "Phase of a vibrating particle at any instant is a physical quantity, which completely express the position and direction of motion, of the particle at that instant with respect to its mean position."
+    }
+  ]
+}

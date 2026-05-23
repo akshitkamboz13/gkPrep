@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-geography-mcqs",
+    "title": "Indian Geography MCQs",
+    "page": 4,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:53:10",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:19:05"
+  },
+  "questions": [
+    {
+      "id": 31,
+      "question": "Which of the following is the highest dam in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bhakra Dam"
+        },
+        {
+          "label": "B",
+          "text": "Hirakud Dam"
+        },
+        {
+          "label": "C",
+          "text": "Tehri Dam"
+        },
+        {
+          "label": "D",
+          "text": "Dool Hasti Dam"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Tehri Dam"
+      },
+      "explanation": "Tehri Dam is the highest dam in India. It is situated across the Bhagirathi River in the state of Uttarakhand. The height of the dam is 260.5 meters."
+    },
+    {
+      "id": 32,
+      "question": "Nuclear Power Corporation of India was established in which of the following year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1955"
+        },
+        {
+          "label": "B",
+          "text": "1987"
+        },
+        {
+          "label": "C",
+          "text": "1992"
+        },
+        {
+          "label": "D",
+          "text": "2001"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "1987"
+      },
+      "explanation": "Nuclear Power Corporation of India (NPCIL) was established in the year 1987. The headquarter of NPCIL is located at Mumbai, Maharashtra."
+    },
+    {
+      "id": 33,
+      "question": "Depending on the area in the South Asian region, the Kharif crops are cultivated and harvested during which months?",
+      "options": [
+        {
+          "label": "A",
+          "text": "November and February"
+        },
+        {
+          "label": "B",
+          "text": "October and December"
+        },
+        {
+          "label": "C",
+          "text": "April and October"
+        },
+        {
+          "label": "D",
+          "text": "January and April"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "April and October"
+      },
+      "explanation": "Depending on the area in the South Asian region, the Kharif crops are cultivated and harvested from April and October."
+    },
+    {
+      "id": 34,
+      "question": "Which of the following characteristics are correct about plantation agriculture?1. Plantation agriculture is considered an example of subsistence farming2. Generally, a single crop is grown on a large area in plantation agriculture3. It has an interface of agriculture and industry4. It uses capital intensive inputsChoose the correct option from the codes given below :",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 & 2"
+        },
+        {
+          "label": "B",
+          "text": "1, 2 & 3"
+        },
+        {
+          "label": "C",
+          "text": "2, 3 & 4"
+        },
+        {
+          "label": "D",
+          "text": "1, 2, 3 & 4"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "2, 3 & 4"
+      },
+      "explanation": "In plantation agriculture generally, a single crop is grown on a large area in plantation agriculture like the monoculture. It has an interface of agriculture and industry. It uses capital intensive inputs"
+    },
+    {
+      "id": 35,
+      "question": "Which of the following Union Territories of India has the shortest length of National Highways?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dadra and Nagar Haveli"
+        },
+        {
+          "label": "B",
+          "text": "Daman and Diu"
+        },
+        {
+          "label": "C",
+          "text": "Chandigarh"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Chandigarh"
+      },
+      "explanation": "Share of national highways- Chandigarh (15 km), Daman and Diu (22 km). Dadar and Nagar Haveli (31 km)."
+    },
+    {
+      "id": 36,
+      "question": "Which of the following is the largest diesel-electric locomotive manufacturer in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "DLW Varanasi"
+        },
+        {
+          "label": "B",
+          "text": "Chittaranjan Locomotive Works"
+        },
+        {
+          "label": "C",
+          "text": "Patiala Locomotive Works"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "DLW Varanasi"
+      },
+      "explanation": "Diesel Locomotive Works Varanasi is the largest diesel-electric locomotive manufacturer in India. It was founded in the year 1961."
+    },
+    {
+      "id": 37,
+      "question": "How many railway zones are there in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "15"
+        },
+        {
+          "label": "B",
+          "text": "16"
+        },
+        {
+          "label": "C",
+          "text": "18"
+        },
+        {
+          "label": "D",
+          "text": "19"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "18"
+      },
+      "explanation": "There are a total of 18 railway zones in India. The South Coast Railway zone is the newest railway zone in India."
+    },
+    {
+      "id": 38,
+      "question": "The first census of India was conducted in which year after independence?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1948"
+        },
+        {
+          "label": "B",
+          "text": "1951"
+        },
+        {
+          "label": "C",
+          "text": "1955"
+        },
+        {
+          "label": "D",
+          "text": "1962"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "1951"
+      },
+      "explanation": "The first census of India was conducted during the time of the British in the year 1872. After independence, the census was conducted for the first time in the year 1951. It has been conducted every 10 years."
+    },
+    {
+      "id": 39,
+      "question": "Which of the following is the largest tribal group of India (As per census 2011)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Santhals"
+        },
+        {
+          "label": "B",
+          "text": "Bhils"
+        },
+        {
+          "label": "C",
+          "text": "Tharus"
+        },
+        {
+          "label": "D",
+          "text": "Gonds"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Bhils"
+      },
+      "explanation": "The largest tribal group of India (As per census 2011) is the Bhils."
+    },
+    {
+      "id": 40,
+      "question": "The houses with two huts placed at the right angle and a rectangular courtyard enclosed by the fence are the common features of settlements of which of the following places of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Northern plains"
+        },
+        {
+          "label": "B",
+          "text": "Himalayan regions"
+        },
+        {
+          "label": "C",
+          "text": "Peninsular regions"
+        },
+        {
+          "label": "D",
+          "text": "Coastal regions"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Peninsular regions"
+      },
+      "explanation": "The houses with two huts placed at the right angle and a rectangular courtyard enclosed by the fence are the common features of settlements of Peninsular regions in India. It is found in Kerala, Tamil Nadu, Karnataka, Odisha."
+    }
+  ]
+}

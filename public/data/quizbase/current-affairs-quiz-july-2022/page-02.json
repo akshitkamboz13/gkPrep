@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-july-2022",
+    "title": "Current Affairs Quiz - July 2022",
+    "page": 2,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:47:05",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:55:41"
+  },
+  "questions": [
+    {
+      "id": 11,
+      "question": "‘Alfiya Pathan and Gitika’, who were seen in the news, are associated with which sports?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cricket"
+        },
+        {
+          "label": "B",
+          "text": "Boxing"
+        },
+        {
+          "label": "C",
+          "text": "Weight-Lifting"
+        },
+        {
+          "label": "D",
+          "text": "Fencing"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Boxing"
+      },
+      "explanation": "The Youth World champions Alfiya Pathan and Gitika won gold medals in the Elorda Cup in Kazakhstan’s capital Nur-Sultan. India’s other two female boxers Kalaivani Srinivasan and Jamuna Boro finished with silver medals. It was also the debut senior international event for both the young players, Alfiya and Gitika."
+    },
+    {
+      "id": 12,
+      "question": "Which city was ranked first in India in the EIU ‘Global Liveability Index 2022’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bengaluru"
+        },
+        {
+          "label": "B",
+          "text": "New Delhi"
+        },
+        {
+          "label": "C",
+          "text": "Mumbai"
+        },
+        {
+          "label": "D",
+          "text": "Chennai"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "New Delhi"
+      },
+      "explanation": "The European Intelligence Unit (EIU) recently released the Global Liveability Index 2022, which ranked 173 cities on the basis of their living conditions. Five Indian cities- Delhi, Mumbai, Chennai, Ahmadabad and Bangalore were included in the list. Delhi was ranked the best at 140, followed by Mumbai at 141, Chennai and Ahmadabad at 142 and 143 respectively. Bengaluru was the last of Indian cities at 146th rank."
+    },
+    {
+      "id": 13,
+      "question": "Fields Medal, which was seen in the news recently, is associated with which field?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Architecture"
+        },
+        {
+          "label": "B",
+          "text": "Photography"
+        },
+        {
+          "label": "C",
+          "text": "Mathematics"
+        },
+        {
+          "label": "D",
+          "text": "Sports"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Mathematics"
+      },
+      "explanation": "Fields Medal is also described the Nobel Prize in mathematics. Ukrainian mathematician Maryna Viazovska, who works in Switzerland, was named as one of four recipients of the 2022 Fields Medal. The Fields Medal is awarded by the International Mathematical Union (IMU), an international non-governmental and non-profit scientific organisation to promote international cooperation in mathematics."
+    },
+    {
+      "id": 14,
+      "question": "‘Just Stop Oil’ which was seen in the news recently, is a group of climate activists based in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "USA"
+        },
+        {
+          "label": "B",
+          "text": "UK"
+        },
+        {
+          "label": "C",
+          "text": "Germany"
+        },
+        {
+          "label": "D",
+          "text": "Italy"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "UK"
+      },
+      "explanation": "A UK-based group of climate activists named ‘Just Stop Oil’, has been in the news recently, for their unique ways of drawing attention to their cause. The Climate activists have recently glued their hands to the frame of a copy of Leonardo Da Vinci’s The Last Supper at the Royal Academy in protest against climate inaction and the continued production of planet-heating fossil fuels."
+    },
+    {
+      "id": 15,
+      "question": "Mohammad Barkindo, who passed away recently, was the head of which international organisation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "World Bank"
+        },
+        {
+          "label": "B",
+          "text": "OPEC"
+        },
+        {
+          "label": "C",
+          "text": "OECD"
+        },
+        {
+          "label": "D",
+          "text": "IMF"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "OPEC"
+      },
+      "explanation": "Organization of the Petroleum Exporting Countries (OPEC) Secretary General, Mohammad Barkindo, has passed away at the age of 63. Nigeria’s Barkindo headed the Organization since 2016 and was scheduled to be replaced by Kuwait’s Haitham Al-Ghais next month. Under his leadership, the cartel tied up with 10 other oil-producing countries, such as Russia, to form a wider group known as OPEC+."
+    },
+    {
+      "id": 16,
+      "question": "Which state recently approved its Electric Vehicle (EV) Policy 2022 and announced to reimburse 100% SGST and registration fees on sales of EVs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assam"
+        },
+        {
+          "label": "B",
+          "text": "Chhattisgarh"
+        },
+        {
+          "label": "C",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "D",
+          "text": "Goa"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Chhattisgarh"
+      },
+      "explanation": "The Chhattisgarh government approved its Electric Vehicle (EV) Policy 2022 to make the state an EV-manufacturing hub and create employment. The government has set a target of five years for having EVs accounting for 15 per cent of the new registrations of vehicles. The state government will reimburse 100 per cent state SGST and registration fees on sales of electric buses and electric goods carriages during the five-year policy period."
+    },
+    {
+      "id": 17,
+      "question": "Which institution provides ‘Payment aggregator licences’ to payment providers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NPCI"
+        },
+        {
+          "label": "B",
+          "text": "Finance Ministry"
+        },
+        {
+          "label": "C",
+          "text": "SEBI"
+        },
+        {
+          "label": "D",
+          "text": "RBI"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "RBI"
+      },
+      "explanation": "The Reserve Bank of India (RBI) has recently provided payment aggregator licences to several payment providers such as Razorpay, Pine Labs, Stripe, and 1Pay. Payment aggregators are entities that enable e-commerce sites and merchants to accept various payment instruments from customers for completion of their payment obligations. According to RBI guidelines, payment aggregators need to have a net worth of Rs 15 crore as on March 2021, and a net worth of Rs 25 crore by on or before March 2023."
+    },
+    {
+      "id": 18,
+      "question": "Which institution has developed an Artificial Intelligence-based tool -‘PIVOT’, that can predict cancer-causing genes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IISc Bengaluru"
+        },
+        {
+          "label": "B",
+          "text": "IIT Madras"
+        },
+        {
+          "label": "C",
+          "text": "IIT Delhi"
+        },
+        {
+          "label": "D",
+          "text": "IIT Bombay"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "IIT Madras"
+      },
+      "explanation": "Indian Institute of Technology Madras (IIT Madras) researchers have developed an Artificial Intelligence-based tool- ‘PIVOT’, which can predict cancer-causing genes in an individual. This tool will help in devising personalized cancer treatment strategies. It is based on a machine learning model that classifies genes as tumour suppressor genes, oncogenes or neutral genes."
+    },
+    {
+      "id": 19,
+      "question": "As per the ‘World Population Prospects 2022’report, India is projected to surpass China as the world’s most populous country in which year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2023"
+        },
+        {
+          "label": "B",
+          "text": "2024"
+        },
+        {
+          "label": "C",
+          "text": "2026"
+        },
+        {
+          "label": "D",
+          "text": "2030"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "2023"
+      },
+      "explanation": "The United Nations released the twenty-seventh edition of the official population estimates and projections titled ‘World Population Prospects 2022’ on World Population Day, July 11, 2022. As per the publication, India is projected to surpass China as the world’s most populous country in 2023. The global population is projected to reach eight billion by November 15, 2022, could grow to around 8.5 billion in 2030 and 9.7 billion in 2050."
+    },
+    {
+      "id": 20,
+      "question": "Which is the first railway station in India to be equipped with augmented reality screens?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chhatrapati Shivaji Maharaj Terminus, Mumbai"
+        },
+        {
+          "label": "B",
+          "text": "Bangalore City Railway Station"
+        },
+        {
+          "label": "C",
+          "text": "Howrah Junction Railway Station"
+        },
+        {
+          "label": "D",
+          "text": "Chennai Central Railway Station"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Chhatrapati Shivaji Maharaj Terminus, Mumbai"
+      },
+      "explanation": "The Chhatrapati Shivaji Maharaj Terminus in Mumbai has recently become the first railway station in India to be equipped with augmented reality screens. The technology will allow passengers at the station to get real-time digitised time table with a dedicated scrolling screen and railway information for an engaging experience. The Central Railway also launched pod hotel at Chhatrapati Shivaji Maharaj Terminus."
+    }
+  ]
+}

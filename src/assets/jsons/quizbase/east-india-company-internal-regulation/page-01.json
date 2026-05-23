@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "east-india-company-internal-regulation",
+    "title": "9. EIC - Internal Administration & Regulation",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:10:57"
+  },
+  "questions": [
+    {
+      "id": 5611,
+      "question": "Which act was introduced by British govt to address the short comings of the East India Company?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pitts India Act"
+        },
+        {
+          "label": "B",
+          "text": "British Union Act"
+        },
+        {
+          "label": "C",
+          "text": "1707 Act of Union"
+        },
+        {
+          "label": "D",
+          "text": "India Act 1784"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Pitts India Act"
+      },
+      "explanation": "Pitt’s India Act 1784 or the East India Company Act 1784 was passed in the British Parliament to rectify the defects of the Regulating Act 1773. It resulted in dual control or joint government in India by Crown in Great Britain and the British East India Company, with crown having ultimate authority. With this act, East India Company’s political functions were differentiated from its commercial activities for the first time. The relationship between company and crown established by this act kept changing with time until the Government of India Act 1858 provided for liquidation of the British East India Company."
+    },
+    {
+      "id": 6330,
+      "question": "Which among the following was the first attempt to regulate the affairs of English East India Company in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pitts India Act 1784"
+        },
+        {
+          "label": "B",
+          "text": "Charter Act 1833"
+        },
+        {
+          "label": "C",
+          "text": "The Regulating Act 1773"
+        },
+        {
+          "label": "D",
+          "text": "Charter Act of 1813"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "The Regulating Act 1773"
+      },
+      "explanation": "Regulating Act of 1773 was the first landmark in the constitutional development of India. Via this act, the British Parliament for the first time interfered into affairs of India. The Prime Minister of England at the time of Regulating Act of 1773 was Lord North."
+    },
+    {
+      "id": 6331,
+      "question": "Who among the following established the “Sadar Diwani Adalat”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Warren Hastings"
+        },
+        {
+          "label": "B",
+          "text": "Cornwallis"
+        },
+        {
+          "label": "C",
+          "text": "John Macpherson"
+        },
+        {
+          "label": "D",
+          "text": "Wellesly"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Warren Hastings"
+      },
+      "explanation": "The Sadar Diwani Adalat was the Supreme Court of Revenue in British India established at Calcutta by Warren Hastings in 1772. It was reformed in 1780 and again in 1793 by the British Parliament. The court's judges were the Governor General and Council Members of the East India Company, assisted by native judges and officers of revenue. The court was established to allow Hindu Indians to be governed by Hindu law in matters of property, and not as before by Muslim law, although they were still subject to Muslim criminal law. The court was abolished after the Indian Rebellion of 1857."
+    },
+    {
+      "id": 6335,
+      "question": "The dual government introduced by Pitts India Act continued to operate in India, until it was abolished by which of the following laws?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Government of India Act 1858"
+        },
+        {
+          "label": "B",
+          "text": "Charter Act 1853"
+        },
+        {
+          "label": "C",
+          "text": "Indian Councils Act 1861"
+        },
+        {
+          "label": "D",
+          "text": "Indian Councils Act 1909"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Government of India Act 1858"
+      },
+      "explanation": "The Government of India Act 1858, marked the beginning of new chapter in the constitutional history of India. The Act known as the Act for the Good Government of India, provided for liquidation of East India Company, and transferred the powers of government, territories and revenues to the British Crown. Government of India Act 1858 provided that India was to be governed directly and in the name of the crown. This act abolished the company rule, abolished the Court of directors and abolished the Board of control. This act abolished the Dual Government introduced by the Pitt’s India act. The principle of Doctrine of Lapse was withdrawn, liberty was given to Indian rulers subject to British suzerainty and it also opened some door for Indians in Government services."
+    },
+    {
+      "id": 6711,
+      "question": "Which of the following Governor Generals was impeached for charges of corruption?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Earl Cornwallis"
+        },
+        {
+          "label": "B",
+          "text": "Warren Hastings"
+        },
+        {
+          "label": "C",
+          "text": "Lord Mayo"
+        },
+        {
+          "label": "D",
+          "text": "Lord Minto"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Warren Hastings"
+      },
+      "explanation": "Warren Hastings was impeached in the House of Commons for crimes and misdemeanors during his Governor Generalship in India. He was charrged with embezzlement, extortion, and judicial killing of Maharaja Nandakumar. He was replaces by Cornwallis."
+    }
+  ]
+}

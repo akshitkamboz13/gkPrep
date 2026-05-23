@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "chemistry-gk-01-basic-chemistry-facts",
+    "title": "Chemistry-1: Important Chemical Scientists",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:01:00"
+  },
+  "questions": [
+    {
+      "id": 4419,
+      "question": "Dalton’s name is associated with which of the following terms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Electron"
+        },
+        {
+          "label": "B",
+          "text": "Proton"
+        },
+        {
+          "label": "C",
+          "text": "Atom"
+        },
+        {
+          "label": "D",
+          "text": "Neutron"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Atom"
+      },
+      "explanation": "John Dalton introduced the atomic theory into chemistry. The main points of Dalton's atomic theory are (1) Elements are made of extremely small particles called atoms. (2) Atoms of a given element are identical in size, mass and other properties; atoms of different elements differ in size, mass and other properties.(3) Atoms cannot be subdivided, created or destroyed. (4) Atoms of different elements combine in simple whole-number ratios to form chemical compounds. (5) In chemical reactions, atoms are combined, separated or rearranged."
+    },
+    {
+      "id": 6116,
+      "question": "Who among the following had given the Atomic Theory?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Benzamin Franklin"
+        },
+        {
+          "label": "B",
+          "text": "Madam curie"
+        },
+        {
+          "label": "C",
+          "text": "Albert Einstien"
+        },
+        {
+          "label": "D",
+          "text": "John Dalton"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "John Dalton"
+      },
+      "explanation": "The correct answer is John Dalton. He proposed the Atomic Theory in the early 19th century, stating that matter is composed of indivisible atoms, each with a specific weight. Dalton's work laid the foundation for modern chemistry. Notably, he also introduced the concept of atomic weights and was the first to use symbols to represent atoms of different elements."
+    },
+    {
+      "id": 7785,
+      "question": "Kazimierz Funk or Casimir Funk, was a Polish biochemist, generally credited with the first formulation of the concept of which of the following ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amino Acids"
+        },
+        {
+          "label": "B",
+          "text": "DNA"
+        },
+        {
+          "label": "C",
+          "text": "RNA"
+        },
+        {
+          "label": "D",
+          "text": "Vitamins"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Vitamins"
+      },
+      "explanation": "Kazimierz Funk (1884 – 1967) was a Polish biochemist, and one of the first to formulate the concept of Vitamins."
+    },
+    {
+      "id": 8921,
+      "question": "Charles Goodyear is known for which of the following ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Experiments on Rubber Plants"
+        },
+        {
+          "label": "B",
+          "text": "Vulcanization of Rubber"
+        },
+        {
+          "label": "C",
+          "text": "Invention of Radial Tyres"
+        },
+        {
+          "label": "D",
+          "text": "Invention of Artificial Rubber"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Vulcanization of Rubber"
+      },
+      "explanation": "Charles Goodyear, American inventor of the vulcanization process that made possible the commercial use of rubber. The Goodyear Tire and Rubber Company was posthumously named after him."
+    },
+    {
+      "id": 27609,
+      "question": "Who correctly discovered or calculated for subatomic particles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "John Dalton discovered electrons"
+        },
+        {
+          "label": "B",
+          "text": "James Chadwick discovered protons"
+        },
+        {
+          "label": "C",
+          "text": "Rutherford calculated charge to mass ratio of electrons"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "None of the above"
+      },
+      "explanation": "J.J. Thomson discovered electrons in 1897. Ernest Rutherford discovered protons in 1917. J.J. Thomson calculated the charge to mass ratio of electrons in 1897. James Chadwick discovered neutrons in 1932. John Dalton proposed the atomic theory in 1808 but did not discover electrons or protons."
+    }
+  ]
+}

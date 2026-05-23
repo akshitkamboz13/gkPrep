@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "development-of-education",
+    "title": "21. Development of Education",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:10:29"
+  },
+  "questions": [
+    {
+      "id": 2973,
+      "question": "Which of the following is also known as Magna Carta of Indian Education?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wood's Despatch"
+        },
+        {
+          "label": "B",
+          "text": "Sadler Commission"
+        },
+        {
+          "label": "C",
+          "text": "Indian Universities Act 1904"
+        },
+        {
+          "label": "D",
+          "text": "Raleigh commission"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Wood's Despatch"
+      },
+      "explanation": "Sir Charles Wood was the President of the Board of Control of the English East India Company. He had an important effect on spreading education in India when in 1854 he sent a despatch to Lord Dalhousie, the then Governor-General of India. He suggested that Primary Schools Must Adopt vernacular languages, High school must adopt Anglo Vernacular Language and on College Level English medium for education. This is known as Wood's despatch."
+    },
+    {
+      "id": 4372,
+      "question": "Which among the following was the first state in India in the pre-independence times, when the compulsory primary education was launched for the first time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Baroda"
+        },
+        {
+          "label": "B",
+          "text": "Arcot"
+        },
+        {
+          "label": "C",
+          "text": "Coorg"
+        },
+        {
+          "label": "D",
+          "text": "Hyderabad"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Baroda"
+      },
+      "explanation": "The first law on compulsory education was introduced by the State of Baroda in 1906. This law provided for compulsory education for boys and girls in the age groups of 7–12 years and 7–10 years respectively"
+    },
+    {
+      "id": 4829,
+      "question": "In which year English was made the medium of instruction in India ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1844 A.D"
+        },
+        {
+          "label": "B",
+          "text": "1835 A.D."
+        },
+        {
+          "label": "C",
+          "text": "1833 A.D."
+        },
+        {
+          "label": "D",
+          "text": "1813 A.D."
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "1835 A.D."
+      },
+      "explanation": "The English Education Act was a legislative Act of the Council of India in 1835 giving effect to a decision in 1835 by William Bentinck, the Governor-General of British India to reallocate funds the East India Company was required by the British Parliament to spend on education and literature in India. In the same year, British Government designated English as the medium of education for schools and universities."
+    },
+    {
+      "id": 4908,
+      "question": "Who among the following had founded the Central Hindu College at Varanasi, which was later converted into Banaras Hindu University?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Madan Mohan Malviya"
+        },
+        {
+          "label": "B",
+          "text": "Annie Besant"
+        },
+        {
+          "label": "C",
+          "text": "Bal Gangadhar Tilak"
+        },
+        {
+          "label": "D",
+          "text": "Jamna Lal Bajaj"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Annie Besant"
+      },
+      "explanation": "Madan Mohan Malviya had established BHU in 1915 with the support of some leaders, mainly Annie Besant. Annie Besant had founded the Central Hindu College in 1898 in Varanasi and this college was later gifted to Pandit Madan Mohan Malviya for the later to get it converted into Banaras Hindu University. Also notable points is that foundation for the main campus of BHU was laid by Lord Hardinge on 4 February 1916, on occasion of Vasant Panchami."
+    },
+    {
+      "id": 5154,
+      "question": "Which among the following was the first an Indian maritime college where organized maritime training in India commenced in 1927?",
+      "options": [
+        {
+          "label": "A",
+          "text": "T S Dufferin"
+        },
+        {
+          "label": "B",
+          "text": "T S Rajendra"
+        },
+        {
+          "label": "C",
+          "text": "T S Chanakya"
+        },
+        {
+          "label": "D",
+          "text": "T.S. Dolphin"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "T S Dufferin"
+      },
+      "explanation": "Organized maritime training in India commenced in 1927 with T. S. Dufferin. T.S. Rajendra replaced this in 1972 and a shore based academy T. S. Chanakya established in 1993 for training nautical cadets. In 1949 the need to specialize in nautical and engineering sciences was felt and the Directorate of Marine Engineering Training Institute (DMET), Kolkata was created to concentrate on Maritime Engineering."
+    }
+  ]
+}

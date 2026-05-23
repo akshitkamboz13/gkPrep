@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physics-gk-22-magnetism",
+    "title": "Physics GK 22 - Magnetism",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:31:51"
+  },
+  "questions": [
+    {
+      "id": 9637,
+      "question": "In context with electromagnetism, which among the following is a correct definition of Permeability?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ability of a material to repel magnetic field within itself"
+        },
+        {
+          "label": "B",
+          "text": "Ability of a material to support the formation of a magnetic field within another body"
+        },
+        {
+          "label": "C",
+          "text": "Ability of a material to support the formation of a magnetic field within itself"
+        },
+        {
+          "label": "D",
+          "text": "Ability of a material to create magnetic dipoles"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Ability of a material to support the formation of a magnetic field within itself"
+      },
+      "explanation": "Ability of a material to support the formation of a magnetic field within itself is Permeability. It is the measure of the resistance of a material against the formation of a magnetic field."
+    },
+    {
+      "id": 12033,
+      "question": "The pointer or arrow of the magnetized needle of a compass indicates which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Geographic North Pole"
+        },
+        {
+          "label": "B",
+          "text": "Magnetic North Pole"
+        },
+        {
+          "label": "C",
+          "text": "Geo-magnetic North Pole"
+        },
+        {
+          "label": "D",
+          "text": "Magnetic South Pole"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Magnetic South Pole"
+      },
+      "explanation": "The north pole of a magnet in a compass points north because it is attracted to the Earth’s magnetic south pole, which is located near Earth’s geographic north pole. The geographic north pole of earth corresponds to magnetic south pole and geographic south pole of earth corresponds to magnetic north pole. The direction in which a compass needle points is known as magnetic north. This is not exactly the direction of the North Magnetic Pole. Instead, the compass aligns itself to the local geomagnetic field, which varies in a complex manner over the Earth’s surface. The angular difference between magnetic north and true north (defined in reference to the Geographic North Pole), at any particular location on the Earth’s surface, is called the magnetic declination. Most map coordinate systems are based on true north, and magnetic declination is often shown on map legends so that the direction of true north can be determined from north as indicated by a compass."
+    },
+    {
+      "id": 20873,
+      "question": "The pointer or arrow of the magnetized needle of a compass indicates which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Geographic North Pole"
+        },
+        {
+          "label": "B",
+          "text": "Magnetic North Pole"
+        },
+        {
+          "label": "C",
+          "text": "Geo-magnetic North Pole"
+        },
+        {
+          "label": "D",
+          "text": "Magnetic South Pole"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Magnetic South Pole"
+      },
+      "explanation": "The north pole of a magnet in a compass points north because it is attracted to the Earth’s magnetic south pole, which is located near Earth’s geographic north pole. The geographic north pole of earth corresponds to magnetic south pole and geographic south pole of earth corresponds to magnetic north pole. The direction in which a compass needle points is known as magnetic north. This is not exactly the direction of the North Magnetic Pole. Instead, the compass aligns itself to the local geomagnetic field, which varies in a complex manner over the Earth’s surface. The angular difference between magnetic north and true north (defined in reference to the Geographic North Pole), at any particular location on the Earth’s surface, is called the magnetic declination. Most map coordinate systems are based on true north, and magnetic declination is often shown on map legends so that the direction of true north can be determined from north as indicated by a compass."
+    },
+    {
+      "id": 27104,
+      "question": "Which of the following is correct about magnetic field?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Magnetic field has magnitude but no direction"
+        },
+        {
+          "label": "B",
+          "text": "Magnetic field has both magnitude and direction"
+        },
+        {
+          "label": "C",
+          "text": "Magnetic field may or may not have direction"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Magnetic field has both magnitude and direction"
+      },
+      "explanation": "Magnetic field is a quantity that has both direction and magnitude."
+    },
+    {
+      "id": 27105,
+      "question": "Which is the direction of magnetic field inside a magnet?",
+      "options": [
+        {
+          "label": "A",
+          "text": "from south pole to north pole"
+        },
+        {
+          "label": "B",
+          "text": "from north pole to south pole"
+        },
+        {
+          "label": "C",
+          "text": "from north pole till centre of the magnet"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "from south pole to north pole"
+      },
+      "explanation": "Inside the magnet, the direction of field lines is from its south pole to its north pole."
+    }
+  ]
+}

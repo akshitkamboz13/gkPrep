@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "science-technology-current-affairs",
+    "title": "Science & Technology Current Affairs MCQs",
+    "page": 2,
+    "total_pages": 8,
+    "generated_at": "2026-05-02 07:01:04",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:31:06"
+  },
+  "questions": [
+    {
+      "id": 11,
+      "question": "Which institution has discovered that a protein called BBX32 helps plants grow properly from darkness into light?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indian Institute of Technology (IIT) Delhi"
+        },
+        {
+          "label": "B",
+          "text": "Indian Institute of Science Education and Research (IISER) Bhopal"
+        },
+        {
+          "label": "C",
+          "text": "Indian Institute of Science (IISc) Bengaluru"
+        },
+        {
+          "label": "D",
+          "text": "Indian Institute of Technology (IIT) Mumbai"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Indian Institute of Science Education and Research (IISER) Bhopal"
+      },
+      "explanation": "Researchers from the Indian Institute of Science Education and Research (IISER), Bhopal, found that a protein called BBX32 helps plants grow properly from darkness into light. BBX32 is a B-box (BBX) protein that plays a key role in plant growth and development. It helps control when a seedling starts growing above soil, improving chances of healthy growth. This discovery helps understand how seedlings grow and could help improve crop establishment in agriculture."
+    },
+    {
+      "id": 12,
+      "question": "Which institute has been designated as a Category A Rinderpest Holding Facility by the World Organisation for Animal Health (WOAH)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "National Institute of High Security Animal Diseases (NIHSAD), Bhopal"
+        },
+        {
+          "label": "B",
+          "text": "National Institute of Animal Nutrition and Physiology (NIANP), Bengaluru"
+        },
+        {
+          "label": "C",
+          "text": "Indian Veterinary Research Institute (IVRI), Uttar Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "National Institute of Veterinary Epidemiology and Disease Informatics (NIVEDI), Bengaluru"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "National Institute of High Security Animal Diseases (NIHSAD), Bhopal"
+      },
+      "explanation": "India has gained global recognition in animal health as the ICAR-National Institute of High Security Animal Diseases (NIHSAD) in Bhopal was recently designated as a Category A Rinderpest Holding Facility (RHF) by the World Organisation for Animal Health (WOAH) and the United Nations’ Food and Agriculture Organization (FAO). Rinderpest, also called cattle plague, is a deadly viral disease caused by a Morbillivirus from the Paramyxoviridae family. It mainly affects cloven-hoofed animals like cattle and buffalo, with mortality rates reaching up to 100 percent in highly vulnerable herds."
+    },
+    {
+      "id": 13,
+      "question": "Which country has developed a green chemical method using natural fatty acids from cooking oils to recover silver from e-waste?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Finland"
+        },
+        {
+          "label": "B",
+          "text": "Chile"
+        },
+        {
+          "label": "C",
+          "text": "Denmark"
+        },
+        {
+          "label": "D",
+          "text": "India"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Finland"
+      },
+      "explanation": "Researchers in Finland have developed a green chemical method using natural fatty acids from cooking oils to recover silver from electronic waste (e-waste). This comes at a time when global silver demand is rising and e-waste is becoming a major issue, especially in countries like India. E-waste includes discarded devices like computers, phones, and TVs that are outdated or broken. India is the third-largest generator of e-waste in the world, after China and the United States."
+    },
+    {
+      "id": 14,
+      "question": "e-Raktkosh is an online blood bank management system implemented under which mission?",
+      "options": [
+        {
+          "label": "A",
+          "text": "National Ayush Mission"
+        },
+        {
+          "label": "B",
+          "text": "Rashtriya Bal Swasthya Karyakram"
+        },
+        {
+          "label": "C",
+          "text": "National Health Mission"
+        },
+        {
+          "label": "D",
+          "text": "Ayushman Bharat"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "National Health Mission"
+      },
+      "explanation": "Recently, the Union Health Ministry announced plans to integrate India’s Rare Donor Registry with the national online blood management platform called e-Rakt Kosh. e-Rakt Kosh is an online blood bank management system implemented under the National Health Mission. It is the official portal for all blood-related services in India. It provides real-time information on blood availability, blood banks, and donation camps across the country."
+    },
+    {
+      "id": 15,
+      "question": "Which institute has developed a next-generation device that produces green hydrogen using only solar energy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indian Institute of Science (IISc), Bengaluru"
+        },
+        {
+          "label": "B",
+          "text": "Centre for Nano and Soft Matter Sciences (CeNS), Bengaluru"
+        },
+        {
+          "label": "C",
+          "text": "National Physical Laboratory (NPL), Delhi"
+        },
+        {
+          "label": "D",
+          "text": "Indian Institute of Technology (IIT) Bombay"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Centre for Nano and Soft Matter Sciences (CeNS), Bengaluru"
+      },
+      "explanation": "Recently, scientists from the Centre for Nano and Soft Matter Sciences (CeNS), Bengaluru, developed a next-generation device that produces green hydrogen using only solar energy. Green hydrogen is a clean fuel that can help decarbonize industries, power vehicles, and store renewable energy, but producing it affordably at scale has been difficult. The CeNS device splits water molecules using earth-abundant materials without fossil fuels or expensive resources, making it sustainable and scalable."
+    },
+    {
+      "id": 16,
+      "question": "Who has become the first Indian to complete NASA’s Air and Space Program?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jahnavi Dangeti"
+        },
+        {
+          "label": "B",
+          "text": "Shivangi Singh"
+        },
+        {
+          "label": "C",
+          "text": "Bhawna Dhami"
+        },
+        {
+          "label": "D",
+          "text": "Avani Chaturvedi"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Jahnavi Dangeti"
+      },
+      "explanation": "Recently, India’s Jahnavi Dangeti was announced as the first Indian astronaut to join the Titans Space mission scheduled for 2029. She is a graduate of the National Aeronautics and Space Administration (NASA)’s International Air and Space Program and has received global training. Jahnavi is also a strong promoter of STEM (Science, Technology, Engineering, and Mathematics) education among youth. The mission will be led by retired U.S. Army Colonel and veteran NASA astronaut William McArthur Jr., who is now Chief Astronaut at Titans Space."
+    },
+    {
+      "id": 17,
+      "question": "Mobile Biosafety Level-3 (MBSL-3) Laboratory is developed under which mission?",
+      "options": [
+        {
+          "label": "A",
+          "text": "National Health Protection Mission"
+        },
+        {
+          "label": "B",
+          "text": "Pradhan Mantri Ayushman Bharat Health Infrastructure Mission"
+        },
+        {
+          "label": "C",
+          "text": "National Ayush Mission"
+        },
+        {
+          "label": "D",
+          "text": "National Rural Health Mission"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Pradhan Mantri Ayushman Bharat Health Infrastructure Mission"
+      },
+      "explanation": "Recently, the Indian Council of Medical Research (ICMR) decided to expand its Mobile Biosafety Level-3 (MBSL-3) laboratory network to boost India’s outbreak response and public health. The Mobile BSL-3 lab is also called Rapid Action Mobile BSL-3 Advanced Augmented Network (RAMBAAN). It is an advanced “lab on wheels” developed under the Pradhan Mantri Ayushman Bharat Health Infrastructure Mission. It was first used during the Nipah virus outbreak in Kerala in 2023."
+    },
+    {
+      "id": 18,
+      "question": "Which country has launched the Global Observing Satellite for Greenhouse gases and Water cycle (GOSAT-GW)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "China"
+        },
+        {
+          "label": "B",
+          "text": "India"
+        },
+        {
+          "label": "C",
+          "text": "Australia"
+        },
+        {
+          "label": "D",
+          "text": "Japan"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Japan"
+      },
+      "explanation": "Recently, Japan launched the Global Observing Satellite for Greenhouse gases and Water cycle (GOSAT-GW) from Tanegashima Space Centre. GOSAT-GW is an Earth observation satellite developed by the Japanese Aerospace Exploration Agency (JAXA). It was launched using the H-2A rocket. Its objectives are to monitor global-mean concentrations of Greenhouse Gases (GHGs), verify national anthropogenic GHG emissions inventories, and detect GHG emissions from large sources like megacities and power plants."
+    },
+    {
+      "id": 19,
+      "question": "Which state has recently introduced the Cy-TB skin test to detect Latent Tuberculosis Infection (LTBI)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Odisha"
+        },
+        {
+          "label": "B",
+          "text": "Kerala"
+        },
+        {
+          "label": "C",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "D",
+          "text": "Telangana"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Kerala"
+      },
+      "explanation": "Kerala has recently introduced the Cy-TB skin test to detect Latent Tuberculosis Infection (LTBI) under the National TB Elimination Programme (NTEP). Cy-TB is a new-generation intradermal skin test using Mycobacterium tuberculosis-specific antigens called ESAT-6 and CFP-10. It is more accurate than Mantoux or IGRA (Interferon-Gamma Release Assay) tests and does not need blood samples. It helps in early detection of dormant TB to prevent it from becoming active. It is used for adults above 18, especially in high-risk or contact groups."
+    },
+    {
+      "id": 20,
+      "question": "Foot and Mouth Disease (FMD), that was recently seen in news, is caused by which agent?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Protozoa"
+        },
+        {
+          "label": "B",
+          "text": "Bacteria"
+        },
+        {
+          "label": "C",
+          "text": "Fungus"
+        },
+        {
+          "label": "D",
+          "text": "Virus"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Virus"
+      },
+      "explanation": "Recently, 16 chitals (spotted deer) died at Rajiv Gandhi Zoological Park in Pune due to Foot and Mouth Disease (FMD), as confirmed by lab reports. Foot and Mouth Disease (FMD) is a highly contagious viral disease affecting all cloven-hoofed animals like cattle, goats, sheep, deer, and pigs. It is caused by an aphthovirus from the Picornaviridae family. The World Organisation for Animal Health (WOAH) first gave official recognition to this disease."
+    }
+  ]
+}

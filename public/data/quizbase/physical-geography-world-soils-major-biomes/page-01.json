@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physical-geography-world-soils-major-biomes",
+    "title": "Physical Geography - World Soils, Major Biomes",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:29:43"
+  },
+  "questions": [
+    {
+      "id": 5851,
+      "question": "Which among the following is a Treeless Biome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Taiga"
+        },
+        {
+          "label": "B",
+          "text": "Tundra"
+        },
+        {
+          "label": "C",
+          "text": "Chaparral"
+        },
+        {
+          "label": "D",
+          "text": "Savannah"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Tundra"
+      },
+      "explanation": "Tundra is the coldest of all the biomes. Tundra comes from the Finnish word tunturi, meaning treeless plain. It is present in the frost-molded landscapes, extremely low temperatures, little precipitation, poor nutrients, and short growing seasons. It is a treeless biome."
+    },
+    {
+      "id": 5960,
+      "question": "What kind of forests are found in Siberian climate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Deciduous"
+        },
+        {
+          "label": "B",
+          "text": "Coniferous"
+        },
+        {
+          "label": "C",
+          "text": "Tropical"
+        },
+        {
+          "label": "D",
+          "text": "Montane Grasslands"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Coniferous"
+      },
+      "explanation": "Siberia has cool climate. It is located at the north pole. It has tundra forests to an extent. It has coniferous trees."
+    },
+    {
+      "id": 7507,
+      "question": "Which among the following is an area of evergreen forests?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amazon Basin"
+        },
+        {
+          "label": "B",
+          "text": "Zaire Basin"
+        },
+        {
+          "label": "C",
+          "text": "South-Eastern Asia"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "South-Eastern Asia"
+      },
+      "explanation": "The south east asia is the evergreen forest area.They have evergreen trees and have high rainfall as well. This is because they are located neat to the equator. There is no dry season in this area."
+    },
+    {
+      "id": 17863,
+      "question": "Which of the following is best soil to grow cotton?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Black soil"
+        },
+        {
+          "label": "B",
+          "text": "Alluvial Soil"
+        },
+        {
+          "label": "C",
+          "text": "Laterite Soil"
+        },
+        {
+          "label": "D",
+          "text": "Red Soil"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Black soil"
+      },
+      "explanation": "The best soil to growth cotton are Black soils of Deccan and Malwa plateau; however, cotton also grows well in alluvial soils of the Satluj-Ganga plain and red and laterite soils of the peninsular region."
+    },
+    {
+      "id": 29835,
+      "question": "Which soil is formed by deposition of silt brought by rivers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Black"
+        },
+        {
+          "label": "B",
+          "text": "Alluvial"
+        },
+        {
+          "label": "C",
+          "text": "Red"
+        },
+        {
+          "label": "D",
+          "text": "Pod"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Alluvial"
+      },
+      "explanation": "Alluviul soil is loose, unconsolidated sediment that has been eroded, reshaped by water in some form, and redeposited in a non-marine setting. Alluviul soil is typically made up of a variety of materials, including fine particles of silt and clay and larger particles of sand and gravel."
+    }
+  ]
+}

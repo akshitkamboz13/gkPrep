@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physical-geography-important-islands-gulfs-bays-isthmuses-glaciers-canyons",
+    "title": "Physical Geography - Important Islands, Gulfs, Bays, Isthmuses, Glaciers, Canyons",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:29:14"
+  },
+  "questions": [
+    {
+      "id": 6097,
+      "question": "“New Moore” island is located in?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Arabian Sea"
+        },
+        {
+          "label": "B",
+          "text": "Indian Ocean"
+        },
+        {
+          "label": "C",
+          "text": "Bay of Bengal"
+        },
+        {
+          "label": "D",
+          "text": "Pacific Ocean"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Bay of Bengal"
+      },
+      "explanation": "New Moore Island was known as New Moore Island in India and South Talpatti Island in Bangladesh. It was an uninhabited island which emerged in the Bay of Bengal in the aftermath of the Bhola cyclone in 1970. It had been created by the delta currents. It was located south of the Haribhanga river. Now it has disappeared due to rising sea levels."
+    },
+    {
+      "id": 7861,
+      "question": "In which of the following oceans world’s largest island is located?.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atlantic"
+        },
+        {
+          "label": "B",
+          "text": "Arctic"
+        },
+        {
+          "label": "C",
+          "text": "Pacific"
+        },
+        {
+          "label": "D",
+          "text": "Indian"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Arctic"
+      },
+      "explanation": "Green land is the world’s largest island. It is located in Arctic ocean. Though Australia is an island it considered as a continent."
+    },
+    {
+      "id": 8343,
+      "question": "Which among the following is the largest Bay of the world?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bay of Bengal"
+        },
+        {
+          "label": "B",
+          "text": "Hudson Bay"
+        },
+        {
+          "label": "C",
+          "text": "Blacksod Bay"
+        },
+        {
+          "label": "D",
+          "text": "Sandy Bay, Gibraltar"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Bay of Bengal"
+      },
+      "explanation": "Bay of Bengal is the largest bay in the world. It is located to southeast of India. The Hudson bay comes second."
+    },
+    {
+      "id": 8913,
+      "question": "Which among the following is a landlocked sea?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Timor Sea"
+        },
+        {
+          "label": "B",
+          "text": "Arafura Sea"
+        },
+        {
+          "label": "C",
+          "text": "Green Land Sea"
+        },
+        {
+          "label": "D",
+          "text": "Aral Sea"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Aral Sea"
+      },
+      "explanation": "Aral Sea, located in Central Asia, was once one of the world's largest inland seas. However, due to extensive irrigation projects diverting water from its two main sources, the Amu Darya and Syr Darya rivers, for agricultural purposes, the Aral Sea has significantly shrunk over the decades. This diversion of water has resulted in severe environmental and ecological problems, including the shrinking of the sea's surface area and the creation of a large desert-like region known as the Aral Sea's \"desertification.\""
+    },
+    {
+      "id": 9746,
+      "question": "Identify the correct geographical location of the McMurdo Dry Valleys, known for housing hypersaline water bodies on dry land.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Africa"
+        },
+        {
+          "label": "B",
+          "text": "Central Asia"
+        },
+        {
+          "label": "C",
+          "text": "North America"
+        },
+        {
+          "label": "D",
+          "text": "Antarctica"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Antarctica"
+      },
+      "explanation": "The McMurdo Dry Valleys, renowned for their hypersaline lakes like Lake Vanda with a striking salinity of over 35%, which is 10 times more than typical ocean water, are located in Antarctica. Despite this, the most saline water body globally is not found here but at the Gaet'ale Pond. This site, situated in the Danakil Depression in Afar, Ethiopia, holds an even higher concentration of salt, accurately representing the diversity of extreme environments on Earth."
+    }
+  ]
+}

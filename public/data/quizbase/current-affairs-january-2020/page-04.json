@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-january-2020",
+    "title": "Current Affairs - 2019-20",
+    "page": 4,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:45:43",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:46:23"
+  },
+  "questions": [
+    {
+      "id": 31,
+      "question": "What is the export value of Indian pharmaceutical exports?",
+      "options": [
+        {
+          "label": "A",
+          "text": "29.3"
+        },
+        {
+          "label": "B",
+          "text": "21.3"
+        },
+        {
+          "label": "C",
+          "text": "19.3"
+        },
+        {
+          "label": "D",
+          "text": "9.3"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "$19.3"
+      },
+      "explanation": "The domestic pharmaceutical market turnover is 20.03 bn in 2019. In 2018-19, India’s pharmaceuticals exports were worth 19.3 bn with a growth of 10.72% year on year."
+    },
+    {
+      "id": 32,
+      "question": "What is the FDI received by Classplus in 2020?",
+      "options": [
+        {
+          "label": "A",
+          "text": "US 9 million"
+        },
+        {
+          "label": "B",
+          "text": "US 19 million"
+        },
+        {
+          "label": "C",
+          "text": "US 12 million"
+        },
+        {
+          "label": "D",
+          "text": "US 5 million"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "US $ 9 million"
+      },
+      "explanation": "In May 2020, Classplus, a business-to-business (B2B) EdTech start-up, raised US$ 9 million in Series A funding round led by early stage tech investor RTP Global."
+    },
+    {
+      "id": 33,
+      "question": "What is the total growth rate experienced by the Online retail Industry in the previous year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "31%"
+        },
+        {
+          "label": "B",
+          "text": "20%"
+        },
+        {
+          "label": "C",
+          "text": "12%"
+        },
+        {
+          "label": "D",
+          "text": "24.5%"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "31%"
+      },
+      "explanation": "Online retail sales are growing at a rate of 31 percent y-o-y. It has generated a revenue of US 32.70 billion in 2018. Revenue generated from online retail is projected to reach US 60 billion by 2020."
+    },
+    {
+      "id": 34,
+      "question": "Which ministry has tied up with Ministry of AYUSH to set up an AYUSH Export Promotion Council to boost AYUSH exports?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Commerce and Industry"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Civil Aviation"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Communications"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Chemicals and Fertilisers"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ministry of Commerce and Industry"
+      },
+      "explanation": "The Ministry of Commerce and Industry and the Ministry of AYUSH planned to set up an AYUSH Export Promotion Council to boost AYUSH exports. This decision was taken recently in a joint review by Piyush Goyal, Ministry of Commerce and Industry and Shripad Naik, Ministry of AYUSH."
+    },
+    {
+      "id": 35,
+      "question": "What does the term DCM mean which was in news recenlty?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Demand and Currency Management"
+        },
+        {
+          "label": "B",
+          "text": "Department of Company Management"
+        },
+        {
+          "label": "C",
+          "text": "Deposit and Currency Management"
+        },
+        {
+          "label": "D",
+          "text": "Department of Currency Management"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Department of Currency Management"
+      },
+      "explanation": "The Department of Currency Management(DCM) was formed in the year 1934 under RBI. It is responsible to perform the functions related to coins and notes and to check the circulation of unfit notes."
+    },
+    {
+      "id": 36,
+      "question": "What is the correct full form of the term RNA which was recently in news ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ribnucliec Acid"
+        },
+        {
+          "label": "B",
+          "text": "Rio Nucleic Acid"
+        },
+        {
+          "label": "C",
+          "text": "Ribonucleic Acid"
+        },
+        {
+          "label": "D",
+          "text": "Ribenucleic Acid"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Ribonucleic Acid"
+      },
+      "explanation": "The Ribonucleic Acid (RNA) is a polymeric molecule which is essential in various biological roles in coding, decoding, regulation and expression of genes."
+    },
+    {
+      "id": 37,
+      "question": "Who formally opened the Tokyo 2020 Olympics?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Akihito"
+        },
+        {
+          "label": "B",
+          "text": "Yoshihide Suga"
+        },
+        {
+          "label": "C",
+          "text": "Naruhito"
+        },
+        {
+          "label": "D",
+          "text": "Shinzo Abe"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Naruhito"
+      },
+      "explanation": "The Tokyo 2020 Olympics was formally opened by Emperor Naruhito. Yoshihide Suga is the current Prime Minister of Japan."
+    },
+    {
+      "id": 38,
+      "question": "Who won the men’s 800 metres event at the 2020 Tokyo Olympics?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Emmanuel Korir"
+        },
+        {
+          "label": "B",
+          "text": "Ferguson Rotich"
+        },
+        {
+          "label": "C",
+          "text": "Patryk Dobek"
+        },
+        {
+          "label": "D",
+          "text": "Selemon Barega"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Emmanuel Korir"
+      },
+      "explanation": "Emmanuel Korir (Kenya) won the men’s 800 metres event at the 2020 Tokyo Olympics. Ferguson Rotich (Kenya) won the silver medal. Patryk Dobek (Poland) won the bronze medal."
+    },
+    {
+      "id": 39,
+      "question": "Who won the gold medal in the women’s 800 metres athletic event at the 2020 Tokyo Olympics?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Faith Kipyegon"
+        },
+        {
+          "label": "B",
+          "text": "Laura Muir"
+        },
+        {
+          "label": "C",
+          "text": "Athing Mu"
+        },
+        {
+          "label": "D",
+          "text": "Keely Hodgkinson"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Athing Mu"
+      },
+      "explanation": "Athing Mu (United States) won the gold medal in the women’s 800 metres athletic event at the 2020 Tokyo Olympics. Keely Hodgkinson (Great Britain) won the silver. Raevyn Rogers (United States) won the bronze."
+    },
+    {
+      "id": 40,
+      "question": "Which government scheme covers medical insurance upto 1.5 lakhs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Swastha Bondhu"
+        },
+        {
+          "label": "B",
+          "text": "Swastha Beema"
+        },
+        {
+          "label": "C",
+          "text": "Swastha Sathi"
+        },
+        {
+          "label": "D",
+          "text": "Swastha Jagaran"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Swastha Sathi"
+      },
+      "explanation": "The state of Bengal launched Swasthya Sathi in 2016 to provide medical insurance cover upto 1.5 lakh. It is open to all as there is no cap on the family size of the income. The state also gives Swasthya Samman Award for recognising commendable services rendered by healthcare personnel in public sector."
+    }
+  ]
+}

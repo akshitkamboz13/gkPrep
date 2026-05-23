@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "british-east-india-company-initial-days",
+    "title": "5. British East India Company - Initial Days",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:00:18"
+  },
+  "questions": [
+    {
+      "id": 3610,
+      "question": "In which year, East India Company acquired Bombay from Portuguese?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1663"
+        },
+        {
+          "label": "B",
+          "text": "1668"
+        },
+        {
+          "label": "C",
+          "text": "1670"
+        },
+        {
+          "label": "D",
+          "text": "1689"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "1668"
+      },
+      "explanation": "On 21 September 1668, the Royal Charter of 27 March 1668, led to the transfer of Bombay from Charles II to the British East India Company for an annual rent of £10. Thus, the island of Bombay was acquired by the East India Company from Portugal in 1668 and was immediately fortified. Bombay soon superseded Surat as the headquarters of the company on the west coast."
+    },
+    {
+      "id": 4399,
+      "question": "Plassey, which is famous for the Battle of Plassey, is located in which among the following current states of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "West Bengal"
+        },
+        {
+          "label": "B",
+          "text": "Bihar"
+        },
+        {
+          "label": "C",
+          "text": "Chhattisgarh"
+        },
+        {
+          "label": "D",
+          "text": "Jharkhand"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "West Bengal"
+      },
+      "explanation": "Palashi or Plassey, is a village along the Hooghly River, located about 50 kilometres north of the city of Krishnanagar in the Nadia District of West Bengal. The historic Battle of Plassey was fought on 23 June 1757 between Siraj Ud Daulah and Lord Clive."
+    },
+    {
+      "id": 4785,
+      "question": "Which among the following Charter Acts ended the commercial monopoly of East India Company in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Charter Act of 1793"
+        },
+        {
+          "label": "B",
+          "text": "Charter Act of 1813"
+        },
+        {
+          "label": "C",
+          "text": "Charter Act of 1833"
+        },
+        {
+          "label": "D",
+          "text": "Charter Act of 1853"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Charter Act of 1813"
+      },
+      "explanation": "Charter Acts of 1813 was an Act of the Parliament of the United Kingdom which renewed the charter issued to the British East India Company, and continued the Company’s rule in India. However, the Company’s commercial monopoly was ended, except for the tea trade and the trade with China. Reflecting the growth of British power in India."
+    },
+    {
+      "id": 4838,
+      "question": "Who conferred the title of Jagath Seth on Fatehchand, a defector of the Battle of Plassey?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alivardi Khan"
+        },
+        {
+          "label": "B",
+          "text": "Sirajuddaula"
+        },
+        {
+          "label": "C",
+          "text": "Mir Zafar"
+        },
+        {
+          "label": "D",
+          "text": "Muhammad Shah"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Muhammad Shah"
+      },
+      "explanation": "Fatehchand, the adopted son of Manik Chand, earned the title of \"Seth\" from Emperor Farrakhsiyar. However, it was Muhammad Shah who later upgraded his title to \"Jagat Seth\". The title \"Jagath Seth\" translates to \"Banker of the world\", indicating his elevated status and prosperity during the period."
+    },
+    {
+      "id": 4842,
+      "question": "In which among the following years, Bombay transferred to the East India Company by Charles II ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1662 A.D."
+        },
+        {
+          "label": "B",
+          "text": "1664 A.D."
+        },
+        {
+          "label": "C",
+          "text": "1666 A.D."
+        },
+        {
+          "label": "D",
+          "text": "1668 A.D."
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1668 A.D."
+      },
+      "explanation": "On 21 September 1668, the Royal Charter of 27 March 1668, led to the transfer of Bombay from Charles II to the British East India Company for an annual rent of £10."
+    }
+  ]
+}

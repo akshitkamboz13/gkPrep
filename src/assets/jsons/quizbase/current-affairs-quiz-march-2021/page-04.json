@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-march-2021",
+    "title": "Current Affairs Quiz - March, 2021",
+    "page": 4,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:47:29",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:58:37"
+  },
+  "questions": [
+    {
+      "id": 31,
+      "question": "India’s foreign-exchange reserves surpassed that of which country to become the world’s top fourth?",
+      "options": [
+        {
+          "label": "A",
+          "text": "USA"
+        },
+        {
+          "label": "B",
+          "text": "Russia"
+        },
+        {
+          "label": "C",
+          "text": "France"
+        },
+        {
+          "label": "D",
+          "text": "Germany"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Russia"
+      },
+      "explanation": "India’s foreign-exchange reserves surpassed that of Russia to become the world’s fourth largest. India’s central bank the RBI continues to hoard dollars to cushion against any sudden outflows. India’s foreign currency reserves reached USD 580.3 billion as of March 5, surpassing Russia’s USD 580.1 billion holdings. China has the largest forex reserves, followed by Japan and Switzerland."
+    },
+    {
+      "id": 32,
+      "question": "What is AEG12, which is in the news recently?",
+      "options": [
+        {
+          "label": "A",
+          "text": "COVID 19 Vaccine candidate"
+        },
+        {
+          "label": "B",
+          "text": "Meteor"
+        },
+        {
+          "label": "C",
+          "text": "ISRO’s space shuttle"
+        },
+        {
+          "label": "D",
+          "text": "Mosquito Protein"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Mosquito Protein"
+      },
+      "explanation": "A mosquito protein, called AEG12 has been found to inhibit the viruses that cause yellow fever, dengue etc. It is also found to weakly inhibit coronaviruses. This has been studied and found by a team of researchers at the US National Institutes of Health (NIH). It is seen that the protein works by destabilising the viral envelope of the disease-causing virus."
+    },
+    {
+      "id": 33,
+      "question": "World’s largest floating solar farms are being built in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "China"
+        },
+        {
+          "label": "B",
+          "text": "Singapore"
+        },
+        {
+          "label": "C",
+          "text": "North Korea"
+        },
+        {
+          "label": "D",
+          "text": "UAE"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Singapore"
+      },
+      "explanation": "World’s largest floating solar farms are being built along the coasts and on the reservoirs of Singapore. Though the country is one among the smallest in the world, it is among the biggest per capita carbon dioxide emitters in Asia. Singapore has undertaken this process to tackle climate change crisis."
+    },
+    {
+      "id": 34,
+      "question": "As per which policy, more than 20-year-old personal vehicles would be de registered from June 1 2024?",
+      "options": [
+        {
+          "label": "A",
+          "text": "New Vehicle Policy"
+        },
+        {
+          "label": "B",
+          "text": "Emission Control Policy"
+        },
+        {
+          "label": "C",
+          "text": "Bharat Stage 7"
+        },
+        {
+          "label": "D",
+          "text": "Vehicle Scrapping Policy"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Vehicle Scrapping Policy"
+      },
+      "explanation": "As per the new Vehicle Scrapping Policy announced by the Union Ministry of Road Transport, more than 20 years old personal vehicles would be de registered from June 1 2024, in case they fail in automated physical fitness test. In case of commercial vehicles, 15 years old vehicles would be de registered from April 1 2023."
+    },
+    {
+      "id": 35,
+      "question": "In which country, the world’s first baby with antibodies against the novel coronavirus is reported to be born?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India"
+        },
+        {
+          "label": "B",
+          "text": "USA"
+        },
+        {
+          "label": "C",
+          "text": "China"
+        },
+        {
+          "label": "D",
+          "text": "Brazil"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "USA"
+      },
+      "explanation": "It has been reported that the world’s first baby with antibodies against the novel coronavirus is born in the USA. The mother was vaccinated against COVID-19 during 36th week of her pregnancy which resulted in development of antibodies in both mother and the baby."
+    },
+    {
+      "id": 36,
+      "question": "NITI Aayog has partnered with which technology major to train students on Cloud Computing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "HP"
+        },
+        {
+          "label": "B",
+          "text": "Amazon"
+        },
+        {
+          "label": "C",
+          "text": "Samsung"
+        },
+        {
+          "label": "D",
+          "text": "Huawei"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Amazon"
+      },
+      "explanation": "NITI Aayog has partnered with IT major Amazon Web Services (AWS) to train students on the fundamentals of cloud computing through Atal Tinkering Labs. Under the program, AWS will introduce the concepts of cloud computing such as cloud storage, web hosting, artificial intelligence (AI), machine learning (ML), and virtual reality (VR) to students."
+    },
+    {
+      "id": 37,
+      "question": "Girl Gang, a track by New Zealand singer Gin Wigmore, has been announced as the official song of which tournament?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2023 FIFA World Cup"
+        },
+        {
+          "label": "B",
+          "text": "2022 ICC Women’s World Cup"
+        },
+        {
+          "label": "C",
+          "text": "2022 FIH Women’s World Cup"
+        },
+        {
+          "label": "D",
+          "text": "2022 FIBA Women’s Basketball World Cup"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "2022 ICC Women’s World Cup"
+      },
+      "explanation": "Girl Gang, a track by New Zealand singer Gin Wigmore, has been recently announced as the official song of the 2022 ICC Women’s World Cup. The tournament is set to be hosted in New Zealand from March 4 to April 3, this year. Though the tournament was scheduled to be held in February 2021, it was postponed due to the Covid-19 pandemic."
+    },
+    {
+      "id": 38,
+      "question": "Samia Suluhu Hassan, who is seen in news recently, sworn in as President of which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brazil"
+        },
+        {
+          "label": "B",
+          "text": "Iran"
+        },
+        {
+          "label": "C",
+          "text": "Iraq"
+        },
+        {
+          "label": "D",
+          "text": "Tanzania"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Tanzania"
+      },
+      "explanation": "61-year-old Samia Suluhu Hassan assumed charge as the first women President of Tanzania. She succeeds John Magufui, who dies recently in a controversial manner. Tanzania is an East African nation with Dodoma as capital and Tanzanian shilling as its currency. Its national language is Swahili."
+    },
+    {
+      "id": 39,
+      "question": "Sharath Kamal, Sathiyan, Sutirtha Mukherjee who were in the news recently for qualifying for the Olympics, are the players of which sports?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Badminton"
+        },
+        {
+          "label": "B",
+          "text": "Table Tennis"
+        },
+        {
+          "label": "C",
+          "text": "Wrestling"
+        },
+        {
+          "label": "D",
+          "text": "Fencing"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Table Tennis"
+      },
+      "explanation": "In the Asian Olympic Qualification tournament held recently in Doha four Indian Table Tennis players sealed Tokyo Olympic seats. Veteran paddler Sharath Kamal will participate in the Olympics for the fourth time. Other three players are G Sathiyan, Manika Batra and Sutirtha Mukherjee."
+    },
+    {
+      "id": 40,
+      "question": "What is Nowruz?",
+      "options": [
+        {
+          "label": "A",
+          "text": "USA Space Mission"
+        },
+        {
+          "label": "B",
+          "text": "Iranian and Persian New Year festival"
+        },
+        {
+          "label": "C",
+          "text": "New Asteroid"
+        },
+        {
+          "label": "D",
+          "text": "Covid Vaccine"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Iranian and Persian New Year festival"
+      },
+      "explanation": "Nowruz is the Iranian and Persian New Year festival. India participated in Nowruz celebrations held at the Secretariat of the Shanghai Cooperation Organisation (SCO) in Beijing. SCO is an intergovernmental organisation consisting of China, Russia, Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan, India and Pakistan. It is headquartered in Beijing, China."
+    }
+  ]
+}

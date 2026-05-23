@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "3-computer-components-software-os-and-programming",
+    "title": "3. Computer Components: Software, OS and Programming Languages",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:52:50"
+  },
+  "questions": [
+    {
+      "id": 4643,
+      "question": "Which of the following languages are directly executable by a computer's CPU?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Machine Language"
+        },
+        {
+          "label": "B",
+          "text": "High Language"
+        },
+        {
+          "label": "C",
+          "text": "Assembly Language"
+        },
+        {
+          "label": "D",
+          "text": "Second generation Language"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Machine Language"
+      },
+      "explanation": "Machine languages are directly executable by a computer's CPU."
+    },
+    {
+      "id": 4645,
+      "question": "What is used in most programs that is a part of a program and guides the user through certain steps?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Software"
+        },
+        {
+          "label": "B",
+          "text": "Wizard"
+        },
+        {
+          "label": "C",
+          "text": "Wiki"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Wizard"
+      },
+      "explanation": "A software wizard or setup assistant refers to a user interface type that presents a user with a sequence of dialog boxes that lead the user through a series of well-defined steps. Tasks that are complex, infrequently performed, or unfamiliar may be easier to perform using a wizard."
+    },
+    {
+      "id": 4649,
+      "question": "Panther (10.3), Jaguar (10.2), Puma (10.1), and Cheetah (10.0) are examples of what kind of operating system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Windows OS"
+        },
+        {
+          "label": "B",
+          "text": "Mac OS"
+        },
+        {
+          "label": "C",
+          "text": "Linux Operating Systems"
+        },
+        {
+          "label": "D",
+          "text": "Android Operating Systems"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Mac OS"
+      },
+      "explanation": "These are names of Mac OS Operating Systems. The names of various Mac OS are as follows: Mac OS X Public Beta Mac OS X 10.0 Cheetah Mac OS X 10.1 Puma Mac OS X 10.2 Jaguar Mac OS X 10.3 Panther Mac OS X 10.4 Tiger Mac OS X 10.5 Leopard Mac OS X 10.6 Snow Leopard Mac OS X 10.7 Lion OS X 10.8 Mountain Lion OS X 10.9 Mavericks OS X 10.10 Yosemite OS X 10.11 El Capitan macOS 10.12 Sierra macOS 10.13 High Sierra macOS 10.14 Mojave macOS 10.15 Catalina"
+    },
+    {
+      "id": 4656,
+      "question": "Which of the following was used in programming the first computers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Object code"
+        },
+        {
+          "label": "B",
+          "text": "Source code"
+        },
+        {
+          "label": "C",
+          "text": "Machine Language"
+        },
+        {
+          "label": "D",
+          "text": "Assembly Language"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Machine Language"
+      },
+      "explanation": "Machine Language or Machine code is a strictly numerical language which is intended to run as fast as possible. This was used in the first computers."
+    },
+    {
+      "id": 4663,
+      "question": "DDL is used to define the structure of a database, including the tables, columns, and data types that it contains. Its full form is?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Data Definition Language"
+        },
+        {
+          "label": "B",
+          "text": "Data Definition Link"
+        },
+        {
+          "label": "C",
+          "text": "Determination Language."
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Data Definition Language"
+      },
+      "explanation": "A data definition or data description language (DDL) is a syntax similar to a computer programming language for defining data structures, especially database schemas. DDL statements create and modify database objects such as tables, indexes, and users. Common DDL statements are CREATE, ALTER, and DROP."
+    }
+  ]
+}

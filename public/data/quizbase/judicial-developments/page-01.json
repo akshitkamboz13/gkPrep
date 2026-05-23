@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "judicial-developments",
+    "title": "15. Judicial Developments during British Era",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:25:41"
+  },
+  "questions": [
+    {
+      "id": 10430,
+      "question": "Which among the following was the apex court in of India during the British Era?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Federal Court"
+        },
+        {
+          "label": "B",
+          "text": "Presidency Supreme Court"
+        },
+        {
+          "label": "C",
+          "text": "Privy Council"
+        },
+        {
+          "label": "D",
+          "text": "Supreme Court of England"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Privy Council"
+      },
+      "explanation": "In British India, the Privy Council acted as the final legal authority, reinforcing British control over Indian law and justice. It shaped many aspects of Indian jurisprudence and symbolized colonial subordination until India established its own Supreme Court after independence.While Article 395 of the Indian Constitution repealed British laws enabling appeals to the Privy Council, the direct abolition was done through the Abolition of Privy Council Jurisdiction Act, 1949. Passed by the Indian Constituent Assembly, this Act came into effect before the Constitution, in 1949, and officially ended the right to appeal from Indian courts to the Privy Council, marking a significant step toward judicial sovereignty."
+    },
+    {
+      "id": 11804,
+      "question": "Who among the following was the first Indian to sit as a judge of the Madras High Court?",
+      "options": [
+        {
+          "label": "A",
+          "text": "P. V. Rajamannar"
+        },
+        {
+          "label": "B",
+          "text": "T. Muthuswamy Iyer"
+        },
+        {
+          "label": "C",
+          "text": "Sir S. Subramania Iyer"
+        },
+        {
+          "label": "D",
+          "text": "V. T. Krishnamachari"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "T. Muthuswamy Iyer"
+      },
+      "explanation": "Madras High Court was established in 1862 along with Bombay High Court and Calcutta High Court after the Indian High Courts Act was enacted in 1861. Its jurisdiction extends to Tamil Nadu and Pondicherry. It was formed after merger of the Supreme Court of Judicature at Madras, and the Sadar Deewani Adalat. The first Indian to sit as a judge of the High Court was Justice T. Muthuswamy Iyer. It has a bench at Madurai. Madras High Court is also known as birthplace of organized legal reporting in India as Madras Law Journal was started in 1891."
+    },
+    {
+      "id": 14700,
+      "question": "Which Governor-General of India is known as the Liberator of the Indian Press?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lord Auckland"
+        },
+        {
+          "label": "B",
+          "text": "Sir Charles Metcalfe"
+        },
+        {
+          "label": "C",
+          "text": "Lord Ellenborough"
+        },
+        {
+          "label": "D",
+          "text": "Lord William Bentick"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Sir Charles Metcalfe"
+      },
+      "explanation": "Sir Charles Metcalfe (1834-36) is known as the Liberator of the Indian Press, who abolished all restrictions on vernacular press through the famous “Press Law”."
+    },
+    {
+      "id": 14702,
+      "question": "For the first time, female infanticide was prohibited by which Governor-General?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lord Ellenborough"
+        },
+        {
+          "label": "B",
+          "text": "Lord Canning"
+        },
+        {
+          "label": "C",
+          "text": "Lord Hardinge I"
+        },
+        {
+          "label": "D",
+          "text": "Lord John Shore"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Lord John Shore"
+      },
+      "explanation": "Via the Bengal Regulation XXI of 1795, Female infanticide was declared murder by John Shore, the Governor General of Bengal. This was preceded as well as followed by attempts to stop it by reforming public opinion. Sir John Shore, who had a strong evangelical faith, had passed this regulation against the practice of female infanticide among the Rajas of Jaunpur / Banares."
+    },
+    {
+      "id": 17080,
+      "question": "The execution of which among the following Indians during the British India is commonly called a Judicial murder?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Surya Sen"
+        },
+        {
+          "label": "B",
+          "text": "Bhagat Singh"
+        },
+        {
+          "label": "C",
+          "text": "Nandakumar"
+        },
+        {
+          "label": "D",
+          "text": "Mir Kasim"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Nandakumar"
+      },
+      "explanation": "Maharaja Nandakumar (also spelled Nand Kumar or Nuncomar), a Dewan under the East India Company in Bengal, accused Governor-General Warren Hastings of corruption. In retaliation, Hastings and Chief Justice Elijah Impey charged Nandakumar with forgery under an English statute whose applicability in India was dubious. He was tried swiftly, found guilty, and executed on 5 August 1775. Historians widely regard this as the first case of “judicial murder” in colonial India—a politically motivated execution cloaked in legal proceedings."
+    }
+  ]
+}

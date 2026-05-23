@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "forex-reserves-of-india-and-forex-management-mcqs-for-ssc-examination",
+    "title": "44. Forex Reserves of India and Forex Management",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:12:53"
+  },
+  "questions": [
+    {
+      "id": 7669,
+      "question": "For which of the following the term \"Paper Gold\" is used?",
+      "options": [
+        {
+          "label": "A",
+          "text": "United States Dollar"
+        },
+        {
+          "label": "B",
+          "text": "Gold Reserved with International Monetary Fund"
+        },
+        {
+          "label": "C",
+          "text": "United States Dollar"
+        },
+        {
+          "label": "D",
+          "text": "Special Drawing Rights"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Special Drawing Rights"
+      },
+      "explanation": "SDRs of the International Monetary Funds are also called Paper Gold. They are allotted to member countries by IMF and cannot be used by private parties. They are supplementary to Forex reserves."
+    },
+    {
+      "id": 9540,
+      "question": "What type of account is Union Bank’s US dollar account with Citibank, New York?",
+      "options": [
+        {
+          "label": "A",
+          "text": "VOSTRO account"
+        },
+        {
+          "label": "B",
+          "text": "NOSTRO account"
+        },
+        {
+          "label": "C",
+          "text": "LORO account"
+        },
+        {
+          "label": "D",
+          "text": "Mirror Nostro account"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "NOSTRO account"
+      },
+      "explanation": "A NOSTRO account is a bank account that a domestic bank holds in a foreign country in the currency of that country. The term is derived from the Latin word meaning \"ours.\" For Union Bank of India, holding an account with Citibank in New York in US dollars constitutes a NOSTRO account. Such accounts are used for international transactions and settlements."
+    },
+    {
+      "id": 10367,
+      "question": "In which year RBI was empowered to regulate money, forex, G-sec and gold related securities market?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2004"
+        },
+        {
+          "label": "B",
+          "text": "2006"
+        },
+        {
+          "label": "C",
+          "text": "2008"
+        },
+        {
+          "label": "D",
+          "text": "2010"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "2006"
+      },
+      "explanation": "The Reserve Bank of India (RBI) was empowered to regulate the money, foreign exchange, government securities, and gold-related securities markets in 2006. This was part of the amendments made to the Reserve Bank of India Act, 1934, which aimed to enhance the regulatory framework and improve market efficiency. The move was important in promoting financial stability and transparency in India's financial markets."
+    },
+    {
+      "id": 10617,
+      "question": "Consider the following:Foreign Direct InvestmentsForeign Institutional InvestmentsAmerican Depository ReceiptsGlobal Depository ReceiptsIn the context of \"Sources of Foreign Exchange Reserves,\" which of the above are placed under Portfolio Investment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2, 3 and 4"
+        },
+        {
+          "label": "B",
+          "text": "1, 2 and 3"
+        },
+        {
+          "label": "C",
+          "text": "1 and 4"
+        },
+        {
+          "label": "D",
+          "text": "1 only"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "2, 3 and 4"
+      },
+      "explanation": "Portfolio investments comprise financial assets such as stocks, bonds, and depository receipts. Foreign Institutional Investments (FII), American Depository Receipts (ADR), and Global Depository Receipts (GDR) are all considered portfolio investments because they do not confer direct control over the underlying asset or enterprise, whereas Foreign Direct Investments involve ownership and control, and are not part of portfolio investment."
+    },
+    {
+      "id": 10793,
+      "question": "In finance, what do Fixed to Floating and Floating to Floating refer to?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Interest rates"
+        },
+        {
+          "label": "B",
+          "text": "Swaps"
+        },
+        {
+          "label": "C",
+          "text": "Foreign exchange rates"
+        },
+        {
+          "label": "D",
+          "text": "Derivative contracts"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Swaps"
+      },
+      "explanation": "Fixed to Floating and Floating to Floating describe interest rate swaps, which are derivative contracts exchanging fixed and floating interest payments. Interest rate swaps, including vanilla and basis swaps, are widely used for hedging and managing interest rate risk. Basis swaps exchange floating rates based on different benchmarks. These swaps play a major role in global financial markets and are commonly used by banks and corporations."
+    }
+  ]
+}

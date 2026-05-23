@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-25-mammals",
+    "title": "25. Mammals",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:58:18"
+  },
+  "questions": [
+    {
+      "id": 4432,
+      "question": "Which is the outermost membrane in a mammalian embryo that facilitates exchange between the embryo and environment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amnion"
+        },
+        {
+          "label": "B",
+          "text": "Allantois"
+        },
+        {
+          "label": "C",
+          "text": "Chorion"
+        },
+        {
+          "label": "D",
+          "text": "Yolk sac"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Chorion"
+      },
+      "explanation": "The chorion, being the outermost membrane surrounding a developing embryo, plays a pivotal role in facilitating exchange between the embryo and its environment. It forms part of the fetal membranes that include the amnion, yolk sac, and allantois, nestled below the amniotic sac and in connection with the maternal tissue. The placenta, though not an option here, would still be a correct answer as it is a temporary organ developed during gestation to nourish and oxygenize the developing fetus while eliminating waste products. Both the chorion and the placenta are indispensable for substance exchange between the fetus and mother during gestation."
+    },
+    {
+      "id": 9433,
+      "question": "With which of the following animals Galton's whistle is most commonly associated?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Horses"
+        },
+        {
+          "label": "B",
+          "text": "Dogs"
+        },
+        {
+          "label": "C",
+          "text": "whales"
+        },
+        {
+          "label": "D",
+          "text": "Shark"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Dogs"
+      },
+      "explanation": "Human can listen only the frequencies below 20 kHz. However animals like dogs, cats, dolphins, bats, and mice can listen above this limit. This principle was used by Galton who produced the ultrasonic waves by blowing a whistle. For human these whistle appears silent, while dogs and cats can listen it. It is used in training of dogs and cats"
+    },
+    {
+      "id": 9547,
+      "question": "Which among the following is true attribute to Polar bear?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Herbivore"
+        },
+        {
+          "label": "B",
+          "text": "Omnivore"
+        },
+        {
+          "label": "C",
+          "text": "Carnivore"
+        },
+        {
+          "label": "D",
+          "text": "Marsupial"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Carnivore"
+      },
+      "explanation": "Please note that Polar Bear is the largest land carnivore animal, weighing about 350 to 700 kgs. Kodiak bear which is also of same size is a Omnivore"
+    },
+    {
+      "id": 20482,
+      "question": "Which among the following enzyme allows the cows to digest cellulose?",
+      "options": [
+        {
+          "label": "A",
+          "text": "beta-lactase"
+        },
+        {
+          "label": "B",
+          "text": "alpha-amylase"
+        },
+        {
+          "label": "C",
+          "text": "beta-amylase"
+        },
+        {
+          "label": "D",
+          "text": "alpha-lactase"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "beta-amylase"
+      },
+      "explanation": "Correct answer is beta-amylase. Regarding amylase there is an interesting fact that it has proved its role in Human evolution. The salivary amylase levels found in the human lineage are six to eight times higher in humans than in chimpanzees, which are mostly fruit eaters and ingest little starch relative to humans."
+    },
+    {
+      "id": 29941,
+      "question": "Which one of the following creatures has maximum number of ribs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ray fish"
+        },
+        {
+          "label": "B",
+          "text": "Flying mammal"
+        },
+        {
+          "label": "C",
+          "text": "Snake"
+        },
+        {
+          "label": "D",
+          "text": "Crocodile"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Snake"
+      },
+      "explanation": "Snakes have the maximum number of ribs. On an average they have 200 to 400 bones (Vertibrae ) and each have a pair of ribs on either side."
+    }
+  ]
+}

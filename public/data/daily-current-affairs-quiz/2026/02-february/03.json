@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: February 3, 2026",
+    "date": "2026-02-03",
+    "year": "2026",
+    "month": "02-february",
+    "day": 3,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 03:57:44",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:54:50"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the name of the new platform announced for women entrepreneurs in the Union Budget 2026-27?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Udyogini Bazaar"
+        },
+        {
+          "label": "B",
+          "text": "Mahila Haat Plus"
+        },
+        {
+          "label": "C",
+          "text": "SHE-Mart"
+        },
+        {
+          "label": "D",
+          "text": "Sakhi Trade Hub"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "SHE-Mart"
+      },
+      "explanation": "The Finance Minister announced SHE-Mart to support women entrepreneurs through a new market platform. SHE stands for Self-help Entrepreneur, and these marts will be community-owned retail outlets. They will be set up within cluster-level federations using innovative and enhanced financing tools. The aim is to give women better market access, branding support, and stable income. It will strengthen grassroots institutions like Self-Help Groups (SHGs). The initiative builds on the success of the Lakhpati Didi programme."
+    },
+    {
+      "id": 2,
+      "question": "What is the primary objective of the Mahatma Gandhi Gram Swaraj Initiative (MGGSI) announced in Union Budget 2026–27?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Expansion of MSME credit in urban areas"
+        },
+        {
+          "label": "B",
+          "text": "Promotion of digital startups in rural India"
+        },
+        {
+          "label": "C",
+          "text": "Modernization of food processing industries"
+        },
+        {
+          "label": "D",
+          "text": "Strengthening khadi, handloom, and handicrafts"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Strengthening khadi, handloom, and handicrafts"
+      },
+      "explanation": "Union Budget 2026–27 announced the Mahatma Gandhi Gram Swaraj Initiative to strengthen traditional rural industries. It focuses on khadi, handloom, and handicrafts sectors across India. The initiative aims to improve global market access, branding, and strong market linkages. It seeks to make traditional industries more competitive and economically sustainable. The programme ensures stable livelihoods for artisans and weavers. It targets weavers, village industries, rural youth, and beneficiaries of One District One Product (ODOP)."
+    },
+    {
+      "id": 3,
+      "question": "Which two schemes were announced by the Union Finance Minister in the Union Budget 2026–27 for persons with disabilities?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sugamya Bharat Yojana and PM Kaushal Vikas Yojana"
+        },
+        {
+          "label": "B",
+          "text": "PM Daksh Yojana and Samarth Scheme"
+        },
+        {
+          "label": "C",
+          "text": "Divyangjan Kaushal Yojana and Divyang Sahara Yojana"
+        },
+        {
+          "label": "D",
+          "text": "Skill India and Accessible India Campaign"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Divyangjan Kaushal Yojana and Divyang Sahara Yojana"
+      },
+      "explanation": "The Union Finance Minister announced Divyangjan Kaushal Yojana and Divyang Sahara Yojana for persons with disabilities in the Union Budget 2026–27. Divyangjan Kaushal Yojana aims to provide dignified livelihood opportunities through skill training. It offers industry-relevant and customised training for different Divyang groups. Divyang Sahara Yojana supports Artificial Limbs Manufacturing Corporation of India (ALIMCO) to expand assistive device production. It promotes research, advanced technology, and artificial intelligence-based solutions."
+    },
+    {
+      "id": 4,
+      "question": "Which Indian state has emerged as the largest contributor to India’s renewable energy capacity as of December 2025?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gujarat"
+        },
+        {
+          "label": "B",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "C",
+          "text": "Haryana"
+        },
+        {
+          "label": "D",
+          "text": "Uttar Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Gujarat"
+      },
+      "explanation": "Gujarat leads India’s renewable energy sector with 42.583 gigawatt installed capacity, contributing 16.50 percent of the national total as of December 2025. The state ranks first in total renewable and wind power capacity and second in solar power capacity. Renewable energy includes 14,820.94 megawatt wind power and 25,529.40 megawatt solar power, with hybrid and off-grid sources. Gujarat accounts for over 25 percent of India’s rooftop solar installations with 6,412.80 megawatt capacity. Major solar parks operate at Charanka, Radhanesda, and Dholera, while Khavda hosts the world’s largest renewable park under development."
+    },
+    {
+      "id": 5,
+      "question": "Rheumatoid Arthritis Awareness Day is observed annually on which day?",
+      "options": [
+        {
+          "label": "A",
+          "text": "February 1"
+        },
+        {
+          "label": "B",
+          "text": "February 2"
+        },
+        {
+          "label": "C",
+          "text": "February 3"
+        },
+        {
+          "label": "D",
+          "text": "February 4"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "February 2"
+      },
+      "explanation": "Rheumatoid Arthritis Awareness Day is observed every year on 2 February to spread awareness about rheumatoid arthritis. Rheumatoid arthritis is an autoimmune disease affecting millions of people worldwide. The day was started in 2013 by the Rheumatoid Patient Foundation to educate the public and break myths. The organisation is now inactive, leading to limited global observance of the day. The awareness day highlights the need for early diagnosis and timely treatment. It promotes advocacy, support systems, and research for better care."
+    }
+  ]
+}

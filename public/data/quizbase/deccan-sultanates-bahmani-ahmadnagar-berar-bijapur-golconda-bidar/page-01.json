@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "deccan-sultanates-bahmani-ahmadnagar-berar-bijapur-golconda-bidar",
+    "title": "16. Deccan Sultanates: Bahmani, Ahmadnagar, Berar, Bijapur, Golconda, Bidar",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:10:03"
+  },
+  "questions": [
+    {
+      "id": 2824,
+      "question": "Which one of the following pairs is not correctly matched?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Baz Bahadur- Malwa"
+        },
+        {
+          "label": "B",
+          "text": "Sultan Muzaffar Shah-Gujarat"
+        },
+        {
+          "label": "C",
+          "text": "Yusuf Adil Shah-Ahmednagar"
+        },
+        {
+          "label": "D",
+          "text": "Qutub Shah -Golkunda"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Yusuf Adil Shah-Ahmednagar"
+      },
+      "explanation": "Yusuf Adil Shah - Ahmednagar is not correctly matched. Yusuf Adil Shah founded the Adil Shahi dynasty of Bijapur (not Ahmednagar) in 1489-90. Ahmednagar was founded by Malik Ahmad Nizam Shah. Qutub Shah correctly refers to the founder of the Qutub Shahi dynasty of Golkonda (Golconda). Baz Bahadur was the last Sultan of Malwa (1555-1562 CE). Sultan Muzaffar Shah ruled Gujarat."
+    },
+    {
+      "id": 2831,
+      "question": "What was the real name of Afzal Khan, commander of the Adil Shahi dynasty?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Samsuddin"
+        },
+        {
+          "label": "B",
+          "text": "Sabar"
+        },
+        {
+          "label": "C",
+          "text": "Abdullah Bhatari"
+        },
+        {
+          "label": "D",
+          "text": "Muhammad Khan"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Abdullah Bhatari"
+      },
+      "explanation": "Afzal Khan was a general of the Adil Shahi dynasty of Bijapur Sultanate. His real name was Abdullah Bhatari. He led military campaigns in former Vijayanagara territories, capturing forts such as Sira and Belur. In 1659, he was sent to fight Shivaji but died during a truce meeting at Pratapgad on November 10 or 20, followed by his army's defeat."
+    },
+    {
+      "id": 2863,
+      "question": "Who founded the Bijapur Sultanate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Murad II"
+        },
+        {
+          "label": "B",
+          "text": "Mehmood II"
+        },
+        {
+          "label": "C",
+          "text": "Ibrahim Zubayri"
+        },
+        {
+          "label": "D",
+          "text": "Yusuf Adil Shah"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Yusuf Adil Shah"
+      },
+      "explanation": "Yusuf Adil Shah founded the Bijapur Sultanate around 1489-1490 after Bahmani Sultanate's decline. He made Bijapur an independent sultanate and ruled until 1510. He established Shia Islam as the official religion in 1503 and built significant monuments like the citadel Arkilla and Faroukh Mahal palace during his reign."
+    },
+    {
+      "id": 2889,
+      "question": "Who among the following was the founder of Bijapur state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Yusuf Adil Shah"
+        },
+        {
+          "label": "B",
+          "text": "Murad II"
+        },
+        {
+          "label": "C",
+          "text": "Mehmood II"
+        },
+        {
+          "label": "D",
+          "text": "Ibrahim Zubayri"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Yusuf Adil Shah"
+      },
+      "explanation": "Yusuf Adil Shah, born in 1450, founded the Bijapur Sultanate in 1490. Coming from an Ottoman background, he established an independent state after the disintegration of the Bahmani kingdom. As a ruler, he implemented a system of efficient governance and constructed numerous architectural marvels in the city. His reign initiated the peak of Indo-Saracenic architecture, which was a blend of Islamic and Hindu styles."
+    },
+    {
+      "id": 4281,
+      "question": "What was the capital of the Bahamani Sultanate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gulbarga"
+        },
+        {
+          "label": "B",
+          "text": "Halebidu"
+        },
+        {
+          "label": "C",
+          "text": "Hampi"
+        },
+        {
+          "label": "D",
+          "text": "Badami"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Gulbarga"
+      },
+      "explanation": "Gulbarga was the capital of the Bahamani Sultanate from 1347 to 1425. Alauddin Hasan Bahman Shah (also known as Hasan Gangu or Zafar Khan) founded the sultanate in 1347 after rebelling against the Delhi Sultanate and established its headquarters at Aḥsanābād (Gulbarga). In 1425, Ahmad Shah I shifted the capital to Bidar (Muḥammadābād). Halebidu, Hampi, and Badami were capitals of Hoysala, Vijayanagara, and Chalukya dynasties, respectively."
+    }
+  ]
+}

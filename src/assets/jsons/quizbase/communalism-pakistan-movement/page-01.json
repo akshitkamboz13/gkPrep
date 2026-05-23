@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "communalism-pakistan-movement",
+    "title": "31. Communalism & Pakistan Movement",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:02:48"
+  },
+  "questions": [
+    {
+      "id": 4342,
+      "question": "Ahsan Manzil Palace in Dhaka, is known for which among the following landmarks in Modern Indian History?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Establishment of All India Muslim League"
+        },
+        {
+          "label": "B",
+          "text": "Pakistan Resolution"
+        },
+        {
+          "label": "C",
+          "text": "Jinnah-Gandhi Talks"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Establishment of All India Muslim League"
+      },
+      "explanation": "Ahsan Manzil was the official resident and seat of the Nawab of Dhaka. It is located along the banks of the Buriganga River in Dhaka. The conference of 1906 was held in this place where the foundation of the Muslim League was laid."
+    },
+    {
+      "id": 4455,
+      "question": "At which among the following sessions of the Muslim League, Mohammed Ali Jinnah had invented a new slogan “Divide and Quit”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lucknow Session 1931"
+        },
+        {
+          "label": "B",
+          "text": "Karachi Session 1933"
+        },
+        {
+          "label": "C",
+          "text": "Lahore Session 1940"
+        },
+        {
+          "label": "D",
+          "text": "Karachi Session 1943"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Karachi Session 1943"
+      },
+      "explanation": "The Karachi Session of Muslim League was held in December, 1943. A resolution demanding the creation of Pakistan was presented and Mohammed Ali Jinnah had invented a new slogan \"Divide and Quit\"."
+    },
+    {
+      "id": 4456,
+      "question": "At which among the following sessions, the All India Muslim league passed the Pakistan Resolution on 23 March 1940?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Karachi"
+        },
+        {
+          "label": "B",
+          "text": "Hyderabad"
+        },
+        {
+          "label": "C",
+          "text": "Lahore"
+        },
+        {
+          "label": "D",
+          "text": "Lucknow"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Lahore"
+      },
+      "explanation": "The Pakistan demand was formalised gradually. On 23 March 1940, the League moved a resolution demanding a measure of autonomy for the Muslim majority areas of the subcontinent. This ambiguous resolution never mentioned partition or Pakistan The name Pakistan or Pak-stan (from Punjab, Afghan, Kashmir, Sind and Baluchistan) was coined by a Punjabi Muslim student at Cambridge, Choudhry Rehmat Ali, who, in pamphlets written in 1933 and 1935, desired a separate national status for this new entity."
+    },
+    {
+      "id": 4757,
+      "question": "Which among the following observed the Direct Action Day on August 16, 1946?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Muslim League"
+        },
+        {
+          "label": "B",
+          "text": "Christian League"
+        },
+        {
+          "label": "C",
+          "text": "Sikh League"
+        },
+        {
+          "label": "D",
+          "text": "Hindu League"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Muslim League"
+      },
+      "explanation": "Muslim League observed the Direct Action Day on August 16, 1946. The objective of Muslim league was to create an environment of communal riots and terrorism to exhibit that Hindus and Muslims could not reside together."
+    },
+    {
+      "id": 4781,
+      "question": "Which among the following events was a major setback to Khilafat Movement?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Announcements of concession to Muslims by British Government"
+        },
+        {
+          "label": "B",
+          "text": "Pact signed between Indian National Congress and Muslim League"
+        },
+        {
+          "label": "C",
+          "text": "Revolution in Turkey"
+        },
+        {
+          "label": "D",
+          "text": "Violence in Chauri Chaura"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Revolution in Turkey"
+      },
+      "explanation": "In 1922, there was a revolution in Turkey under the leadership of Mustafa Kamal Pasha, under whom a secular government was established over there. This government buried the concept of Khilafat within two years and the result was that Khilafat Conference had lost its raison d ‘etre and was dying thereafter."
+    }
+  ]
+}

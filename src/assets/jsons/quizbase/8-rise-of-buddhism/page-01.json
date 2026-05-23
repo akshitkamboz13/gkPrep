@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "8-rise-of-buddhism",
+    "title": "8. Rise of Buddhism",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:55:20"
+  },
+  "questions": [
+    {
+      "id": 1783,
+      "question": "In context with the Mahayana Buddhism faith, the future Buddha is ___?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Krakuchanda"
+        },
+        {
+          "label": "B",
+          "text": "Amitabha"
+        },
+        {
+          "label": "C",
+          "text": "Maitreya"
+        },
+        {
+          "label": "D",
+          "text": "Kanak Muni"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Maitreya"
+      },
+      "explanation": "Maitreya is a future Buddha. . According to scriptures, Maitreya will be a successor of the historic Sakyamuni Buddha, who in the Buddhist tradition is to appear on Earth, achieve complete enlightenment, and teach the pure dharma."
+    },
+    {
+      "id": 1789,
+      "question": "Who does ‘Kanthaka’ refer to, in the context of Gautam Buddha?",
+      "options": [
+        {
+          "label": "A",
+          "text": "His disciple"
+        },
+        {
+          "label": "B",
+          "text": "His chief advisor"
+        },
+        {
+          "label": "C",
+          "text": "His royal horse"
+        },
+        {
+          "label": "D",
+          "text": "His spiritual teacher"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "His royal horse"
+      },
+      "explanation": "In the context of Gautam Buddha, ‘Kanthaka’ was his royal horse. Kanthaka played a significant role in several instances of the Buddha's life, most notably when it carried him to the river where he would relinquish his worldly possessions and begin his quest for enlightenment."
+    },
+    {
+      "id": 1790,
+      "question": "According to Buddhist traditions, who was Charioteer of Buddha?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Channa"
+        },
+        {
+          "label": "B",
+          "text": "Kanthaka"
+        },
+        {
+          "label": "C",
+          "text": "Devdatta"
+        },
+        {
+          "label": "D",
+          "text": "Chunda"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Channa"
+      },
+      "explanation": "According to Buddhist traditions, Channa was the royal charioteer of Prince Siddhartha. When Siddhartha decided to leave his royal life and comforts to understand the cause of human suffering, it was Channa who escorted him outside the palace. It is believed that Channa later joined the Sangha, the Buddhist monastic community, and became an arahant, an enlightened disciple."
+    },
+    {
+      "id": 1791,
+      "question": "What symbol represents birth of Gautama Buddha?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bodh tree"
+        },
+        {
+          "label": "B",
+          "text": "Lotus"
+        },
+        {
+          "label": "C",
+          "text": "Horse"
+        },
+        {
+          "label": "D",
+          "text": "Wheel"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Lotus"
+      },
+      "explanation": "Lotus and bull resembles the symbol of birth of Gautama Buddha."
+    },
+    {
+      "id": 1792,
+      "question": "What symbol represents nirvana of Gautama Buddha?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lotus"
+        },
+        {
+          "label": "B",
+          "text": "Wheel"
+        },
+        {
+          "label": "C",
+          "text": "Horse"
+        },
+        {
+          "label": "D",
+          "text": "Bodhi Tree"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Bodhi Tree"
+      },
+      "explanation": "Bodhi Tree is the symbol of nirvana of Gautama Buddha. On the other hand, Stupa represents the symbol of death of Gautama Buddha. Further, The symbol ‘Horse’ signifies the renunciation of Buddha’s life."
+    }
+  ]
+}

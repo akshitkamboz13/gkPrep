@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "nagaland-gk-questions-for-nagaland-public-service-commission-examinations",
+    "title": "States PCS: Nagaland GK Questions for Nagaland PSC Examinations",
+    "page": 2,
+    "total_pages": 3,
+    "generated_at": "2026-05-02 05:58:06",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:26:38"
+  },
+  "questions": [
+    {
+      "id": 11,
+      "question": "Which of the following is the highest mountain peak in Nagaland?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Japfü Peak"
+        },
+        {
+          "label": "B",
+          "text": "Dzüko Peak"
+        },
+        {
+          "label": "C",
+          "text": "Pauna Peak"
+        },
+        {
+          "label": "D",
+          "text": "Saramati"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Saramati"
+      },
+      "explanation": "Mount Saramati, at 3,826 meters, is the highest peak in Nagaland, situated on the Indo-Myanmar border in the Tuensang district."
+    },
+    {
+      "id": 12,
+      "question": "Which is the longest and most important river in Nagaland?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dikhu"
+        },
+        {
+          "label": "B",
+          "text": "Tizu"
+        },
+        {
+          "label": "C",
+          "text": "Doyang"
+        },
+        {
+          "label": "D",
+          "text": "Zungki"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Doyang"
+      },
+      "explanation": "The Doyang River is the longest in Nagaland, serving as a key tributary of the Brahmaputra and supporting irrigation, hydropower, and fisheries."
+    },
+    {
+      "id": 13,
+      "question": "Which district in Nagaland is renowned for its terraced rice fields and hilly landscapes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dimapur"
+        },
+        {
+          "label": "B",
+          "text": "Mon"
+        },
+        {
+          "label": "C",
+          "text": "Zunheboto"
+        },
+        {
+          "label": "D",
+          "text": "Kohima"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Zunheboto"
+      },
+      "explanation": "Zunheboto is prominent for its terraced rice fields on steep hills, where the Sumi Nagas employ traditional cultivation methods suited to the hilly terrain."
+    },
+    {
+      "id": 14,
+      "question": "Which type of soil is predominantly found in the hilly regions of Nagaland?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Laterite soil"
+        },
+        {
+          "label": "B",
+          "text": "Black soil"
+        },
+        {
+          "label": "C",
+          "text": "Loamy soil"
+        },
+        {
+          "label": "D",
+          "text": "Red soil"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Loamy soil"
+      },
+      "explanation": "Loamy soil, rich in organic matter and derived from weathered rocks, is most common in Nagaland’s hilly areas, suitable for jhum and terrace farming."
+    },
+    {
+      "id": 15,
+      "question": "Which river forms a part of the boundary between Nagaland and Assam?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dhansiri"
+        },
+        {
+          "label": "B",
+          "text": "Dihing"
+        },
+        {
+          "label": "C",
+          "text": "Kopili"
+        },
+        {
+          "label": "D",
+          "text": "Barak"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Dhansiri"
+      },
+      "explanation": "The Dhansiri River marks part of the western boundary between Nagaland and Assam; it is a Brahmaputra tributary."
+    },
+    {
+      "id": 16,
+      "question": "Which of the following best describes the predominant climate of Nagaland?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tropical wet and dry climate"
+        },
+        {
+          "label": "B",
+          "text": "Arid and semi-arid climate"
+        },
+        {
+          "label": "C",
+          "text": "Subtropical highland climate"
+        },
+        {
+          "label": "D",
+          "text": "Humid monsoon climate"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Humid monsoon climate"
+      },
+      "explanation": "Nagaland experiences a humid monsoon climate with heavy rainfall in summer and cool winters, supporting lush forests and rich biodiversity."
+    },
+    {
+      "id": 17,
+      "question": "In which district of Nagaland is the largest natural lake, Shilloi Lake, located?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kohima"
+        },
+        {
+          "label": "B",
+          "text": "Phek"
+        },
+        {
+          "label": "C",
+          "text": "Dimapur"
+        },
+        {
+          "label": "D",
+          "text": "Mokokchung"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Phek"
+      },
+      "explanation": "Shilloi Lake, the largest natural lake in Nagaland, is situated in Phek district."
+    },
+    {
+      "id": 18,
+      "question": "Which mountain pass links Nagaland in India to the Sagaing Region of Myanmar?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dzukou Pass"
+        },
+        {
+          "label": "B",
+          "text": "Saramati Pass"
+        },
+        {
+          "label": "C",
+          "text": "Khonoma Pass"
+        },
+        {
+          "label": "D",
+          "text": "Lungwa Pass"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Lungwa Pass"
+      },
+      "explanation": "Lungwa Pass, near Mon district, connects Nagaland to the Sagaing Region; Longwa village straddles both countries."
+    },
+    {
+      "id": 19,
+      "question": "Which type of natural vegetation predominantly covers the higher altitudes of Nagaland?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Evergreen forests"
+        },
+        {
+          "label": "B",
+          "text": "Pine forests"
+        },
+        {
+          "label": "C",
+          "text": "Bamboo groves"
+        },
+        {
+          "label": "D",
+          "text": "Tropical deciduous forests"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Pine forests"
+      },
+      "explanation": "Pine forests, especially Khasi pine, dominate the higher altitudes of Nagaland and are vital for timber and local livelihoods."
+    },
+    {
+      "id": 20,
+      "question": "Which town in Nagaland is situated at the confluence of the Chathe and Doyang rivers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dimapur"
+        },
+        {
+          "label": "B",
+          "text": "Kohima"
+        },
+        {
+          "label": "C",
+          "text": "Mokokchung"
+        },
+        {
+          "label": "D",
+          "text": "Tuensang"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Dimapur"
+      },
+      "explanation": "Dimapur is located at the junction of the Chathe and Doyang rivers, making it a strategic commercial and ecological hub in Nagaland."
+    }
+  ]
+}

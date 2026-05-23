@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-34-human-body-digestive-system",
+    "title": "34. Human Body - Digestive System",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:59:08"
+  },
+  "questions": [
+    {
+      "id": 4471,
+      "question": "The enzyme \"Diastase\" is secreted in which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oral Cavity"
+        },
+        {
+          "label": "B",
+          "text": "Stomach"
+        },
+        {
+          "label": "C",
+          "text": "Ileum"
+        },
+        {
+          "label": "D",
+          "text": "Duodenum"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Oral Cavity"
+      },
+      "explanation": "The diastase enzyme converts starch into maltose."
+    },
+    {
+      "id": 5501,
+      "question": "Cirrhosis is a disease that affects which among the following organs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kidney"
+        },
+        {
+          "label": "B",
+          "text": "Liver"
+        },
+        {
+          "label": "C",
+          "text": "Pancreas"
+        },
+        {
+          "label": "D",
+          "text": "Small intestine"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Liver"
+      },
+      "explanation": "Cirrhosis is a late stage of scarring (fibrosis) of the liver caused by many forms of liver diseases and conditions. Hepatitis and chronic alcohol abuse are frequent causes. Liver damage caused by cirrhosis can't be undone."
+    },
+    {
+      "id": 5502,
+      "question": "The acidic medium of gastric juice along with an enzyme Pepsin breaks the proteins down into smaller parts known as _____?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Peptides"
+        },
+        {
+          "label": "B",
+          "text": "Peptones"
+        },
+        {
+          "label": "C",
+          "text": "Peptose"
+        },
+        {
+          "label": "D",
+          "text": "Amino Acids"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Peptones"
+      },
+      "explanation": "The acidic medium of gastric juice and the enzyme pepsin break down proteins into smaller parts known as peptones. Pepsin is the main enzyme involved in protein digestion. It breaks down proteins into smaller peptides and amino acids that can be easily absorbed in the small intestine. The gastric juice contains hydrochloric acid, which helps maintain the pH in the range of 1.5 to 2.5. This pH range is very acidic and is necessary for optimum activity of pepsin. The hydrochloric acid converts inactive enzymes (zymogens) into active enzymes. The gastric glands in the stomach secrete the enzyme pepsin. When pepsinogen is released into the stomach and mixed with gastric juice, it is converted into pepsin."
+    },
+    {
+      "id": 5909,
+      "question": "Which organ in herbivorous animals helps in digestion of starch through bacteria?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intestine"
+        },
+        {
+          "label": "B",
+          "text": "Stomach"
+        },
+        {
+          "label": "C",
+          "text": "Caecum"
+        },
+        {
+          "label": "D",
+          "text": "Liver"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Caecum"
+      },
+      "explanation": "The cecum or caecum is a pouch within the peritoneum that is considered to be the beginning of the large intestine. It is that organ in herbivorous animals, which helps in digestion of starch through bacteria."
+    },
+    {
+      "id": 5910,
+      "question": "In which among the following parts of the Alimentary Canal, the Rennin enzyme is secreted?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stomach"
+        },
+        {
+          "label": "B",
+          "text": "Mouth"
+        },
+        {
+          "label": "C",
+          "text": "Pancreas"
+        },
+        {
+          "label": "D",
+          "text": "Duodenum"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Stomach"
+      },
+      "explanation": "Rennin which is also known as Chymosin, is a proteolytic enzyme related to pepsin that is synthesized by chief cells in the stomach of some animals. Its role in digestion is to curdle or coagulate milk in the stomach."
+    }
+  ]
+}

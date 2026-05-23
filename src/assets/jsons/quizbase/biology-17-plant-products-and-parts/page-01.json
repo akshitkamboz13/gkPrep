@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-17-plant-products-and-parts",
+    "title": "17. Plant Products and Parts",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:57:37"
+  },
+  "questions": [
+    {
+      "id": 4223,
+      "question": "From which among the following parts of a plant Cinnamon is obtained?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Leaves"
+        },
+        {
+          "label": "B",
+          "text": "Seeds"
+        },
+        {
+          "label": "C",
+          "text": "Bark"
+        },
+        {
+          "label": "D",
+          "text": "Buds"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Bark"
+      },
+      "explanation": "Cinnamon is obtained from the inner bark of cinnamon trees. Specifically, the bark is peeled off during the rainy season when it is still moist and flexible. After being removed, the bark is processed and dried to produce the spice we recognize as cinnamon."
+    },
+    {
+      "id": 4272,
+      "question": "Opium is obtained from the dry latex from which part of the Papaver somniferum Plant?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stem"
+        },
+        {
+          "label": "B",
+          "text": "Leaves"
+        },
+        {
+          "label": "C",
+          "text": "Poppy"
+        },
+        {
+          "label": "D",
+          "text": "Stem joints"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Poppy"
+      },
+      "explanation": "Opium is dried latex which is obtained from the seed capsules of the opium poppy Papaver somniferum."
+    },
+    {
+      "id": 5608,
+      "question": "Clove is which part of the plant?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Flower bud"
+        },
+        {
+          "label": "B",
+          "text": "Calyx"
+        },
+        {
+          "label": "C",
+          "text": "Inflorescence"
+        },
+        {
+          "label": "D",
+          "text": "fruit"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Flower bud"
+      },
+      "explanation": "Cloves are native to the Maluku Islands (or Moluccas) in Indonesia. They are the aromatic flower buds of a tree in the family Myrtaceae, Syzygium aromaticum. They are generally used as a spice."
+    },
+    {
+      "id": 6740,
+      "question": "In peaches, cherries, plums, and apricots the edible parts are ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "endocarp"
+        },
+        {
+          "label": "B",
+          "text": "mesocarp"
+        },
+        {
+          "label": "C",
+          "text": "exocarp"
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "mesocarp"
+      },
+      "explanation": "In peaches, cherries, plums, and apricots, the edible parts are the mesocarp, which refers to the fleshy part of the fruit that surrounds the endocarp. The endocarp, also known as the stone or pit, is the hard, woody layer that encases the seed of the fruit. While the endocarp is not typically edible, the mesocarp is the part of the fruit that is commonly consumed as food."
+    },
+    {
+      "id": 6745,
+      "question": "Which among the following is aromatic dried flower buds of a tree ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Black pepper"
+        },
+        {
+          "label": "B",
+          "text": "Clove"
+        },
+        {
+          "label": "C",
+          "text": "Cumin"
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Clove"
+      },
+      "explanation": "Cloves are aromatic dried flower buds of a tree. Cloves are native to Indonesia and used as a spice in cuisines all over the world. Cloves are now harvested primarily in Indonesia, Madagascar, Zanzibar, Pakistan, and Sri Lanka; they are also grown in India under the name Lavang."
+    }
+  ]
+}

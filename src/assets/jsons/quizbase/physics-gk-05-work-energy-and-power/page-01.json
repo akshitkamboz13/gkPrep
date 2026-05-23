@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physics-gk-05-work-energy-and-power",
+    "title": "Physics GK 05 - Work, Energy and Power",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:30:10"
+  },
+  "questions": [
+    {
+      "id": 7878,
+      "question": "Newton-meters per second is represented as follows?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ohm"
+        },
+        {
+          "label": "B",
+          "text": "Volt"
+        },
+        {
+          "label": "C",
+          "text": "Watt"
+        },
+        {
+          "label": "D",
+          "text": "Calorie"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Watt"
+      },
+      "explanation": "one watt is the rate at which work is done when an object is moved at a speed of one meter per second against a force of one Newton."
+    },
+    {
+      "id": 11793,
+      "question": "If a moving body turns its speed to 1.5 times, what will be the impact on its kinetic energy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "will become 1.5 times"
+        },
+        {
+          "label": "B",
+          "text": "will become 3 times"
+        },
+        {
+          "label": "C",
+          "text": "will become 2.25 times"
+        },
+        {
+          "label": "D",
+          "text": "will become 6 times"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "will become 2.25 times"
+      },
+      "explanation": "Kinetic Energy is a product of half the Mass times Velocity Squared. When the velocity is doubled, the Kinetic energy would go up four times. If velocity is tripled, kinetic energy would go up nine times. If velocity is increased by 1.5 times the Kinetic energy would go up by 1.5x1.5=2.25 times."
+    },
+    {
+      "id": 20435,
+      "question": "One joule of work is said to be done when__:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a force of 1 dyne causes a displacement of 1 cm."
+        },
+        {
+          "label": "B",
+          "text": "a force of 1 dyne causes a displacement of 1 m."
+        },
+        {
+          "label": "C",
+          "text": "a force of 1 N causes a displacement of 1 cm."
+        },
+        {
+          "label": "D",
+          "text": "a force of 1 N causes a displacement of 1 m."
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "a force of 1 N causes a displacement of 1 m."
+      },
+      "explanation": "The joule is the unit of energy in the International System of Units. It is equal to the work done on an object when a force of one Newton acts on that object in the direction of the force's motion through a distance of one meter. One joule of work is said to be done when a force of 1 N causes a displacement of 1 m."
+    },
+    {
+      "id": 20686,
+      "question": "In recent times, the “dynamic brake system” is becoming popular in modern railways. The dynamic brake system coverts Kinetic energy to__:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Potential energy"
+        },
+        {
+          "label": "B",
+          "text": "Electricity"
+        },
+        {
+          "label": "C",
+          "text": "Sound energy"
+        },
+        {
+          "label": "D",
+          "text": "Magnetic energy"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Electricity"
+      },
+      "explanation": "Modern engines also have, additionally, dynamic brake system which works on the principle of converting kinetic energy of the moving train to electricity making the electric motors to work as generators."
+    },
+    {
+      "id": 20708,
+      "question": "Which among the following provides potential energy to an object?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Its momentum"
+        },
+        {
+          "label": "B",
+          "text": "It's position"
+        },
+        {
+          "label": "C",
+          "text": "It's acceleration"
+        },
+        {
+          "label": "D",
+          "text": "It's shape"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "It's position"
+      },
+      "explanation": "The potential energy is defined as the energy that is stored in an object due to its position. Various types of potential energy include the gravitational potential energy (depends on its mass and its distance from the center of other object's mass), the elastic potential energy, the electric potential energy."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "chemistry-gk-12-acids-bases-and-salts",
+    "title": "Chemistry-12-Acids, Bases and Salts",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:01:50"
+  },
+  "questions": [
+    {
+      "id": 4987,
+      "question": "Which among the following is popularly called Hypo?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Silver Bromide"
+        },
+        {
+          "label": "B",
+          "text": "Silver nitrate"
+        },
+        {
+          "label": "C",
+          "text": "Sodium thiosulphate"
+        },
+        {
+          "label": "D",
+          "text": "Sodium phosphate"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Sodium thiosulphate"
+      },
+      "explanation": "Sodium thiosulfate is an important inorganic salt with several medical uses. It is also called sodium hyposulfite or 'hypo'. It is used in several pharmaceutical preparations and also has various medical properties."
+    },
+    {
+      "id": 4989,
+      "question": "Which among the following element is an essential constituent of acids?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nitrogen"
+        },
+        {
+          "label": "B",
+          "text": "Hydrogen"
+        },
+        {
+          "label": "C",
+          "text": "Oxygen"
+        },
+        {
+          "label": "D",
+          "text": "Helium"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Hydrogen"
+      },
+      "explanation": "Acids are molecules that are able to donate proton or H+ thus, hydrogen is essential for acids. However, there are exception to this such as Bronsted acids. A Bronsted acid is an acid which can accept an electron pair, but does not have a proton (H+) to donate. Examples of such acids are Aluminum Chloride (AlCl3), Boron Trifuoride (BF3)."
+    },
+    {
+      "id": 4990,
+      "question": "Which among the following oxides cause the Acid rain?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbon monoxide and carbon dioxide"
+        },
+        {
+          "label": "B",
+          "text": "Nitrous oxide and sulphur dioxide"
+        },
+        {
+          "label": "C",
+          "text": "Carbon dioxide and nitrous oxide"
+        },
+        {
+          "label": "D",
+          "text": "Sulphur dioxide and carbon monoxide"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Nitrous oxide and sulphur dioxide"
+      },
+      "explanation": "Acid rain is caused by nitrous oxides (NOx) and sulfur dioxide (SO2) emissions, which react with water molecules in the atmosphere to form nitric and sulfuric acids. These acids then fall to the ground in rain, snow, fog, or dust particles."
+    },
+    {
+      "id": 5002,
+      "question": "Which among the following acids is abundant in Grapes, Bananas and Tamarind?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lactic Acid"
+        },
+        {
+          "label": "B",
+          "text": "Oxalic Acid"
+        },
+        {
+          "label": "C",
+          "text": "Salicylic Acid"
+        },
+        {
+          "label": "D",
+          "text": "Tartaric Acid"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Tartaric Acid"
+      },
+      "explanation": "Tartaric acid occurs naturally in many fruits such as grapes, bananas, tamarinds, and citrus. Its salt, potassium bitartrate, commonly known as cream of tartar, develops naturally in the process of winemaking. It is commonly mixed with sodium bicarbonate and is sold as baking powder used as a leavening agent in food preparation. The acid itself is added to foods as an antioxidant E334 and to impart its distinctive sour taste."
+    },
+    {
+      "id": 5011,
+      "question": "The aqueous solution of which among the following acids is called Vinegar?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oxalic acid"
+        },
+        {
+          "label": "B",
+          "text": "Citric acid"
+        },
+        {
+          "label": "C",
+          "text": "Acetic acid"
+        },
+        {
+          "label": "D",
+          "text": "Hydrochloric acid"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Acetic acid"
+      },
+      "explanation": "Acetic acid (CH3COOH) is a weak organic acid that gives vinegar its sour taste. At household concentrations (5-8% acetic acid), it is a mild acid. Vinegar can be made from a variety of base ingredients including wine, apple cider, rice, or malt. The acetic acid is produced by fermentation of the sugars in these ingredients. The most common type of vinegar in households is white distilled vinegar which is typically 4-7% acetic acid. It has a strong, pungent smell and flavor."
+    }
+  ]
+}

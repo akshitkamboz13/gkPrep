@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: February 25, 2026",
+    "date": "2026-02-25",
+    "year": "2026",
+    "month": "02-february",
+    "day": 25,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 05:23:42",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:53:43"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Traditional Knowledge Digital Library is a joint initiative of Council of Scientific and Industrial Research and which ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Health"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of AYUSH"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Science & Technology"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Culture"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ministry of AYUSH"
+      },
+      "explanation": "National Institute of Industrial Property (INPI), Brazil and Council of Scientific and Industrial Research (CSIR), India signed a cooperation arrangement for access to the Traditional Knowledge Digital Library (TKDL). TKDL was established in 2001 by Government of India through CSIR and Ministry of AYUSH. Its main objective is to prevent wrongful patents on Indian traditional knowledge and protect knowledge heritage. It documents Ayurveda, Unani, Siddha, Sowa Rigpa and Yoga from authoritative texts."
+    },
+    {
+      "id": 2,
+      "question": "Lenacapavir drug, that was recently seen in news, is primarily used for the prevention of which disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "HIV infection"
+        },
+        {
+          "label": "B",
+          "text": "Tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Malaria"
+        },
+        {
+          "label": "D",
+          "text": "Hepatitis B"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "HIV infection"
+      },
+      "explanation": "Zimbabwe has started rolling out Lenacapavir for HIV prevention. It is the first twice-yearly injectable pre-exposure prophylaxis (PrEP) for Human Immunodeficiency Virus (HIV). PrEP is a medicine taken by HIV-negative individuals to reduce the risk of HIV infection. Clinical studies show it prevents about 99.9 percent of HIV transmission. It is developed by Gilead Sciences and marketed as Yeztugo. Lenacapavir is a capsid inhibitor that blocks the virus’s protein shell needed for replication."
+    },
+    {
+      "id": 3,
+      "question": "Which state government has launched the Banglar Yuva Sathi Scheme 2026 to support unemployed youth?",
+      "options": [
+        {
+          "label": "A",
+          "text": "West Bengal"
+        },
+        {
+          "label": "B",
+          "text": "Jharkhand"
+        },
+        {
+          "label": "C",
+          "text": "Odisha"
+        },
+        {
+          "label": "D",
+          "text": "Manipur"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "West Bengal"
+      },
+      "explanation": "The Government of West Bengal has launched the Banglar Yuva Sathi Scheme 2026 to support unemployed youth in the state. The scheme was announced by Chief Minister Mamata Banerjee during the state’s interim budget presentation. Under this initiative, eligible unemployed youth will receive a monthly allowance of ₹1,500 as transitional financial support. The scheme aims to assist educated but unemployed individuals by providing a financial support while they search for employment, rather than serving as a permanent income source. Although initially planned for launch in August 2026, the programme has been fast-tracked and will officially begin on April 1, 2026."
+    },
+    {
+      "id": 4,
+      "question": "Which state/UT government launched the CM Jan Sunwai Portal to enable citizens to submit complaints online in February 2026?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Delhi"
+        },
+        {
+          "label": "B",
+          "text": "Uttarakhand"
+        },
+        {
+          "label": "C",
+          "text": "Punjab"
+        },
+        {
+          "label": "D",
+          "text": "Jammu and Kashmir"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Delhi"
+      },
+      "explanation": "The Chief Minister of Delhi, Rekha Gupta, launched the CM Jan Sunwai Portal and a mobile app to enable citizens to submit complaints online. The portal serves as an integrated, user-friendly platform where people can register grievances related to any government department without technical difficulties. Complaints, jurisdictions, and departmental officers have been pre-mapped in the system to ensure clarity and faster resolution. Citizens can file complaints through four modes: the portal, mobile app, call centre (1902), and offline submission at the Chief Minister’s Office. A three-tier grievance redressal system has been introduced, comprising a Grievance Redressal Officer, an Appellate Authority, and a Final Appellate Authority."
+    },
+    {
+      "id": 5,
+      "question": "What is ‘Contarinia icardiflores’ that was recently seen in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fungal disease"
+        },
+        {
+          "label": "B",
+          "text": "Newly discovered species of Frog"
+        },
+        {
+          "label": "C",
+          "text": "Traditional medicine"
+        },
+        {
+          "label": "D",
+          "text": "Newly discovered species of blossom midge"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Newly discovered species of blossom midge"
+      },
+      "explanation": "Scientists from the ICAR-Directorate of Floricultural Research have discovered a new species of blossom midge named Contarinia icardiflores. Contarinia icardiflores is a newly identified species belonging to the genus Contarinia, whose members are small insects recognized as serious pests of ornamental and food crops worldwide. The larvae of this species feed inside flower buds or blossoms, often leading to severe yield losses in agricultural and horticultural crops. The species has been named in honour of ICAR-DFR to acknowledge the institute’s significant contributions to floriculture research."
+    }
+  ]
+}

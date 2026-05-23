@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "oil-and-gas-sector-mcqs-for-ssc-examination",
+    "title": "20. Oil and Gas Sector",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:28:38"
+  },
+  "questions": [
+    {
+      "id": 8731,
+      "question": "What percentage of global oil production is attributed to OPEC?",
+      "options": [
+        {
+          "label": "A",
+          "text": "25%"
+        },
+        {
+          "label": "B",
+          "text": "35%"
+        },
+        {
+          "label": "C",
+          "text": "40%"
+        },
+        {
+          "label": "D",
+          "text": "55%"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "40%"
+      },
+      "explanation": "OPEC accounted for about 40% of global crude oil production as of 2023. OPEC's production ranged near 34 million barrels per day in 2023. The organization also holds over 70% of the world’s proven oil reserves. OPEC was founded in 1960 in Baghdad. Major OPEC members include Saudi Arabia, Iran, Iraq, and Venezuela."
+    },
+    {
+      "id": 29309,
+      "question": "Which is the largest oil refinery in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Panipat Refinery"
+        },
+        {
+          "label": "B",
+          "text": "Jamnagar Refinery"
+        },
+        {
+          "label": "C",
+          "text": "Digboi Refinery"
+        },
+        {
+          "label": "D",
+          "text": "Kochi Refinery"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Jamnagar Refinery"
+      },
+      "explanation": "The Jamnagar Refinery is owned by Reliance Industries and is located in Jamnagar, Gujarat. Its crude oil processing capacity is 1.4 million barrels per day. Commissioned in 1999, the refinery complex includes both domestic and export-oriented refinery units. It has the highest Nelson Complexity Index in India, standing at 21.1."
+    },
+    {
+      "id": 29352,
+      "question": "Which among the following is India’s first Oil refinery?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Guwahati Refinery"
+        },
+        {
+          "label": "B",
+          "text": "Vishakhapatnam Refinery"
+        },
+        {
+          "label": "C",
+          "text": "Digboi Refinery"
+        },
+        {
+          "label": "D",
+          "text": "Barauni Refinery"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Digboi Refinery"
+      },
+      "explanation": "Crude oil was discovered here in late 19th century. Digboi is known as the Oil City of Assam where the first oil well in Asia was drilled. The first refinery was started here as early as 1901. Digboi has the oldest oil Refinery in operation."
+    },
+    {
+      "id": 57929,
+      "question": "Which company operates the largest natural gas pipeline network in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ONGC"
+        },
+        {
+          "label": "B",
+          "text": "IOCL"
+        },
+        {
+          "label": "C",
+          "text": "GAIL"
+        },
+        {
+          "label": "D",
+          "text": "Reliance Industries Ltd"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "GAIL"
+      },
+      "explanation": "GAIL (India) Limited, a government-owned company, owns and operates about 17,000 km of natural gas pipelines across India as of 2026. The network includes major expansions such as the Mumbai-Nagpur-Jharsuguda pipeline. GAIL's pipeline network accounts for approximately 65-70% of the total natural gas pipeline length in the country."
+    },
+    {
+      "id": 71599,
+      "question": "Which is the largest imported commodity of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gold"
+        },
+        {
+          "label": "B",
+          "text": "Crude Oil"
+        },
+        {
+          "label": "C",
+          "text": "Diamonds"
+        },
+        {
+          "label": "D",
+          "text": "Palm Oil"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Gold"
+      },
+      "explanation": "In January 2026, India imported $12.07 billion worth of gold, a 350% yearly increase. Gold imports surpassed those of other commodities, making precious metals the largest import category for that month. In past years, mineral fuels like crude oil constituted about 27% of total imports. Recent ETF investments and high demand increased gold imports more than palm oil or diamonds."
+    }
+  ]
+}

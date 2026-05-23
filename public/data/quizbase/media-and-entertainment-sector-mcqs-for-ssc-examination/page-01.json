@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "media-and-entertainment-sector-mcqs-for-ssc-examination",
+    "title": "30. Media and Entertainment Sector",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:26:57"
+  },
+  "questions": [
+    {
+      "id": 61435,
+      "question": "What is India's global rank in media and entertainment market size?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3"
+        },
+        {
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "label": "C",
+          "text": "2"
+        },
+        {
+          "label": "D",
+          "text": "7"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "5"
+      },
+      "explanation": "India ranks fifth globally in the media and entertainment market size as of 2024. The industry was valued at approximately Rs 2,50,000 crore (US$ 30 billion) during FY24. PwC projections place India as the fifth-largest TV advertising market by 2026, following the US, Japan, China, and the UK. Industry reports project further growth by 2027 without changing this ranking."
+    },
+    {
+      "id": 61436,
+      "question": "Which of the following are components of media?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Radio and Print only"
+        },
+        {
+          "label": "B",
+          "text": "Radio, Digital Marketing, and Print only"
+        },
+        {
+          "label": "C",
+          "text": "Radio, Digital Marketing, VFX, and Print"
+        },
+        {
+          "label": "D",
+          "text": "Digital Marketing and VFX only"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Radio, Digital Marketing, VFX, and Print"
+      },
+      "explanation": "Media includes radio as broadcast media, print as newspapers and magazines, digital marketing as online advertising, and VFX as visual effects in films and digital content. Broadcast, print, digital, and multimedia are standard media categories. VFX technology is widely used in film and television production for digital imagery. All listed options are recognized aspects of modern media."
+    },
+    {
+      "id": 61437,
+      "question": "Which country has the largest daily newspaper circulation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India"
+        },
+        {
+          "label": "B",
+          "text": "China"
+        },
+        {
+          "label": "C",
+          "text": "Japan"
+        },
+        {
+          "label": "D",
+          "text": "USA"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Japan"
+      },
+      "explanation": "The Yomiuri Shimbun in Japan had a circulation of approximately 9,101,000 copies in 2019. The Asahi Shimbun, also published in Japan, had a circulation of 6,622,000 copies. India’s largest daily, Dainik Bhaskar, had a circulation of 3,818,000 copies. USA Today recorded a daily circulation of 4,139,000. China does not have a daily newspaper exceeding Japan’s circulation."
+    },
+    {
+      "id": 61438,
+      "question": "Which country leads in box office revenue worldwide?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India"
+        },
+        {
+          "label": "B",
+          "text": "China"
+        },
+        {
+          "label": "C",
+          "text": "USA"
+        },
+        {
+          "label": "D",
+          "text": "Germany"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "USA"
+      },
+      "explanation": "The United States is the world's largest box office market by revenue as of 2025. Hollywood dominates global box office receipts. Major American studios include Universal Pictures, Warner Bros, and Walt Disney Studios. The Motion Picture Association of America was founded in 1922. U.S. box office revenue in 2023 reached approximately $9 billion. The highest-grossing films are often produced and distributed from the United States."
+    },
+    {
+      "id": 61439,
+      "question": "Which country produces the largest number of films annually?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India"
+        },
+        {
+          "label": "B",
+          "text": "United States"
+        },
+        {
+          "label": "C",
+          "text": "Nigeria"
+        },
+        {
+          "label": "D",
+          "text": "China"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "India"
+      },
+      "explanation": "India produces over 1,500 to 2,000 films annually in languages like Hindi, Tamil, and Telugu. The Central Board of Film Certification regulates film certification in India. The annual production consistently exceeds that of the United States, Nigeria, and China. Nollywood in Nigeria produces 1,000 to 2,500 films yearly, and the United States produces fewer than 1,000 feature films per year."
+    }
+  ]
+}

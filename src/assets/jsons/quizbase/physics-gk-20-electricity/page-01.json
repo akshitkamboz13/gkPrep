@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physics-gk-20-electricity",
+    "title": "Physics GK 20 - Electricity",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:31:39"
+  },
+  "questions": [
+    {
+      "id": 6201,
+      "question": "Which among the following would be most commonly affected, if the filament of a electric Bulb is not uniform?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Light"
+        },
+        {
+          "label": "B",
+          "text": "Life"
+        },
+        {
+          "label": "C",
+          "text": "Resistance"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Life"
+      },
+      "explanation": "If the filament of the bulb is affected then the life of the bulb is affected. Filament is very important for the bulb to function."
+    },
+    {
+      "id": 9083,
+      "question": "Which of the following is an instrument for measuring electric charge or electrical potential difference?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ammeter"
+        },
+        {
+          "label": "B",
+          "text": "Voltmeter"
+        },
+        {
+          "label": "C",
+          "text": "Electrometer"
+        },
+        {
+          "label": "D",
+          "text": "ohmmeter"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Voltmeter"
+      },
+      "explanation": "Voltmeter is an instrument for measuring electric charge or electrical potential difference. It was invented by Hans Christian Oersted."
+    },
+    {
+      "id": 27008,
+      "question": "Which of the following is the commercial unit of electric power?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Joule"
+        },
+        {
+          "label": "B",
+          "text": "KWh"
+        },
+        {
+          "label": "C",
+          "text": "Watt"
+        },
+        {
+          "label": "D",
+          "text": "Ampere"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "KWh"
+      },
+      "explanation": "The commercial unit of electric power or electric energy is s kilowatt hour (kW h) which is commonly known as ‘unit’.1 kWh= 3.6 x 106 Joule. The SI unit of electric power is watt (W)."
+    },
+    {
+      "id": 27011,
+      "question": "Which of the following metals is mostly used for filaments of electric bulbs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Copper"
+        },
+        {
+          "label": "B",
+          "text": "Silver"
+        },
+        {
+          "label": "C",
+          "text": "Nickel"
+        },
+        {
+          "label": "D",
+          "text": "Tungsten"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Tungsten"
+      },
+      "explanation": "Tungsten is mostly used to manufacture filaments of electric bulbs. Among all the metals, Tungsten has the highest melting point. Its symbol is W, its atomic number is 74, and its atomic weight is 183.85. It is used in many other high temperature application because of its high melting point."
+    },
+    {
+      "id": 27016,
+      "question": "Which of the following is true about the force between two point charges as per the Coulomb's law?",
+      "options": [
+        {
+          "label": "A",
+          "text": "inversely as the square of the distance between the charges"
+        },
+        {
+          "label": "B",
+          "text": "directly proportional to the product of the magnitude of the two charges"
+        },
+        {
+          "label": "C",
+          "text": "Both a and b"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Both a and b"
+      },
+      "explanation": "As per Coulomb's law, the force between two point charges varied inversely as the square of the distance between the charges and was directly proportional to the product of the magnitude of the two charges and acted along the line joining the two charges."
+    }
+  ]
+}

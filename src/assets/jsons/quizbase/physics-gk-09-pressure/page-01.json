@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physics-gk-09-pressure",
+    "title": "Physics GK 09 - Pressure",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:30:40"
+  },
+  "questions": [
+    {
+      "id": 5603,
+      "question": "Hydraulic Brakes work on which principle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pascal’s Principle"
+        },
+        {
+          "label": "B",
+          "text": "Archimedes Principle"
+        },
+        {
+          "label": "C",
+          "text": "Newton’s Laws"
+        },
+        {
+          "label": "D",
+          "text": "Casini’s Laws"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Pascal’s Principle"
+      },
+      "explanation": "In 1647 the French scientist Blaise Pascal (1623–1662) discovered that water exerts the same pressure in all directions. This statement is known as Pascal’s Principle. Pascal’s law states that increase in pressure at a point in the enclosed liquid in equilibrium is transmitted equally in all directions in liquid and to the Walls of the container. The working of hydraulic lift, hydraulic press and hydraulic brakes are based on Pascal’s law."
+    },
+    {
+      "id": 6006,
+      "question": "What is the use of Venturimeter?",
+      "options": [
+        {
+          "label": "A",
+          "text": "to measure subdivisions of scale"
+        },
+        {
+          "label": "B",
+          "text": "to measure wavelength of radio wave"
+        },
+        {
+          "label": "C",
+          "text": "To measure friction"
+        },
+        {
+          "label": "D",
+          "text": "to measure rate of flow of fluids"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "to measure rate of flow of fluids"
+      },
+      "explanation": "A Venturimeter is the device used to measure rate of flow of fluids. This device is based on the principle of Bernoulli's Equation."
+    },
+    {
+      "id": 7701,
+      "question": "When a barometer is taken down in a coal mine , which of the following happens with the Mercury level in the tube?",
+      "options": [
+        {
+          "label": "A",
+          "text": "rises"
+        },
+        {
+          "label": "B",
+          "text": "falls"
+        },
+        {
+          "label": "C",
+          "text": "falls then rises"
+        },
+        {
+          "label": "D",
+          "text": "remains unaltered"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "rises"
+      },
+      "explanation": "When a barometer is taken down into a coal mine, the mercury level rises. This is because the temperature increases as you move down the Earth's crust. There is also very little wind, so the warmth can't distribute the temperature and moderate it. A barometer is an instrument that measures pressure. In a coal mine, the pressure is higher than normal pressure. When a barometer is taken down into a coal mine, it shows a greater reading."
+    },
+    {
+      "id": 7702,
+      "question": "Which among the following character of mercury makes it suitable to use in barometers instead of water?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Low density and low vapor pressure"
+        },
+        {
+          "label": "B",
+          "text": "High density and high vapor pressure"
+        },
+        {
+          "label": "C",
+          "text": "Low density and good conductor of heat"
+        },
+        {
+          "label": "D",
+          "text": "High density and low vapor pressure"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "High density and low vapor pressure"
+      },
+      "explanation": "Mercury is typically used in barometers because it is denser and more viscous than water, which makes it more effective at measuring changes in atmospheric pressure. It also has High density and low vapor pressure than water. When atmospheric pressure changes, the mercury in the barometer will either rise or fall in the tube, allowing the barometer to accurately measure the pressure. Additionally, mercury has a lower freezing point and a higher boiling point than water, which makes it less likely to freeze or boil at normal temperatures and therefore more reliable for use in a barometer."
+    },
+    {
+      "id": 7703,
+      "question": "Which of these is in action in the process of a liquid rising in the syringe when the piston is pulled up?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Capillary action"
+        },
+        {
+          "label": "B",
+          "text": "surface tension"
+        },
+        {
+          "label": "C",
+          "text": "atmospheric pressure"
+        },
+        {
+          "label": "D",
+          "text": "cohesive forces"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "atmospheric pressure"
+      },
+      "explanation": "Atmospheric pressure is the force that causes liquid to rise in a syringe when the piston is pulled up. When the syringe is placed with its opening in a liquid and the plunger is pulled up, the air pressure inside the barrel becomes much less than the atmospheric pressure acting on the liquid. Fluids flow from a high pressure area to a low pressure area. Once the pressure inside the syringe is lower than the pressure outside the syringe, the fluid will flow into the syringe."
+    }
+  ]
+}

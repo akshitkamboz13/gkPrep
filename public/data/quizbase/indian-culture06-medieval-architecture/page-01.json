@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-culture06-medieval-architecture",
+    "title": "Indian Culture:06-Medieval Architecture",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:15:34"
+  },
+  "questions": [
+    {
+      "id": 4317,
+      "question": "The temples at Belur, Halebidu and Somnathpura are supreme examples of which among the following types of Temple Architecture?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nagara"
+        },
+        {
+          "label": "B",
+          "text": "Dravida"
+        },
+        {
+          "label": "C",
+          "text": "Gadag"
+        },
+        {
+          "label": "D",
+          "text": "Vesara"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Vesara"
+      },
+      "explanation": "The architecture of the temples at Belur, Halebidu, and Somanathpura epitomizes the Vesara style of Temple Architecture. This style is a unique blend of two major architectural styles - Nagara, native to North India, and Dravida, native to South India. The Vesara style is thus considered a hybrid form, authentic to regions where the influence of these two styles intersect, showing a confluence of northern and southern architectural traditions. This fusion style notably exhibits intricate detailing and complex designs, reflecting the sophisticated craftsmanship of the era."
+    },
+    {
+      "id": 5040,
+      "question": "Which among the following temples does not belong to the Chola Empire?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brihadishwara"
+        },
+        {
+          "label": "B",
+          "text": "Koranganatha"
+        },
+        {
+          "label": "C",
+          "text": "Kailashanatha"
+        },
+        {
+          "label": "D",
+          "text": "Airavateshwar"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Kailashanatha"
+      },
+      "explanation": "Temple Architecture of Cholas : a)Brihadishwara Temple of Tanjore was built by Rajaraja Chola-I. b)Koranganatha Temple,Srinivasanallur was built by Parantaka Chola-I. c)Airavateshwar Temple, Darasuram was built by Rajaraja Chola II Chola-I. »Kailashanatha Temple , Kanchipuram (Tamil Nadu) was built by Pallava King ,Narsimhamvarman. »Kailasanathar Temple of Ellora was built by the Rashtrakuta king Krishna I."
+    },
+    {
+      "id": 5107,
+      "question": "Famous monument Rumi Darwaja is located in which city?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bulandshahar"
+        },
+        {
+          "label": "B",
+          "text": "Bhopal"
+        },
+        {
+          "label": "C",
+          "text": "Lucknow"
+        },
+        {
+          "label": "D",
+          "text": "Murshidabad"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Lucknow"
+      },
+      "explanation": "The Rumi Darwaza was built under the patronage of Nawab Asaf-Ud-daula in 1784 in Lucknow, Uttar Pradesh. It is an example of Awadhi architecture."
+    },
+    {
+      "id": 8363,
+      "question": "Pancha mahal is located in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Agra"
+        },
+        {
+          "label": "B",
+          "text": "Delhi"
+        },
+        {
+          "label": "C",
+          "text": "Fatehpur Sikri"
+        },
+        {
+          "label": "D",
+          "text": "Sikandara"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Fatehpur Sikri"
+      },
+      "explanation": "Panch Mahal is a palace in Fatehpur Sikri, Uttar Pradesh. The Panch Mahal meaning 'Five level Palace' was commissioned by Akbar . This structure stands close to the Zenana quarters which supports the supposition that it was used for entertainment and relaxation."
+    },
+    {
+      "id": 14441,
+      "question": "Which of the following Sikh guru founded Swarna Mandir ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Guru Arjun Dev"
+        },
+        {
+          "label": "B",
+          "text": "Guru Nanak"
+        },
+        {
+          "label": "C",
+          "text": "Guru Govind Singh"
+        },
+        {
+          "label": "D",
+          "text": "Guru Teg Bahadur"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Guru Arjun Dev"
+      },
+      "explanation": "The 5th guru of Sikhs, Guru Arjun Dev ji built the Swarna Mandir (or Golden temple) in Amritsar and compiled Adigranth, the holy scripture of Sikhism. He was executed by Mughal emperor Jahangir on charges of helping his rebel son, Prince Khurram with money and prayer."
+    }
+  ]
+}

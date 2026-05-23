@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-geography-islands-coral-reefs-mangroves-coasts-beaches",
+    "title": "5. Islands, Coral Reefs, Mangroves, Coasts, Beaches",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:18:17"
+  },
+  "questions": [
+    {
+      "id": 4225,
+      "question": "Which among the following Island of the Andaman & Nicobar islands contains the only known examples of mud volcanoes in India, called locally as “jalki”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Baratang Island"
+        },
+        {
+          "label": "B",
+          "text": "Barren Island"
+        },
+        {
+          "label": "C",
+          "text": "Car Nicobar"
+        },
+        {
+          "label": "D",
+          "text": "Havelock Island"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Baratang Island"
+      },
+      "explanation": "Baratang Island, located in the Andaman Islands, contains the only known examples of mud volcanoes in India locally called as jalki."
+    },
+    {
+      "id": 4276,
+      "question": "Narrow water area attached with a main land in the form of channels, known as “Kayals” are found in which among the following states of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Karnataka"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Kerala"
+        },
+        {
+          "label": "D",
+          "text": "Tamil Nadu"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Kerala"
+      },
+      "explanation": "The Malabar coast has got certain distinguishing features in the form of ‘Kayals’ (backwaters), which are used for fishing, inland navigation Every year the famous Nehru Trophy Vallamkali (boat race) is held in Punnamada Kayal in Kerala. Kochchi Port situated at the head of Vembanad Kayal"
+    },
+    {
+      "id": 5096,
+      "question": "Where on the earth is located the Sirohi Point?",
+      "options": [
+        {
+          "label": "A",
+          "text": "North Pole"
+        },
+        {
+          "label": "B",
+          "text": "Indian Ocean"
+        },
+        {
+          "label": "C",
+          "text": "Caribbean Sea"
+        },
+        {
+          "label": "D",
+          "text": "Antarctica"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Antarctica"
+      },
+      "explanation": "Giri Raj Singh Sirohi was the first Indian to set foot on Antarctica, as a part of a research team of United States Antarctic Research Program (USARP) . He had researched in biology in at McMurdo Station, 1960-61, for 100 days at subzero temperatures and the point was named after him by the US Government later."
+    },
+    {
+      "id": 5462,
+      "question": "Which among the following is the coastal water body that lies off the southwest coast of India, north of a line extending from the southern point of Sri Lanka to the southernmost of the Maldives Islands, and east of the Maldives?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Laccadive Sea"
+        },
+        {
+          "label": "B",
+          "text": "Gulf of Mannar"
+        },
+        {
+          "label": "C",
+          "text": "Palk Strait"
+        },
+        {
+          "label": "D",
+          "text": "Minicoy"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Laccadive Sea"
+      },
+      "explanation": "The correct answer is the Laccadive Sea. It is located off the southwest coast of India, bordered by the Maldives to the south and the Indian state of Kerala to the north. The Laccadive Sea is known for its rich marine biodiversity and is part of the larger Indian Ocean. It is also important for its coral reefs and islands, which are part of the Lakshadweep archipelago."
+    },
+    {
+      "id": 5850,
+      "question": "Which maritime channel separates Lakshadweep Islands from the Maliku Atoll?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10° Channel"
+        },
+        {
+          "label": "B",
+          "text": "9° Channel"
+        },
+        {
+          "label": "C",
+          "text": "Coco Channel"
+        },
+        {
+          "label": "D",
+          "text": "Kardiva Channel"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "9° Channel"
+      },
+      "explanation": "The 9° Channel is the maritime boundary that separates the Lakshadweep Islands and Maliku Atoll. The channel is named so because it is located on the 9° North latitude. On the other hand, the 10° Channel is another significant maritime boundary in the Indian Ocean region that separates the Andaman islands from the Nicobar islands, situated on the 10° North latitude. Coco and Kardiva Channels serve their respective geographical divisions, unrelated to the Lakshadweep or Maliku Atoll."
+    }
+  ]
+}

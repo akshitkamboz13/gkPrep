@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-20-chief-minister-state-council-of-m",
+    "title": "Chief Minister & State Council of Ministers",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:20:18"
+  },
+  "questions": [
+    {
+      "id": 5198,
+      "question": "Which of the following is not a function of the Chief Secretary of state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To exercise control over the whole Secretariat"
+        },
+        {
+          "label": "B",
+          "text": "To advise the Chief Minister on all matters related to administration"
+        },
+        {
+          "label": "C",
+          "text": "To act as a spokesman of the State Government"
+        },
+        {
+          "label": "D",
+          "text": "To report to Union Home Minister regarding affairs of the state"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "To report to Union Home Minister regarding affairs of the state"
+      },
+      "explanation": "The key function of the Chief Secretary of state include (1) To exercise control over the whole Secretariat (2) To advise the Chief Minister on all matters related to administration (3) To act as a spokesman of the State Government."
+    },
+    {
+      "id": 8002,
+      "question": "Which among the following is not correctly matched? (Women Chief Ministers)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sucheta kriplani – Uttar Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Nandini Satpathy – Orissa"
+        },
+        {
+          "label": "C",
+          "text": "Sashikala Kakodkar – Goa"
+        },
+        {
+          "label": "D",
+          "text": "All are correct"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "All are correct"
+      },
+      "explanation": "First Women Chief Ministers of Indian states are as follows: State Chief Minister Assam Syeda Anwara Taimur Bihar Rabri Devi Delhi Sushma Swaraj Gujarat Anandiben Patel Goa, Daman & Diu Shashikala Kakodkar Madhya Pradesh Uma Bharti Odisha Nandini Satpathy Punjab Rajinder Kaur Bhattal Rajasthan Vasundhara Raje Tamilnadu Janaki Ramachandran Uttar Pradesh Sucheta Kriplani West Bengal Mamta Banerjee Jammu & Kashmir (erstwhile) Mehbooba Mufti Sayeed"
+    },
+    {
+      "id": 34766,
+      "question": "The Chief Minister of a State in India is NOT eligible to vote in the Presidential election in which of the following situations? (UPSC Prelims 1993)",
+      "options": [
+        {
+          "label": "A",
+          "text": "he himself is a candidate"
+        },
+        {
+          "label": "B",
+          "text": "he is yet to prove his majority on the floor of the Lower House of the State legislature"
+        },
+        {
+          "label": "C",
+          "text": "he is a member of the Upper House of the State legislature"
+        },
+        {
+          "label": "D",
+          "text": "he is a caretaker Chief Minister"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "he is a member of the Upper House of the State legislature"
+      },
+      "explanation": "The President of India is the ceremonial head of state of India and the commander-in-chief of the Indian Armed Forces. The president is indirectly elected by an electoral college. And a chief minister shall not be eligible to vote in the Presidential election if he is a member of the Upper House of the State legislature."
+    },
+    {
+      "id": 44933,
+      "question": "A person who is not a member of the state legislature can be appointed as Chief Minister for how many months?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 months"
+        },
+        {
+          "label": "B",
+          "text": "3 months"
+        },
+        {
+          "label": "C",
+          "text": "4 months"
+        },
+        {
+          "label": "D",
+          "text": "6 months"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "6 months"
+      },
+      "explanation": "A person can appointed as Chief Minister who is not a member of the state legislature for six months, within which, he should be elected to the state legislature, failing which he ceases to be the Chief Minister of the state."
+    },
+    {
+      "id": 44934,
+      "question": "Who administers oath of office and secrecy to the Chief Minister?",
+      "options": [
+        {
+          "label": "A",
+          "text": "President"
+        },
+        {
+          "label": "B",
+          "text": "Governor"
+        },
+        {
+          "label": "C",
+          "text": "Chief Justice of India"
+        },
+        {
+          "label": "D",
+          "text": "Chief Justice of concerned High Court"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Governor"
+      },
+      "explanation": "Before the Chief Minister enters his office, the governor of the concerned state administers to him the oaths of office and secrecy. The Chief Minister swears to not to directly or indirectly communicate or reveal to any person(s) any matter that is brought under his consideration or becomes known to him as a state minister except as may be required for the due discharge of his duties as such minister."
+    }
+  ]
+}

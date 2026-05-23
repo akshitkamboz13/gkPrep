@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "9-national-parks-wildlife-areas-of-india",
+    "title": "9. National Parks, Wildlife Areas of India",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:55:35"
+  },
+  "questions": [
+    {
+      "id": 578,
+      "question": "Which of the following National Parks does not belong to Andaman & Nicobar Islands?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Button Island National Park"
+        },
+        {
+          "label": "B",
+          "text": "Mount Harriet National Park"
+        },
+        {
+          "label": "C",
+          "text": "Mouling National Park"
+        },
+        {
+          "label": "D",
+          "text": "Wandoor Marine National Park"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Mouling National Park"
+      },
+      "explanation": "Button Island National Park: Button Island National Park is located in the Andaman and Nicobar Islands of India. The park is situated on the Button Islands, a group of small islands in the Bay of Bengal. It's a haven for birdwatchers and nature enthusiasts, offering opportunities for trekking, snorkeling, and exploring the underwater world. Mount Harriet National Park: Situated in the Andaman and Nicobar Islands, Mount Harriet National Park is named after the second highest peak in the Andaman archipelago. Mouling National Park: Mouling National Park is located in Arunachal Pradesh. This park is renowned for its lush forests, diverse flora and fauna, and the scenic beauty of the Mouling mountain range. It's a significant habitat for various species of primates, birds, and mammals, including the endangered Mishmi takin. Wandoor Marine National Park: Wandoor Marine National Park is situated in the Andaman and Nicobar Islands. It is famous for its stunning coral reefs and diverse marine life."
+    },
+    {
+      "id": 579,
+      "question": "Which national park in India has a climate that varies from tropical to subtropical, temperate, and even arctic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kanha National Park"
+        },
+        {
+          "label": "B",
+          "text": "Jim Corbett National Park"
+        },
+        {
+          "label": "C",
+          "text": "Bandipur National Park"
+        },
+        {
+          "label": "D",
+          "text": "Namdapha National Park"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Namdapha National Park"
+      },
+      "explanation": "Namdapha National Park, in the state of Arunachal Pradesh, is the only park in India that hosts a wide range of habitats, starting from tropical rainforests to alpine meadows. The park's location in the eastern Himalayas, combined with a wide range in altitude (from 200m to 4571m), leads to this drastic variation."
+    },
+    {
+      "id": 2932,
+      "question": "Clouded Leopard National Park is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jammu & Kashmir"
+        },
+        {
+          "label": "B",
+          "text": "Uttarakhand"
+        },
+        {
+          "label": "C",
+          "text": "Sikkim"
+        },
+        {
+          "label": "D",
+          "text": "Tripura"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Tripura"
+      },
+      "explanation": "Clouded Leopard National Park is located in Tripura. The park is located in the Sepahijala Wildlife Sanctuary, which is in the West Tripura district. The park was established in 2007 and is known for its captive Clouded Leopard enclosures. The park covers an area of about 5.08 square kilometers. The terrain is green year-round and the weather is temperate, except for the humid summer months of March and April. The best time to visit is November to May."
+    },
+    {
+      "id": 3018,
+      "question": "The Indravati National Park (INP) is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chhattisgarh"
+        },
+        {
+          "label": "B",
+          "text": "Karnataka"
+        },
+        {
+          "label": "C",
+          "text": "Punjab"
+        },
+        {
+          "label": "D",
+          "text": "Assam"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Chhattisgarh"
+      },
+      "explanation": "The Indravati National Park (INP) is located in Bijapur district of Chhattisgarh and covers an area of approximately 2799.08 km2. It is home to one of the last populations of rare wild buffalo. The flora in the Indravati National Park is mainly comprises tropical moist and dry deciduous type with predominance of the sal, teak and bamboo trees. It is also home to tigers, leopards, Indian bison, nilgai, blackbuck, chausingha , sambar, chital, Indian muntjac, Indian spotted chevrotain, etc."
+    },
+    {
+      "id": 3098,
+      "question": "The Pin Valley National Park (PVNP) is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": "Arunachal Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Sikkim"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Himachal Pradesh"
+      },
+      "explanation": "The Pin Valley National Park is located within the Lahaul and Spiti district of Himachal Pradesh. The Park forms a natural habitat for a number of endangered animals such as snow leopard and Siberian ibex with its snow laden unexplored higher reaches and slopes."
+    }
+  ]
+}

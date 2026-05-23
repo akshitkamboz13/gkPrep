@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-january-2023",
+    "title": "Current Affairs Quiz - January, 2023",
+    "page": 3,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:46:50",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:54:10"
+  },
+  "questions": [
+    {
+      "id": 21,
+      "question": "‘Nidhi Apke Nikat’ is the outreach program conducted by which institution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IRDAI"
+        },
+        {
+          "label": "B",
+          "text": "PFRDA"
+        },
+        {
+          "label": "C",
+          "text": "EPFO"
+        },
+        {
+          "label": "D",
+          "text": "RBI"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "EPFO"
+      },
+      "explanation": "The Employees Provident Fund Organisation (EPFO) conducts ‘Nidhi Apke Nikat’ outreach program on 10th of every month in all field offices. It aims to expand its reach and attract more participation. Bhavishya Nidhi Adalat, which was a grievance redressal mechanism of EPFO has been renamed as Nidhi Aapke Nikat."
+    },
+    {
+      "id": 22,
+      "question": "Which country is the host of the ‘World Hindi Day Conference 2023’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bangladesh"
+        },
+        {
+          "label": "B",
+          "text": "Maldives"
+        },
+        {
+          "label": "C",
+          "text": "Fiji"
+        },
+        {
+          "label": "D",
+          "text": "Thailand"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Fiji"
+      },
+      "explanation": "World Hindi Day, also known as Vishwa Hindi Diwas, is observed on January 10 every year. The day aims to create awareness and to promote the Hindi language across the world. The theme this year of the conference is ‘Hindi: Traditional Knowledge to Artificial Intelligence’. The World Hindi Day conference is to be held at Nadi, Fiji."
+    },
+    {
+      "id": 23,
+      "question": "Which Union Ministry launched the ‘Statement on climate of India during 2022’ report?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Earth Sciences"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Environment, Forest and Climate Change"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Power"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Home Affairs"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ministry of Earth Sciences"
+      },
+      "explanation": "India Meteorological Department (IMD) under the Ministry of Earth Sciences released the ‘Statement on climate of India during 2022’ report. As per the report, the annual mean land surface air temperature averaged over India during 2022 was +0.510C above the long-term average (1981-2010 period). The year 2022 was the fifth warmest year on record since nationwide records commenced in 1901."
+    },
+    {
+      "id": 24,
+      "question": "Which is the first country to recognise Bitcoin as a legal tender?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iran"
+        },
+        {
+          "label": "B",
+          "text": "Venezuela"
+        },
+        {
+          "label": "C",
+          "text": "El Salvador"
+        },
+        {
+          "label": "D",
+          "text": "Maldives"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "El Salvador"
+      },
+      "explanation": "El Salvador became the first country in the world to recognise Bitcoin as a legal tender two years ago. It has recently approved a law to regulate the issuance of other digital assets by both the state and private entities. The bill aims to attract national and foreign investors while creating new financing opportunities."
+    },
+    {
+      "id": 25,
+      "question": "India’s first 3x platform wind turbine generators (WTG) has been installed in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "B",
+          "text": "Karnataka"
+        },
+        {
+          "label": "C",
+          "text": "Telangana"
+        },
+        {
+          "label": "D",
+          "text": "Odisha"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Karnataka"
+      },
+      "explanation": "ReNew Power has installed India’s first 3x platform wind turbine generators (WTGs) in Gadag, Karnataka. The new wind turbine generators will be a part of the country’s first ‘Round the Clock’ renewable energy project, combining wind, solar and a battery energy storage system (BESS). This project will produce energy to power over 1 million households in India annually."
+    },
+    {
+      "id": 26,
+      "question": "Saunamara, also known as the ‘Hockey Village’, is located in which state/UT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Odisha"
+        },
+        {
+          "label": "B",
+          "text": "West Bengal"
+        },
+        {
+          "label": "C",
+          "text": "Punjab"
+        },
+        {
+          "label": "D",
+          "text": "Haryana"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Odisha"
+      },
+      "explanation": "Saunamara, a small village in Odisha, is also known as ‘Hockey Village’ of India. It is located at 100km from Birsa Munda Stadium, the world’s largest all-seater hockey-specific venue in Rourkela. The village has given more than 60 national team players, both male and female. It has produced several notable hockey players such as Dilip Tirkey, Amit Rohidas, and Subhadra Pradhan. As the village has a lack of proper hockey grounds, an artificial turf is being prepared by next month."
+    },
+    {
+      "id": 27,
+      "question": "Which author has been awarded the ‘Federal Bank Literary Award 2022’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "K Venu"
+        },
+        {
+          "label": "B",
+          "text": "Sreekumaran Thampi"
+        },
+        {
+          "label": "C",
+          "text": "Anwar Ali"
+        },
+        {
+          "label": "D",
+          "text": "M Mukundan"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "K Venu"
+      },
+      "explanation": "K Venu, a noted writer, was awarded the Federal Bank Literary Award 2022 for his autobiography ‘Oranweshananthinte Katha’. The award was presented by Balagopal Chandrasekhar, Chairman and Independent Director of Federal Bank, as a part of the Kerala Literature Festival."
+    },
+    {
+      "id": 28,
+      "question": "When is the ‘National Startup Day’ celebrated every year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "January 6"
+        },
+        {
+          "label": "B",
+          "text": "January 16"
+        },
+        {
+          "label": "C",
+          "text": "January 26"
+        },
+        {
+          "label": "D",
+          "text": "February 6"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "January 16"
+      },
+      "explanation": "The ‘National start-up Day’ is observed every year on January 16, to promote the startup culture at the grassroots level. To celebrate National Startup Day and the Indian startup ecosystem, the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry, is organizing the Startup India Innovation Week."
+    },
+    {
+      "id": 29,
+      "question": "India’s first online gaming Centre of Excellence is to be set up in which state/UT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sikkim"
+        },
+        {
+          "label": "B",
+          "text": "Karnataka"
+        },
+        {
+          "label": "C",
+          "text": "Meghalaya"
+        },
+        {
+          "label": "D",
+          "text": "Gujarat"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Meghalaya"
+      },
+      "explanation": "The Minister of State for Electronics & Information Technology (MeitY) and Skill Development & Entrepreneurship Rajeev Chandrasekhar announced that India’s first Centre of Excellence (CoE) of online gaming will be set up in Shillong, Meghalaya by March 2023. The CoE will be set up under Digital India Startup Hub through the Software Technology Parks of India (STPI). The STPI is an autonomous society in the field of Science and Technology under the MeitY."
+    },
+    {
+      "id": 30,
+      "question": "Which Union Ministry launched the ‘Doppler Weather Radar Systems’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Science and Technology"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Earth Sciences"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Electronics and IT"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Defence"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ministry of Earth Sciences"
+      },
+      "explanation": "Union Minister of State of Earth Sciences Dr Jitendra Singh said that the entire Country will be covered by Doppler Weather Radar Network by 2025 to predict extreme weather events more accurately. The 148th Foundation Day of India Meteorological Department (IMD) was held recently. Dr Jitendra Singh dedicated 4 Doppler Weather Radar Systems to the Western Himalayan States of Jammu and Kashmir, Uttarakhand and Himachal Pradesh and 200 Agro Automated Weather Stations."
+    }
+  ]
+}

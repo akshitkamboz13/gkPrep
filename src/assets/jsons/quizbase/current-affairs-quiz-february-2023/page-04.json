@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-february-2023",
+    "title": "Current Affairs Quiz - February, 2023",
+    "page": 4,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:46:34",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:52:24"
+  },
+  "questions": [
+    {
+      "id": 31,
+      "question": "Lake Huron, which was seen in the news, is located in which region?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oceania"
+        },
+        {
+          "label": "B",
+          "text": "North America"
+        },
+        {
+          "label": "C",
+          "text": "Africa"
+        },
+        {
+          "label": "D",
+          "text": "Asia"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "North America"
+      },
+      "explanation": "Lake Huron is shared by Canada and the United States. It is the third largest of the five lakes by surface area and the fourth largest by volume. It features many islands, with Manitoulin Island being the largest freshwater island in the world. An unidentified flying object was recently shot down over Lake Huron by an American F-16 fighter jet. This is the third such object to be spotted above North American airspace."
+    },
+    {
+      "id": 32,
+      "question": "JANUS-1 Satellite, which was seen in the news, was successfully launched by which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India"
+        },
+        {
+          "label": "B",
+          "text": "USA"
+        },
+        {
+          "label": "C",
+          "text": "UK"
+        },
+        {
+          "label": "D",
+          "text": "Japan"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "India"
+      },
+      "explanation": "The JANUS-1 Satellite is the world’s first cloud-built demonstration satellite. It was fully conceived, designed, and manufactured with Antaris’ end-to-end cloud platform. This satellite was successfully launched recently with the help of the SSLV-D2 rocket developed by the Indian Space Research Organization (ISRO)."
+    },
+    {
+      "id": 33,
+      "question": "Which legislation seeks to combat espionage activities in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Official Secrets Act, 1923"
+        },
+        {
+          "label": "B",
+          "text": "Foreigners Act, 1946"
+        },
+        {
+          "label": "C",
+          "text": "Indian Evidence Act, 1872"
+        },
+        {
+          "label": "D",
+          "text": "Indian Penal Code, 1860"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Official Secrets Act, 1923"
+      },
+      "explanation": "The Official Secrets Act, 1923 is a colonial-era legislation that seeks to combat espionage activities in India. It strongly prohibits activities that involve helping adversary countries against India. It also bans the entry, inspection, or even passing over a prohibited government area or site like an electrical substation. Recently, 10 sensitive installations in 6 states and 1 union territory were declared as out of bounds under the Official Secrets Act."
+    },
+    {
+      "id": 34,
+      "question": "The mPassport Police App was introduced recently by which Union Ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of External Affairs"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Defence"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Home Affairs"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Electronics and IT"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ministry of External Affairs"
+      },
+      "explanation": "The mPassport Police App was introduced recently by the Union External Affairs Ministry. The aim of this application is to simplify and hasten the process of police verification of passport issuance. It will reduce the verification time by five days from the previous verification time of 15 days to complete this process. With this application, the police personnel can submit digital and paperless verification reports via mobile tablets. It was launched for the Delhi Police jurisdiction alone."
+    },
+    {
+      "id": 35,
+      "question": "Which institution is set to provide maintenance and overhaul support for MQ-9B drone engines in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "BHEL"
+        },
+        {
+          "label": "B",
+          "text": "HAL"
+        },
+        {
+          "label": "C",
+          "text": "DRDO"
+        },
+        {
+          "label": "D",
+          "text": "ISRO"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "HAL"
+      },
+      "explanation": "Hindustan Aeronautics Ltd. (HAL) announced that it would provide maintenance and overhaul support for MQ-9B drone engines in India. Hindustan Aeronautics Limited (HAL) and General Atomics announced at Aero India that the turbo-propeller engines which power the MQ-9B Guardian High Altitude Long Endurance (HALE) RPAS will be supported by HAL engine division for Indian market."
+    },
+    {
+      "id": 36,
+      "question": "Kuno National Park, which was seen in the news, is in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "B",
+          "text": "Madhya Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Gujarat"
+        },
+        {
+          "label": "D",
+          "text": "Assam"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Madhya Pradesh"
+      },
+      "explanation": "Kuno National Park is a wildlife sanctuary and national park located in Madhya Pradesh. It is named after the Kuno River and was initially established in 1981 as a wildlife sanctuary. In 2018, it was granted national park status. As part of the Cheetah Reintroduction Project, 12 more cheetahs were released into the Kuno National Park, bringing the total number of cheetahs to 20."
+    },
+    {
+      "id": 37,
+      "question": "‘Rio Carnival’ is an annual festival observed in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Argentina"
+        },
+        {
+          "label": "B",
+          "text": "Brazil"
+        },
+        {
+          "label": "C",
+          "text": "Canada"
+        },
+        {
+          "label": "D",
+          "text": "France"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Brazil"
+      },
+      "explanation": "Rio Carnival is an annual festival that takes place before Lint (a period of abstinence for Christians). The festival is observed in Brazil. Over 40 million people attended the event. During this period, Christians give up certain items and activities to resist personal temptations and reaffirm their spiritual commitments. Rio Carnival commences a week before the Ash Wednesday, which is the first day of Lint. It will mark the end of the Rio Carnival."
+    },
+    {
+      "id": 38,
+      "question": "Lavani Folk Art is a traditional dance form famous in which state/UT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Goa"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Odisha"
+        },
+        {
+          "label": "D",
+          "text": "West Bengal"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Maharashtra"
+      },
+      "explanation": "Lavani folk art is a traditional art form in which women dancers wearing brightly coloured sarees, perform on stage before live audience. This indigenous art form gained popularity during the Peshwa era in the 18th century. There are various sub-genres of Lavani. The most popular among them is the Shringarik or the erotic kind. A younger generation of women dancers is accused of vulgarising the traditional folk-art form."
+    },
+    {
+      "id": 39,
+      "question": "Which state/UT conducts the third phase of ‘Sagar Parikrama’ initiative?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Goa"
+        },
+        {
+          "label": "B",
+          "text": "Gujarat"
+        },
+        {
+          "label": "C",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "D",
+          "text": "Kerala"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Gujarat"
+      },
+      "explanation": "The third phase of ‘Sagar Parikrama’ initiative, which aims to resolve fishermen issues, is set to begin in Gujarat. Sagar Parikrama is a journey across the coastal belt demonstrating solidarity with all fisherpersons, fish farmers as a spirit of 75th Azadi Ka Amrit Mahotsav. It is an initiative of Government of India, aiming to resolve the issues of the fishers and other stakeholders and facilitate their economic upliftment."
+    },
+    {
+      "id": 40,
+      "question": "Rann Utsav, which was seen in the news, is celebrated in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gujarat"
+        },
+        {
+          "label": "B",
+          "text": "Karnataka"
+        },
+        {
+          "label": "C",
+          "text": "Goa"
+        },
+        {
+          "label": "D",
+          "text": "West Bengal"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Gujarat"
+      },
+      "explanation": "Rann Utsav was conceptualised as a three-day festival, which progressively evolved into a 100-day celebration at Dhordo, a village near Rann of Kutch. A whole new tent city has been created, replete with temporary infrastructure built and rebuilt every year. The Vice President Jagdeep Dhankhar arrived in Kutch, Gujarat and participated in the Rann Utsav. It celebrates the nature at the White Desert and the rich cultural and artistic heritage of Kutch."
+    }
+  ]
+}

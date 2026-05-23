@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "medieval-world-history",
+    "title": "Medieval World History",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:27:09"
+  },
+  "questions": [
+    {
+      "id": 59965,
+      "question": "Which of the following statements are correct regarding feudal system of Europe?1. Land was the chief source of wealth and power in the Middle Age.2. Social organization was according to a man's - relation to land. 3. Social status was determined by the conditions in which man held his land and by the extent of that land.Select the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1 & 2"
+        },
+        {
+          "label": "B",
+          "text": "Only 2 & 3"
+        },
+        {
+          "label": "C",
+          "text": "Only 1 & 3"
+        },
+        {
+          "label": "D",
+          "text": "1, 2 & 3"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1, 2 & 3"
+      },
+      "explanation": "Under the feudal system of Europe land was the chief source of wealth and power in the Middle Age. Social organization was according to a man's - relation to land. Social status was determined by the conditions in which man held his land and by the extent of that land."
+    },
+    {
+      "id": 59966,
+      "question": "Which of the following periods is known as the Feudal Age?",
+      "options": [
+        {
+          "label": "A",
+          "text": "9th to 14th century A.D."
+        },
+        {
+          "label": "B",
+          "text": "7th to 10th century A.D."
+        },
+        {
+          "label": "C",
+          "text": "4th to 7th century A.D."
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "9th to 14th century A.D."
+      },
+      "explanation": "The period between the 9th and 14th century A.D. is known as the Feudal Age. Feudalism was essentially an outgrowth in response to the needs and conditions of the times."
+    },
+    {
+      "id": 59967,
+      "question": "The land given to which of the following was termed as fief or feud?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kings"
+        },
+        {
+          "label": "B",
+          "text": "Lords"
+        },
+        {
+          "label": "C",
+          "text": "Peasants"
+        },
+        {
+          "label": "D",
+          "text": "Vassals"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Peasants"
+      },
+      "explanation": "During the age of Feudalism in Europe the land given to the peasants was termed as fief or feud and the produce from the land was enjoyed by the king, the feudal lords and the subjects, as per the contract."
+    },
+    {
+      "id": 59968,
+      "question": "Diemens means which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Land in control of the King"
+        },
+        {
+          "label": "B",
+          "text": "Land in control of the lord"
+        },
+        {
+          "label": "C",
+          "text": "Land in control of the peasants"
+        },
+        {
+          "label": "D",
+          "text": "Land in control of the soilders"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Land in control of the lord"
+      },
+      "explanation": "During the age of Feudalism in Europe, the Lords lived in castles and the vast stretch of land along the castle was called the manor whereas the land in control of the lord was known as diemens."
+    },
+    {
+      "id": 59969,
+      "question": "Power and position in society was based on which of the following during the feudal period in Europe?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Level of education"
+        },
+        {
+          "label": "B",
+          "text": "Number of slaves"
+        },
+        {
+          "label": "C",
+          "text": "Amount of land possessed"
+        },
+        {
+          "label": "D",
+          "text": "Amount of money earned"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Amount of land possessed"
+      },
+      "explanation": "Power and position in society was based on the amount of land possessed, during the feudal period in Europe. After receiving land from the kings, the powerful men, were known as Lords who promised to provide protection and security to the society."
+    }
+  ]
+}

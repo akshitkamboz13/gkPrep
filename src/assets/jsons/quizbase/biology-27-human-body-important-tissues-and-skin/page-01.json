@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-27-human-body-important-tissues-and-skin",
+    "title": "27. Human Body - Important Tissues and Skin",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:58:26"
+  },
+  "questions": [
+    {
+      "id": 4469,
+      "question": "Least generative power is a feature of which among the following cells of Human Body?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brain"
+        },
+        {
+          "label": "B",
+          "text": "Bones"
+        },
+        {
+          "label": "C",
+          "text": "Skin"
+        },
+        {
+          "label": "D",
+          "text": "Liver"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Brain"
+      },
+      "explanation": "The human brain is the central organ of the human nervous system, and with the spinal cord makes up the central nervous system. It is considered to have the Least generative power."
+    },
+    {
+      "id": 6133,
+      "question": "What is the correct sequence of bioelements in the human body in decreasing order?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oxygen, Hydrogen, Carbon, Nitrogen, Calcium, Phosphorus"
+        },
+        {
+          "label": "B",
+          "text": "Oxygen, Carbon, Nitrogen, Hydrogen, Calcium, Phosphorus"
+        },
+        {
+          "label": "C",
+          "text": "Oxygen, Carbon, Hydrogen, Nitrogen, Calcium, Phosphorus"
+        },
+        {
+          "label": "D",
+          "text": "Carbon, Oxygen, Hydrogen, Nitrogen, Calcium, Phosphorus"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Oxygen, Carbon, Hydrogen, Nitrogen, Calcium, Phosphorus"
+      },
+      "explanation": "The total mass of a human body is made up of six key elements: oxygen, carbon, hydrogen, nitrogen, calcium, and phosphorus. These \"bioelements\" make up over 99% of the body mass. Oxygen is the most plentiful, accounting for about 65% of a human's body mass. Carbon and hydrogen follow, then nitrogen, calcium, and phosphorus."
+    },
+    {
+      "id": 6831,
+      "question": "Which among the following cells is capable to develop in any of the type of cell?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Endothelial"
+        },
+        {
+          "label": "B",
+          "text": "Endodermal"
+        },
+        {
+          "label": "C",
+          "text": "Stem"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Stem"
+      },
+      "explanation": "A stem cell is a cell with the unique ability to develop in any of the type of cell. In the future they may be used to replace cells and tissues that have been damaged or lost due to disease."
+    },
+    {
+      "id": 20836,
+      "question": "The phenomenon due to which animal sweat to reduce temperature and change electrolyte concentration is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Homeorhesis"
+        },
+        {
+          "label": "B",
+          "text": "Homeostasis"
+        },
+        {
+          "label": "C",
+          "text": "Apoptosis"
+        },
+        {
+          "label": "D",
+          "text": "Necrobiosis"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Homeostasis"
+      },
+      "explanation": "The phenomenon that causes animals to sweat to reduce temperature and change electrolyte concentration is homeostasis. When core body temperature increases, sweat glands respond by cooling the skin. Blood vessels also dilate, which allows the body to release more heat. Sweating is a rare ability in the animal kingdom. For example, rats don't sweat when their core body temperature rises to 41°C. However, they do sweat in response to pilocarpine and other cholinergic agonists."
+    },
+    {
+      "id": 29245,
+      "question": "What is epidermis made of?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dermatogen"
+        },
+        {
+          "label": "B",
+          "text": "Periblem"
+        },
+        {
+          "label": "C",
+          "text": "Protoderm"
+        },
+        {
+          "label": "D",
+          "text": "Plerome"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Dermatogen"
+      },
+      "explanation": "Dermatogen is the outer primary meristem of a plant or plant part that according to the histogen theory gives rise to epidermis, which is the outermost layer of the skin. Epidermis provides barrier to infection from environmental pathogens."
+    }
+  ]
+}

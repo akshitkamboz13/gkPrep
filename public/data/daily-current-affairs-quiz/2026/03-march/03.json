@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: March 3, 2026",
+    "date": "2026-03-03",
+    "year": "2026",
+    "month": "03-march",
+    "day": 3,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 04:23:03",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:53:26"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Tomahawk cruise missile has been developed by which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iran"
+        },
+        {
+          "label": "B",
+          "text": "Israel"
+        },
+        {
+          "label": "C",
+          "text": "United States"
+        },
+        {
+          "label": "D",
+          "text": "Ukraine"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "United States"
+      },
+      "explanation": "The United States carried out strikes on Iranian targets using advanced weapons, including Tomahawk cruise missiles, stealth fighter jets, B-2 bombers, and low-cost one-way attack drones. Tomahawk is an United States of American (USA)-made long-range subsonic cruise missile used for deep land attack. It is launched from ships or submarines through a Vertical Launch System. It was first developed in the 1970s during the Cold War. It can carry a 1,000-pound conventional warhead or cluster munitions. It uses solid propellant at launch and later a turbofan engine, reducing infrared detection."
+    },
+    {
+      "id": 2,
+      "question": "Debrigarh Wildlife Sanctuary, which recently hosted the Indian Bison Fest, is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "B",
+          "text": "Karnataka"
+        },
+        {
+          "label": "C",
+          "text": "Madhya Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Odisha"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Odisha"
+      },
+      "explanation": "Debrigarh Wildlife Sanctuary hosted the second edition of the two-day Indian Bison Fest. It is located in Bargarh district of Odisha near Hirakud Dam on the Mahanadi River. Hirakud Dam is the longest dam in India and the longest earthen dam in the world. The sanctuary is linked with freedom fighter Veer Surendra Sai, whose base at Barapathara was here during revolt against British rule."
+    },
+    {
+      "id": 3,
+      "question": "India Meteorological Department (IMD) functions under which ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Environment, Forest and Climate Change"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Science and Technology"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Earth Sciences"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Agriculture and Farmers Welfare"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Ministry of Earth Sciences"
+      },
+      "explanation": "India Meteorological Department has forecast above-normal heatwave days across most parts of India from March to May. It was established in 1875. It is the National Meteorological Service of India. It works under the Ministry of Earth Sciences. The headquarter is located in New Delhi, with observation stations across India and Antarctica."
+    },
+    {
+      "id": 4,
+      "question": "The Eligible Manufacturer Importers (EMI) Scheme has been launched by which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reserve Bank of India"
+        },
+        {
+          "label": "B",
+          "text": "Central Board of Indirect Taxes and Customs"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Commerce and Industry"
+        },
+        {
+          "label": "D",
+          "text": "Securities and Exchange Board of India"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Central Board of Indirect Taxes and Customs"
+      },
+      "explanation": "Central Board of Indirect Taxes and Customs has issued guidelines for the Eligible Manufacturer Importers (EMI) scheme. The Eligible Manufacturer Importers (EMI) Scheme has been launched by the Central Board of Indirect Taxes and Customs (CBIC). It is a trust-based facilitation measure for compliant manufacturers. EMI allows importers to clear goods without paying Customs duty at clearance. Duty can be paid monthly under Deferred Payment of Import Duty Rules, 2016. Scheme is valid from 1 April 2026 to 31 March 2028. It ensures faster clearance, priority treatment, ease of doing business, and promotes domestic manufacturing."
+    },
+    {
+      "id": 5,
+      "question": "Tamil Nadu’s first Dark Sky Park has been established at which place?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Coonoor"
+        },
+        {
+          "label": "B",
+          "text": "Kolli Hills"
+        },
+        {
+          "label": "C",
+          "text": "Kodaikanal"
+        },
+        {
+          "label": "D",
+          "text": "Yercaud"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Kolli Hills"
+      },
+      "explanation": "Tamil Nadu launched its first Dark Sky Park at Ariyur Shola Reserve Forest in Kolli Hills, Namakkal district to promote astro-tourism. It was inaugurated remotely from Chennai by Forest Minister R S Rajakannappan. Kolli Hills was selected due to high altitude, dense forest cover and minimal light pollution within 1.5 km radius. The park enables clear viewing of stars, planets, Milky Way galaxy and the Moon."
+    }
+  ]
+}

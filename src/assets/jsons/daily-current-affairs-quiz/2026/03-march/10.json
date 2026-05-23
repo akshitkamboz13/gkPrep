@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: March 10, 2026",
+    "date": "2026-03-10",
+    "year": "2026",
+    "month": "03-march",
+    "day": 10,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 04:33:15",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:53:07"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Human Metapneumovirus (HMPV) has recently spread rapidly across the West Coast of which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Canada"
+        },
+        {
+          "label": "B",
+          "text": "United States"
+        },
+        {
+          "label": "C",
+          "text": "Australia"
+        },
+        {
+          "label": "D",
+          "text": "United Kingdom"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "United States"
+      },
+      "explanation": "Human Metapneumovirus (HMPV) is a highly contagious respiratory virus spreading rapidly on the West Coast of the United States (US). It belongs to the Pneumoviridae family, which also includes Respiratory Syncytial Virus (RSV). It mainly causes common cold–like respiratory illness. The virus spreads through air via coughing and sneezing, close personal contact, and touching contaminated surfaces then touching face. Common symptoms include cough, fever, nasal congestion, and shortness of breath. In severe cases, it may lead to bronchitis or pneumonia. No vaccine or specific antiviral treatment; care focuses on symptom management and preventing complications."
+    },
+    {
+      "id": 2,
+      "question": "Stenothoe lowryi is a rare shrimp-like marine crustacean recently recorded in which Indian state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Odisha"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Karnataka"
+        },
+        {
+          "label": "D",
+          "text": "Kerala"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Odisha"
+      },
+      "explanation": "Stenothoe lowryi is a rare shrimp-like marine crustacean recently recorded in India for the first time. It was discovered at Arjyapalli Beach by researchers from Berhampur University, Odisha. Earlier, the species was known only from Malaysia waters. It belongs to family Stenothoidae under the order Amphipoda. Amphipods are small invertebrate crustaceans related to crabs, lobsters, and shrimp. They live in oceans, lakes, rivers, beaches, caves, and moist tropical habitats. The name Amphipoda means “different-footed” because they have different types of legs."
+    },
+    {
+      "id": 3,
+      "question": "Kheybar Shekan Missile is a long-range solid-fuel ballistic missile developed by which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iran"
+        },
+        {
+          "label": "B",
+          "text": "Russia"
+        },
+        {
+          "label": "C",
+          "text": "Ukraine"
+        },
+        {
+          "label": "D",
+          "text": "Israel"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Iran"
+      },
+      "explanation": "Kheybar Shekan Missile is a long-range solid-fuel ballistic missile developed by the Islamic Revolutionary Guard Corps (IRGC) of Iran. Recently, Iran claimed that IRGC used Kheybar Shekan missiles to target the office of Israeli Prime Minister Benjamin Netanyahu and an Israeli Air Force command centre. The missile belongs to the Khorramshahr missile family and represents an advanced generation of Iran’s missile system. It has an approximate range of about 1,450 kilometres, enabling strikes across much of the Middle East region. It uses solid fuel technology, which allows faster launch preparation, easier storage, and improved mobility."
+    },
+    {
+      "id": 4,
+      "question": "Which organization recently dismantled the pan-India drug distribution network named “Team Kalki”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Central Bureau of Investigation"
+        },
+        {
+          "label": "B",
+          "text": "Narcotics Control Bureau"
+        },
+        {
+          "label": "C",
+          "text": "National Investigation Agency"
+        },
+        {
+          "label": "D",
+          "text": "None of the Above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Narcotics Control Bureau"
+      },
+      "explanation": "Narcotics Control Bureau busted a pan-India drug network “Team Kalki” operating on darknet platforms and the Session since January 2025. Authorities seized 13 domestic parcels and 2 parcels from the Netherlands containing narcotic drugs. NCB, under the Ministry of Home Affairs, was established under the Narcotic Drugs and Psychotropic Substances Act, 1985 to enforce drug laws and coordinate intelligence."
+    },
+    {
+      "id": 5,
+      "question": "What is the main objective of the BharatNet project?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Providing satellite communication to defence forces"
+        },
+        {
+          "label": "B",
+          "text": "Providing broadband connectivity to all Gram Panchayats in India"
+        },
+        {
+          "label": "C",
+          "text": "Establishing 5G networks in metropolitan cities"
+        },
+        {
+          "label": "D",
+          "text": "Expanding digital banking services in rural areas"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Providing broadband connectivity to all Gram Panchayats in India"
+      },
+      "explanation": "BharatNet Project recently helped expand optical fibre networks, 5G services, and digital public infrastructure to over 2.15 lakh Gram Panchayats (GPs) in India. It is a Government of India project aimed at providing broadband connectivity to all Gram Panchayats in rural areas. The objective is to provide open broadband access to telecom service providers such as mobile operators, Internet Service Providers (ISPs), cable television operators, and content providers. This supports services like e-health, e-education, and e-governance in rural and remote regions."
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-march-2024",
+    "title": "Current Affairs Quiz - March, 2024",
+    "page": 3,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:47:35",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:59:22"
+  },
+  "questions": [
+    {
+      "id": 21,
+      "question": "‘Gorsam Kora festival 2024’, recently seen in the news, is celebrated in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assam"
+        },
+        {
+          "label": "B",
+          "text": "Arunachal Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Manipur"
+        },
+        {
+          "label": "D",
+          "text": "Mizoram"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Arunachal Pradesh"
+      },
+      "explanation": "The Gorsam Kora festival recently concluded in Arunachal Pradesh’s Tawang district, featuring the theme ‘Zero Waste Festival.’ Held at the Gorsam Chorten, a 93 feet tall Stupa built in the 13th century by Lama Pradhar, the event was organized by the Zemithang community in collaboration with civil authorities. Zemithang Valley holds historical significance as the 14th Dalai Lama found refuge there in 1959. Devotees, including Bhutanese nationals, attend the festival on the last day of the first month of the Lunar calendar."
+    },
+    {
+      "id": 22,
+      "question": "Recently, where was the National Dairy Mela & Agricultural Exhibition inaugurated?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Odisha"
+        },
+        {
+          "label": "B",
+          "text": "Chattisgarh"
+        },
+        {
+          "label": "C",
+          "text": "Jharkhand"
+        },
+        {
+          "label": "D",
+          "text": "Bihar"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Jharkhand"
+      },
+      "explanation": "Union Minister Arjun Munda inaugurated the 3-day National Dairy Mela in Chaibasa, Jharkhand, organized by the National Dairy Research Institute. The first-of-its-kind event in Jharkhand aims to enhance livestock and agriculture development in tribal areas, attracting over 6,000 participants, including cattle rearers, farmers, entrepreneurs, students, and government officials."
+    },
+    {
+      "id": 23,
+      "question": "Recently, the government is planning to implement a new highway toll collection system based on which technology?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Radio-Frequency Identification"
+        },
+        {
+          "label": "B",
+          "text": "Global Navigation Satellite System"
+        },
+        {
+          "label": "C",
+          "text": "Near Field Communication"
+        },
+        {
+          "label": "D",
+          "text": "Barcode Scanning"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Global Navigation Satellite System"
+      },
+      "explanation": "The government plans to introduce a new highway toll collection system using the global navigation satellite system. The objective is to enable pay-as-you-use tolling, allowing users to pay based on actual distance traveled. The system involves an On-Board Unit (OBU) inside vehicles, utilizing GAGAN for accurate location tracking. Digital image processing will log national highway coordinates, assigning toll rates through software to calculate and deduct toll amounts from a linked OBU wallet based on distance traveled."
+    },
+    {
+      "id": 24,
+      "question": "Recently, which state/UT conducted All-Women Maritime Surveillance Mission?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Andaman & Nicobar"
+        },
+        {
+          "label": "B",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "C",
+          "text": "Lakshadweep"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Andaman & Nicobar"
+      },
+      "explanation": "The Andaman & Nicobar Command marked the 40th anniversary of INAS 318 and International Women’s Day with a historic all-women maritime surveillance mission. The crew, consisting of Lt Cdr Shubhangi Swaroop, Lt Cdr Divya Sharma, and Lt Vaishali Mishra, showcased women’s pivotal role in the Naval Air Arm. The event emphasized gender equality, as women officers handled pre-flight briefing, meteorological briefing, medical check-up, and Air Traffic Control. The mission’s success reaffirms women’s capability in executing independent operational tasks, reinforcing their crucial contributions to national defense."
+    },
+    {
+      "id": 25,
+      "question": "Recently, where is North India’s first Government Homeopathic College being established?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Jammu and Kashmir"
+        },
+        {
+          "label": "C",
+          "text": "Haryana"
+        },
+        {
+          "label": "D",
+          "text": "Uttarakhand"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Jammu and Kashmir"
+      },
+      "explanation": "North India’s first government homeopathic college is being established in the Jasrota area of Kathua district in Jammu and Kashmir. The college will be centrally funded and cost around Rs 80 crore. The college will have a hospital complex, administrative block, and hostels for male and female students. The project aims to integrate traditional Indian medicine with allopathy, providing cost-effective healthcare solutions."
+    },
+    {
+      "id": 26,
+      "question": "Blue Line term, recently seen in the news, serves as the boundary between which of the following two countries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "North Korea and South Korea"
+        },
+        {
+          "label": "B",
+          "text": "Lebanon and Israel"
+        },
+        {
+          "label": "C",
+          "text": "India and China"
+        },
+        {
+          "label": "D",
+          "text": "Sudan and Libya"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Lebanon and Israel"
+      },
+      "explanation": "US envoy Amos Hochstein underscores the need for diplomatic resolution to quell rising tensions between Israel and Hezbollah along the Blue Line, UN-demarcated boundary separating Lebanon and Israel. Established in 2000 after Israel’s withdrawal from southern Lebanon, the Blue Line aims to prevent conflicts and facilitate security arrangements in the region."
+    },
+    {
+      "id": 27,
+      "question": "According to recent released CEEW’s report, which of the following states have been placed on the top in water management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maharashtra, Tamil Nadu and Kerala"
+        },
+        {
+          "label": "B",
+          "text": "Madhya Pradesh, Bihar and Jharkhand"
+        },
+        {
+          "label": "C",
+          "text": "Haryana, Karnataka and Punjab"
+        },
+        {
+          "label": "D",
+          "text": "Uttar Pradesh, Gujarat and Rajasthan"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Haryana, Karnataka and Punjab"
+      },
+      "explanation": "Council on Energy, Environment and Water (CEEW’s) report on used water management spotlights Haryana, Karnataka, and Punjab as leaders in the country. Urban water demand rises while groundwater levels dwindle. Urban Local Bodies (ULBs) require enhanced treatment and reuse infrastructure. Financial constraints hinder 90% of ULBs. Merely 28% of 72,000 million liters of used water is treated. CEEW proposes a Municipal Used Water Management (MUWM) Index to prioritize treatment and reuse, aiming to address the pressing water crisis."
+    },
+    {
+      "id": 28,
+      "question": "Recently, which ministry inaugurated the Credit Assistance Program for Jan Aushadhi Kendras?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Chemicals & Fertilizers"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Minority Affairs"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Rural Development"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Earth Sciences"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ministry of Chemicals & Fertilizers"
+      },
+      "explanation": "Dr. Mansukh Mandaviya, Minister of Chemicals & Fertilizers has initiated a Credit Assistance Program for Jan Aushadhi Kendras, aiming to bolster the network nationwide. From 80 Kendras in 2014, there are now over 11,000 operational units. An estimated 10 to 12 lakh people visit these Kendras daily, accessing affordable medicines. The MoU between SIDBI and PMBI promises project loans up to Rs. 2 lakhs at competitive rates, benefiting small entrepreneurs and modernizing Kendra networks."
+    },
+    {
+      "id": 29,
+      "question": "Recently, the Indian Navy has set up its first independent headquarters named ‘Nausena Bhawan’ at which place?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Delhi"
+        },
+        {
+          "label": "B",
+          "text": "Mumbai"
+        },
+        {
+          "label": "C",
+          "text": "Chennai"
+        },
+        {
+          "label": "D",
+          "text": "Jaipur"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Delhi"
+      },
+      "explanation": "Union Defence Minister Rajnath Singh inaugurated Nausena Bhawan, Indian Navy’s new headquarters at Delhi Cantonment, consolidating operations from 13 locations. The building, selected through a nationwide competition, features three wings across four stories, incorporating innovative technologies for efficiency and sustainability. This marks the Navy’s first independent HQ in Delhi, emphasizing functionality and aesthetics in its architectural design."
+    },
+    {
+      "id": 30,
+      "question": "Bannerghatta Biological Park, recently seen in the news, is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kerala"
+        },
+        {
+          "label": "B",
+          "text": "Karnataka"
+        },
+        {
+          "label": "C",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "D",
+          "text": "Odisha"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Karnataka"
+      },
+      "explanation": "Bannerghatta Biological Park, established in 1971 in Bengaluru, Karnataka, is unaffected by the city’s water crisis due to its location on the outskirts. Declared a biological reserve in 2002, it boasts India’s first fenced forested elephant sanctuary. Notably, it inaugurated India’s first butterfly enclosure in 2006. The park is graced by the Suvarnamukhi stream flowing through it, enhancing its biodiversity and natural charm."
+    }
+  ]
+}

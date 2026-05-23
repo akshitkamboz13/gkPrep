@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "43-sangam-age",
+    "title": "40. Sangam Age",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:54:25"
+  },
+  "questions": [
+    {
+      "id": 1967,
+      "question": "Who was the author of the Jivaka Chintamani?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Perudevanar"
+        },
+        {
+          "label": "B",
+          "text": "Seethalai Saathanaar"
+        },
+        {
+          "label": "C",
+          "text": "Tiruttakrdeva"
+        },
+        {
+          "label": "D",
+          "text": "Ilango Adigal"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Tiruttakrdeva"
+      },
+      "explanation": "The epic tamil poem, Jivaka Cintamani (also known as Civaka Cintamani) is a Jain religious epic authored by jain saint Tiruttakrdeva. This epic is considered one of the classic epics of Sangam Literature. The poem means “fabulous gem”and is also known as Manannul (Book of Marriages)."
+    },
+    {
+      "id": 1968,
+      "question": "Which of the following ancient Tamil Kingdoms came to be known from Sangam Literature?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chola"
+        },
+        {
+          "label": "B",
+          "text": "Chera"
+        },
+        {
+          "label": "C",
+          "text": "Pandya"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "All of the above"
+      },
+      "explanation": "The history of ancient Tamil kingdoms i.e. Cholas, Cheras and Pandyas came to be known from Sangam Literature."
+    },
+    {
+      "id": 1970,
+      "question": "Who was the author of the book ‘Silappadikarma’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ilango Adigal"
+        },
+        {
+          "label": "B",
+          "text": "Seethalai Saathanaar"
+        },
+        {
+          "label": "C",
+          "text": "Perudevanar"
+        },
+        {
+          "label": "D",
+          "text": "Tiruttakrdeva"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ilango Adigal"
+      },
+      "explanation": "The author of an epic Silappadikarma is Ilango Adigal. The epic deals with the love story of Kovalan (Son of a wealthy merchant in Puhar )and Madhavi (a beautiful courtesan dancer) of Kaveripattinam. It is also called Illiyad of Tamil Poetry."
+    },
+    {
+      "id": 1972,
+      "question": "In Sangam age, the book ‘Bharatam’ was written by__?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Perudevanar"
+        },
+        {
+          "label": "B",
+          "text": "Manimekalai"
+        },
+        {
+          "label": "C",
+          "text": "Seethalai Saathanaar"
+        },
+        {
+          "label": "D",
+          "text": "Tiruttakrdeva"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Perudevanar"
+      },
+      "explanation": "The book, ‘ Bharatam’ was written by Perudevanar. The author had also composed the invocatory versus for the Sangam classics Ahnanuru, Puranamuru, Kuruntogai, Narrinai and Aingurunuru."
+    },
+    {
+      "id": 1973,
+      "question": "Where was the first Tamil Sangam held__?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Madurai"
+        },
+        {
+          "label": "B",
+          "text": "Kapatpuram"
+        },
+        {
+          "label": "C",
+          "text": "Kaveripattnam"
+        },
+        {
+          "label": "D",
+          "text": "Kural"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Madurai"
+      },
+      "explanation": "The first tamil Sangam was held to the south of Madurai under the patronage of Makeerthy, the Pandyan king. Agastya was the president of first sangam. Unfortunately, no literary work of this Sangam was available. The second tamil Sangam was held in Kapatpuram, second capital of the Pandyas. The third Tamil Sangam was held in Madurai. Its chairman was a tamil poet Nakkirar."
+    }
+  ]
+}

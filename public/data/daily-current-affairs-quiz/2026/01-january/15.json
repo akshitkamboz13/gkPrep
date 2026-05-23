@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: January 15, 2026",
+    "date": "2026-01-15",
+    "year": "2026",
+    "month": "01-january",
+    "day": 15,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 05:25:40",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:55:41"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "The Zanskar River, that was recently seen in news, is a tributary of which major river system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ganga"
+        },
+        {
+          "label": "B",
+          "text": "Indus"
+        },
+        {
+          "label": "C",
+          "text": "Brahmaputra"
+        },
+        {
+          "label": "D",
+          "text": "Narmada"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Indus"
+      },
+      "explanation": "The Chadar trek on the frozen Zanskar River in Ladakh was postponed due to weak ice formation, disappointing adventure tourists. The Zanskar River is a major left-bank tributary of the Indus River and flows entirely within the Union Territory of Ladakh. It drains the remote and cold Zanskar Valley in the north-western Himalayas. The river originates at high Himalayan ranges from two main branches. One branch is the Doda River, rising near Pansi La Pass. The other branch forms from the Kargyag River near Shingo La and the Tsarap River near Baralacha La. It flows north-west and joins the Indus River near Nimmu at about 3,100 metres elevation."
+    },
+    {
+      "id": 2,
+      "question": "The Valley of Flowers National Park is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Uttarakhand"
+        },
+        {
+          "label": "C",
+          "text": "Kerala"
+        },
+        {
+          "label": "D",
+          "text": "Sikkim"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Uttarakhand"
+      },
+      "explanation": "A forest fire has been raging for five days in the Valley of Flowers, a United Nations Educational, Scientific and Cultural Organization (UNESCO) World Heritage Site, prompting Uttarakhand authorities to seek Indian Air Force (IAF) assistance. The Valley of Flowers National Park is located in Chamoli district of Uttarakhand and covers about 87 square kilometres. It was discovered in 1931 by British mountaineers led by Frank S. Smythe. The park is a core zone of the Nanda Devi Biosphere Reserve along with Nanda Devi National Park. It forms a transition zone between the Zanskar and Great Himalayan ranges. The area is famous for alpine meadows, rich biodiversity, scenic beauty, and snow-covered Himalayan peaks."
+    },
+    {
+      "id": 3,
+      "question": "Menkes disease, that was recently seen in news, is primarily associated with impaired metabolism of which micronutrient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iron"
+        },
+        {
+          "label": "B",
+          "text": "Copper"
+        },
+        {
+          "label": "C",
+          "text": "Zinc"
+        },
+        {
+          "label": "D",
+          "text": "Calcium"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Copper"
+      },
+      "explanation": "The United States Food and Drug Administration (FDA) approved Zycubo, a copper histidinate injection, as the first treatment for Menkes disease in children. Menkes disease is a rare genetic disorder that affects the body’s ability to process copper. It is caused by mutation of the ATP7A gene located on the X chromosome, affecting copper transport and balance. Copper is essential for metabolism, brain function, blood formation, immunity, wound healing, and iron use. The disease leads to low copper levels in blood, liver, and brain, reducing copper-dependent enzyme activity."
+    },
+    {
+      "id": 4,
+      "question": "What is the primary objective of the PRAGATI platform?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Provide financial assistance to States"
+        },
+        {
+          "label": "B",
+          "text": "Conduct parliamentary discussions"
+        },
+        {
+          "label": "C",
+          "text": "Draft new government policies"
+        },
+        {
+          "label": "D",
+          "text": "Monitor and review key government programmes and resolve grievances"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Monitor and review key government programmes and resolve grievances"
+      },
+      "explanation": "PRAGATI, the Prime Minister’s flagship platform for Pro-Active Governance and Timely Implementation, recently completed its 50th meeting. PRAGATI is an integrated and interactive system to resolve public grievances and monitor key Central and State Government projects. It promotes electronic transparency and electronic accountability through real-time interaction among stakeholders. The platform was launched on 25 March 2015. It was designed in-house by the Prime Minister’s Office (PMO) with support from the National Informatics Centre (NIC). It enables the Prime Minister to directly review projects with live data and visual evidence. The platform integrates digital data management, video conferencing, and geospatial technology."
+    },
+    {
+      "id": 5,
+      "question": "Which organization launched the National Olympic Education and Development Programme (NOEDP)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Youth Affairs and Sports"
+        },
+        {
+          "label": "B",
+          "text": "Indian Olympic Association"
+        },
+        {
+          "label": "C",
+          "text": "Sports Authority of India"
+        },
+        {
+          "label": "D",
+          "text": "None of the Above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Indian Olympic Association"
+      },
+      "explanation": "The Indian Olympic Association (IOA) launched the National Olympic Education and Development Programme (NOEDP) and reactivated the National Olympic Academy (NOA) to strengthen India’s Olympic movement. The decisions were approved in January meetings held in Ahmedabad. NOEDP is a national framework for structured Olympic education and development across all levels of sport. It will be implemented with National Sports Federations (NSFs) and State Olympic Associations (SOAs). The NOA will serve as the central institution for Olympic education, research, and athlete development. It will support athletes in education, leadership, values, and career transition."
+    }
+  ]
+}

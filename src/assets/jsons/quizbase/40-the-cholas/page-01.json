@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "40-the-cholas",
+    "title": "38. The Cholas",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:54:15"
+  },
+  "questions": [
+    {
+      "id": 1823,
+      "question": "Which of the following Chola kings was the first to capture Maldives?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajaraja"
+        },
+        {
+          "label": "B",
+          "text": "Rajendra I"
+        },
+        {
+          "label": "C",
+          "text": "Rajadhiraja"
+        },
+        {
+          "label": "D",
+          "text": "Rajendra II"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Rajaraja"
+      },
+      "explanation": "Rajaraja Chola I laid the foundation for the growth of the Chola kingdom into an empire, by conquering the kingdoms of southern India and the Chola Empire expanded as far as Sri Lanka in the south, and Kalinga (Orissa) in the northeast. He conquered Sri Lanka, the Maldives, Sumatra and other places in Malay Peninsula. The naval conquest of the ‘old islands of the sea numbering 12,000’, the Maldives marked one of the conquests of Rajaraja. Rajaraja I built a strong navy with the aim of controlling the sea."
+    },
+    {
+      "id": 1870,
+      "question": "Which of the following Pallava rulers invaded the Chalukya Kingdom and captured Badami ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Narsimhavarman I"
+        },
+        {
+          "label": "B",
+          "text": "Kirtivarman"
+        },
+        {
+          "label": "C",
+          "text": "Vishnuvardhan"
+        },
+        {
+          "label": "D",
+          "text": "Mahendravarnan I"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Narsimhavarman I"
+      },
+      "explanation": "In the Battle of Vatapi, the Pallava ruler Narsimhavarman I defeated and killed Pulakesin II and captured the Chalukyan capital, Badami in 642 AD. Thus, he assumed the title of ‘Vatapikonda’ (Conqueror of Vatapi)."
+    },
+    {
+      "id": 1978,
+      "question": "Which of the following was the capital of early Cholas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Madurai"
+        },
+        {
+          "label": "B",
+          "text": "Karur"
+        },
+        {
+          "label": "C",
+          "text": "Uraiyaur"
+        },
+        {
+          "label": "D",
+          "text": "Kaveripattnam"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Uraiyaur"
+      },
+      "explanation": "Uraiyaur, now a locality in Tiruchirappalli, was the capital of the early Cholas. It was famous for its cotton trade."
+    },
+    {
+      "id": 2031,
+      "question": "Which among the following was the royal emblem of Chola Kingdom?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bow"
+        },
+        {
+          "label": "B",
+          "text": "Tiger"
+        },
+        {
+          "label": "C",
+          "text": "Carp"
+        },
+        {
+          "label": "D",
+          "text": "Fish"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Tiger"
+      },
+      "explanation": "The Chola kingdom was known as Cholamandulam, it was situated to the north-east of Pandya kingdom between Pennar and Vellar rivers. Tiger was the royal emblem of Chola Kingdom."
+    },
+    {
+      "id": 2040,
+      "question": "Who was the earliest known Chola King who conquered Sri Lanka and ruled it ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Karikala"
+        },
+        {
+          "label": "B",
+          "text": "Elara"
+        },
+        {
+          "label": "C",
+          "text": "Udiyangera"
+        },
+        {
+          "label": "D",
+          "text": "Nedunjelian"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Elara"
+      },
+      "explanation": "The earliest known Chola king to conquer Sri Lanka was Elara. He ruled over the island for 50 years. The Mahavamsa mentions that a Chola prince named Ellalan conquered the Rajarata kingdom of Sri Lanka in 235 BCE. He invaded with the help of a Mysore army."
+    }
+  ]
+}

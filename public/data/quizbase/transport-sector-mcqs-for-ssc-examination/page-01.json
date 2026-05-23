@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "transport-sector-mcqs-for-ssc-examination",
+    "title": "39. Transport Sector",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:35:08"
+  },
+  "questions": [
+    {
+      "id": 6030,
+      "question": "Hindustan Shipyard Limited is located at?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kochi"
+        },
+        {
+          "label": "B",
+          "text": "Mumbai"
+        },
+        {
+          "label": "C",
+          "text": "Vishakaptnam"
+        },
+        {
+          "label": "D",
+          "text": "Chennai"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Vishakaptnam"
+      },
+      "explanation": "Hindustan Shipyard Limited is the country’s premier shipbuilding organization. It is located on the East Coast of the Indian peninsula, at Visakhapatnam, Andhra Pradesh. In 2010, the company was transferred from the Ministry of Shipping to the Ministry of Defence."
+    },
+    {
+      "id": 8246,
+      "question": "Which among the following authority decides upon any issues regarding the revision of fee collected as Development Fee from Airports in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Airport Authority of India"
+        },
+        {
+          "label": "B",
+          "text": "Airports Economic Regulatory Authority"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Civil Aviation"
+        },
+        {
+          "label": "D",
+          "text": "Secretary , Ministry of Civil Aviation"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Airports Economic Regulatory Authority"
+      },
+      "explanation": "The Airports Economic Regulatory Authority (AERA) Bill 2007 ensures that the watchdog monitors performance standards of airports and regulate tariff and other charges for aeronautical services including Airport"
+    },
+    {
+      "id": 8507,
+      "question": "At which of the following places steam engines were originally manufactured by India Railway ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Varanasi"
+        },
+        {
+          "label": "B",
+          "text": "Perambur"
+        },
+        {
+          "label": "C",
+          "text": "Chittranjan"
+        },
+        {
+          "label": "D",
+          "text": "Patiala"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Chittranjan"
+      },
+      "explanation": "The first steam locomotive produced by Chittaranjan Locomotive Works (CLW) was dedicated to the nation on November 1, 1950. This significant event coincided with the renaming of the Loco Building Works as Chittaranjan Locomotive Works, in honor of the freedom fighter, leader, and statesman Deshbandhu Chittaranjan Das. The dedication ceremony was conducted by the first President of India, Dr. Rajendra Prasad. This marked an important milestone in the history of CLW, establishing it as a key manufacturer in India's locomotive industry. The production of steam locomotives commenced earlier on January 26, 1950, and over the years, CLW evolved to become the largest locomotive manufacturer in the world."
+    },
+    {
+      "id": 22202,
+      "question": "When will the full Mumbai-Ahmedabad bullet train corridor be operational?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2026"
+        },
+        {
+          "label": "B",
+          "text": "2027"
+        },
+        {
+          "label": "C",
+          "text": "2029"
+        },
+        {
+          "label": "D",
+          "text": "2030"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "2029"
+      },
+      "explanation": "The Mumbai-Ahmedabad High-Speed Rail corridor is a 508-kilometer project using Japan's Shinkansen technology, featuring 12 stations across Maharashtra, Gujarat, and Dadra and Nagar Haveli. The National High Speed Rail Corporation Ltd. manages the project. As per official schedules, phased operations begin in 2027, with full end-to-end corridor operations targeted for 2029."
+    },
+    {
+      "id": 29267,
+      "question": "Which industries mainly benefit from Mumbai Port in Maharashtra?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iron and Steel industry"
+        },
+        {
+          "label": "B",
+          "text": "Sugar and Cotton textile industry"
+        },
+        {
+          "label": "C",
+          "text": "Cotton textile and Petrochemical industry"
+        },
+        {
+          "label": "D",
+          "text": "Engineering and Fertilizer industry"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Cotton textile and Petrochemical industry"
+      },
+      "explanation": "Mumbai Port in Maharashtra is a major center for handling cotton, petroleum, oil, and petrochemical shipments. It serves as a key import point for long staple cotton and machinery for the cotton textile sector. The port’s specialized terminals handle large volumes of petrochemical products. Cotton textile and petrochemical industries have longstanding reliance on Mumbai Port for raw material and export requirements."
+    }
+  ]
+}

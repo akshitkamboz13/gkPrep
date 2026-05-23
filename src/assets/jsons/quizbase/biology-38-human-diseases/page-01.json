@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-38-human-diseases",
+    "title": "38. Human Diseases",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:59:25"
+  },
+  "questions": [
+    {
+      "id": 4218,
+      "question": "Presence of which among the following salts in water causes “Blue Baby Syndrome”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sulphates"
+        },
+        {
+          "label": "B",
+          "text": "Chlorides"
+        },
+        {
+          "label": "C",
+          "text": "Carbonates"
+        },
+        {
+          "label": "D",
+          "text": "Nitrates"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Nitrates"
+      },
+      "explanation": "Nitrates in drinking water can cause \"blue baby syndrome\", which is a condition where infants have a reduced ability to carry oxygen in the blood (methemoglobinemia). The nitrates interfere with the oxygen carrying capacity of hemoglobin. This causes the skin to appear blue or purple. Nitrates in drinking water, often from agricultural runoff, are the cause of \"blue baby syndrome\"."
+    },
+    {
+      "id": 4374,
+      "question": "Which among the following diseases is characterized by “complete loss of memory”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amnesia"
+        },
+        {
+          "label": "B",
+          "text": "Schizophrenia"
+        },
+        {
+          "label": "C",
+          "text": "Alzheimer’s disease"
+        },
+        {
+          "label": "D",
+          "text": "Parkinson’s disease"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Amnesia"
+      },
+      "explanation": "Amnesia refers to a loss of memory due to illness, injury, drug abuse or other causes."
+    },
+    {
+      "id": 4420,
+      "question": "Daltonism is the name referred to which of the following disorders as this name was kept in honour of John Dalton , the father of atomic theory?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Deafness"
+        },
+        {
+          "label": "B",
+          "text": "Color Blindness"
+        },
+        {
+          "label": "C",
+          "text": "Night Blindness"
+        },
+        {
+          "label": "D",
+          "text": "Astigmatism"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Color Blindness"
+      },
+      "explanation": "Daltonism refers to the Colorblindness of the red-green type which is also known as deuteranopia or deuteranomaly.The term \"Daltonism\" is derived from the name of the chemist and physicist, John Dalton (1766-1844)."
+    },
+    {
+      "id": 4426,
+      "question": "In which among the following diseases, Seed Therapy is used now a days for treatment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "AIDS"
+        },
+        {
+          "label": "B",
+          "text": "Tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Cancer"
+        },
+        {
+          "label": "D",
+          "text": "Asthama"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Cancer"
+      },
+      "explanation": "Seed Therapy which is based on Sujok Therapy deals with the application of seeds or other parts of plants and attaching it with a tape at a corresponding point in the hand or foot of a person feeling pain. This is used now-a-days for cancer treatment."
+    },
+    {
+      "id": 5333,
+      "question": "Chronic exposure to which among the following minerals/ salts in groundwater may cause Black-Foot Disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fluoride"
+        },
+        {
+          "label": "B",
+          "text": "Nitrates"
+        },
+        {
+          "label": "C",
+          "text": "Arsenic"
+        },
+        {
+          "label": "D",
+          "text": "Lead"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Arsenic"
+      },
+      "explanation": "Arsenicosis or Black foot is caused by exposure over a period of time to Arsenic in drinking water. It may also be due to intake of arsenic via food or air. Kindly note that Itai-itai disease is caused by Cadmium poisoning."
+    }
+  ]
+}

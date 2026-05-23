@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-23-special-provisions-for-various-st",
+    "title": "Special Provisions for Various States",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:20:34"
+  },
+  "questions": [
+    {
+      "id": 4603,
+      "question": "What is the correct chronological order of creation of Assam, Nagaland, Goa & Mizoram?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assam, Nagaland, Goa , Mizoram"
+        },
+        {
+          "label": "B",
+          "text": "Assam, Mizoram, Nagaland,. Goa"
+        },
+        {
+          "label": "C",
+          "text": "Assam, Nagaland, Mizoram, Goa"
+        },
+        {
+          "label": "D",
+          "text": "Assam, Goa, Mizoram, Nagaland"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Assam, Nagaland, Mizoram, Goa"
+      },
+      "explanation": "The correct chronological order of the creation of the states of Assam, Nagaland, Goa, and Mizoram is as follows: Assam - Assam was created as a state in the year 1935, when it was carved out of the larger province of Bengal. Nagaland - Nagaland was created as a state in the year 1963. It was carved out of the larger state of Assam and became the 16th state of India. Mizoram - Mizoram was created as a state on 20 February 1987. Prior to that, it was a Union Territory and was part of the state of Assam. Goa - Goa was created as a state on 30 May 1987. Prior to that, it was a Union Territory and was part of the state of Bombay. So, the correct chronological order of the creation of these states is: Assam, Nagaland, Mizroam, Goa"
+    },
+    {
+      "id": 7598,
+      "question": "The Assam Reorganization Act of 1969 led to the creation of which of the following states?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Manipur"
+        },
+        {
+          "label": "B",
+          "text": "Meghalaya"
+        },
+        {
+          "label": "C",
+          "text": "Mizoram"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Meghalaya"
+      },
+      "explanation": "The Assam Reorganization (Meghalaya) Act of 1969 paved the way for the formation of Meghalaya. Meghalaya was initially a semi-autonomous territory within Assam, with its provincial council, before gaining full statehood on January 21st, 1972. The other two states, Manipur and Mizoram, were also carved out of Assam but not under this act."
+    },
+    {
+      "id": 7600,
+      "question": "Haryana was established as a separate state by which of the following acts?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Acquired Territories Merger act 1960"
+        },
+        {
+          "label": "B",
+          "text": "Himachal Pradesh & Bilaspur (new State) act 1954"
+        },
+        {
+          "label": "C",
+          "text": "States Reorganization Act of 1956"
+        },
+        {
+          "label": "D",
+          "text": "Punjab Reorganization Act 1966"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Punjab Reorganization Act 1966"
+      },
+      "explanation": "The Punjab Reorganisation Act 1966 was passed by the Indian Parliament to create a new state of Haryana from the former state of East Punjab. Also some territory was transferred to Himachal Pradesh."
+    },
+    {
+      "id": 7603,
+      "question": "Which areas are exempted from Part IX of the Indian Constitution on Panchayats?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nagaland, Meghalaya & Mizoram"
+        },
+        {
+          "label": "B",
+          "text": "Nagaland, Meghalaya, Mizoram & Tribal Areas of Assam"
+        },
+        {
+          "label": "C",
+          "text": "Nagaland, Meghalaya, Mizoram, Tribal Areas of Assam and Tripura"
+        },
+        {
+          "label": "D",
+          "text": "Nagaland, Meghalaya, Mizoram, Tribal Areas of Assam, Tripura & Hill areas of Manipur"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Nagaland, Meghalaya, Mizoram, Tribal Areas of Assam, Tripura & Hill areas of Manipur"
+      },
+      "explanation": "Part IX (Panchayats) is not applicable to Nagaland, Meghalaya, Mizoram, tribal areas of Assam, Tripura, and hill areas of Manipur (Article 243M(2)); these fall under the Sixth Schedule, enjoying special local governance provisions."
+    },
+    {
+      "id": 8004,
+      "question": "Which of the following states in India is exempted from reservation for Scheduled Castes in Panchayati Raj institutions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "B",
+          "text": "Assam"
+        },
+        {
+          "label": "C",
+          "text": "Arunanchal Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Sikkim"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Arunanchal Pradesh"
+      },
+      "explanation": "Arunanchal Pradesh by Constitution (Eighty-third Amendment) Act, 2000"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "10-environment-related-laws-in-india",
+    "title": "10. Environment Related Laws in India",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:50:40"
+  },
+  "questions": [
+    {
+      "id": 4621,
+      "question": "Which one of the following committee was constituted to review environmental laws in the country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Subramanian Committee"
+        },
+        {
+          "label": "B",
+          "text": "Kasturi Rangan Committee"
+        },
+        {
+          "label": "C",
+          "text": "Madhav Nair Committee"
+        },
+        {
+          "label": "D",
+          "text": "Ullas Karanth Committee"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Subramanian Committee"
+      },
+      "explanation": "T S R Subramanian Committee was constituted to review environmental laws in India. The committee has submitted its recommendations to the government recently."
+    },
+    {
+      "id": 4630,
+      "question": "The Environment (Protection) Act of India was enacted in which of the following year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1974"
+        },
+        {
+          "label": "B",
+          "text": "1977"
+        },
+        {
+          "label": "C",
+          "text": "1980"
+        },
+        {
+          "label": "D",
+          "text": "1986"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1986"
+      },
+      "explanation": "The Environment (Protection) Act of India was enacted in 1986 with the objective of providing for the protection and improvement of the environment. The act was enacted by Parliament of India under Article 253 of the Indian Constitution. The act empowers the Central Government to establish authorities with the mandate of preventing environmental pollution in all its forms."
+    },
+    {
+      "id": 5641,
+      "question": "Who among the following heads the Genetic Engineering Approvals Committee (GEAC) in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Minister of Environment & Forests"
+        },
+        {
+          "label": "B",
+          "text": "Minister of Science and Technology"
+        },
+        {
+          "label": "C",
+          "text": "Minister of Agriculture"
+        },
+        {
+          "label": "D",
+          "text": "None of them"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "None of them"
+      },
+      "explanation": "The Genetic Engineering Approvals Committee (GEAC) is headed by a Secretary level officer in the Ministry of Environment and Forests."
+    },
+    {
+      "id": 8428,
+      "question": "Which among the following missions of Government of India follow Perform, Achieve and trade mechanism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "National Solar Mission"
+        },
+        {
+          "label": "B",
+          "text": "National Mission on Enhanced Energy Efficiency"
+        },
+        {
+          "label": "C",
+          "text": "National Mission on Sustainable Habitat"
+        },
+        {
+          "label": "D",
+          "text": "National Water Mission"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "National Mission on Enhanced Energy Efficiency"
+      },
+      "explanation": "National Mission for Enhanced Energy Efficiency is a mission under the National Action Plan for Climate Change, which was taken by the Government of India to promote efficient market by fostering innovative policies and effective instruments."
+    },
+    {
+      "id": 8582,
+      "question": "In which year Ecological Task Forces (ETFs) scheme was initiated?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1980"
+        },
+        {
+          "label": "B",
+          "text": "1982"
+        },
+        {
+          "label": "C",
+          "text": "1983"
+        },
+        {
+          "label": "D",
+          "text": "1985"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "1982"
+      },
+      "explanation": "Eco-Development Forces (EDF) Scheme was launched in 1980s under Ministry of Defence. Under this scheme, Eco Task Force (ETF) Battalions are set up which are though under Ministry of Defence, yet the operational expenditure of it is borne by Ministry of Environment. The first Ecological Task Force (also known as Ecological Battalion) was set up in 1982, after Indira Gandhi received inputs that the problem of unemployment among retired Jawans and of the need to check deforestation and soil erosion could be solved in a single stroke."
+    }
+  ]
+}

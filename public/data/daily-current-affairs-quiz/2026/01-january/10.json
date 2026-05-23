@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: January 10, 2026",
+    "date": "2026-01-10",
+    "year": "2026",
+    "month": "01-january",
+    "day": 10,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 04:14:11",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:55:54"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Kamala Hydroelectric Project is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assam"
+        },
+        {
+          "label": "B",
+          "text": "Arunachal Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Manipur"
+        },
+        {
+          "label": "D",
+          "text": "Odisha"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Arunachal Pradesh"
+      },
+      "explanation": "The Public Investment Board (PIB) approved the ₹26,070-crore, 1,720 Megawatt (MW) Kamala Hydroelectric Project in Arunachal Pradesh. The project is planned on the Kamala River, a major tributary of the Subansiri River, in Kamle district. It is a storage-based hydroelectric scheme with an important flood moderation component. A 216-metre-high concrete gravity dam and an underground powerhouse will be constructed. The project will generate 6,869.92 Million Units (MU) of green energy every year. It will also help reduce floods in the Brahmaputra valley."
+    },
+    {
+      "id": 2,
+      "question": "The Weimar Triangle is a political grouping of which three countries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "France, Germany, Poland"
+        },
+        {
+          "label": "B",
+          "text": "Italy, Spain, France"
+        },
+        {
+          "label": "C",
+          "text": "Russia, India, China"
+        },
+        {
+          "label": "D",
+          "text": "India, Nepal, Bhutan"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "France, Germany, Poland"
+      },
+      "explanation": "India’s External Affairs Minister joined India’s first engagement with the Weimar Triangle alongside France, Poland, and Germany. The Weimar Triangle is a regional political grouping of France, Germany, and Poland. It was formed on 29 August 1991 through a joint declaration at Weimar in Germany. Its aim was to involve France in German–Polish reconciliation using Franco-German experience. It seeks to strengthen political dialogue and cooperation among the three countries."
+    },
+    {
+      "id": 3,
+      "question": "The Directorate General of Mines Safety (DGMS) functions under which ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Coal"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Home Affairs"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Labour and Employment"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Heavy Industries"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Ministry of Labour and Employment"
+      },
+      "explanation": "The Directorate General of Mines Safety (DGMS) celebrated its 125th Foundation Day at Dhanbad, Jharkhand. It is a regulatory agency under the Ministry of Labour and Employment, Government of India. It ensures occupational safety, health, and welfare of workers employed in mines. It is headed by the Director-General of Mines Safety and headquartered at Dhanbad."
+    },
+    {
+      "id": 4,
+      "question": "What is the name of the initiative launched by Senapati Forest Division to rejuvenate the Barak River watershed in Manipur?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rapid Rural Appraisal"
+        },
+        {
+          "label": "B",
+          "text": "Participatory Rural Appraisal"
+        },
+        {
+          "label": "C",
+          "text": "Integrated Watershed Survey"
+        },
+        {
+          "label": "D",
+          "text": "Community Forest Mapping"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Participatory Rural Appraisal"
+      },
+      "explanation": "The Senapati Forest Division launched Participatory Rural Appraisal (PRA) exercises to restore the Barak River watershed and support local livelihoods. The exercise was conducted at Saranamai village in Senapati district, Manipur, under the Barak catchment area. It involved community mapping of natural resources, land use, wealth status, matrix ranking, timelines, and Strengths, Weaknesses, Opportunities, and Threats (SWOT) analysis. The exercise will provide baseline data for an action plan under the Compensatory Afforestation Fund Management and Planning Authority (CAMPA) scheme of the Ministry of Environment, Forest and Climate Change (MoEFCC)."
+    },
+    {
+      "id": 5,
+      "question": "Vera C. Rubin Observatory, that was recently seen in news, is located in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Russia"
+        },
+        {
+          "label": "B",
+          "text": "Germany"
+        },
+        {
+          "label": "C",
+          "text": "China"
+        },
+        {
+          "label": "D",
+          "text": "Chile"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Chile"
+      },
+      "explanation": "Scientists used first images from the Vera C. Rubin Observatory to discover the fastest-spinning asteroid of its size, named 2025 MN45. The Vera C. Rubin Observatory is located on Cerro Pachón in the Chilean Andes at 8,684 feet altitude. It is named after astronomer Vera C. Rubin, who provided early evidence for dark matter. It is jointly funded by the United States National Science Foundation (NSF) and the United States Department of Energy (DoE). Its goals include studying dark matter and dark energy, mapping the Milky Way, tracking asteroids and comets, and observing changing cosmic objects."
+    }
+  ]
+}

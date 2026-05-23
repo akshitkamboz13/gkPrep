@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "3-rig-vedic-era-society-economy-polity-religion",
+    "title": "3. Rig Vedic Society, Economy, Polity & Religion",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:53:01"
+  },
+  "questions": [
+    {
+      "id": 329,
+      "question": "Which of the following term is used for a \"school\" of learning and teaching the branches of Vedas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shakha"
+        },
+        {
+          "label": "B",
+          "text": "Charna"
+        },
+        {
+          "label": "C",
+          "text": "Ratha"
+        },
+        {
+          "label": "D",
+          "text": "Yajna"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Charna"
+      },
+      "explanation": "Charana refers to the Guru-pupil lineage or school for teaching and learning of Vedas in ancient India."
+    },
+    {
+      "id": 1811,
+      "question": "In the Rigvedic Dasrajan Yudha (Battle of Ten Kings) the Bharatas emerged winner at the bank of __?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Indus River"
+        },
+        {
+          "label": "B",
+          "text": "The Saraswati River"
+        },
+        {
+          "label": "C",
+          "text": "The Sutlej River"
+        },
+        {
+          "label": "D",
+          "text": "The Parushni River"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "The Parushni River"
+      },
+      "explanation": "According to Rigveda,the famous battle of ten kings ( or Dasrajan Yudha) was between Sudas, a Bharata king of the Tritsu family and the confederacy of ten well-known tribes- Puru, Yadu, Turvasa, Anu, Druhyu, Alina, Paktha ,Bhalanas,Shiva and Vishanin.In the bloody and decisive battle on the banks of River Parushni the Bharatas emerged victorious."
+    },
+    {
+      "id": 1812,
+      "question": "In which among the following sacrifices, the sacrificial materials used was sura in Vedic Era?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Agnistoma"
+        },
+        {
+          "label": "B",
+          "text": "Rajasuya"
+        },
+        {
+          "label": "C",
+          "text": "Sautramani"
+        },
+        {
+          "label": "D",
+          "text": "Vajapeya"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Sautramani"
+      },
+      "explanation": "Sautramani refers to a “sacrifice performed in order to please god Indra” and represented one of the various rituals mentioned in Taittiriya school of the Krishna Yajurveda. This sacrifice involved use of Sura."
+    },
+    {
+      "id": 1821,
+      "question": "For which among the following offenses, Manu recommended higher punishment to Brahamans than the persons of other varnas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Profanity"
+        },
+        {
+          "label": "B",
+          "text": "Murder"
+        },
+        {
+          "label": "C",
+          "text": "Theft"
+        },
+        {
+          "label": "D",
+          "text": "Treason"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Theft"
+      },
+      "explanation": "According to Manu, a Brahamana was to be awarded higher punishment than the persons of other varnas for the offence of Theft."
+    },
+    {
+      "id": 1822,
+      "question": "“The king was the ruler of all except Brahamanas”. This was the view of __?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Manu"
+        },
+        {
+          "label": "B",
+          "text": "Yajnavalkya"
+        },
+        {
+          "label": "C",
+          "text": "Apasthamba"
+        },
+        {
+          "label": "D",
+          "text": "Gautama"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Gautama"
+      },
+      "explanation": "Gautama-dharmasutra The Dharmasutras: The Law Codes of Apastamba, Gautama, Baudhayana, and Vasistha The Dharmasutras are the four surviving written works of the ancient Indian tradition on the subject of dharma, or the rules of behavior a community recognizes as binding on its members. Gautama- dharmasutra is believed to be the oldest of the four Hindu Dharmasastras, It survives as an independent treatise. According to Gautama the ruler is the owner of everything in his realm except the brahmanas."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "15-environment-impact-assessment",
+    "title": "15. Environment Impact Assessment",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:51:24"
+  },
+  "questions": [
+    {
+      "id": 63939,
+      "question": "Which of the following phases are involved in Environment Impact Assessment process in India?1. Screening2. Scoping 3. Baseline data collection4. Impact predictionSelect the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1 & 2"
+        },
+        {
+          "label": "B",
+          "text": "Only 1, 2 & 3"
+        },
+        {
+          "label": "C",
+          "text": "Only 1, 3 & 4"
+        },
+        {
+          "label": "D",
+          "text": "1, 2, 3 & 4"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1, 2, 3 & 4"
+      },
+      "explanation": "The phases involved in Environment Impact Assessment process in India are as follows: Screening, Scoping, Baseline data collection, Impact prediction, Assessment of alternatives, delineation of mitigation measures and environmental impact statement, Public hearing, Environment Management Plan, Decision making and Monitoring the clearance conditions."
+    },
+    {
+      "id": 63940,
+      "question": "The Screening Criteria under Environment Impact Assessment are based upon which of the following?1. Scales of investment2. Type of development3. Location of developmentSelect the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1 & 2"
+        },
+        {
+          "label": "B",
+          "text": "Only 2 & 3"
+        },
+        {
+          "label": "C",
+          "text": "Only 1 & 3"
+        },
+        {
+          "label": "D",
+          "text": "1, 2 & 3"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1, 2 & 3"
+      },
+      "explanation": "The Screening Criteria under Environment Impact Assessment are based upon the following:1. Scales of investment2. Type of development3. Location of development"
+    },
+    {
+      "id": 63941,
+      "question": "Which of the following statements are correct about the process of scoping Environment Impact Assessment?1. It is a process of detailing the terms of reference of EIA.2. Quantifiable impacts are to be assessed on the basis of factors like magnitude, prevalence, frequency and duration.Select the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1"
+        },
+        {
+          "label": "B",
+          "text": "Only 2"
+        },
+        {
+          "label": "C",
+          "text": "Both 1 & 2"
+        },
+        {
+          "label": "D",
+          "text": "Neither 1 & 2"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Both 1 & 2"
+      },
+      "explanation": "Scoping is a process of detailing the terms of reference of Environment Impact Assessment. Quantifiable impacts are to be assessed on the basis of factors like magnitude, prevalence, frequency and duration."
+    },
+    {
+      "id": 63942,
+      "question": "Which of the following statements are correct regarding Impact prediction in EIA?1. It is a method of mapping the environmental impacts of the significant aspects of the project and its alternatives.2. Environmental impact can be predicted with absolute certainty.Select the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1"
+        },
+        {
+          "label": "B",
+          "text": "Only 2"
+        },
+        {
+          "label": "C",
+          "text": "Both 1 & 2"
+        },
+        {
+          "label": "D",
+          "text": "Neither 1 & 2"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Both 1 & 2"
+      },
+      "explanation": "Impact prediction in EIA is a method of mapping the environmental impacts of the significant aspects of the project and its alternatives. Environmental impact can never be predicted with absolute certainty."
+    },
+    {
+      "id": 63943,
+      "question": "The impacts of which of the following is studied under Impact Prediction in Environment Impact Assessment?1. Biological2. Noise3. Land4. AirSelect the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1, 2 & 3"
+        },
+        {
+          "label": "B",
+          "text": "Only 2, 3 & 4"
+        },
+        {
+          "label": "C",
+          "text": "Only 1, 3 & 4"
+        },
+        {
+          "label": "D",
+          "text": "1, 2, 3 & 4"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1, 2, 3 & 4"
+      },
+      "explanation": "The impacts of the following is studied under Impact Prediction in Environment Impact Assessment:1. Biological2. Water3. Land4. Air5. Noise"
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "general-science-physics-mcqs",
+    "title": "Physics MCQs",
+    "page": 4,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:50:44",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:13:31"
+  },
+  "questions": [
+    {
+      "id": 31,
+      "question": "What will happen to the portion of ship under water, when it enters a sea from a river? (UPSC Prelims 1982)",
+      "options": [
+        {
+          "label": "A",
+          "text": "It will increase"
+        },
+        {
+          "label": "B",
+          "text": "It will decrease"
+        },
+        {
+          "label": "C",
+          "text": "It will show no change"
+        },
+        {
+          "label": "D",
+          "text": "it will increase and decrease alternately"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "It will decrease"
+      },
+      "explanation": "When the ship enters the sea, the water is no more the river fresh water but the saline sea water which is denser. As a result the weight of water displaced is now more than what it was previously when the ship was in river. The upthrust increases and the ship rise up."
+    },
+    {
+      "id": 32,
+      "question": "When a brick is dropped in water, bubbles are seen to rise. This is due to which of the following reasons? (UPSC Prelims 1984)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Air in the pores of the brick"
+        },
+        {
+          "label": "B",
+          "text": "Air in water"
+        },
+        {
+          "label": "C",
+          "text": "Water displaced by the brick"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Air in the pores of the brick"
+      },
+      "explanation": "A brick is made when mud is heated and hence it remains porous. When brick is dropped in water the air which was trapped in those pores rise up and hence form the bubbles."
+    },
+    {
+      "id": 33,
+      "question": "Atmospheric pressure exerted on earth is due to the which of the following reasons? (UPSC Prelims 1989)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rotation of earth"
+        },
+        {
+          "label": "B",
+          "text": "Revolution of earth"
+        },
+        {
+          "label": "C",
+          "text": "Gravitational pull"
+        },
+        {
+          "label": "D",
+          "text": "Uneven heating of earth"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Gravitational pull"
+      },
+      "explanation": "The atmospheric pressure at the surface of the Earth is due to gravitational pull of the earth and is about 14.7 psi. That means that the weight of a column of air which has a cross section of 1 square inch and which stretches from the surface of the Earth to space is 14.7 pounds."
+    },
+    {
+      "id": 34,
+      "question": "When light waves pass from air to glass, which of the following variables are affected? (UPSC Prelims 2001)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wavelength, frequency and velocity"
+        },
+        {
+          "label": "B",
+          "text": "Velocity and frequency"
+        },
+        {
+          "label": "C",
+          "text": "Wavelength and frequency"
+        },
+        {
+          "label": "D",
+          "text": "Wavelength and velocity"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Wavelength and velocity"
+      },
+      "explanation": "When light enters from rarer (air) to denser (glass) medium wavelength and velocity will get affected. The velocity will decrease. Moreover, as the ray bent in passing through different media which results in decrease of wavelength. As such there is no change in frequency when light enters from air to glass."
+    },
+    {
+      "id": 35,
+      "question": "Which of the following is a scalar quantity ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Velocity"
+        },
+        {
+          "label": "B",
+          "text": "Force"
+        },
+        {
+          "label": "C",
+          "text": "Angular momentum"
+        },
+        {
+          "label": "D",
+          "text": "Electrostatic potential"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Electrostatic potential"
+      },
+      "explanation": "The electrostatic potential at any point in an electric field is defined as the work done in bringing a unit positive charge from infinity to that point against the electric force of the field. It is given by, V = W/q, where V is the potential, W is work done, and q the charge. Because work and charge both are scalar quantity, electrostatic potential is also a scalar quantity."
+    },
+    {
+      "id": 36,
+      "question": "Which one of the following is a non-dimensional quantity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gas constant"
+        },
+        {
+          "label": "B",
+          "text": "Strain"
+        },
+        {
+          "label": "C",
+          "text": "Co-efficient of viscosity"
+        },
+        {
+          "label": "D",
+          "text": "Planck’s constant"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Strain"
+      },
+      "explanation": "A dimensionless quantity is simply a quantity that has no units and therefore no dimensions. A ratio between two numbers is a non-dimensional or dimensionless quantity. Strain which is defined as change in dimension over original dimension has no dimensional formula. So, it is a dimensionless quantity."
+    },
+    {
+      "id": 37,
+      "question": "Which of the following quantities does not have any unit?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Speed"
+        },
+        {
+          "label": "B",
+          "text": "Density"
+        },
+        {
+          "label": "C",
+          "text": "Relative Density"
+        },
+        {
+          "label": "D",
+          "text": "Acceleration"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Relative Density"
+      },
+      "explanation": "Relative density is the ratio of the density (mass of a unit volume) of a substance to the density of a given reference material. So, it is a dimensionless quantity and has no unit."
+    },
+    {
+      "id": 38,
+      "question": "A boat full of iron nails is floating on water in a lake. When the iron nails are removed, the water level__?",
+      "options": [
+        {
+          "label": "A",
+          "text": "rises"
+        },
+        {
+          "label": "B",
+          "text": "falls"
+        },
+        {
+          "label": "C",
+          "text": "cannot be determined"
+        },
+        {
+          "label": "D",
+          "text": "remains constant"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "falls"
+      },
+      "explanation": "According to Archimedes Principle, the weight of the water displaced by the hull of a floating boat equals the total weight of the boat and its contents. If iron nails are removed from the boat, it becomes lighter and displaces less water. That means the boat rises up so that less of its volume is below the surface, while the water level falls because it now displaces less water when submerged."
+    },
+    {
+      "id": 39,
+      "question": "Find the acceleration (in m/2) produced in a body of mass 3 kg when a force of 6N is applied on it.",
+      "options": [
+        {
+          "label": "A",
+          "text": "18"
+        },
+        {
+          "label": "B",
+          "text": "4"
+        },
+        {
+          "label": "C",
+          "text": "2"
+        },
+        {
+          "label": "D",
+          "text": "36"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "2"
+      },
+      "explanation": "Force is the mass of an object, multiplied by its acceleration. If F is force, m is mass and a is acceleration, it can be expressed as: F = ma, or, a = F/m According to the question, m= 3 kg and F = 6 N So, a=6/3= 2 m/sec2."
+    },
+    {
+      "id": 40,
+      "question": "Which of the following devices can be used to detect radiant heat ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Liquid thermometer"
+        },
+        {
+          "label": "B",
+          "text": "Six’s maximum and minimum thermometer"
+        },
+        {
+          "label": "C",
+          "text": "Constant volume air thermometer"
+        },
+        {
+          "label": "D",
+          "text": "Thermopile"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Thermopile"
+      },
+      "explanation": "Based on the thermoelectric effect, the thermopile is used as a heat sensor to measure thermal radiation. A thermopile is made of thermocouple junction pairs connected electrically in series. Thermocouples near the ground measures radiant energy."
+    }
+  ]
+}

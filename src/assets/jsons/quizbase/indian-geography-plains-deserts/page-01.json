@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-geography-plains-deserts",
+    "title": "3. Plains, Deserts of India",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:18:51"
+  },
+  "questions": [
+    {
+      "id": 331,
+      "question": "What fraction of Rajasthan's total area is covered by Thar Desert?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Around 30%"
+        },
+        {
+          "label": "B",
+          "text": "Around 40%"
+        },
+        {
+          "label": "C",
+          "text": "Around 60%"
+        },
+        {
+          "label": "D",
+          "text": "Around 70%"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Around 60%"
+      },
+      "explanation": "The Thar Desert, also known as the Great Indian Desert, covers an area of approximately 200,000 square miles. It is located in the northwestern region of India and the southeastern region of Pakistan. The desert is one of the largest in the world and is known for its arid climate and sparse vegetation. Thar Desert is World's 10th largest desert and covers 61% of Geographical area of Rajasthan."
+    },
+    {
+      "id": 3243,
+      "question": "The Desert National Park (DNP) is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gujarat"
+        },
+        {
+          "label": "B",
+          "text": "Haryana"
+        },
+        {
+          "label": "C",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "D",
+          "text": "Assam"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Rajasthan"
+      },
+      "explanation": "The Desert National Park (DNP) is located near Jaisalmer, Rajasthan and covers an area of 3162 km². The park is an excellent example of the ecosystem of the Thar Desert. The sand dunes form around 20% of the Park. It is home to desert fox, Bengal fox, desert cat, wolf, hedgehog, blackbuck and chinkara."
+    },
+    {
+      "id": 10517,
+      "question": "In which state / Union Territory is located “Kuttanad” a place which is with the lowest altitude in India and is one of the places in the word, where agriculture is carried out below sea level?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "B",
+          "text": "Kerala"
+        },
+        {
+          "label": "C",
+          "text": "Andaman & Nicobar Islands"
+        },
+        {
+          "label": "D",
+          "text": "Lakshadweep"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Kerala"
+      },
+      "explanation": "Kuttanad is a region having parts of Alappuzha, Kottayam and Pathanamthitta districts of Kerala. It has the lowest altitude in India, and is one of the few places in the world where farming is carried on around 1.2 to 3.0 metres below sea level."
+    },
+    {
+      "id": 12215,
+      "question": "Which of the following mountain ranges form a dividing line between the Ganges Plain and the Deccan Plateau?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aravalli"
+        },
+        {
+          "label": "B",
+          "text": "Vindhya and Satpura"
+        },
+        {
+          "label": "C",
+          "text": "Eastern Ghats"
+        },
+        {
+          "label": "D",
+          "text": "Shivalik"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Vindhya and Satpura"
+      },
+      "explanation": "Vindhya or Vindhyachal is a loosely defined discontinuous chain of mountain ridges, hill ranges, highlands and plateaus in west and central India. It runs roughly in the north of Narmada River and extends from Gujarat in west to Chhattisgarh in east. The Satpura range runs roughly parallels to the Vindhya Range in the south. Both Vindhya and Satpura divide Indian Subcontinent into the Indo-Gangetic plain of northern India and the Deccan Plateau of the south."
+    },
+    {
+      "id": 18570,
+      "question": "The Ganga Plain can be best described as a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Geosyncline"
+        },
+        {
+          "label": "B",
+          "text": "Pediplain"
+        },
+        {
+          "label": "C",
+          "text": "Peneplain"
+        },
+        {
+          "label": "D",
+          "text": "Karst plain"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Geosyncline"
+      },
+      "explanation": "Geosyncline means a huge depression. Ganga Plain can be best described as a geosyncline. Peneplain means a more or less level land surface produced by erosion over a long period. Pediplain is an extensive plain formed in a desert by the coalescence of neighbouring pediments. Karst plain can be best described as limestone plain."
+    }
+  ]
+}

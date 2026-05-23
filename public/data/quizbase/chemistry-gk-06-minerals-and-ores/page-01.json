@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "chemistry-gk-06-minerals-and-ores",
+    "title": "Chemistry-6-Minerals and Ores",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:01:21"
+  },
+  "questions": [
+    {
+      "id": 4326,
+      "question": "Which iron ore contains the highest percentage of iron content?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hematite"
+        },
+        {
+          "label": "B",
+          "text": "Siderite"
+        },
+        {
+          "label": "C",
+          "text": "Magnetite"
+        },
+        {
+          "label": "D",
+          "text": "Limonite"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Magnetite"
+      },
+      "explanation": "Magnetite (Fe3O4) typically contains about 70% iron by weight. It is black in color and strongly magnetic. Hematite (Fe2O3) contains about 60–70% iron. Limonite contains 35–50% iron. Siderite (FeCO3) contains about 48% iron. Magnetite is widely mined due to its high iron concentration compared to other ores."
+    },
+    {
+      "id": 5005,
+      "question": "Which of the following is not a non-metallic mineral?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mica"
+        },
+        {
+          "label": "B",
+          "text": "Bauxite"
+        },
+        {
+          "label": "C",
+          "text": "Granite"
+        },
+        {
+          "label": "D",
+          "text": "Silica"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Bauxite"
+      },
+      "explanation": "Non-metallic minerals are those minerals which do not contain metals. Examples of Non-Metallic minerals include limestone, mica, coal, gypsum, dolomite, phosphate, salt, granite etc."
+    },
+    {
+      "id": 5318,
+      "question": "Which among the following types of glasses contains Cerium and other rare earths and has a high absorption of ultraviolet rays?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Crookes Glass"
+        },
+        {
+          "label": "B",
+          "text": "Pyrex Glass"
+        },
+        {
+          "label": "C",
+          "text": "Flint Glass"
+        },
+        {
+          "label": "D",
+          "text": "Crown Glass"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Crookes Glass"
+      },
+      "explanation": "Crookes glass comprises Cerium oxide (CiO2) which sharply absorbs the ultraviolet rays from the sunlight. It is used in making lenses of eye glasses."
+    },
+    {
+      "id": 5594,
+      "question": "Calamine is an ore of which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zinc"
+        },
+        {
+          "label": "B",
+          "text": "Copper"
+        },
+        {
+          "label": "C",
+          "text": "Mercury"
+        },
+        {
+          "label": "D",
+          "text": "Iron"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Zinc"
+      },
+      "explanation": "Calamine is an ore that contains zinc carbonate along with impurities like iron oxide. Through smelting, the zinc carbonate in calamine can be reduced to extract pure zinc metal. Other common zinc ores are sphalerite (zinc sulfide) and smithsonite (zinc carbonate). So calamine is considered a zinc ore due to its zinc carbonate content."
+    },
+    {
+      "id": 5888,
+      "question": "Carnotite is a mineral of which among the following metals?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lead"
+        },
+        {
+          "label": "B",
+          "text": "Uranium"
+        },
+        {
+          "label": "C",
+          "text": "Aluminium"
+        },
+        {
+          "label": "D",
+          "text": "Iron"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Uranium"
+      },
+      "explanation": "Carnotite is an ore of Uranium and comprises potassium, vanadium, water and few other elements such as calcium, barium, magnesium, iron, sodium etc. It is a yellow colored mineral."
+    }
+  ]
+}

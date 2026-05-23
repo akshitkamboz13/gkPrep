@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "chemistry-gk-08-radioactivity",
+    "title": "Chemistry-8-Radioactivity",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:01:29"
+  },
+  "questions": [
+    {
+      "id": 4293,
+      "question": "Presence of which among the following minerals in Banana makes them slightly radioactive?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sodium"
+        },
+        {
+          "label": "B",
+          "text": "Calcium"
+        },
+        {
+          "label": "C",
+          "text": "Magnesium"
+        },
+        {
+          "label": "D",
+          "text": "Pottasium"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Pottasium"
+      },
+      "explanation": "Bananas contain potassium-40, a radioactive isotope of potassium, which makes them slightly radioactive. The radiation is very minor and not dangerous at all to humans, but it is enough to trigger sensitive radiation sensors. The potassium provides bananas some of their nutritional benefits as well."
+    },
+    {
+      "id": 4991,
+      "question": "Which among the following scientists had discovered Radium?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Marie and Pierre Curie"
+        },
+        {
+          "label": "B",
+          "text": "Andre-Louis Debierne"
+        },
+        {
+          "label": "C",
+          "text": "Kasimir Fajans"
+        },
+        {
+          "label": "D",
+          "text": "Oswald Helmuth Gohring"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Marie and Pierre Curie"
+      },
+      "explanation": "Radium(Ra) with atomic number 88 was discovered by Marie and Pierre Curie in 1898 as Radium Chloride. However, it was Radium was isolated in its metallic state by Marie Curie and André-Louis Debierne through the electrolysis of radium chloride in 1911."
+    },
+    {
+      "id": 6117,
+      "question": "Who among the following scientists had discovered Radium?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Marie Sklodowska-Curie and Pierre Curie"
+        },
+        {
+          "label": "B",
+          "text": "André-Louis Debierne"
+        },
+        {
+          "label": "C",
+          "text": "Kasimir Fajans"
+        },
+        {
+          "label": "D",
+          "text": "Oswald Helmuth Göhring"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Marie Sklodowska-Curie and Pierre Curie"
+      },
+      "explanation": "Radium is a chemical element with the symbol Ra and atomic number 88. Radium was discovered by Marie Sklodowska Curie, a Polish chemist, and Pierre Curie, a French chemist, in 1898."
+    },
+    {
+      "id": 10921,
+      "question": "How does the Isotope of Iodine, Iodine-135 plays an important role in Nuclear Power Generation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is used as a fuel supplement in some of the modern Nuclear Reactors"
+        },
+        {
+          "label": "B",
+          "text": "It is a bi-product of Nuclear Reaction which kills the neutrons and this inhibits the power formation"
+        },
+        {
+          "label": "C",
+          "text": "It is a moderator used actively in the Nuclear Reactors"
+        },
+        {
+          "label": "D",
+          "text": "It is an experimental substance for Nuclear Fusion"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "It is a bi-product of Nuclear Reaction which kills the neutrons and this inhibits the power formation"
+      },
+      "explanation": "Iodine-135 is a important by-product of nuclear fission, particularly in reactors using uranium fuel. It has a high neutron capture cross-section, meaning it effectively absorbs neutrons, which can inhibit the fission process and reduce reactor power output. This property makes it crucial for managing reactor control and safety, as its presence can lead to a phenomenon known as \"neutron poison,\" affecting the overall efficiency of the nuclear reaction."
+    },
+    {
+      "id": 11169,
+      "question": "Argon is the third most common gas in the Earth’s atmosphere, at 0.93%. This gas is generated due to decay of which among the following isotopes in the Earth’s crust ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "K-40"
+        },
+        {
+          "label": "B",
+          "text": "Ca-40"
+        },
+        {
+          "label": "C",
+          "text": "Ca-48"
+        },
+        {
+          "label": "D",
+          "text": "K-41"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "K-40"
+      },
+      "explanation": "Potassium-40 is a radioactive isotope of potassium with a long half-life of 1.251×10⁹ years. The decay of this particular isotope explains the large abundance of argon (0.93%) in the Earth's atmosphere."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "1-introduction-to-environment-ecology",
+    "title": "1. Introduction to Environment & Ecology",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:50:22"
+  },
+  "questions": [
+    {
+      "id": 4287,
+      "question": "The number of which among the following would be maximum in a Food Chain?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Producers"
+        },
+        {
+          "label": "B",
+          "text": "Primary Consumers"
+        },
+        {
+          "label": "C",
+          "text": "Secondary Consumers"
+        },
+        {
+          "label": "D",
+          "text": "Decomposers"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Decomposers"
+      },
+      "explanation": "Transfer of food from the plants (producers) through a series of organisms with repeated eating and being eaten is called a food chain. A food chain consists of Producers or Autotrophs Primary consumers or Herbivores Secondary consumers or Carnivores Decomposers Decomposers make up the final trophic level in a food chain. Decomposers are the organisms that feed on dead organic matter called detritus of all the trophic levels and help in recycling the nutrients. Examples of decomposers are bacteria, fungi, mites, millipedes, earthworms, nematodes, slugs, crabs and molluscs."
+    },
+    {
+      "id": 4610,
+      "question": "Lichens, which are capable of initiating ecological succession even on a bare rock, are actually a symbiotic association of __:",
+      "options": [
+        {
+          "label": "A",
+          "text": "algae and bacteria"
+        },
+        {
+          "label": "B",
+          "text": "algae and fungi"
+        },
+        {
+          "label": "C",
+          "text": "bacteria and fungi"
+        },
+        {
+          "label": "D",
+          "text": "fungi and mosses"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "algae and fungi"
+      },
+      "explanation": "A lichen is a composite organism consisting of a fungus (the mycobiont) and a photosynthetic partner (the photobiont or phycobiont) (usually algae) growing together in a symbiotic relationship."
+    },
+    {
+      "id": 4632,
+      "question": "What is the direction of flow of energy in an ecosystem?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Unidirectional"
+        },
+        {
+          "label": "B",
+          "text": "Bidirectional"
+        },
+        {
+          "label": "C",
+          "text": "Multidirectional"
+        },
+        {
+          "label": "D",
+          "text": "Cyclic"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Unidirectional"
+      },
+      "explanation": "The energy enters the plants from the sun through the photosynthesis process. This energy is then passed on from one organism to another in a food chain. The flow of energy in the ecosystem is unidirectional because the energy lost as heat from the living organisms of a food chain cannot be reused by plants in photosynthesis. During the transfer of energy through successive trophic levels in an ecosystem, there is a loss of energy all along the path."
+    },
+    {
+      "id": 4633,
+      "question": "In which of the following ecosystems, the pyramid of biomass is ‘inverted’ in shape?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pond ecosystem"
+        },
+        {
+          "label": "B",
+          "text": "Grassland ecosystem"
+        },
+        {
+          "label": "C",
+          "text": "Forest ecosystem"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Pond ecosystem"
+      },
+      "explanation": "Biomass is the amount of living material in an organism. The pyramids of biomass represent the relationship between different trophic levels in terms of biomass. In grassland and forest ecosystems, there is generally a gradual decrease in biomass of organisms at successive trophic levels from the producers to the consumers. Their pyramid of biomass is upright. In aquatic ecosystem the producers are small organisms with least biomass and the biomass gradually increase towards the apex of the pyramid. Thus the pyramid of biomass of aquatic ecosystems is inverted in shape."
+    },
+    {
+      "id": 8824,
+      "question": "In which of the following the ecological pyramid of numbers is broad in center?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Grasslands Ecosystem"
+        },
+        {
+          "label": "B",
+          "text": "Pond Ecosystem"
+        },
+        {
+          "label": "C",
+          "text": "Parasitic Food chain"
+        },
+        {
+          "label": "D",
+          "text": "Forest Ecosystem"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Forest Ecosystem"
+      },
+      "explanation": "In a forest ecosystem, the base of the Pyramid is formed by the producers like large size trees. The herbivores such as fruit eating birds, deer, elephants etc. make the primary consumers and are less than primary producers. After that, the number goes down at each successive level. Thus, a Pyramid of numbers in a Forest Ecosystem is partially upright or spindle shaped and the numbers is broad in center."
+    }
+  ]
+}

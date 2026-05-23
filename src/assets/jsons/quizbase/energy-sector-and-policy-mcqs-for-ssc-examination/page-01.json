@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "energy-sector-and-policy-mcqs-for-ssc-examination",
+    "title": "40. Energy Sector and Policy",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:12:08"
+  },
+  "questions": [
+    {
+      "id": 11209,
+      "question": "Which among the following coal producer of India is outside the Coal India Ltd?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Southern Eastern Coalfields (Bilaspur)"
+        },
+        {
+          "label": "B",
+          "text": "Bharat Coking Coal (Dhanbad)"
+        },
+        {
+          "label": "C",
+          "text": "Mahanandi Coalfields (Sambalpur)"
+        },
+        {
+          "label": "D",
+          "text": "Singerani Collieries Company (Telangana)"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Singerani Collieries Company (Telangana)"
+      },
+      "explanation": "Singareni Collieries Company Limited (SCCL) is jointly owned by the Government of Telangana and Government of India on a 51:49 equity basis."
+    },
+    {
+      "id": 18283,
+      "question": "Which sector uses the largest share of natural gas produced in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fertilizers"
+        },
+        {
+          "label": "B",
+          "text": "City Gas Distribution (Cooking Gas)"
+        },
+        {
+          "label": "C",
+          "text": "Power Production"
+        },
+        {
+          "label": "D",
+          "text": "Refineries"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "City Gas Distribution (Cooking Gas)"
+      },
+      "explanation": "City Gas Distribution sector accounted for the highest consumption share of domestically produced natural gas in India as of FY2026. The CGD segment supplies households and sectors including CNG and PNG. Gas consumption by fertilizers, power, and refineries declined until FY2026. Government reports show CGD maintained demand growth, unlike other sectors. Policy measures support expansion in urban gas infrastructure since 2018."
+    },
+    {
+      "id": 29145,
+      "question": "Which state in India has the largest coal reserves?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chhattisgarh"
+        },
+        {
+          "label": "B",
+          "text": "West Bengal"
+        },
+        {
+          "label": "C",
+          "text": "Jharkhand"
+        },
+        {
+          "label": "D",
+          "text": "Odisha"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Odisha"
+      },
+      "explanation": "Odisha has the largest coal reserves in India with 94.52 billion tonnes as of April 1, 2025. This constitutes about 28.8% of India's total coal reserves. Major coalfields in Odisha include Talcher, Ib Valley, and Rampia. The state is a leading coal producer and exporter, and vast coal resources are managed under the Mahanadi Coalfields Limited, a subsidiary of Coal India Limited."
+    },
+    {
+      "id": 29217,
+      "question": "Which is India's largest source of power generation as of 2025?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Coal"
+        },
+        {
+          "label": "B",
+          "text": "Solar"
+        },
+        {
+          "label": "C",
+          "text": "Wind"
+        },
+        {
+          "label": "D",
+          "text": "Hydropower"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Coal"
+      },
+      "explanation": "Coal accounted for about 70% of India's electricity generation in 2025. Coal-based power output was 1,247 TWh in 2025 after a 3.4% decline. Non-fossil sources contributed 25% collectively in FY 2024-25. India added 35 GW solar in 2025, but total renewable generation reached 270 TWh compared to coal's 1,247 TWh."
+    },
+    {
+      "id": 33238,
+      "question": "Which is the largest source of installed power capacity in India as of January 2026? (UPSC Prelims 1982)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thermal (fossil fuel-based)"
+        },
+        {
+          "label": "B",
+          "text": "Solar"
+        },
+        {
+          "label": "C",
+          "text": "Non-fossil fuel (renewables and nuclear)"
+        },
+        {
+          "label": "D",
+          "text": "Hydro-electric"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Non-fossil fuel (renewables and nuclear)"
+      },
+      "explanation": "As of January 31, 2026, India's installed capacity is 520,511 MW. Non-fossil fuel sources, including renewables and nuclear, total 271,969 MW, accounting for over 52% of total installed capacity. This exceeds the fossil fuel-based capacity of 248,542 MW. Major components of non-fossil fuel capacity are solar and wind energy."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-12-president",
+    "title": "President",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:19:28"
+  },
+  "questions": [
+    {
+      "id": 2958,
+      "question": "Which Article of Indian Constitution incorporates doctrine of pleasure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Article 123"
+        },
+        {
+          "label": "B",
+          "text": "Article 213"
+        },
+        {
+          "label": "C",
+          "text": "Article 310"
+        },
+        {
+          "label": "D",
+          "text": "Article 368"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Article 310"
+      },
+      "explanation": "Article 310 of the Indian constitution incorporates the common law doctrine of pleasure. It expressly provides that all persons who are members of the defenses services or the civil services of the union of the all-India services hold office during the pleasure of the governor."
+    },
+    {
+      "id": 3217,
+      "question": "How many presidents of India so far were elected unopposed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "One"
+        },
+        {
+          "label": "B",
+          "text": "Two"
+        },
+        {
+          "label": "C",
+          "text": "Three"
+        },
+        {
+          "label": "D",
+          "text": "Four"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Two"
+      },
+      "explanation": "Apart from N Sanjiva Reddy First President Dr. Rajendra Prasad was elected unopposed for the period 1950 to 1952; but he faced opposition in further elections."
+    },
+    {
+      "id": 3279,
+      "question": "The constitutional position of President of India is most closely similar to __:",
+      "options": [
+        {
+          "label": "A",
+          "text": "British Monarch"
+        },
+        {
+          "label": "B",
+          "text": "US President"
+        },
+        {
+          "label": "C",
+          "text": "Russian President"
+        },
+        {
+          "label": "D",
+          "text": "British Prime Minister"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "British Monarch"
+      },
+      "explanation": "The President of India, according to the Indian Constitution, serves as the ceremonial head of state, similar to the British Monarch. However, unlike the British Monarch, the President of India also holds residual powers that can be exercised during an emergency. Despite this, the nature of the role is largely ceremonious, much like the Queen in the UK."
+    },
+    {
+      "id": 4528,
+      "question": "The minimum and maximum age for a candidate to contest elections for President of India’s office?",
+      "options": [
+        {
+          "label": "A",
+          "text": "25 years, 65 years"
+        },
+        {
+          "label": "B",
+          "text": "35 years, 65 years"
+        },
+        {
+          "label": "C",
+          "text": "35 years , no limit"
+        },
+        {
+          "label": "D",
+          "text": "25 years, no limit"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "35 years , no limit"
+      },
+      "explanation": "Article 58 of the constitution lays down the qualifications of a president in India. These qualifications are: He should be a citizen of India, He must have completed the age of 35 years He must be qualified to become a Lok Sabha member. He should not hold any office of profit under Union or state government."
+    },
+    {
+      "id": 5340,
+      "question": "From which country, the method of Impeachment of the President of India is adopted from?",
+      "options": [
+        {
+          "label": "A",
+          "text": "USA"
+        },
+        {
+          "label": "B",
+          "text": "UK"
+        },
+        {
+          "label": "C",
+          "text": "USSR"
+        },
+        {
+          "label": "D",
+          "text": "France"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "USA"
+      },
+      "explanation": "Constitution has adopted the method of Impeachment of the President of India from Constitution of USA."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "geology-rocks-plate-tectonics-earthquakes-volcanoes",
+    "title": "Geology - Rocks, Plate Tectonics, Earthquakes, Volcanoes",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:13:37"
+  },
+  "questions": [
+    {
+      "id": 4187,
+      "question": "Which of the following rocks are known as Primary rocks?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Igneous Rocks"
+        },
+        {
+          "label": "B",
+          "text": "Metamorphic Rocks"
+        },
+        {
+          "label": "C",
+          "text": "Sedimentary Rocks"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Igneous Rocks"
+      },
+      "explanation": "All the rocks are derived from igneous rocks which are formed by the solidification of hot molten material called magma or lava. Therefore igneous rocks are also called as primary rocks or parent rocks."
+    },
+    {
+      "id": 4189,
+      "question": "Which of the following rocks have layered like structure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Igneous Rocks"
+        },
+        {
+          "label": "B",
+          "text": "Metamorphic Rocks"
+        },
+        {
+          "label": "C",
+          "text": "Sedimentary Rocks"
+        },
+        {
+          "label": "D",
+          "text": "Extrusive igneous rocks"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Sedimentary Rocks"
+      },
+      "explanation": "Sedimentary rocks are formed by the successive deposition of sediments. Therefore they have layered or stratified structure. These rocks are also known stratified rocks. Sandstone, shale, limestone and dolomite are some of the examples of Sedimentary rocks."
+    },
+    {
+      "id": 4190,
+      "question": "Which of the following rocks are known as Plutonic rocks?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Deep seated Intrusive Igneous"
+        },
+        {
+          "label": "B",
+          "text": "Shallow depth intrusive rocks"
+        },
+        {
+          "label": "C",
+          "text": "Sedimentary Rocks"
+        },
+        {
+          "label": "D",
+          "text": "Extrusive igneous rocks"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Deep seated Intrusive Igneous"
+      },
+      "explanation": "Extrusive igneous rocks are formed by cooling of lava on the earth’s surface. Extrusive igneous rocks are also called volcanic rocks. Intrusive igneous rocks are formed when magma solidifies below the earth’s surface. Deep seated intrusive rocks are termed as plutonic rocks. Shallow depth intrusive rocks are termed as hypabyssal."
+    },
+    {
+      "id": 4191,
+      "question": "Granite is an example of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intrusive igneous rock"
+        },
+        {
+          "label": "B",
+          "text": "Extrusive igneous rock"
+        },
+        {
+          "label": "C",
+          "text": "Sedimentary rock"
+        },
+        {
+          "label": "D",
+          "text": "Metamorphic rock"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Intrusive igneous rock"
+      },
+      "explanation": "Intrusive igneous rocks are formed from magma that cools and solidifies within the crust of a planet, surrounded by pre-existing rock (called country rock); the magma cools slowly and, as a result, these rocks are coarse-grained. Granite is the example of Intrusive Igneous rock."
+    },
+    {
+      "id": 4192,
+      "question": "Slate is an example of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Igneous rock"
+        },
+        {
+          "label": "B",
+          "text": "Metamorphic rock"
+        },
+        {
+          "label": "C",
+          "text": "Sedimentary rock"
+        },
+        {
+          "label": "D",
+          "text": "Intrusive igneous rock"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Metamorphic rock"
+      },
+      "explanation": "Slate, gneiss, schist, marble and diamond are good examples of metamorphic rocks."
+    }
+  ]
+}

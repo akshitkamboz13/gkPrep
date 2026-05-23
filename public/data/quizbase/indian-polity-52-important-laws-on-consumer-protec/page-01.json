@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-52-important-laws-on-consumer-protec",
+    "title": "Important Laws on Consumer Protection",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:23:14"
+  },
+  "questions": [
+    {
+      "id": 46550,
+      "question": "Consumer Protection Act, 2019 has replaced which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Consumer Protection Act, 1976"
+        },
+        {
+          "label": "B",
+          "text": "Consumer Protection Act, 1986"
+        },
+        {
+          "label": "C",
+          "text": "Consumer Protection Act, 1996"
+        },
+        {
+          "label": "D",
+          "text": "Consumer Protection Act, 2006"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Consumer Protection Act, 1986"
+      },
+      "explanation": "The Consumer Protection Act, 2019 has replaced Consumer Protection Act, 1986. The Indian government has implemented different acts from time to time to protect the consumers against different forms of mistreatment."
+    },
+    {
+      "id": 46553,
+      "question": "The Consumer Protection Act, 1986 provides how many rights to the consumers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "4"
+        },
+        {
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "label": "C",
+          "text": "6"
+        },
+        {
+          "label": "D",
+          "text": "7"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "6"
+      },
+      "explanation": "The Consumer Protection Act, 1986 provides 6 rights to the consumers which are as follows: (1) Right to Safety, (2) Right to be Informed/Right to Representation, (3) Right to Choose, (4) Right to be Heard, (5) Right to seek redressal and (6) Right to consumer education."
+    },
+    {
+      "id": 46555,
+      "question": "The Consumer Disputes Redressal Commission (CDRCs) will hear complaints worth?",
+      "options": [
+        {
+          "label": "A",
+          "text": "more than Rs. 10 lakhs"
+        },
+        {
+          "label": "B",
+          "text": "less than Rs. 10 lakhs"
+        },
+        {
+          "label": "C",
+          "text": "more than Rs. 10 crores"
+        },
+        {
+          "label": "D",
+          "text": "less than Rs. 10 crores"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "more than Rs. 10 crores"
+      },
+      "explanation": "The Consumer Protection Act, 2019 has defined the criteria of Consumer Disputes Redressal Commission (CDRCs). The National CDRC will hear complaints of worth more than Rs. 10 crores."
+    },
+    {
+      "id": 46556,
+      "question": "The State Consumer Disputes Redressal Commission will hear complaints of how much worth?",
+      "options": [
+        {
+          "label": "A",
+          "text": "more than Rs 1 lakh but less than Rs 10 lakh"
+        },
+        {
+          "label": "B",
+          "text": "more than Rs 10 crore but less than Rs 50 crore"
+        },
+        {
+          "label": "C",
+          "text": "more than Rs 1 crore but less than Rs 10 crore"
+        },
+        {
+          "label": "D",
+          "text": "more than Rs 5 crore but less than Rs 10 crore"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "more than Rs 1 crore but less than Rs 10 crore"
+      },
+      "explanation": "The State Consumer Disputes Redressal Commission provided in Consumer Protection Act, 2019 will hear complaints of more than Rs 1 crore but less than Rs 10 crore."
+    },
+    {
+      "id": 46557,
+      "question": "The District Consumer Disputes Redressal Commission will entertain complaints when the value of goods or service is upto how much?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rs 1 lakh"
+        },
+        {
+          "label": "B",
+          "text": "Rs 1 crore"
+        },
+        {
+          "label": "C",
+          "text": "Rs 5 crore"
+        },
+        {
+          "label": "D",
+          "text": "Rs 10 crore"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Rs 1 crore"
+      },
+      "explanation": "The District Consumer Disputes Redressal Commission to be constituted under Consumer Protection Act, 2019 will entertain complaints when the value of goods or service is upto Rs 1 crore."
+    }
+  ]
+}

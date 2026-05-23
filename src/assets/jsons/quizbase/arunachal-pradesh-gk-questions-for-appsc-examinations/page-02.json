@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "arunachal-pradesh-gk-questions-for-appsc-examinations",
+    "title": "States PCS: Arunachal Pradesh GK Questions for APPSC Examinations",
+    "page": 2,
+    "total_pages": 2,
+    "generated_at": "2026-05-02 05:41:36",
+    "total_questions": 4,
+    "scraped_at": "2026-05-02 11:36:13"
+  },
+  "questions": [
+    {
+      "id": 11,
+      "question": "Which tribe from Arunachal Pradesh is traditionally known for women wearing facial tattoos and nose plugs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Apatani"
+        },
+        {
+          "label": "B",
+          "text": "Adi"
+        },
+        {
+          "label": "C",
+          "text": "Monpa"
+        },
+        {
+          "label": "D",
+          "text": "Nyishi"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Apatani"
+      },
+      "explanation": "Apatani women historically wore facial tattoos and nose plugs, a unique cultural marker in Arunachal Pradesh."
+    },
+    {
+      "id": 12,
+      "question": "Who was the first Chief Minister of Arunachal Pradesh?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gegong Apang"
+        },
+        {
+          "label": "B",
+          "text": "Prem Khandu Thungon"
+        },
+        {
+          "label": "C",
+          "text": "Mukut Mithi"
+        },
+        {
+          "label": "D",
+          "text": "Kalikho Pul"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Prem Khandu Thungon"
+      },
+      "explanation": "Prem Khandu Thungon became the first Chief Minister of Arunachal Pradesh in 1975 when it attained Union Territory status."
+    },
+    {
+      "id": 13,
+      "question": "Which town in Arunachal Pradesh is known as the ‘Land of the Dawn-lit Mountains’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tezu"
+        },
+        {
+          "label": "B",
+          "text": "Dong"
+        },
+        {
+          "label": "C",
+          "text": "Tawang"
+        },
+        {
+          "label": "D",
+          "text": "Itanagar"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Dong"
+      },
+      "explanation": "Dong village, in Anjaw district, Arunachal Pradesh, is called the ‘Land of the Dawn-lit Mountains’ as it receives India’s first sunlight each day."
+    },
+    {
+      "id": 14,
+      "question": "Most tribal languages spoken in Arunachal Pradesh belong to which language family?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indo-Aryan"
+        },
+        {
+          "label": "B",
+          "text": "Dravidian"
+        },
+        {
+          "label": "C",
+          "text": "Austroasiatic"
+        },
+        {
+          "label": "D",
+          "text": "Tibeto-Burman"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Tibeto-Burman"
+      },
+      "explanation": "The majority of tribal languages in Arunachal Pradesh, such as Adi, Nyishi, and Monpa, are classified under the Tibeto-Burman language family."
+    }
+  ]
+}

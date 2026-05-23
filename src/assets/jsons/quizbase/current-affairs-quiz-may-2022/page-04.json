@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-may-2022",
+    "title": "Current Affairs Quiz - May 2022",
+    "page": 4,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:47:47",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:00:36"
+  },
+  "questions": [
+    {
+      "id": 31,
+      "question": "‘Mukhymantri Ghar Ghar Ration Yojna’ is a doorstep ration delivery scheme of which state/UT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Punjab"
+        },
+        {
+          "label": "B",
+          "text": "New Delhi"
+        },
+        {
+          "label": "C",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Bihar"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "New Delhi"
+      },
+      "explanation": "The Delhi High Court recently declared the AAP government’s doorstep ration delivery scheme– Mukhymantri Ghar Ghar Ration Yojna not valid. The High Court Bench said that the Delhi government can bring another doorstep delivery scheme but it cannot use grains provided by the Centre for this doorstep scheme."
+    },
+    {
+      "id": 32,
+      "question": "Where is the ‘CSIR-Central Leather Research Institute’ located in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pune"
+        },
+        {
+          "label": "B",
+          "text": "Chennai"
+        },
+        {
+          "label": "C",
+          "text": "Lucknow"
+        },
+        {
+          "label": "D",
+          "text": "Mysuru"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Chennai"
+      },
+      "explanation": "Union Minister of State Ministry of Science and Technology Dr Jitendra Singh addressed the Platinum Jubilee celebrations of CSIR-Central Leather Research Institute in Chennai. He announced that the leather industry in India will aim at net-zero carbon footprint. In 2021, export realization from the leather sector is valued at Rs 40,000 crores. The Minister also announced about the efforts to prepare customised footwear for Indians by using 3D technology."
+    },
+    {
+      "id": 33,
+      "question": "Which is the venue of the World Economic Forum (WEF) Annual meeting 2022?",
+      "options": [
+        {
+          "label": "A",
+          "text": "New York"
+        },
+        {
+          "label": "B",
+          "text": "Davos"
+        },
+        {
+          "label": "C",
+          "text": "Geneva"
+        },
+        {
+          "label": "D",
+          "text": "Paris"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Davos"
+      },
+      "explanation": "The World Economic Forum (WEF) is set to hold its Annual Meeting 2022 in the Switzerland town of Davos from May 22 to 26. This is the first global in-person event since the start of the pandemic. The theme of the WEF Annual Meeting 2022 will be “Working Together, Restoring Trust. The issues to be discussed include government policies and business strategies amidst global pandemic, and the war in Ukraine and geo-economic challenges."
+    },
+    {
+      "id": 34,
+      "question": "Which country launched the ‘Indo-Pacific Economic Framework for Prosperity (IPEF)’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "China"
+        },
+        {
+          "label": "B",
+          "text": "USA"
+        },
+        {
+          "label": "C",
+          "text": "Japan"
+        },
+        {
+          "label": "D",
+          "text": "Australia"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "USA"
+      },
+      "explanation": "US President Joe Biden officially launched the Indo-Pacific Economic Framework for Prosperity (IPEF) in Japan, aimed at countering growing Chinese influence in Asia. Prime Minister Narendra Modi participated in the launch event. IPEF will initially include South Korea, Australia, Brunei, India, Indonesia, Japan, Malaysia, New Zealand, the Philippines, Singapore, Thailand, and Vietnam. In total, the countries account for about 40 percent of global economic output."
+    },
+    {
+      "id": 35,
+      "question": "Greenko Group commenced the construction of its Renewable energy storage project in which state",
+      "options": [
+        {
+          "label": "A",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Madhya Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Karnataka"
+        },
+        {
+          "label": "D",
+          "text": "Kerala"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Andhra Pradesh"
+      },
+      "explanation": "Greenko Group has commenced the construction of its 5,230 MW integrated renewable energy storage project in the Kurnool district of Andhra Pradesh. It is said to be the world’s largest integrated renewable energy storage project. The project is also set to help avoid 15 million tonnes of CO2 emissions. Greenko is backed by the Government Investment Corporation (GIC) of Singapore and Abu Dhabi Investment Authority (ADIA) of Abu Dhabi along with Orix Corporation, Japan."
+    },
+    {
+      "id": 36,
+      "question": "Which company launched Boeing’s CST-100 Starliner into orbit?",
+      "options": [
+        {
+          "label": "A",
+          "text": "SpaceX"
+        },
+        {
+          "label": "B",
+          "text": "NASA"
+        },
+        {
+          "label": "C",
+          "text": "ESA"
+        },
+        {
+          "label": "D",
+          "text": "ISRO"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "NASA"
+      },
+      "explanation": "Boeing’s CST-100 Starliner spacecraft was launched in its orbit on a United Launch Alliance (ULA) Atlas V rocket. It was launched on a mission to test the capabilities of the crew-capable system as part of NASA’s Commercial Crew Program. Starliner lifted off on NASA’s Boeing Orbital Flight Test-2 from Cape Canaveral Space Force Station in Florida. After certification, NASA missions aboard Starliner spacecraft will carry up to four crew members to the station."
+    },
+    {
+      "id": 37,
+      "question": "Who is the head of the RBI committee formed to evaluate the quality of customer service in banks, NBFCs, and other regulated entities?",
+      "options": [
+        {
+          "label": "A",
+          "text": "M D Patra"
+        },
+        {
+          "label": "B",
+          "text": "B P Kanungo"
+        },
+        {
+          "label": "C",
+          "text": "M K Jain"
+        },
+        {
+          "label": "D",
+          "text": "Urjit Patel"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "B P Kanungo"
+      },
+      "explanation": "The Reserve Bank of India (RBI) has set up a committee to evaluate the efficacy, adequacy and quality of customer service in banks, NBFCs, and other entities regulated by it The six-member committee is headed by former RBI deputy governor B P Kanungo. The committee has been asked to submit a report within three months from the date of its first meeting."
+    },
+    {
+      "id": 38,
+      "question": "Which country is associated with the ‘Terminator tank support system – the BMPT’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "USA"
+        },
+        {
+          "label": "B",
+          "text": "China"
+        },
+        {
+          "label": "C",
+          "text": "Israel"
+        },
+        {
+          "label": "D",
+          "text": "Russia"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Russia"
+      },
+      "explanation": "Russia has deployed the Terminator tank support system-the BMPT, also called as the BMPT Terminator. The Terminator or the Boyevaya Mashina Podderzhki Tankov (BMPT), is a tank support fighting vehicle developed by Russia. These weapons are capable of firing in multiple directions in quick succession and are used as replacement for mechanised infantry troops."
+    },
+    {
+      "id": 39,
+      "question": "‘Global Collaboration Village’ is the new initiative of which organisation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Asian Development Bank"
+        },
+        {
+          "label": "B",
+          "text": "World Economic Forum"
+        },
+        {
+          "label": "C",
+          "text": "International Monetary Fund"
+        },
+        {
+          "label": "D",
+          "text": "NITI Aayog"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "World Economic Forum"
+      },
+      "explanation": "The World Economic Forum (WEF), during its Davos meeting has announced that it is building a “Global Collaboration Village” as the virtual future of public-private cooperation. The initiative is being launched in collaboration with Accenture and Microsoft. WEF launched the initiative for Defining and Building the Metaverse and it will bring together key global stakeholders to address critical global issues."
+    },
+    {
+      "id": 40,
+      "question": "Which grouping has launched a new initiative to boost flows of digital FDIs globally, along with WEF?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NASSCOM"
+        },
+        {
+          "label": "B",
+          "text": "Digital Cooperation Organization"
+        },
+        {
+          "label": "C",
+          "text": "G-20"
+        },
+        {
+          "label": "D",
+          "text": "BIMSTEC"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Digital Cooperation Organization"
+      },
+      "explanation": "The Digital Cooperation Organization (DCO) and the World Economic Forum (WEF) announced a new initiative to boost flows of digital foreign direct investments globally. Under the initiative, the DCO and WEF will launch Digital FDI Enabling Projects in countries around the world. DCO, which focuses on digital economy initiatives supporting youth, start-up entrepreneurs and women, has nine member states with a combined GDP of nearly USD 2 trillion."
+    }
+  ]
+}

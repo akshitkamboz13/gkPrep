@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "science-technology-current-affairs",
+    "title": "Science & Technology Current Affairs MCQs",
+    "page": 7,
+    "total_pages": 8,
+    "generated_at": "2026-05-02 07:01:04",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:31:20"
+  },
+  "questions": [
+    {
+      "id": 61,
+      "question": "Indian National Centre for Ocean Information Services (INCOIS) was established under which ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Science and Technology"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Earth Sciences"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Electronics and Information Technology"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Environment, Forest and Climate Change"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ministry of Earth Sciences"
+      },
+      "explanation": "The Indian National Centre for Ocean Information Services (INCOIS) will launch three new ocean services: Jellyfish Artificial Intelligence Information Platform (JellyAIIP), SAMUDRA 2.0 Mobile Application, and Seamless Information Visualization and Analysis System (SIVAS) along with a new logo. It was established as an autonomous body under the Ministry of Earth Sciences (MoES) and is located in Hyderabad, Telangana. It provides ocean information and advisory services through continuous ocean observations and focused research. It runs the Indian Tsunami Early Warning Centre (ITEWC), issuing tsunami alerts within 10 minutes for India and 28 Indian Ocean countries."
+    },
+    {
+      "id": 62,
+      "question": "Which organisation selected Astrome Technologies, Azista Industries and Dhruva Space to develop and test indigenous small satellite bus platforms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Biotechnology Industry Research Assistance Council (BIRAC)"
+        },
+        {
+          "label": "B",
+          "text": "Indian National Space Promotion and Authorisation Centre (IN-SPACe)"
+        },
+        {
+          "label": "C",
+          "text": "Indian Space Research Organisation (ISRO)"
+        },
+        {
+          "label": "D",
+          "text": "Defence Research and Development Organisation (DRDO)"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Indian National Space Promotion and Authorisation Centre (IN-SPACe)"
+      },
+      "explanation": "Three Indian space start-ups- Astrome Technologies (Bengaluru), Azista Industries (Hyderabad), and Dhruva Space (Hyderabad)- were selected by Indian National Space Promotion and Authorisation Centre (IN-SPACe) to develop indigenous small satellite bus platforms. The selection was under Satellite Bus as a Service (SBaaS) initiative, announced in April 2025, inviting proposals from Indian Non-Governmental Entities (NGEs). 15 proposals were received by July 2025; the three selected companies underwent a rigorous, multi-stage evaluation process. Each selected firm will receive a ₹5 crore grant to develop a robust, modular, and scalable small satellite bus capable of hosting multiple customer payloads."
+    },
+    {
+      "id": 63,
+      "question": "A new meat-eating dinosaur named Spinosaurus mirabilis was discovered in which desert?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gobi Desert"
+        },
+        {
+          "label": "B",
+          "text": "Atacama Desert"
+        },
+        {
+          "label": "C",
+          "text": "Sahara Desert"
+        },
+        {
+          "label": "D",
+          "text": "Kalahari Desert"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Sahara Desert"
+      },
+      "explanation": "A new meat-eating dinosaur named Spinosaurus mirabilis was discovered in the Sahara Desert. Its fossils were found in Jengueb area of Niger in the central Sahara. It lived about 95 million years ago in a forested inland region with rivers. It is the second known species of Spinosaurus. The first species, Spinosaurus aegyptiacus, was discovered in 1915 in Egypt."
+    },
+    {
+      "id": 64,
+      "question": "The Tetanus and Diphtheria (Td) vaccine was recently launched at which institute?",
+      "options": [
+        {
+          "label": "A",
+          "text": "All India Institutes of Medical Sciences (AIIMS), New Delhi"
+        },
+        {
+          "label": "B",
+          "text": "Central Research Institute, Kasauli"
+        },
+        {
+          "label": "C",
+          "text": "National Institute of Virology, Pune"
+        },
+        {
+          "label": "D",
+          "text": "Pasteur Institute of India, Coonoor"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Central Research Institute, Kasauli"
+      },
+      "explanation": "Health and Family Welfare Minister Jagat Prakash Nadda launched indigenous Tetanus and Diphtheria vaccine at Central Research Institute, Kasauli in Solan district, Himachal Pradesh. Vaccine supports vision of Atmanirbhar Bharat in health sector. India is known as Pharmacy of the World. Universal Immunization Programme (UIP) is world’s largest immunization programme. Central Research Institute will supply 5.5 million vaccine doses by April 2026 to strengthen immunization coverage."
+    },
+    {
+      "id": 65,
+      "question": "Vikko Sat-1 is a mini satellite developed by students of which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "B",
+          "text": "Kerala"
+        },
+        {
+          "label": "C",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Tamil Nadu"
+      },
+      "explanation": "Class Eleven students of Ariyakudi Government Higher Secondary School in Sivagangai district of Tamil Nadu launched a 600 gram mini satellite named Vikko Sat-1. Vikko Sat-1 is designed to detect fungal spores in the stratosphere using five specialised sensors. Fungal spores affect agricultural health and environmental cycles, and can damage crops if they descend. The mini satellite was sent into the stratosphere using a helium balloon to collect real-time data beyond ground observation. Students developed it in six months with adhesive surfaces to capture air samples. It reached 22 kilometre height in the stratosphere, the second atmospheric layer. Sensors studied spore behaviour in thin air and low temperature."
+    },
+    {
+      "id": 66,
+      "question": "ALMA is a radio telescope located in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chile"
+        },
+        {
+          "label": "B",
+          "text": "Russia"
+        },
+        {
+          "label": "C",
+          "text": "India"
+        },
+        {
+          "label": "D",
+          "text": "China"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Chile"
+      },
+      "explanation": "Astronomers imaged the central Milky Way and revealed a complex network of cosmic gas filaments using Atacama Large Millimeter/submillimeter Array (ALMA). ALMA is located in the Atacama Desert of northern Chile and studies celestial objects at millimetre and submillimetre wavelengths. It has been fully operational since 2013. It was designed and built by National Radio Astronomy Observatory, National Astronomical Observatory of Japan, and European Southern Observatory."
+    },
+    {
+      "id": 67,
+      "question": "What is “Deinococcus radiodurans” that was recently mentioned in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bacteria"
+        },
+        {
+          "label": "B",
+          "text": "Virus"
+        },
+        {
+          "label": "C",
+          "text": "Fungus"
+        },
+        {
+          "label": "D",
+          "text": "Invasive weed"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Bacteria"
+      },
+      "explanation": "Researchers found that Deinococcus radiodurans can survive extremely high pressures of 14,000–24,000 Earth atmospheres, similar to pressures during planetary impacts. It is a bacterium famous for its extreme resistance to ionizing radiation, earning the nickname “Conan the Bacterium.” The organism is gram-positive, non-motile, and reddish in colour. It was first discovered in 1956 in radiation-treated canned meat. It can survive radiation doses thousands of times higher than those fatal to humans, making it one of the most radiation-resistant organisms on Earth."
+    },
+    {
+      "id": 68,
+      "question": "The DART (Double Asteroid Redirection Test) mission was launched by which organisation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "National Aeronautics and Space Administration (NASA)"
+        },
+        {
+          "label": "B",
+          "text": "China National Space Administration (CNSA)"
+        },
+        {
+          "label": "C",
+          "text": "European Space Agency (ESA)"
+        },
+        {
+          "label": "D",
+          "text": "Indian Space Research Organisation (ISRO)"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "National Aeronautics and Space Administration (NASA)"
+      },
+      "explanation": "A new study found that Double Asteroid Redirection Test (DART) not only changed the motion of an asteroid but also slightly altered the orbit of the asteroid pair around the Sun. DART was launched in 2021 by National Aeronautics and Space Administration (NASA) to test asteroid deflection technology. It was the first planetary defence mission to change an asteroid’s path using the kinetic impact method. The spacecraft targeted a binary asteroid system of Didymos and its moonlet Dimorphos. In 2022, the spacecraft intentionally crashed into Dimorphos to alter its orbit around Didymos. The impact successfully changed the asteroid’s motion, proving humans can potentially deflect hazardous near-Earth objects in space."
+    },
+    {
+      "id": 69,
+      "question": "What is name of India’s first amphibious drone launched by AquaAirX Autonomous Systems in March 2026?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Avataar"
+        },
+        {
+          "label": "B",
+          "text": "Chanakya"
+        },
+        {
+          "label": "C",
+          "text": "Surya"
+        },
+        {
+          "label": "D",
+          "text": "Kaveri"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Avataar"
+      },
+      "explanation": "Avataar is India’s first amphibious drone, launched on 5 March 2026 by AquaAirX Autonomous Systems. It can operate both in air and underwater, combining drone flight with submarine-like diving for surveillance. The project received ₹12.5 crore seed funding from Rainmatter. It has reached TRL-6 (Technology Readiness Level-6), meaning a working prototype tested in real environments. It is built with carbon fibre body and anti-corrosion coatings to resist saltwater damage."
+    },
+    {
+      "id": 70,
+      "question": "What was the main objective of the NASA’s Van Allen Probes mission?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To study Mars’ atmosphere"
+        },
+        {
+          "label": "B",
+          "text": "To study Earth’s radiation belts"
+        },
+        {
+          "label": "C",
+          "text": "To observe distant galaxies"
+        },
+        {
+          "label": "D",
+          "text": "To monitor ocean temperatures"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "To study Earth’s radiation belts"
+      },
+      "explanation": "Van Allen Probes A satellite, weighing about 600 kg, is re-entering Earth’s atmosphere, raising discussion about possible ground risks. The Van Allen Probes mission by NASA was the first mission to study Earth’s radiation belts using two spacecraft together. The twin spacecraft Van Allen Probe A and Van Allen Probe B were launched on 30 August 2012 to explore Earth’s radiation environment. They studied the Van Allen Radiation Belts, which are rings of energetic charged particles trapped by Earth’s magnetic field. These belts are named after space scientist James Van Allen, who discovered them in 1958."
+    }
+  ]
+}

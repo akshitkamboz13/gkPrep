@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "important-concepts-in-micro-macroeconomics-mcqs-for-ssc-examination",
+    "title": "1. Important Concepts in Micro & Macroeconomics",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:14:35"
+  },
+  "questions": [
+    {
+      "id": 3048,
+      "question": "Which of the following pairings does not represent a set of complementary goods?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Printers and Ink Cartridges"
+        },
+        {
+          "label": "B",
+          "text": "Tea and Sugar"
+        },
+        {
+          "label": "C",
+          "text": "Mobile Phones and SIM cards"
+        },
+        {
+          "label": "D",
+          "text": "Tea and Coffee"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Tea and Coffee"
+      },
+      "explanation": "Complementary goods, defined by their negative cross elasticity of demand, are products whose demand is influenced by one another. When the price of a good declines, the demand for its complementary good rises. Printers need ink cartridges, tea is often consumed with sugar, and mobile phones require SIM cards for operation. However, tea and coffee are substitutes, not complements, as they are consumed separately and often in place of one another, hence they are not complementary goods."
+    },
+    {
+      "id": 5360,
+      "question": "If the demand and supply of a commodity increase by an equal absolute amount, what will be the effect on market price?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase"
+        },
+        {
+          "label": "B",
+          "text": "Decrease"
+        },
+        {
+          "label": "C",
+          "text": "Remain Stable"
+        },
+        {
+          "label": "D",
+          "text": "First decrease then increase"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Remain Stable"
+      },
+      "explanation": "When the market is in equilibrium, and when the demand and supply of a commodity increase by an equal absolute amount, the market price will not increase, rather it will remain stable."
+    },
+    {
+      "id": 5361,
+      "question": "A rise in price of one commodity will induce a fall in demand of another commodity, then the commodities are___?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Complimentary"
+        },
+        {
+          "label": "B",
+          "text": "Supplementary"
+        },
+        {
+          "label": "C",
+          "text": "Competing"
+        },
+        {
+          "label": "D",
+          "text": "Auxiliary"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Complimentary"
+      },
+      "explanation": "A complementary commodity is the one which is used along with another commodity. When the price of a particular commodity rises, it will induce a fall in demand of another commodity. This is because consumers may not prefer to buy only the complement."
+    },
+    {
+      "id": 5362,
+      "question": "Which among the following is a most suitable example of double counting in national income ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wages of bus and train drivers"
+        },
+        {
+          "label": "B",
+          "text": "Cotton output and cotton cloth output"
+        },
+        {
+          "label": "C",
+          "text": "Electricity output and water output"
+        },
+        {
+          "label": "D",
+          "text": "Tax receipts and earnings of inland revenue officials"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Cotton output and cotton cloth output"
+      },
+      "explanation": "While estimating the national income, the problem of double counting occurs when the value of some goods and services are counted more than once. Cotton output and cotton cloth output both the raw material and the final result are counted."
+    },
+    {
+      "id": 5363,
+      "question": "Which among the following is considered to be the best measure of an increase in a country’s economic efficiency?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase in annual private investment"
+        },
+        {
+          "label": "B",
+          "text": "Increase in real national income"
+        },
+        {
+          "label": "C",
+          "text": "Increase in real per capita income"
+        },
+        {
+          "label": "D",
+          "text": "Increase in net annual investment"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Increase in real per capita income"
+      },
+      "explanation": "Per capita income is a measure of the average income earned per person in a given area (usually in a country) in a particular year. When this figure is adjusted for inflation, the real per capita income is obtained, which gives the best measure of an increase in a country’s economic efficiency."
+    }
+  ]
+}

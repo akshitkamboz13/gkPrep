@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-46-provisions-related-to-languages",
+    "title": "Provisions Related to Languages",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:22:47"
+  },
+  "questions": [
+    {
+      "id": 6148,
+      "question": "Which among the following is the correct designation of Hindi in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "National language"
+        },
+        {
+          "label": "B",
+          "text": "Language of communication between states & centre"
+        },
+        {
+          "label": "C",
+          "text": "The Official Language of the Union of India"
+        },
+        {
+          "label": "D",
+          "text": "Official and National Language of India"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "The Official Language of the Union of India"
+      },
+      "explanation": "According to Article 343 (1) of the Constitution of India Hindi in Devanagari script is the official language of the Union of India. However, use of English for official purposes was also made possible by same article."
+    },
+    {
+      "id": 6345,
+      "question": "The Official Languages Act 1963 provided that _______?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hindi is only official language of India"
+        },
+        {
+          "label": "B",
+          "text": "Use of English to be continued in addition to Hindi for Official Purpose"
+        },
+        {
+          "label": "C",
+          "text": "Special status to English"
+        },
+        {
+          "label": "D",
+          "text": "All the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Use of English to be continued in addition to Hindi for Official Purpose"
+      },
+      "explanation": "English was the only language used for official purpose in the British India. In the independent India, it was declared in Article 343 (1) that Hindi will be the official Union language. It was also mentioned that over a period of fifteen years since the commencement of the Indian Constitution, Hindi will replace English as the official language. However, the Parliament can decide whether to use English as an official language or not. The non-Hindi speaking communities across the country protested on the aspect of the change in official language from English to Hindi. This protest resulted in the enactment of the Official Language Act, 1963. According to the act, Hindi in Devanagari script has been declared the official language of the Union. However, English may also be used for official purposes even after 1965. English has been given the status of the ‘subsidiary official language’ of India. It was decided that either Hindi or English can be used for procedures of Parliament."
+    },
+    {
+      "id": 7350,
+      "question": "Which article empowers the president of India to appoint a Special Officer for Linguistic Minorities?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Article 340"
+        },
+        {
+          "label": "B",
+          "text": "Article 347"
+        },
+        {
+          "label": "C",
+          "text": "Article 350 B"
+        },
+        {
+          "label": "D",
+          "text": "Article 353"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Article 350 B"
+      },
+      "explanation": "Under Article 350B, a special officer for linguistic minorities has been enshrined in the constitution. This officer is to be appointed by the president. Its job is to investigate all matters relating to the safeguards provided for linguistic minorities and report to the president. Please note that this report is also one of those reports laid before each house of parliament and sent to the government of the states concerned."
+    },
+    {
+      "id": 7351,
+      "question": "The first official language commission was appointed in 1955. Who was the chairman of this commission?",
+      "options": [
+        {
+          "label": "A",
+          "text": "KM Munshi"
+        },
+        {
+          "label": "B",
+          "text": "B. G. Kher"
+        },
+        {
+          "label": "C",
+          "text": "MC Chhagla"
+        },
+        {
+          "label": "D",
+          "text": "Kalekar"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "B. G. Kher"
+      },
+      "explanation": "The first official language commission was appointed in 1955 with B.G. Kher as chairman and it submitted its report in 1956 which was presented to parliament in 1957 and examined by a joint parliamentary committee."
+    },
+    {
+      "id": 8520,
+      "question": "Which article of the Indian Constitution declares Hindi in Devanagari script as official language of the Union of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Article 343(1)"
+        },
+        {
+          "label": "B",
+          "text": "Article 348(1)"
+        },
+        {
+          "label": "C",
+          "text": "Article 346"
+        },
+        {
+          "label": "D",
+          "text": "Article 345"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Article 343(1)"
+      },
+      "explanation": "Article 343(1) of the constitution declares Hindi in Devanagari script as official language of India."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "initial-invasions-of-arabs-and-turks",
+    "title": "4. Initial Invasions of Arabs and Turks",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:25:14"
+  },
+  "questions": [
+    {
+      "id": 5138,
+      "question": "Muhammad bin Qasim, who was the first Muslim to have successfully invaded Sindh in 712 AD was commander of which caliphate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rashidun Caliphate"
+        },
+        {
+          "label": "B",
+          "text": "Umayyad Caliphate"
+        },
+        {
+          "label": "C",
+          "text": "Abbasid Caliphate"
+        },
+        {
+          "label": "D",
+          "text": "Fatimid Caliphate"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Umayyad Caliphate"
+      },
+      "explanation": "Muhammad bin Qasim, who was the first Muslim to have successfully invaded Sindh in 712 AD was commander of Umayyad Caliphate general, who, during the reign of Caliph al-Walid I led the Muslim conquest of Sindh and Multan. He was able to defeat the third and the last Maharaja of the Brahmin dynasty, Raja Dahir. Raja Dahir was killed in the Battle of Aror."
+    },
+    {
+      "id": 5891,
+      "question": "One of the cited reasons of the expedition of Muhammad Bin Qasim on Sindh was to punish the Bawarij of Sindh. Who were these people?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dacoits"
+        },
+        {
+          "label": "B",
+          "text": "Pirates"
+        },
+        {
+          "label": "C",
+          "text": "Soldiers"
+        },
+        {
+          "label": "D",
+          "text": "Traders"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Pirates"
+      },
+      "explanation": "Bawarij were Sindhi pirates who used special ships called barja warships. They looted Arab shipping bound for the Indian subcontinent and China. One of the cited reasons of Arab conquest of Sindh was to punish the Bawarij who used to prey on Arab shipping from their bases at Kutch, Debal and Kathiawar."
+    },
+    {
+      "id": 7091,
+      "question": "Deogiri was first of all subjugated by which Muslim invader?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ala-ud-din Khilji"
+        },
+        {
+          "label": "B",
+          "text": "Jalal-ud-din Firoz"
+        },
+        {
+          "label": "C",
+          "text": "Malik Kafur"
+        },
+        {
+          "label": "D",
+          "text": "Qutubudin Aibak"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ala-ud-din Khilji"
+      },
+      "explanation": "The first attack on the south of the Narbada was made in 1294 by Ala-ud-din, who marched 700 miles into Berar and Khandesh, and compelled Raja Ramachandra Deva, the Yadava"
+    },
+    {
+      "id": 42466,
+      "question": "Which of the following places on Indian coast came under the earliest attack by Arabs on India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kochi"
+        },
+        {
+          "label": "B",
+          "text": "Thane"
+        },
+        {
+          "label": "C",
+          "text": "Sindh"
+        },
+        {
+          "label": "D",
+          "text": "Porbandar"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Thane"
+      },
+      "explanation": "The earliest attacks on India by Arabs happened around 636 AD [four years after death of Prophet Mohammadin 632AD] when two naval expeditions against Thana on the coast of Maharashtra and Broach (Bharuch) on the coast of Gujarat, had been repulsed by Indian rulers in the reign of Caliph Umar (AD 634-644). The attack on Thane was repulsed by forces of Chalukya king Pulkeshin-II."
+    },
+    {
+      "id": 42467,
+      "question": "In which year, the Battle of Rasil was fought between Rashidun Caliphate and the Rai kingdom of Sindh?",
+      "options": [
+        {
+          "label": "A",
+          "text": "638 AD"
+        },
+        {
+          "label": "B",
+          "text": "644 AD"
+        },
+        {
+          "label": "C",
+          "text": "648 AD"
+        },
+        {
+          "label": "D",
+          "text": "660 AD"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "644 AD"
+      },
+      "explanation": "The Battle of Rasil was the first battle between an Arab Caliphate and a Hindu Kingdom. The Arab caliphate was Rashidun Caliphate Suhail ibn Adi was given command of this expedition by Caliph Umar. In this battle, the Raja Rasil of Rai Kingdom was defeated and the area around Makran coast was annexed into Caliph's territories."
+    }
+  ]
+}

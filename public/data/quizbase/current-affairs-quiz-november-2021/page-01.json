@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-november-2021",
+    "title": "Current Affairs Quiz - November, 2021",
+    "page": 1,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:48:03",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:01:59"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "The ‘Rome Declaration’, which was seen in the news recently, is related to which association?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ASEAN"
+        },
+        {
+          "label": "B",
+          "text": "G-20"
+        },
+        {
+          "label": "C",
+          "text": "G-7"
+        },
+        {
+          "label": "D",
+          "text": "QUAD"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "G-20"
+      },
+      "explanation": "During the recently concluded G20 Summit, the leaders adopted the Rome Declaration and emphasised on Covid-19 immunisation across the globe World leaders had discussions on issues of global importance such as fighting the pandemic, improving health infrastructure, boosting economic cooperation and furthering innovation. The countries agreed that the COVID-19 immunisation is a global public good."
+    },
+    {
+      "id": 2,
+      "question": "When is the ‘World Cities Day’ observed every year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "October 29"
+        },
+        {
+          "label": "B",
+          "text": "October 31"
+        },
+        {
+          "label": "C",
+          "text": "November 1"
+        },
+        {
+          "label": "D",
+          "text": "November 3"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "October 31"
+      },
+      "explanation": "World Cities Day is observed globally on October 31 every year to promote the international community’s interest in global urbanization. The day was established in 2013, by the United Nations General Assembly in its resolution and the occasion was first celebrated in 2014. This year, the theme for World Cities Day is ‘Adapting Cities for Climate Resilience’."
+    },
+    {
+      "id": 3,
+      "question": "What is the upper threshold loan size, for the uniform staff accountability framework for NPA accounts, issued by the Government of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rs. 10 lakh"
+        },
+        {
+          "label": "B",
+          "text": "Rs. 1 crore"
+        },
+        {
+          "label": "C",
+          "text": "Rs. 10 crore"
+        },
+        {
+          "label": "D",
+          "text": "Rs. 50 crore"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Rs. 50 crore"
+      },
+      "explanation": "The Government of India has issued a uniform staff accountability framework for NPA accounts, for loan limits up to Rs. 50 crore. The said guidelines would be implemented uniformly across all banks from 01.04.2022. The guidelines are aimed to make credit decisions faster and help support the economy at the same time remove the apprehension that bankers could be punished for their bonafide commercial decisions going wrong."
+    },
+    {
+      "id": 4,
+      "question": "Starlink Satellite Communications is an Indian subsidiary of which space agency?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Space X"
+        },
+        {
+          "label": "B",
+          "text": "NASA"
+        },
+        {
+          "label": "C",
+          "text": "Virgin Atlantic"
+        },
+        {
+          "label": "D",
+          "text": "Virgin Galactic"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Space X"
+      },
+      "explanation": "US based private space agency Space X, promoted by Elon Musk has launched an Indian subsidiary named Starlink Satellite Communications. The subsidiary has been launched with an intention to establish broadband service in the country. Starlink Satellite Communications is SpaceX’s satellite internet division which operates a fleet of Low Earth Orbit (LEO) satellites."
+    },
+    {
+      "id": 5,
+      "question": "The “Panchamrita concoction” is associated with?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Climate Change"
+        },
+        {
+          "label": "B",
+          "text": "Infrastructure Development"
+        },
+        {
+          "label": "C",
+          "text": "Port Construction"
+        },
+        {
+          "label": "D",
+          "text": "Bilateral relations between India and Bhutan"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Climate Change"
+      },
+      "explanation": "Panchamrita concoction is a five-fold strategy proposed by the Prime Minister of India at the 26th Conference of Parties (CoP26) held at Glasgow. The strategy would help the world achieve the Sustainable Development Goals by 2030. The Panchamrita concoction includes 500 GW non-fossil energy capacity by 2030, 50% renewable energy capacity by 2030, reduce carbon emission by one billion tonnes by 2030, reduce the carbon intensity by 45% by 2030 and achieve net zero by 2030."
+    },
+    {
+      "id": 6,
+      "question": "Which Indian bank launched the first ‘Video life certificate service’ for pensioners?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Punjab National Bank"
+        },
+        {
+          "label": "B",
+          "text": "Canara Bank"
+        },
+        {
+          "label": "C",
+          "text": "State Bank of India"
+        },
+        {
+          "label": "D",
+          "text": "Bank of Baroda"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "State Bank of India"
+      },
+      "explanation": "The State Bank of India (SBI) has launched the first ‘Video life certificate service’ for pensioners. This new facility will allow pensioners to submit their life certificates through video from their homes. As per the SBI, this facility is available for only pensioners and spouse of the pensioner receiving a pension will not be able to use this facility. The process of video life certificate is paperless and also available free of cost."
+    },
+    {
+      "id": 7,
+      "question": "Which Indian state has set up first ever SPV to manage three critical natural conservation missions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kerala"
+        },
+        {
+          "label": "B",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "C",
+          "text": "Odisha"
+        },
+        {
+          "label": "D",
+          "text": "Gujarat"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Tamil Nadu"
+      },
+      "explanation": "Tamil Nadu has set up first ever Special Purpose Vehicle (SPV) named Tamil Nadu Green Climate Company, to professionally manage three critical natural conservation missions The Company will manage the Tamil Nadu Climate Change, Tamil Nadu Green and Tamil Nadu Wetlands missions. The SPV’s authorised capital will be ₹5 crore and the State Environment Secretary will be the company’s chairperson and MD."
+    },
+    {
+      "id": 8,
+      "question": "Which country has announced a $18 bn stimulus plan to fund households with children?",
+      "options": [
+        {
+          "label": "A",
+          "text": "China"
+        },
+        {
+          "label": "B",
+          "text": "Japan"
+        },
+        {
+          "label": "C",
+          "text": "Australia"
+        },
+        {
+          "label": "D",
+          "text": "Germany"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Japan"
+      },
+      "explanation": "Japan has announced a stimulus plan, under which the country will spend roughly 2 trillion yen ($18 billion) on cash payments to households with children under the age of 18. This is a part of an economic stimulus plan aimed to tackle the impact of the COVID-19 pandemic. Under the plan, households with be entitled to receive 100,000 yen per child regardless of household income."
+    },
+    {
+      "id": 9,
+      "question": "Which state has approved the Industrial Relation Rules, 2021?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assam"
+        },
+        {
+          "label": "B",
+          "text": "Karnataka"
+        },
+        {
+          "label": "C",
+          "text": "West Bengal"
+        },
+        {
+          "label": "D",
+          "text": "Kerala"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Assam"
+      },
+      "explanation": "The Assam cabinet approved the Industrial Relation Rules, 2021 aiming at safeguarding the rights of employers and employees. The cabinet has approved a scheme for providing ration to migrant workers, who faced hardship during the COVID-19 pandemic. The rules have been framed with a view to simplify and rationalise the provisions of three central labour codes relating to industrial relations."
+    },
+    {
+      "id": 10,
+      "question": "Which tech giant’s services would no longer be accessible from China, from November 1, 2021?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Yahoo"
+        },
+        {
+          "label": "B",
+          "text": "Google"
+        },
+        {
+          "label": "C",
+          "text": "Facebook"
+        },
+        {
+          "label": "D",
+          "text": "Twitter"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Yahoo"
+      },
+      "explanation": "Tech major Yahoo has proposed to pull out its operations from China, following China’s Personal Information Protection Law coming into effect on Nov. 1. It has stated that the company’s services would no longer be accessible from China from November 1st, 2021. It is stated that Yahoo has made this decision on the grounds that China’s business environment is increasingly challenging."
+    }
+  ]
+}

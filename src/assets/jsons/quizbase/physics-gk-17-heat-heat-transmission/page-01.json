@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physics-gk-17-heat-heat-transmission",
+    "title": "Physics GK 17 - Heat & Heat Transmission",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:31:21"
+  },
+  "questions": [
+    {
+      "id": 6436,
+      "question": "Which among the following is true about conduction, convection and radiation mode of transfer of heat?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A Medium is required for conduction but not required for convection and radiation"
+        },
+        {
+          "label": "B",
+          "text": "A medium is required for conduction, convection and radiation"
+        },
+        {
+          "label": "C",
+          "text": "A medium is required for conduction and convection but not required for radiation"
+        },
+        {
+          "label": "D",
+          "text": "A medium is not required for conduction and convectio, radiation"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "A medium is required for conduction and convection but not required for radiation"
+      },
+      "explanation": "A medium is required for conduction and convection but not required for radiation. The radiation can occur even in vaccum but not the others. The conduction can travel through solid. The convection process needs liquid and gas."
+    },
+    {
+      "id": 6441,
+      "question": "Which among the following is true about latent heat ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It causes change in temperature as well as change in state or phase"
+        },
+        {
+          "label": "B",
+          "text": "It causes change in temperature only"
+        },
+        {
+          "label": "C",
+          "text": "It causes change in state or phase but not in temperature"
+        },
+        {
+          "label": "D",
+          "text": "It causes change in Pressure"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "It causes change in state or phase but not in temperature"
+      },
+      "explanation": "The latent heat Latent heat is energy released or absorbed, by a body or a thermodynamic system, during a constant-temperature process. It causes change in state or phase but not in temperature."
+    },
+    {
+      "id": 6976,
+      "question": "Steam at 100 degree centigrade causes more severe burns. Which of the following phenomena will you use to explain this?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Specific heat"
+        },
+        {
+          "label": "B",
+          "text": "Latent heat"
+        },
+        {
+          "label": "C",
+          "text": "Fusion"
+        },
+        {
+          "label": "D",
+          "text": "Fission"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Latent heat"
+      },
+      "explanation": "Latent heat is energy released or absorbed, by a body or a thermodynamic system, during a constant-temperature process. So steam at 100 degree centigrade causes more severe burns."
+    },
+    {
+      "id": 9199,
+      "question": "A small quantity of water is placed in a small cavity made in a block of Ice at 0 degree centigrade. Which of the following will happen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "the temperature of water will become zero and it will freeze"
+        },
+        {
+          "label": "B",
+          "text": "the temperature of water will become zero but it will not freeze"
+        },
+        {
+          "label": "C",
+          "text": "the temperature of the water will become zero and it will come out of the cavity"
+        },
+        {
+          "label": "D",
+          "text": "the temperature of the water will become zero and ice will melt to merge with water"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "the temperature of water will become zero but it will not freeze"
+      },
+      "explanation": "When a small quantity of water is placed in a small cavity made in a block of Ice at 0 degree centigrade the temperature of water will become zero but it will not freeze."
+    },
+    {
+      "id": 20606,
+      "question": "Two pieces of ice at 0°C would freeze together if pressed against each other and then released. In this context, which among the following is the correct principle in action in this?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The melting point of pure ice decreases with pressure."
+        },
+        {
+          "label": "B",
+          "text": "The melting point of pure ice increases with Pressure"
+        },
+        {
+          "label": "C",
+          "text": "The melting point of pure ice first increases, then decreases with pressure"
+        },
+        {
+          "label": "D",
+          "text": "The melting point of pure ice first decreases then increases with pressure"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "The melting point of pure ice decreases with pressure."
+      },
+      "explanation": "Melting point of pure ice decreases with pressure at the rate of 0.0072°C per atmosphere and this is called regulation, which was discovered by Faraday and occurs at some 0°C or very slightly less temperature."
+    }
+  ]
+}

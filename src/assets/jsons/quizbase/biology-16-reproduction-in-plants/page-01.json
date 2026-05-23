@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-16-reproduction-in-plants",
+    "title": "16. Reproduction in Plants",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:57:30"
+  },
+  "questions": [
+    {
+      "id": 4366,
+      "question": "Which among the following is the most common method of pollination in flowers without petals?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wind"
+        },
+        {
+          "label": "B",
+          "text": "Water"
+        },
+        {
+          "label": "C",
+          "text": "Insects"
+        },
+        {
+          "label": "D",
+          "text": "All of above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Wind"
+      },
+      "explanation": "Wind is the most common media of pollination in flowers without petals. Pollination refers to the transfer of pollen from a male part of a plant to a female part of a plant which enables fertilisation and the production of seeds, most often by an animal or by wind."
+    },
+    {
+      "id": 10696,
+      "question": "Ornithophily refers to the pollination through which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wind"
+        },
+        {
+          "label": "B",
+          "text": "Insects"
+        },
+        {
+          "label": "C",
+          "text": "Birds"
+        },
+        {
+          "label": "D",
+          "text": "Water"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Birds"
+      },
+      "explanation": "Ornithophily refers to the pollination through birds. Birds which are involved in ornithophily are specialist nectarivores with brushy tongues and long bills, that are either capable of hovering flight or light enough to perch on the flower structures."
+    },
+    {
+      "id": 20583,
+      "question": "In which among the following plants, seeds germinate and seedlings grow while still attached to their mother plant?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Onion"
+        },
+        {
+          "label": "B",
+          "text": "Rhizophora"
+        },
+        {
+          "label": "C",
+          "text": "Sheesham"
+        },
+        {
+          "label": "D",
+          "text": "Cycas"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Rhizophora"
+      },
+      "explanation": "The phenomenon is found in Mangrove Plants and is known as Vivipary and Rhizophora belongs to that category."
+    },
+    {
+      "id": 21016,
+      "question": "With reference to reproduction in plants, the \"Double fertilisation\" explains:",
+      "options": [
+        {
+          "label": "A",
+          "text": "how each single pollen grain is able to produce twin sperm cells"
+        },
+        {
+          "label": "B",
+          "text": "how two pollen grains produce single sperm cells"
+        },
+        {
+          "label": "C",
+          "text": "how two pollen grains produce two sperm cells"
+        },
+        {
+          "label": "D",
+          "text": "how single pollen grain produces single sperm cell"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "how each single pollen grain is able to produce twin sperm cells"
+      },
+      "explanation": "In Angiosperms plant reproduction, two structures are created: a zygote and the endosperm. A zygote will grow and develop into an embryo, or baby plant.The process of single pollen grain producing two sperm cells with one combining with egg to form a zygote and other to form endosperm is called double fertilization."
+    },
+    {
+      "id": 29348,
+      "question": "Which of the following is the process through which plants reproduce?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Condensation"
+        },
+        {
+          "label": "B",
+          "text": "Evaporation"
+        },
+        {
+          "label": "C",
+          "text": "Pollination"
+        },
+        {
+          "label": "D",
+          "text": "Eating"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Pollination"
+      },
+      "explanation": "Sexual reproduction in flowering plants involves the production of male and female gametes, the transfer of the male gametes to the female ovules in a process called pollination. After pollination occurs, fertilization happens and the ovules grow into seeds within a fruit."
+    }
+  ]
+}

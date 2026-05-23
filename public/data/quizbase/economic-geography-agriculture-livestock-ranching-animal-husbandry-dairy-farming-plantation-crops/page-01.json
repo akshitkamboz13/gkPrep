@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "economic-geography-agriculture-livestock-ranching-animal-husbandry-dairy-farming-plantation-crops",
+    "title": "Economic Geography - Agriculture, Livestock Ranching, Animal Husbandry, Dairy Farming, Plantation Crops",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:11:02"
+  },
+  "questions": [
+    {
+      "id": 9285,
+      "question": "What type of crops are predominantly grown in Africa?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cereal Crops"
+        },
+        {
+          "label": "B",
+          "text": "Root Crops"
+        },
+        {
+          "label": "C",
+          "text": "Cash Crops"
+        },
+        {
+          "label": "D",
+          "text": "Oil Crops"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Root Crops"
+      },
+      "explanation": "Africa is home to a variety of cuisines and food crops, but root crops such as yams, cassava, and sweet potatoes are predominant. These crops are vital for nutrition and food security in many African countries because they are high in carbohydrates, adaptable to various climatic and soil conditions, and have high yield potential. This makes them the primary source of caloric intake for many Africans, contributing significantly to the agricultural economy of the continent."
+    },
+    {
+      "id": 11158,
+      "question": "The largest contiguous cotton-growing region in the world is located in which among the following countries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "China"
+        },
+        {
+          "label": "B",
+          "text": "India"
+        },
+        {
+          "label": "C",
+          "text": "United States"
+        },
+        {
+          "label": "D",
+          "text": "Pakistan"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "United States"
+      },
+      "explanation": "The area of the United States known as the South Plains is the largest contiguous cotton-growing region in the world"
+    },
+    {
+      "id": 12384,
+      "question": "\"Pemba\" and \"Zanzibar\" Islands of Africa are famous for the cultivation and export of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cloves"
+        },
+        {
+          "label": "B",
+          "text": "Sugarcane"
+        },
+        {
+          "label": "C",
+          "text": "Tobacco"
+        },
+        {
+          "label": "D",
+          "text": "Coffee"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Cloves"
+      },
+      "explanation": "Pemba Island is famous for the cultivation of cloves. The island is part of the Zanzibar Archipelago in Tanzania, which is located in the Indian Ocean. Pemba is known as the \"clove island\" because it is the world's main exporter of cloves. The island has 3.5 million clove trees, which is the largest concentration of clove trees in Zanzibar. Pemba's growing conditions are better than those on Unguja island. Zanzibar's main industries are spices, raffia, and tourism. The islands produce cloves, nutmeg, cinnamon, and black pepper. The Zanzibar Archipelago, along with Tanzania's Mafia Island, are sometimes called the \"Spice Islands\"."
+    },
+    {
+      "id": 17790,
+      "question": "The term “Ranching” is most closely associated with __:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shifting cultivation"
+        },
+        {
+          "label": "B",
+          "text": "Livestock grazing"
+        },
+        {
+          "label": "C",
+          "text": "Forest farming"
+        },
+        {
+          "label": "D",
+          "text": "Fishing"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Livestock grazing"
+      },
+      "explanation": "Ranching is the practice of raising livestock on large tracts of land. Ranchers typically raise grazing animals such as cattle and sheep, but some also raise bison, elk, emus, ostriches, and alpacas. Ranches are usually found in parts of the grasslands where rainfall is low and food crops do not grow very well. Ranching is the dominant land use in much of the American West. Ranching can be highly profitable. The ranching and livestock industry is growing faster than any other agricultural sector in the world. In Africa, most ranches are wildlife ranches. Wildlife ranches, also known as game ranches, maintain healthy populations of species such as rhinoceros, elephant, leopard, and antelope. People pay a fee to hunt these animals on the ranch. Wildlife ranches also appeal to ecotourists."
+    },
+    {
+      "id": 35703,
+      "question": "Which one of the following is known as the “Coffee port” of the world? (UPSC Prelims 2000)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sao Paulo"
+        },
+        {
+          "label": "B",
+          "text": "Santos"
+        },
+        {
+          "label": "C",
+          "text": "Rio de Janeiro"
+        },
+        {
+          "label": "D",
+          "text": "Buenos Aires"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Santos"
+      },
+      "explanation": "Santos port Brazil is known as \"coffee port\" of world. The Port of Santos is located in the city of Santos, state of São Paulo, Brazil. As of 2006, it is the busiest container port in Latin America. It possesses a wide variety of cargo handling terminals—solid and liquid bulk, containers, and general loads. It is Brazil's leading port in container traffic."
+    }
+  ]
+}

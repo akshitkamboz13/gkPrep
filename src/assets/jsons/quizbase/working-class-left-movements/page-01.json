@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "working-class-left-movements",
+    "title": "33. Working Class & Left Movements",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:35:36"
+  },
+  "questions": [
+    {
+      "id": 4761,
+      "question": "Who founded Madras Labour Union?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Subodh Banerjee"
+        },
+        {
+          "label": "B",
+          "text": "B.P. Wadia"
+        },
+        {
+          "label": "C",
+          "text": "Lala Lajpat Rai"
+        },
+        {
+          "label": "D",
+          "text": "Bharat Bhushan Pandey"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "B.P. Wadia"
+      },
+      "explanation": "Bahman Pestonji Wadia, commonly known as B.P. Wadia, was a prominent theosophist and labour activist born on 8th October 1881 in Mumbai, India and passed away on 20th August 1958 in Bangalore, India. He was initially part of the Theosophical Society Adyar, and later joined the United Lodge of Theosophists. On 13th April 1918, together with V. Kalyanasundaram Mudaliar, Wadia founded the Madras Labour Union, one of the first ever organised labour unions in India."
+    },
+    {
+      "id": 4762,
+      "question": "Which among the following was the first registered Trade Union of India ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hindu Mazdoor Sabha"
+        },
+        {
+          "label": "B",
+          "text": "Bhartiya Mazdoor Sangh"
+        },
+        {
+          "label": "C",
+          "text": "Madras Labour Union"
+        },
+        {
+          "label": "D",
+          "text": "United Trade Union Congress"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Madras Labour Union"
+      },
+      "explanation": "The first registered Trade Union of India was Madras Labour Union which was founded in 1918 by B.P. Wadia along with V. Kalyanasundaram Mudaliar."
+    },
+    {
+      "id": 4787,
+      "question": "Who among the following played a dominant role in establishing the All India Trade Union Congress?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Basawon Singh (Sinha)"
+        },
+        {
+          "label": "B",
+          "text": "Subodh Banerjee"
+        },
+        {
+          "label": "C",
+          "text": "Lala Lajpat Rai"
+        },
+        {
+          "label": "D",
+          "text": "Ashok Mehta"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Lala Lajpat Rai"
+      },
+      "explanation": "The All India Trade Union Congress is the oldest trade union federations in India and one of the five largest. It was founded on 31 October 1920 in Bombay by Lala Lajpat Rai and Joseph Baptista. It was the primary trade union organization in India. Since then it has been associated with the Communist Party of India."
+    },
+    {
+      "id": 5691,
+      "question": "Who presided over the first session of the All India Trade Union Congress in 1920 ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Purshottam Das Tandon"
+        },
+        {
+          "label": "B",
+          "text": "Lala Lajpat Rai"
+        },
+        {
+          "label": "C",
+          "text": "Kasturbhai Lalbhai"
+        },
+        {
+          "label": "D",
+          "text": "Govind Vallabh Pant"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Lala Lajpat Rai"
+      },
+      "explanation": "On October 31, 1920, the first session of the All India Trade Union Congress was held at Bombay under Lala Lajpat Roy, thus marking the beginning of AITUC."
+    },
+    {
+      "id": 8545,
+      "question": "In which year split in All India Trade Union Congress took place?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1920"
+        },
+        {
+          "label": "B",
+          "text": "1925"
+        },
+        {
+          "label": "C",
+          "text": "1929"
+        },
+        {
+          "label": "D",
+          "text": "1935"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "1929"
+      },
+      "explanation": "The All India Trade Union Congress (AITUC) was the oldest trade union federations in India which was established on 31 October 1920 at Bombay. Lala Lajpat Rai was the first president of the organization. In the year 1929, at the 10th Session in Nagpur the split of AITUC took place."
+    }
+  ]
+}

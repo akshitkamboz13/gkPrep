@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-april-2022",
+    "title": "Current Affairs Quiz - April 2022",
+    "page": 1,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:45:53",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:47:14"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "The world’s largest electric cruise ship has made its maiden voyage in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "China"
+        },
+        {
+          "label": "B",
+          "text": "USA"
+        },
+        {
+          "label": "C",
+          "text": "Germany"
+        },
+        {
+          "label": "D",
+          "text": "Australia"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "China"
+      },
+      "explanation": "The world’s largest electric cruise ship has made its maiden voyage in China, after cruising up and down the Yangtze River and settling into port in Yichang. It is developed by China Yangtze Power. It is powered by a massive 7,500 kilowatt-hour marine battery from the top battery manufacturer for electric cars, Contemporary Amperex Technology (CATL). The ship will go into commercial operations from next month, to be used mainly for sightseeing trips."
+    },
+    {
+      "id": 2,
+      "question": "Novaya Gazeta, which was seen in the news, was an independent newspaper of which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ukraine"
+        },
+        {
+          "label": "B",
+          "text": "Russia"
+        },
+        {
+          "label": "C",
+          "text": "Germany"
+        },
+        {
+          "label": "D",
+          "text": "Italy"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Russia"
+      },
+      "explanation": "Novaya Gazeta is Russia’s leading independent newspaper. Dmitry Muratov, the newspaper’s editor, shared the 2021 Nobel Peace Prize with Maria Ressa, from the Philippines. Muratov donated his Nobel medal to be auctioned off to raise funds for Ukrainian refugees. The newspaper has suspended its operations after pressure from Russian authorities. Russian lawmakers passed a law earlier, threatening jail terms of up to 15 years for information deemed to be fake by Russian authorities."
+    },
+    {
+      "id": 3,
+      "question": "Which city hosted the ‘Global Collaboration Advanced Vaccinology Training’ Meeting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "New York"
+        },
+        {
+          "label": "B",
+          "text": "Geneva"
+        },
+        {
+          "label": "C",
+          "text": "Berlin"
+        },
+        {
+          "label": "D",
+          "text": "Paris"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Geneva"
+      },
+      "explanation": "‘Global Collaboration Advanced Vaccinology Training’ meeting was recently held in Geneva. In the meeting, the need for a basic vaccinology training module for healthcare personnel across the world was discussed. India was represented by Dr N.K. Arora, head of the Covid-19 working group in the National Immunization Technical Advisory Group (NTAGI). The Group makes vaccine recommendations on the basis of disease burden, efficacy and cost effectiveness."
+    },
+    {
+      "id": 4,
+      "question": "Which Union Ministry oversees the ‘Stand Up India Scheme’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of MSME"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Finance"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Commerce and Industry"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Science and Technology"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ministry of Finance"
+      },
+      "explanation": "Ministry of Finance oversees the ‘Stand Up India Scheme’, which aims to promote entrepreneurship among women, Scheduled Castes (SC) & Scheduled Tribes (ST) categories, to help them in starting a Greenfield enterprise. The scheme has completed six years and loans worth more than ₹30,160 crore have been sanctioned in the last six years. Over 1.33 lakh new entrepreneurs have been facilitated and more than 1 lakh women promoters have benefitted from this Scheme during the last six years."
+    },
+    {
+      "id": 5,
+      "question": "Which institution developed a draft curricular framework and credit system for Four Years’ Undergraduate Programme (FYUGP)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "AICTE"
+        },
+        {
+          "label": "B",
+          "text": "UGC"
+        },
+        {
+          "label": "C",
+          "text": "NCERT"
+        },
+        {
+          "label": "D",
+          "text": "NTA"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "UGC"
+      },
+      "explanation": "As per the provisions of National Education Policy-2020, the University Grants Commission(UGC) has developed a draft curricular framework and credit system for Four Years’ Undergraduate Programme (FYUGP). The framework aims to equip students in one or more subject areas. The draft framework has been placed in public domain for seeking suggestions from stakeholders."
+    },
+    {
+      "id": 6,
+      "question": "Which Indian company has partnered with Canada’s largest payment organisation- ‘Payments Canada’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Infosys"
+        },
+        {
+          "label": "B",
+          "text": "Tata Consultancy Services (TCS)"
+        },
+        {
+          "label": "C",
+          "text": "Wipro"
+        },
+        {
+          "label": "D",
+          "text": "NPCI"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Tata Consultancy Services (TCS)"
+      },
+      "explanation": "Tata Consultancy Services (TCS) has entered into a partnership with Canada’s largest payment organisation, Payments Canada. The partnership aims to transform its payment system operations and help in the implementation of the Real-Time Rail (RTR). RTR is a new real-time payments system that will allow Canadian users to initiate payments and receive funds in seconds at any point of the day."
+    },
+    {
+      "id": 7,
+      "question": "Which country has started a pilot project to produce ‘Green’ Steel by burning hydrogen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Australia"
+        },
+        {
+          "label": "B",
+          "text": "Sweden"
+        },
+        {
+          "label": "C",
+          "text": "Poland"
+        },
+        {
+          "label": "D",
+          "text": "Italy"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Sweden"
+      },
+      "explanation": "Sweden has launched a pilot project to reduce the carbon emissions involved in steel production by switching some of that process from burning coking coal to burning hydrogen. HYBRIT or Hydrogen Breakthrough Iron-making Technology – is a joint venture between steel giant SSAB, mining company LKAB and Swedish state-owned power firm Vattenfall. As per World Steel Association, every metric ton of steel produced emitted twice that much carbon dioxide."
+    },
+    {
+      "id": 8,
+      "question": "The Antarctic Treaty, which was seen in the news, was signed in which year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1919"
+        },
+        {
+          "label": "B",
+          "text": "1936"
+        },
+        {
+          "label": "C",
+          "text": "1959"
+        },
+        {
+          "label": "D",
+          "text": "1991"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "1959"
+      },
+      "explanation": "The Antarctic Treaty was signed in 1959 by 12 countries and came into force in 1961. It aimed to demilitarize the Antarctic zone and establish it to be used for peaceful research activities. India signed the Antarctic Treaty in 1983. Recently, the Union Earth Sciences Minister Dr Jitender Singh tabled the draft Indian Antarctic Bill, 2020. It is the first domestic legislation with regard to Antarctica in India. It extends the jurisdiction of Indian courts to Antarctica. As many as 27 countries have domestic legislations on Antarctica."
+    },
+    {
+      "id": 9,
+      "question": "Keukenhof, one of the world’s largest flower garden, is located in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Netherlands"
+        },
+        {
+          "label": "B",
+          "text": "Germany"
+        },
+        {
+          "label": "C",
+          "text": "Ukraine"
+        },
+        {
+          "label": "D",
+          "text": "Poland"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "The Netherlands"
+      },
+      "explanation": "President Ram Nath Kovind arrived in Amsterdam, as a part of the first presidential trip to the Netherlands after 34 years, since the visit of President Venkataraman in 1988 President Kovind visited Keukenhof, one of the world’s largest flower gardens. He named a new breed of yellow tulips as ‘Maitri’ representing the special and enduring friendship between India and the Netherlands."
+    },
+    {
+      "id": 10,
+      "question": "Which company has handed over the first set of Gaganyaan hardware to the Indian Space and Research Organisation (ISRO)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "DRDO"
+        },
+        {
+          "label": "B",
+          "text": "HAL"
+        },
+        {
+          "label": "C",
+          "text": "SpaceX"
+        },
+        {
+          "label": "D",
+          "text": "Pixxel Space"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "HAL"
+      },
+      "explanation": "The Hindustan Aeronautics Limited (HAL) handed over the first set of Gaganyaan hardware to the Indian Space and Research Organisation (ISRO). The PS2 stage is the second stage of the PSLV launch vehicle in which propellants, which can be stored in the Earth are used for propulsion. In October 2021, the heaviest Semi-Cryogenic propellant tank (SC120- LOX) ever fabricated by HAL was delivered to ISRO."
+    }
+  ]
+}

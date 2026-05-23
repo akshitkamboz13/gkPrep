@@ -1,0 +1,203 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "tripura-gk-questions-for-tripura-public-service-examinations",
+    "title": "States PCS: Tripura GK Questions for Tripura Public Service Examinations",
+    "page": 2,
+    "total_pages": 2,
+    "generated_at": "2026-05-02 07:04:47",
+    "total_questions": 7,
+    "scraped_at": "2026-05-02 12:34:52"
+  },
+  "questions": [
+    {
+      "id": 11,
+      "question": "Which is the longest river in Tripura?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khowai"
+        },
+        {
+          "label": "B",
+          "text": "Manu"
+        },
+        {
+          "label": "C",
+          "text": "Gumti"
+        },
+        {
+          "label": "D",
+          "text": "Dhalai"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Gumti"
+      },
+      "explanation": "The Gumti River is the longest in Tripura, originating from the Boromura Hills and supporting major irrigation and hydroelectric projects in the state."
+    },
+    {
+      "id": 12,
+      "question": "Which lake in Tripura, formed by a natural depression and associated with Hindu mythology, is a notable ecotourism site?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rudrasagar Lake"
+        },
+        {
+          "label": "B",
+          "text": "Bharat Chhara Lake"
+        },
+        {
+          "label": "C",
+          "text": "Kamalasagar Lake"
+        },
+        {
+          "label": "D",
+          "text": "Dumboor Lake"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Dumboor Lake"
+      },
+      "explanation": "Dumboor Lake, at the Raima-Sarma confluence, is mythologically linked to Lord Shiva’s dambaru and supports hydropower and fisheries."
+    },
+    {
+      "id": 13,
+      "question": "In which district of Tripura is the state’s highest peak, Betlingchhip, located?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khowai"
+        },
+        {
+          "label": "B",
+          "text": "South Tripura"
+        },
+        {
+          "label": "C",
+          "text": "Dhalai"
+        },
+        {
+          "label": "D",
+          "text": "West Tripura"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Dhalai"
+      },
+      "explanation": "Betlingchhip, the highest point in Tripura at 939 meters, is situated in the Jampui Hills of Dhalai district."
+    },
+    {
+      "id": 14,
+      "question": "Which hill region in Tripura is renowned for its traditional orange cultivation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jampui Hills"
+        },
+        {
+          "label": "B",
+          "text": "Baramura Hills"
+        },
+        {
+          "label": "C",
+          "text": "Sakhantang Hills"
+        },
+        {
+          "label": "D",
+          "text": "Longtharai Hills"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Jampui Hills"
+      },
+      "explanation": "Jampui Hills are noted for their temperate climate and premium orange orchards, making them a major agro-tourism site in Tripura."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following lakes in Tripura is recognized for supporting migratory birds and providing important ecological services?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gandacherra Lake"
+        },
+        {
+          "label": "B",
+          "text": "Dumbur Lake"
+        },
+        {
+          "label": "C",
+          "text": "Rudrasagar Lake"
+        },
+        {
+          "label": "D",
+          "text": "Kamala Sagar"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Rudrasagar Lake"
+      },
+      "explanation": "Rudrasagar Lake, a Ramsar site near Melaghar, supports migratory birds, aids groundwater recharge, flood control, and hosts Neermahal Palace."
+    },
+    {
+      "id": 16,
+      "question": "Which primary tree species is vital to Tripura’s bamboo-based ecosystem and economy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bambusa tulda"
+        },
+        {
+          "label": "B",
+          "text": "Dendrocalamus giganteus"
+        },
+        {
+          "label": "C",
+          "text": "Muli bamboo"
+        },
+        {
+          "label": "D",
+          "text": "Bambusa balcooa"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Muli bamboo"
+      },
+      "explanation": "Muli bamboo (Melocanna baccifera) dominates Tripura’s forests, supporting crafts, construction, industry, and ecological stability."
+    },
+    {
+      "id": 17,
+      "question": "Which traditional festival celebrated by the Tripuri community in Tripura is associated with forests and seasonal cycles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kharchi Puja"
+        },
+        {
+          "label": "B",
+          "text": "Ker Festival"
+        },
+        {
+          "label": "C",
+          "text": "Chaitra Sankranti"
+        },
+        {
+          "label": "D",
+          "text": "Garia Festival"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Garia Festival"
+      },
+      "explanation": "The Garia Festival is a forest-linked seasonal celebration by Tripuri people, seeking blessings for agricultural prosperity, and reflecting their ecological traditions."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: May 2, 2026",
+    "date": "2026-05-02",
+    "year": "2026",
+    "month": "05-may",
+    "day": 2,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 02:21:20",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:50:25"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Easter Island, that was recently seen in news, is located in which ocean?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pacific Ocean"
+        },
+        {
+          "label": "B",
+          "text": "Atlantic Ocean"
+        },
+        {
+          "label": "C",
+          "text": "Indian Ocean"
+        },
+        {
+          "label": "D",
+          "text": "Arctic Ocean"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Pacific Ocean"
+      },
+      "explanation": "A recent study suggests the Rongorongo script of Easter Island developed independently before European arrival. Easter Island is a dependency of Chile located in the eastern Pacific Ocean. It is the easternmost part of the Polynesian island region and is extremely isolated. The island was discovered in 1722 by Dutch explorer Jacob Roggeveen on Easter Sunday. It has a tropical rainforest climate and three extinct volcanoes: Terevaka, Poike, and Rano Kau. There are no permanent rivers, but three crater lakes exist."
+    },
+    {
+      "id": 2,
+      "question": "Kotgarh Wildlife Sanctuary is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Odisha"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Gujarat"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Odisha"
+      },
+      "explanation": "Forest officials arrested four suspected poachers in the Baliguda forest division of Kotgarh Wildlife Sanctuary in Odisha. Kotgarh Wildlife Sanctuary is located in Kandhamal district of Odisha in the Eastern Highlands region. It is classified as a moist deciduous forest ecosystem with rich biodiversity. The sanctuary includes tribal communities such as Kutia Kondh and Desia Kondh living within or near forest areas."
+    },
+    {
+      "id": 3,
+      "question": "Canine Distemper disease, that was recently seen in news, is caused by which agent?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bacteria"
+        },
+        {
+          "label": "B",
+          "text": "Virus"
+        },
+        {
+          "label": "C",
+          "text": "Fungus"
+        },
+        {
+          "label": "D",
+          "text": "Protozoa"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Virus"
+      },
+      "explanation": "A tigress and four cubs died in Kanha Tiger Reserve, raising concern over Canine Distemper. It is a highly contagious disease caused by Canine Distemper Virus (CDV) affecting respiratory, gastrointestinal, and nervous systems. It mainly infects dogs, especially unvaccinated ones and puppies below four months. CDV is a multi-host pathogen affecting wildlife such as carnivores, big cats, marine mammals, and primates. Transmission occurs through direct contact or airborne exposure. Infected animals can shed the virus for months despite low environmental survival. There is no specific cure or antiviral treatment available. Vaccination is the most effective preventive measure."
+    },
+    {
+      "id": 4,
+      "question": "INS Mahendragiri was built by which shipbuilding company?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cochin Shipyard Limited"
+        },
+        {
+          "label": "B",
+          "text": "Hindustan Shipyard Limited"
+        },
+        {
+          "label": "C",
+          "text": "Mazagon Dock Shipbuilders Limited"
+        },
+        {
+          "label": "D",
+          "text": "Garden Reach Shipbuilders and Engineers"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Mazagon Dock Shipbuilders Limited"
+      },
+      "explanation": "INS Mahendragiri is the sixth Nilgiri-class (Project 17A) stealth frigate delivered to the Indian Navy on 30 April 2026. It was constructed at Mazagon Dock Shipbuilders Limited in Mumbai, marking progress in indigenous warship building. Project 17A frigates are advanced multi-mission warships with improved stealth, survivability, and combat capabilities. The ship was designed by the Warship Design Bureau using an integrated construction approach. It uses Combined Diesel or Gas (CODOG) propulsion along with Controllable Pitch Propellers (CPP)."
+    },
+    {
+      "id": 5,
+      "question": "Which organization launched the Padma Doree textile initiative under the Ministry of Development of North Eastern Region (MDoNER)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "North Eastern Handicrafts and Handlooms Development Corporation"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Textiles"
+        },
+        {
+          "label": "C",
+          "text": "Handloom Export Promotion Council"
+        },
+        {
+          "label": "D",
+          "text": "Indian Institutes of Handloom Technology"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "North Eastern Handicrafts and Handlooms Development Corporation"
+      },
+      "explanation": "North Eastern Handicrafts and Handlooms Development Corporation launched the Padma Doree textile initiative under the Ministry of Development of North Eastern Region (MDoNER). Padma Doree combines Eri (Ahimsa) silk of Northeast India with Chanderi weaving tradition of Madhya Pradesh. It reflects the vision of Narendra Modi under Ek Bharat Shreshtha Bharat. It promotes sustainable and ethical textile production using indigenous knowledge systems. The initiative integrates traditional craftsmanship with innovation and modern market relevance."
+    }
+  ]
+}

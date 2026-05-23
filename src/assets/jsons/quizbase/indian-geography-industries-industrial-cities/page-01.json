@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-geography-industries-industrial-cities",
+    "title": "Indian Geography - Industries, Industrial Cities",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:18:12"
+  },
+  "questions": [
+    {
+      "id": 619,
+      "question": "Which of the following refineries is operated by Bharat Oman Refineries Ltd?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bongaigaon Refinery"
+        },
+        {
+          "label": "B",
+          "text": "Bina Refinery"
+        },
+        {
+          "label": "C",
+          "text": "Haldia Refinery"
+        },
+        {
+          "label": "D",
+          "text": "Numaligarh Refinery"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Bina Refinery"
+      },
+      "explanation": "The Bina Refinery is located in Madhya Pradesh and operated by Bharat Oman Refineries Ltd (BORL). It was established in 2011. The refinery has a capacity of 6 million metric tonnes per annum. It is a result of collaboration between Bharat Petroleum Corporation Ltd and Oman Oil Company. The products of this refinery mainly cater to the Northern and Central India."
+    },
+    {
+      "id": 3211,
+      "question": "Which of the following is NOT a petrochemical centre of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Koyali"
+        },
+        {
+          "label": "B",
+          "text": "Jamnagar"
+        },
+        {
+          "label": "C",
+          "text": "Mangalore"
+        },
+        {
+          "label": "D",
+          "text": "Rourkela"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Rourkela"
+      },
+      "explanation": "Rourkela is correct answer. Rourkela in Odisha is known as Ispat Nagar and has one of the largest steel plants of the Steel Authority of India Limited (SAIL) [Rourkela Steel Plant]."
+    },
+    {
+      "id": 4334,
+      "question": "Cooch Behar in West Bengal is famous for which among the following industries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cotton Cloth Industry"
+        },
+        {
+          "label": "B",
+          "text": "Silk Industry"
+        },
+        {
+          "label": "C",
+          "text": "Petroleum Industry"
+        },
+        {
+          "label": "D",
+          "text": "Glass Industry"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Silk Industry"
+      },
+      "explanation": "Cooch Behar, located in West Bengal, is renowned for its silk industry. The area has a rich history tied to silk production and is known for producing high-quality silk, notably Muga silk, which is cherished for its durability and golden brilliance. This vibrant industry is a significant source of income for the local population, fostering economic growth in the region."
+    },
+    {
+      "id": 4355,
+      "question": "The place “Noonmati” in India, is related to which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Salt Industry"
+        },
+        {
+          "label": "B",
+          "text": "Petroleum Industry"
+        },
+        {
+          "label": "C",
+          "text": "Paper Industry"
+        },
+        {
+          "label": "D",
+          "text": "Textile Industry"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Petroleum Industry"
+      },
+      "explanation": "Petroleum Industry, located in Assam and known for the first Oil Refinery to be commissioned by the then Indian Oil Company Limited, now known as Indian Oil Corporation Limited."
+    },
+    {
+      "id": 4364,
+      "question": "In which five year plan Rourkela & Durgapur Steel plants were conceived?",
+      "options": [
+        {
+          "label": "A",
+          "text": "First"
+        },
+        {
+          "label": "B",
+          "text": "Second"
+        },
+        {
+          "label": "C",
+          "text": "Third"
+        },
+        {
+          "label": "D",
+          "text": "Fourth"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Second"
+      },
+      "explanation": "Second five year plan period: 1956 to 1961 The Rourkela Steel plant was set up in collaboration of German firm in 1961. The Durgapur Steel Plant was launched with assistance of a consortium led by British Firms and it started in 1956. The Bhilai Steel Plant was set up with the technical assistance of Soviet Union in September 1967. During the fourth five year plan, new steel plants were started at Salem in Tamil Nadu, Vijayanagar in Karnataka and Vishakhapatnam in Andhra Pradesh"
+    }
+  ]
+}

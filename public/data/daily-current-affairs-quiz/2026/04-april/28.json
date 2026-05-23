@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: April 28, 2026",
+    "date": "2026-04-28",
+    "year": "2026",
+    "month": "04-april",
+    "day": 28,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 02:48:27",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:50:50"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is ‘Pushkarmema curajae’ that was recently seen in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Newly discovered species of cyanobacteria"
+        },
+        {
+          "label": "B",
+          "text": "Invasive weed"
+        },
+        {
+          "label": "C",
+          "text": "Rare medicinal plant"
+        },
+        {
+          "label": "D",
+          "text": "Newly discovered species of Fish"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Newly discovered species of cyanobacteria"
+      },
+      "explanation": "Researchers from Central University of Rajasthan discovered a new cyanobacterium species named Pushkarmema curajae from Pushkar Lake, Rajasthan. The genus and species names honor Pushkar Lake and the university’s contribution to research. P. curajae has potential applications in pharmaceuticals, biofertilizers, and nutrient-rich supplements that enhance immunity and health. Cyanobacteria are photosynthetic, microscopic organisms found in aquatic environments worldwide."
+    },
+    {
+      "id": 2,
+      "question": "INS Kalpeni was built by which shipyard?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mazagon Dock Shipbuilders Limited"
+        },
+        {
+          "label": "B",
+          "text": "Cochin Shipyard Limited"
+        },
+        {
+          "label": "C",
+          "text": "Garden Reach Shipbuilders & Engineers"
+        },
+        {
+          "label": "D",
+          "text": "Hindustan Shipyard Limited"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Garden Reach Shipbuilders & Engineers"
+      },
+      "explanation": "INS Kalpeni is a fast attack craft of the Indian Navy and recently visited Gan, strengthening India–Maldives maritime cooperation. It belongs to the Car Nicobar class Waterjet Fast Attack Craft built by Garden Reach Shipbuilders and Engineers. It was commissioned on 14 October 2010. The ship is named after Kalpeni Island of Lakshadweep. It is based at Kochi under the Southern Naval Command. Its roles include coastal surveillance, anti-smuggling, boarding operations, and search and rescue."
+    },
+    {
+      "id": 3,
+      "question": "The Bnei Menashe community is primarily found in which Indian states?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajasthan and Gujarat"
+        },
+        {
+          "label": "B",
+          "text": "Uttar Pradesh and Madhya Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Jharkhand and Bihar"
+        },
+        {
+          "label": "D",
+          "text": "Mizoram and Manipur"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Mizoram and Manipur"
+      },
+      "explanation": "Israel recently conducted Operation Wings of Dawn to airlift members of the Bnei Menashe amid West Asia tensions. The Bnei Menashe, also called Shinlung, originate from Mizoram and Manipur and belong to Tibeto-Burman groups like Chin, Kuki, and Mizo. They claim descent from the Biblical tribe of Manasseh, one of the Ten Lost Tribes exiled by the Assyrian Empire in 722 BC. Initially Christians, they later adopted Judaism and celebrate festivals like Sukkot. Migration routes included Persia, Afghanistan, Tibet, and China before reaching India ~300–500 years ago."
+    },
+    {
+      "id": 4,
+      "question": "Which institute has installed an X-band Doppler Weather Radar at Mahabaleshwar under Mission Mausam?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Regional Meteorological Centre (RMC), Mumbai"
+        },
+        {
+          "label": "B",
+          "text": "Indian Institute of Tropical Meteorology, Pune"
+        },
+        {
+          "label": "C",
+          "text": "India Meteorological Department (IMD), Pune"
+        },
+        {
+          "label": "D",
+          "text": "Defence Research and Development Organisation"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Indian Institute of Tropical Meteorology, Pune"
+      },
+      "explanation": "Indian Institute of Tropical Meteorology installed an X-band Doppler Weather Radar at Mahabaleshwar under Mission Mausam. Doppler Weather Radar uses the Doppler Effect to measure velocity and position of atmospheric objects. It emits radio waves; reflected signals from raindrops return to the antenna, helping detect distance and intensity. Time taken for signal return enables tracking of rainfall and cloud movement."
+    },
+    {
+      "id": 5,
+      "question": "Thrissur Pooram festival is mainly celebrated in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kerala"
+        },
+        {
+          "label": "B",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "D",
+          "text": "Maharashtra"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Kerala"
+      },
+      "explanation": "Thrissur Pooram is a major temple festival held annually in Kerala. It takes place at Vadakkunnathan Temple in Thekkinkadu Maidanam during Medam (April–May). The festival began over 200 years ago under Rama Varma Sakthan Thampuran. Known as the “Mother of all Poorams,” it features grand elephant processions, percussion music, and fireworks. It brings together ten temples, promoting unity and cultural display."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: April 7, 2026",
+    "date": "2026-04-07",
+    "year": "2026",
+    "month": "04-april",
+    "day": 7,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 03:35:42",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:51:50"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Mudumalai Tiger Reserve is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bihar"
+        },
+        {
+          "label": "B",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "C",
+          "text": "Odisha"
+        },
+        {
+          "label": "D",
+          "text": "Jharkhand"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Tamil Nadu"
+      },
+      "explanation": "Recently, the Nilgiris Collector visited a remote village inside Mudumalai Tiger Reserve to inspect polling facilities and ensure basic amenities for voters, highlighting governance outreach in forest interiors ahead of elections . The reserve is located in Tamil Nadu at the tri-junction of Karnataka, Kerala, and Tamil Nadu, and forms part of the Nilgiris Biosphere Reserve. It shares boundaries with Wayanad Wildlife Sanctuary and Bandipur Tiger Reserve, making it an important ecological corridor."
+    },
+    {
+      "id": 2,
+      "question": "Which neighbouring country of India launched an emergency vaccination campaign targeting due to a fast-spreading measles outbreak in April 2026?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bhutan"
+        },
+        {
+          "label": "B",
+          "text": "Nepal"
+        },
+        {
+          "label": "C",
+          "text": "Bangladesh"
+        },
+        {
+          "label": "D",
+          "text": "Myanmar"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Bangladesh"
+      },
+      "explanation": "Bangladesh launched an emergency vaccination campaign targeting over one million children due to a fast-spreading measles outbreak. Measles is a highly contagious airborne viral disease caused by a virus from the paramyxovirus family. It spreads through coughing, sneezing, or contact with infected respiratory secretions, and the virus can remain active in the air or on surfaces for up to two hours. The infection begins in the respiratory tract and spreads throughout the body, potentially causing severe complications and death."
+    },
+    {
+      "id": 3,
+      "question": "The ECINet platform has been developed by which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Electronics and IT"
+        },
+        {
+          "label": "B",
+          "text": "Election Commission of India"
+        },
+        {
+          "label": "C",
+          "text": "NITI Aayog"
+        },
+        {
+          "label": "D",
+          "text": "National Informatics Centre"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Election Commission of India"
+      },
+      "explanation": "Recently, the Election Commission of India urged voters to use the “Know Your Candidates” (KYC) module on the ECINet platform to make informed electoral choices. ECINet is a single-point digital platform developed by Election Commission of India (ECI) for voters, election officials, political parties, and civil society. It integrates over 40 existing ECI apps, including Voter Helpline App, cVIGIL, Suvidha 2.0, Saksham, and others. The platform offers a user-friendly interface (UI/UX) with all electoral services in one place."
+    },
+    {
+      "id": 4,
+      "question": "The Digital Life Certificate Campaign is conducted by which institution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Finance"
+        },
+        {
+          "label": "B",
+          "text": "NITI Aayog"
+        },
+        {
+          "label": "C",
+          "text": "Department of Pensions and Pensioners’ Welfare"
+        },
+        {
+          "label": "D",
+          "text": "None of the Above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Department of Pensions and Pensioners’ Welfare"
+      },
+      "explanation": "The Department of Pensions and Pensioners’ Welfare has been conducting Digital Life Certificate (DLC) Campaigns since November 2022 to promote digital submission of life certificates and improve ease of living for pensioners. DLC Campaign 4.0 (Nov 1–30, 2025) was launched in New Delhi and became the largest-ever pensioners’ welfare campaign in India. The campaign followed a saturation approach, organizing 75,000 camps across 2,000 cities/districts, supported by 1,400 nodal officers and 1.8 lakh postmen/Dak Sevaks for doorstep services."
+    },
+    {
+      "id": 5,
+      "question": "World Health Day is observed every year on which day?",
+      "options": [
+        {
+          "label": "A",
+          "text": "April 4"
+        },
+        {
+          "label": "B",
+          "text": "April 5"
+        },
+        {
+          "label": "C",
+          "text": "April 6"
+        },
+        {
+          "label": "D",
+          "text": "April 7"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "April 7"
+      },
+      "explanation": "World Health Day is observed every year on 7 April. The theme for 2026 is “Together for health. Stand with science.” The campaign emphasizes the importance of science-based solutions and global collaboration to protect the health of people, animals, plants, and the environment. It promotes the One Health approach, highlighting the interconnection between human, animal, and environmental health. The observance launches a year-long global campaign focusing on scientific achievements and the role of multilateral cooperation in turning evidence into action."
+    }
+  ]
+}

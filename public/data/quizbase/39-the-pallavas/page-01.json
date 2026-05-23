@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "39-the-pallavas",
+    "title": "37. The Pallavas",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:53:55"
+  },
+  "questions": [
+    {
+      "id": 1874,
+      "question": "Which King took the title of Vatapikonda?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Narasimhavarman I"
+        },
+        {
+          "label": "B",
+          "text": "Simhavishnu"
+        },
+        {
+          "label": "C",
+          "text": "Mahendravarman I"
+        },
+        {
+          "label": "D",
+          "text": "Nandivarman II"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Narasimhavarman I"
+      },
+      "explanation": "The Pallava King Narasimhavarman I assumed the title of ‘Vatapikonda’ (Conqueror of Vatapi), when he defeated and killed Pulakesin II (Chalukya King) and captured the Chalukyan capital, Badami in 642 AD."
+    },
+    {
+      "id": 1879,
+      "question": "Which among the following Pallava king wrote the famous burlesque ‘Mattavilasa Prahasana’ ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mahendravarman I"
+        },
+        {
+          "label": "B",
+          "text": "Narsimhavarman"
+        },
+        {
+          "label": "C",
+          "text": "Narsimhavarman II"
+        },
+        {
+          "label": "D",
+          "text": "Paramesvar Varman"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Mahendravarman I"
+      },
+      "explanation": "The versatile Pallava ruler and great scholar Mahendravarman I wrote the famous burlesque Mattavilasa Prahasana (the Sport of Drunkards). It is a short one-act Sanskrit play."
+    },
+    {
+      "id": 14338,
+      "question": "Who was the founder of Pallava dynasty ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vishnuvardhan"
+        },
+        {
+          "label": "B",
+          "text": "Simhavishnu"
+        },
+        {
+          "label": "C",
+          "text": "Mahendravarman I"
+        },
+        {
+          "label": "D",
+          "text": "Narsimhavarman"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Simhavishnu"
+      },
+      "explanation": "Pallava Dynasty was founded by Simhavishnu in 560 A.D.Their capital was at Kanchipuram."
+    },
+    {
+      "id": 24511,
+      "question": "GI protected “Mahabalipuram Stone Sculpture” was constructed under which of the following dynasties?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pallava dynasty"
+        },
+        {
+          "label": "B",
+          "text": "Cheras dynasty"
+        },
+        {
+          "label": "C",
+          "text": "Chalukya dynasty"
+        },
+        {
+          "label": "D",
+          "text": "Rashtrakuta dynasty"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Pallava dynasty"
+      },
+      "explanation": "The Geographical Indications Registry, Chennai, has recently accorded the Geographical Indications certificate to Tamil Nadu Government for “Mahabalipuram Stone Sculpture”. The Pallava dynasty, which ruled the area between 6th and 9th centuries A.D., is responsible for the creation of several such wonderful edifices. Mahendravarman (AD 580-630), his son Narasimhavarman-I Mamalla (AD 630-668), Paramesvaravarman (A.D. 672-'700) and Narasimhavarman II Rajasimha (A.D. 700-728) had contributed the most of sculptures in Mahabalipuram and developed the port town as a centre of art and architecture."
+    },
+    {
+      "id": 30243,
+      "question": "Which Pallava ruler founded the city of Mahabalipuram and built several temples there?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Simhavishnu Avanisimha"
+        },
+        {
+          "label": "B",
+          "text": "Siva-Skandavaram"
+        },
+        {
+          "label": "C",
+          "text": "Mahendra Vaarman I"
+        },
+        {
+          "label": "D",
+          "text": "Narasimhavarman"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Narasimhavarman"
+      },
+      "explanation": "Narasimhavarman ruled from AD 630-668 and was considered the greatest of the Pallava Kings. He sent two naval expeditions to Ceylon. His greatest achievement however was the three successive triumphs over the Chalukya King Pulakesin II and annexed Vatapi to his kingdom."
+    }
+  ]
+}

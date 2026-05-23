@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-27-rural-local-government",
+    "title": "Rural Local Government",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:20:55"
+  },
+  "questions": [
+    {
+      "id": 9646,
+      "question": "Which among the following is not a Panchayati Raj Institution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gram Sabha"
+        },
+        {
+          "label": "B",
+          "text": "Gram panchayat"
+        },
+        {
+          "label": "C",
+          "text": "Gram cooperative Society"
+        },
+        {
+          "label": "D",
+          "text": "Nyaya Panchayat"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Gram cooperative Society"
+      },
+      "explanation": "The Gram Sabha, Gram Panchayat and Nyaya Panchayat are all Panchayati Raj Institutions. Whereas Gram Cooperative Society is not a Panchayati Raj Institution."
+    },
+    {
+      "id": 11794,
+      "question": "The \"oor panchayats\" of Tamil Nadu can be placed in which among the following categories?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lok Adalats"
+        },
+        {
+          "label": "B",
+          "text": "Public Hearing meetings"
+        },
+        {
+          "label": "C",
+          "text": "Kangaroo Courts"
+        },
+        {
+          "label": "D",
+          "text": "Alternate Dispute Settlement Centres"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Alternate Dispute Settlement Centres"
+      },
+      "explanation": "The oor panchayats of Tamil Nadu can be placed in the category of Alternate Dispute Settlement Centres. The oor panchayats are part of the Panchayati Raj Institutions (PRIs), which are the local self-government of villages in rural India. The PRIs are responsible for economic development, social justice, and implementing government schemes. Elections for the members of the Panchayats are held every five years."
+    },
+    {
+      "id": 17069,
+      "question": "According to the Constitution of India, Panchayat is accountable to __?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gram Sabha"
+        },
+        {
+          "label": "B",
+          "text": "Zila Parishad"
+        },
+        {
+          "label": "C",
+          "text": "State Legislature"
+        },
+        {
+          "label": "D",
+          "text": "Chief Minister of the state"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Gram Sabha"
+      },
+      "explanation": "The gram sabha is recognized as the life line of the panchayats. The voters of the village/villages constitute its members. The panchayat is accountable to the gram sabha."
+    },
+    {
+      "id": 33396,
+      "question": "Which among the following is the maximum revenue source of village panchayats? (UPSC Prelims 1983)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Government grants"
+        },
+        {
+          "label": "B",
+          "text": "Sales tax"
+        },
+        {
+          "label": "C",
+          "text": "Voluntary help by village cooperatives"
+        },
+        {
+          "label": "D",
+          "text": "Local taxes on lands, fairs and festivals"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Local taxes on lands, fairs and festivals"
+      },
+      "explanation": "The taxes imposed by the Village Panchayats are important source of income of Gram Panchayats, such as: Taxes on land and houses, the custom duty, the toll tax, License fees on transport and communication, local taxes on lands, fairs and festivals."
+    },
+    {
+      "id": 35150,
+      "question": "Which one of the following is incorrect in respect of Local Government in India? (UPSC Prelims 1995)",
+      "options": [
+        {
+          "label": "A",
+          "text": "According to the Indian Constitution, local government is not an independent tier in the federal system"
+        },
+        {
+          "label": "B",
+          "text": "30% of the seats in local bodies are reserved for women"
+        },
+        {
+          "label": "C",
+          "text": "Local government finances are to be provided by a Commission"
+        },
+        {
+          "label": "D",
+          "text": "Elections to local bodies are to be determined by a Commission"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "30% of the seats in local bodies are reserved for women"
+      },
+      "explanation": "According to 73rd Amendment Act 1993, under Article 243D, not less than 1/3rd i.e. 33% seats should be reserved for women in local bodies."
+    }
+  ]
+}

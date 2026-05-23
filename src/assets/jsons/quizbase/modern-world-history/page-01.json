@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "modern-world-history",
+    "title": "Modern World History",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:27:24"
+  },
+  "questions": [
+    {
+      "id": 434,
+      "question": "Which was the first country in Asia to have large scale industrialization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Japan"
+        },
+        {
+          "label": "B",
+          "text": "China"
+        },
+        {
+          "label": "C",
+          "text": "India"
+        },
+        {
+          "label": "D",
+          "text": "Iran"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Japan"
+      },
+      "explanation": "Japan was the first country in Asia to industrialize on a large scale. Industrialization began in Japan after the fall of the Tokugawa government in 1868. Japan industrialized faster than many European countries. Japan's industrialization was prompted by the need to improve the nation's defenses against foreign threats. Local clans developed industrialization by copying Western examples and using traditional craft skills. Japan's production included steel, machinery, metal goods, and chemicals, which were produced in quantities large enough for export. Other Asian countries that have industrialized include: South Korea, Singapore, Taiwan, Hong Kong."
+    },
+    {
+      "id": 6941,
+      "question": "Brettonwood agreement was signed to establish which of the following organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "World Bank"
+        },
+        {
+          "label": "B",
+          "text": "New York stock exchange"
+        },
+        {
+          "label": "C",
+          "text": "Unite Nations"
+        },
+        {
+          "label": "D",
+          "text": "WHO"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "World Bank"
+      },
+      "explanation": "The Bretton Woods system is commonly refers to the international monetary regime that prevailed from the end of World War II until the early 1970s. Taking its name from the site of the 1944 conference that created the International Monetary Fund (IMF) and World Bank, the Bretton Woods system was history’s first example of a fully negotiated monetary order intended to govern currency relations among sovereign states."
+    },
+    {
+      "id": 7024,
+      "question": "Which of the following is the foundation for many of the international treaties and organizations that currently shape the world after World War II?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Breton Woods Agreement"
+        },
+        {
+          "label": "B",
+          "text": "Atlantic Charter"
+        },
+        {
+          "label": "C",
+          "text": "Bermuda Conference"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Atlantic Charter"
+      },
+      "explanation": "The correct answer is the Atlantic Charter. Established in 1941 by Franklin D. Roosevelt and Winston Churchill, it outlined principles for post-war peace, including self-determination and economic cooperation. This charter laid the groundwork for the United Nations and influenced many international treaties, promoting a new world order based on collective security and human rights."
+    },
+    {
+      "id": 7025,
+      "question": "The Bermuda Conference which was held on April 19, 1943 was an international conference between which of the following ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "United Kingdom and the United States"
+        },
+        {
+          "label": "B",
+          "text": "United Kingdom and Germany"
+        },
+        {
+          "label": "C",
+          "text": "Soviet Union and the United States"
+        },
+        {
+          "label": "D",
+          "text": "India & UK"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "United Kingdom and the United States"
+      },
+      "explanation": "The Bermuda Conference, also known as the Bermuda Conference on the Problems of War and Peace, was a conference held in 1943 in Bermuda to discuss issues related to the ongoing World War II. The conference was attended by high-level officials from the United States and the United Kingdom, and focused on a range of issues related to the war, including the fate of Jewish refugees and the possibility of negotiating a peace settlement with the Axis powers. The conference ultimately failed to produce any significant agreements or resolutions."
+    },
+    {
+      "id": 7386,
+      "question": "Which of the following battles foiled Napoleon’s scheme of invading England in 1805?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Battle of Trafalgar"
+        },
+        {
+          "label": "B",
+          "text": "Battle of Leipzing"
+        },
+        {
+          "label": "C",
+          "text": "Battle of Waterloo"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Battle of Trafalgar"
+      },
+      "explanation": "The Battle of Trafalgar was a naval battle fought on October 21, 1805 during the Napoleonic Wars. It was fought between a British fleet under the command of Vice Admiral Horatio Nelson and a combined French and Spanish fleet off the coast of Spain, near the Cape of Trafalgar. The British fleet emerged victorious, despite being outnumbered by the combined French and Spanish forces. The battle was a significant victory for the British, as it effectively ended the threat of a French invasion of Britain and cemented British naval dominance for the remainder of the Napoleonic Wars. The battle was also notable for the death of Nelson, who was killed during the fighting."
+    }
+  ]
+}

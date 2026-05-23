@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "general-science-physics-mcqs",
+    "title": "Physics MCQs",
+    "page": 5,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:50:44",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:13:34"
+  },
+  "questions": [
+    {
+      "id": 41,
+      "question": "A drop of liquid assumes spherical shape because:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intermolecular forces are strong in liquids"
+        },
+        {
+          "label": "B",
+          "text": "A sphere has the least surface area for a given volume"
+        },
+        {
+          "label": "C",
+          "text": "A sphere has the largest surface area for a given volume"
+        },
+        {
+          "label": "D",
+          "text": "Inter molecular forces are weak in liquids"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "A sphere has the least surface area for a given volume"
+      },
+      "explanation": "A drop of liquid bears a spherical shape because the sphere is the geometrical shape which has maximum volume in the available minimum surface area. Therefore, naturally most of the fruits, we see are spherical or roughly spherical in shape or oval."
+    },
+    {
+      "id": 42,
+      "question": "The wavelength at which the peak of intensity of blackbody radiation occurs__:",
+      "options": [
+        {
+          "label": "A",
+          "text": "increases with increase in temperature"
+        },
+        {
+          "label": "B",
+          "text": "decreases with increase in temperature"
+        },
+        {
+          "label": "C",
+          "text": "is the same at all temperatures"
+        },
+        {
+          "label": "D",
+          "text": "does not follow any pattern as temperature changes"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "decreases with increase in temperature"
+      },
+      "explanation": "According to Wien’s displacement law, when the temperature of a blackbody radiator increases, the overall radiated energy increases. Wavelength of maximum emission from a blackbody is inversely proportional to its temperature. Shorter-wavelength (higher-frequency) light corresponds to higher-energy photons."
+    },
+    {
+      "id": 43,
+      "question": "Which term is not associated with sound wave?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hertz"
+        },
+        {
+          "label": "B",
+          "text": "Decibel"
+        },
+        {
+          "label": "C",
+          "text": "Candela"
+        },
+        {
+          "label": "D",
+          "text": "Mach"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Candela"
+      },
+      "explanation": "Candela, it is the standard unit of luminous intensity, the luminous power per unit solid angle emitted by a point light source in a particular direction. In simple, it refers to candle."
+    },
+    {
+      "id": 44,
+      "question": "What is the minimum distance (in metres) required to hear an echo?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10"
+        },
+        {
+          "label": "B",
+          "text": "13"
+        },
+        {
+          "label": "C",
+          "text": "17"
+        },
+        {
+          "label": "D",
+          "text": "21"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "17"
+      },
+      "explanation": "The human ear cannot distinguish echo from the original direct sound if the delay is less than 1/15 of a second. The velocity of sound in dry air is approximately 343 m/s at a temperature of 25°C. Therefore, the reflecting object must be more than 17.2m from the sound source for echo to be perceived by a person located at the source."
+    },
+    {
+      "id": 45,
+      "question": "A wound watch spring has ______ energy.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Electrical"
+        },
+        {
+          "label": "B",
+          "text": "Kinetic"
+        },
+        {
+          "label": "C",
+          "text": "Potential"
+        },
+        {
+          "label": "D",
+          "text": "both kinetic and potential"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Potential"
+      },
+      "explanation": "The energy possessed by a body owing to its position or configuration is called potential energy. The wound watch has potential energy on account of its wound state. As the spring unwinds, it does work to move the hands of the watch. Thus, a wound spring has the potentiality to do work."
+    },
+    {
+      "id": 46,
+      "question": "Which law says that pressure is equal to the force divided by the ara on which it acts?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pascal’s Law"
+        },
+        {
+          "label": "B",
+          "text": "Hooke’s Law"
+        },
+        {
+          "label": "C",
+          "text": "Stefan-Boltzmann Law"
+        },
+        {
+          "label": "D",
+          "text": "Newton’s Law"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Pascal’s Law"
+      },
+      "explanation": "Pascal’s law states that when there is an increase in pressure at any point in a confined fluid, there is an equal increase at every other point in the container. Pressure is the force on an object that is spread over a surface area. The equation for pressure is the force divided by the area where the force is applied."
+    },
+    {
+      "id": 47,
+      "question": "Which one of the following is not a property of electromagnetic waves?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Electromagnetic waves do not show interference and diffraction."
+        },
+        {
+          "label": "B",
+          "text": "Oscillating electric field and magnetic field are perpendicular to each other."
+        },
+        {
+          "label": "C",
+          "text": "Electromagnetic waves are transverse waves"
+        },
+        {
+          "label": "D",
+          "text": "Electromagnetic waves do not require a medium to propagate."
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Electromagnetic waves do not show interference and diffraction."
+      },
+      "explanation": "Interference usually refers to the interaction of waves that are correlated or coherent with each other, either because they come from the same source or because they have the same or nearly the same frequency. Interference effects can be observed with all types of waves, for examplesound waves, surface waves, and electromagnetic waves (e. g. , light waves, etc). Similarly, Diffraction occurs with all waves, including sound waves, water waves, and electromagnetic waves such as visible light, X-rays and radio waves."
+    },
+    {
+      "id": 48,
+      "question": "Solids which conduct electricity at higher temperature but not at lower temperature are called__:",
+      "options": [
+        {
+          "label": "A",
+          "text": "super-conductor"
+        },
+        {
+          "label": "B",
+          "text": "metallic-conductor"
+        },
+        {
+          "label": "C",
+          "text": "semi-conductor"
+        },
+        {
+          "label": "D",
+          "text": "insulator"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "semi-conductor"
+      },
+      "explanation": "Semiconductors are insulators at low temperatures and reasonably good conductors at higher temperatures. As temperature increases, the semiconductor material such as silicon, germanium, etc. becomes a better and better conductor compared to metallic conductor in which the resistance increases with increase in temperature."
+    },
+    {
+      "id": 49,
+      "question": "Light scattering takes place in which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Colloidal solutions"
+        },
+        {
+          "label": "B",
+          "text": "Acidic solutions"
+        },
+        {
+          "label": "C",
+          "text": "Electrolyte solutions"
+        },
+        {
+          "label": "D",
+          "text": "Basic solutions"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Colloidal solutions"
+      },
+      "explanation": "Light scattering in colloidal solutions or particles in suspension is known as Tyndall Effect. It is similar to Rayleigh scattering, in that the intensity of the scattered light depends on the fourth power of the frequency, so blue light is scattered much more strongly than red light."
+    },
+    {
+      "id": 50,
+      "question": "One barrel is in equal to how many liters of oil?",
+      "options": [
+        {
+          "label": "A",
+          "text": "190L"
+        },
+        {
+          "label": "B",
+          "text": "109L"
+        },
+        {
+          "label": "C",
+          "text": "159L"
+        },
+        {
+          "label": "D",
+          "text": "169L"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "159L"
+      },
+      "explanation": "In United States, an oil barrel is defined as 42 US gallons, which is about 159 litres or 35 imperial gallons."
+    }
+  ]
+}

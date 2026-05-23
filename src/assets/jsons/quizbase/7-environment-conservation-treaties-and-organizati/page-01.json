@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "7-environment-conservation-treaties-and-organizati",
+    "title": "7. Environment Conservation Treaties and Organizations",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:55:00"
+  },
+  "questions": [
+    {
+      "id": 2935,
+      "question": "Stockholm Convention is a global treaty associated with which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Protect the environment from Persistent Organic Pollutants"
+        },
+        {
+          "label": "B",
+          "text": "Phasing out hydro-fluorocarbons"
+        },
+        {
+          "label": "C",
+          "text": "Control of Transboundary Movements of Hazardous Wastes and Their Disposal"
+        },
+        {
+          "label": "D",
+          "text": "Sustainable use of Biodiversity"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Protect the environment from Persistent Organic Pollutants"
+      },
+      "explanation": "The Stockholm Convention is a global treaty to protect human health and the environment from persistent organic pollutants (POPs). POPs are chemicals that remain intact in the environment for long periods, become widely distributed geographically, accumulate in the fatty tissue of living organisms and are toxic to humans and wildlife."
+    },
+    {
+      "id": 4504,
+      "question": "The logo of World Wildlife Fund (WWF) is depicts which among the following animals?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Panda"
+        },
+        {
+          "label": "B",
+          "text": "Polar Bear"
+        },
+        {
+          "label": "C",
+          "text": "Tiger"
+        },
+        {
+          "label": "D",
+          "text": "Stag"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Panda"
+      },
+      "explanation": "Panda is there in the logo of World Wildlife fund. The inspiration for the WWF logo came from Chi-Chi, a giant panda that was living at the London Zoo in 1961,which is the same year WWF was created. WWF's founders wanted a strong, recognizable symbol that would overcome all language barriers."
+    },
+    {
+      "id": 4620,
+      "question": "The “Aichi Targets” are related to _____?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Conservation of Biodiversity"
+        },
+        {
+          "label": "B",
+          "text": "Conservation of Wetlands"
+        },
+        {
+          "label": "C",
+          "text": "Conservation of Coral reefs"
+        },
+        {
+          "label": "D",
+          "text": "Prevention of Plastic use"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Conservation of Biodiversity"
+      },
+      "explanation": "The Aichi Targets are a set of 20, time-bound, measureable targets for the conservation of biodiversity. The targets were agreed by the Parties to the Convention on Biological Diversity in Nagoya, Japan, in October 2010. Achievement of the targets will contribute to reducing, and eventually halting, the loss of biodiversity at a global level by the middle of the twenty-first century."
+    },
+    {
+      "id": 5332,
+      "question": "Which among the following is not an ex situ site of preservation of Biodiversity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Home Garden"
+        },
+        {
+          "label": "B",
+          "text": "Seed bank"
+        },
+        {
+          "label": "C",
+          "text": "Botanical Garden"
+        },
+        {
+          "label": "D",
+          "text": "Marine National park"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Marine National park"
+      },
+      "explanation": "In situ conservation means the conservation of ecosystems and natural habitats and the maintenance and recovery of viable populations of species in their natural surroundings and, in the case of domesticated or cultivated species, in the surroundings where they have developed their distinctive properties. Ex situ conservation means the conservation of components of biological diversity outside their natural habitats. Examples of In situ Conservation: National Parks, Wild Life sanctuaries, Biosphere Reserves, Gene Sanctuaries Examples of Ex situ Conservation: Captive Breeding, Gene Banks, Seed Banks, Zoos, Aquaria, In vitro fertilization, Cryopreservation, Tissue Culture"
+    },
+    {
+      "id": 5436,
+      "question": "Which among the following confers the “Equator Prize” to recognize outstanding community efforts to reduce poverty through the conservation and sustainable use of biodiversity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "United Nations Environment Programme"
+        },
+        {
+          "label": "B",
+          "text": "United Nations Development Programme"
+        },
+        {
+          "label": "C",
+          "text": "World Food Organization"
+        },
+        {
+          "label": "D",
+          "text": "World Bank"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "United Nations Development Programme"
+      },
+      "explanation": "The Equator Prize, is confered by the Equator Initiative within the United Nations Development Programme. It is awarded biennially to recognize outstanding community efforts to reduce poverty through the conservation and sustainable use of biodiversity. The United Nations Development Programme (UNDP) was founded in the year 1965."
+    }
+  ]
+}

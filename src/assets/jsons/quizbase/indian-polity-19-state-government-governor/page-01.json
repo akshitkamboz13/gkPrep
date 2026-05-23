@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-19-state-government-governor",
+    "title": "State Government - Governor",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:20:05"
+  },
+  "questions": [
+    {
+      "id": 4601,
+      "question": "The executive power of the state is vested in __?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chief Minister"
+        },
+        {
+          "label": "B",
+          "text": "President"
+        },
+        {
+          "label": "C",
+          "text": "Governor"
+        },
+        {
+          "label": "D",
+          "text": "Council of Ministers in the state"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Governor"
+      },
+      "explanation": "The executive power of a state in India is vested in the Governor. The Governor is the constitutional head of the state, similar to how the President is the constitutional head of the Union. The Governor exercises executive power either directly or through subordinate officers. The Governor is appointed by the President. The Governor has control over subjects in the State List under the Seventh Schedule of the Constitution. The Governor also makes important decisions on state policies and the portfolios of ministers. The Council of Ministers, with the Chief Minister as head, advises the Governor on his functions."
+    },
+    {
+      "id": 4608,
+      "question": "Who among the following can remove the governor of a state from office?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Legislative Assembly"
+        },
+        {
+          "label": "B",
+          "text": "Parliament"
+        },
+        {
+          "label": "C",
+          "text": "President"
+        },
+        {
+          "label": "D",
+          "text": "Supreme Court"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "President"
+      },
+      "explanation": "A governor holds office for a term of five years which is subject to the pleasure of the President. He can resign at any time by addressing a resignation letter to the President. The governor has no security of tenure and can be removed by the President at any time."
+    },
+    {
+      "id": 5095,
+      "question": "The reports of the Comptroller and Auditor-General of India relating to the accounts of the States are submitted to which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The President"
+        },
+        {
+          "label": "B",
+          "text": "The Governor"
+        },
+        {
+          "label": "C",
+          "text": "The Parliament"
+        },
+        {
+          "label": "D",
+          "text": "The Chief Minister"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "The Governor"
+      },
+      "explanation": "Article 151. Audit Reports :- (1) The reports of the Comptroller and Auditor-General of India relating to the accounts of the Union shall be submitted to the president, who shall cause them to be laid before each House of Parliament. (2) The reports of the Comptroller and Auditor-General of India relating to the accounts of a State shall be submitted to the Governor of the State, who shall cause them to be laid before the Legislature of the State."
+    },
+    {
+      "id": 6044,
+      "question": "Who is the chief executive head of the state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chief minister"
+        },
+        {
+          "label": "B",
+          "text": "Governor"
+        },
+        {
+          "label": "C",
+          "text": "President"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Governor"
+      },
+      "explanation": "The provisions related to state executive are in articles 153 to 167. The state executive is made of Governor, Chief Minister, Council of Ministers and Advocate General. The executive authority of a state is vested in the Governor; and Governor is the constitutional head of the state in the same way as President is the Constitutional head of the Union."
+    },
+    {
+      "id": 7998,
+      "question": "In the wake of the sarkaria commission report, which state suggested the abolition of the office of the governor?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Karnataka"
+        },
+        {
+          "label": "B",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Tamilnadu"
+        },
+        {
+          "label": "D",
+          "text": "Kerala"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Andhra Pradesh"
+      },
+      "explanation": "In the wake of the sarkaria commission report the state of Andhra Pradesh suggested the abolition of the office of the Governor."
+    }
+  ]
+}

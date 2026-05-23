@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "27-gupta-empire-society-religion-literature",
+    "title": "25. Gupta Empire- Society, Religion, Literature",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:52:36"
+  },
+  "questions": [
+    {
+      "id": 2078,
+      "question": "The Nalanda University was founded by which Gupta ruler mentioned as Shakraditya?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Samudragupta"
+        },
+        {
+          "label": "B",
+          "text": "Kumargupta I"
+        },
+        {
+          "label": "C",
+          "text": "Skandgupta"
+        },
+        {
+          "label": "D",
+          "text": "Chandragupta I"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Kumargupta I"
+      },
+      "explanation": "Some archaeological sources identify a monarch called Shakraditya as founder of Nalanda university. The scholars identify Shakraditya as 5th-century CE Gupta emperor, Kumaragupta-I, whose coin has been discovered at Nalanda."
+    },
+    {
+      "id": 2084,
+      "question": "Which of the following is / are the 9 gems of Chandragupta Vikramaditya?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amarsimha"
+        },
+        {
+          "label": "B",
+          "text": "Harisena"
+        },
+        {
+          "label": "C",
+          "text": "Kahapanaka"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "All of the above"
+      },
+      "explanation": "The nine gems or Navratnas adorned in the court of Chandragupta II Vikramaditya are Amarsimha, Dhanvantri, Harisena, Kalidasa, Kahapanaka, Sanku, Varahamihira, Vararuchi and .Vetalbhatta"
+    },
+    {
+      "id": 2133,
+      "question": "Which of the following are two works of Kalidasa?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Raghuvamsha and Kiratarjuniya"
+        },
+        {
+          "label": "B",
+          "text": "Kumara Sambhav and Raghuvamsha"
+        },
+        {
+          "label": "C",
+          "text": "Malti Madhava and Kumara Sambhava"
+        },
+        {
+          "label": "D",
+          "text": "Malti Madhav and Kumara Sambhava"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Kumara Sambhav and Raghuvamsha"
+      },
+      "explanation": "Kalidasa was one of the gems of the court of Gupta king Chandragupta II (375–415 CE). The poems he wrote were usually of epic proportions and were written in classical Sanskrit. He wrote two epic poems called Kumara sambhava, which means birth of Kumara and the Raghuvamsha, which means dynasty of Raghu. There are also two lyric poems written by Kalidasa known as Meghadutta that stands for cloud messenger and the Ritusamhara that means description of the seasons. Meghadutta is one of the finest works of Kalidasa in terms of world literature. The beauty of the continuity in flawless Sanskrit is unmatched till date. The most famous and beautiful work of Kalidasa is the Shakuntalam. It is the second play of Kalidasa after he wrote Malavikagnimitra. The Shakuntalam tells the story of king Dushyant who falls in love with a beautiful girl Shakuntala, who happens to be the daughter of a saint."
+    },
+    {
+      "id": 2768,
+      "question": "Who wrote the book Pancha Siddhantika?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Varahamihira"
+        },
+        {
+          "label": "B",
+          "text": "Aryabhatta"
+        },
+        {
+          "label": "C",
+          "text": "Brahmagupta"
+        },
+        {
+          "label": "D",
+          "text": "Kalidas"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Varahamihira"
+      },
+      "explanation": "Varahamihira was one of the only renowned Indian Astronomer, Mathematician and Astrologer. Varahamihira was born in 499 A.D. into a family of Brahmins settled at Kapittha, a village near Ujjain. He wrote the book Pancha Siddhantika."
+    },
+    {
+      "id": 2774,
+      "question": "Which of the following plays of Kalidasa tells the story of mortal King Pururavas and celestial nymph Urvashi who fall in love?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Malavikagnimitram"
+        },
+        {
+          "label": "B",
+          "text": "Abhijñānaśākuntalam"
+        },
+        {
+          "label": "C",
+          "text": "Vikramōrvaśīyam"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Vikramōrvaśīyam"
+      },
+      "explanation": "Vikramōrvaśīyam, a play by Kalidasa, tells the story of mortal King Pururavas and celestial nymph Urvashi who fall in love. As an immortal, she has to return to the heavens, where an unfortunate accident causes her to be sent back to the earth as a mortal with the curse that she will die (and thus return to heaven) the moment her lover lays his eyes on the child which she will bear him. After a series of mishaps, including Urvashi's temporary transformation into a vine, the curse is lifted, and the lovers are allowed to remain together on the earth."
+    }
+  ]
+}

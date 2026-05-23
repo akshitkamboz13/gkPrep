@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "2-indus-valley-civilization",
+    "title": "2. Indus Valley Civilization",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:52:07"
+  },
+  "questions": [
+    {
+      "id": 1739,
+      "question": "Which among the following is the most unique feature of Dholavira site of the Indus Valley Civilization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Its cities were horizontally divided in multiple parts"
+        },
+        {
+          "label": "B",
+          "text": "Its cities were unevenly divided"
+        },
+        {
+          "label": "C",
+          "text": "Its cities were divided into 3 parts"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Its cities were divided into 3 parts"
+      },
+      "explanation": "The most unique features of Dholavira, an Indus valley site in Gujarat, is its division. While other Indus Valley sites were divided into two parts viz. Citadel and Lower Town, Dholavira was divided into three divisions."
+    },
+    {
+      "id": 1743,
+      "question": "Which among the following places have given the earliest evidence of agriculture in Indian subcontinent?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pratapgarh"
+        },
+        {
+          "label": "B",
+          "text": "Mehrgarh"
+        },
+        {
+          "label": "C",
+          "text": "Quetta"
+        },
+        {
+          "label": "D",
+          "text": "Kalat"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Mehrgarh"
+      },
+      "explanation": "The earliest evidence of Agriculture in Indian subcontinent is found at Mehrgarh, which is located in Baluchistan state of Pakistan."
+    },
+    {
+      "id": 1827,
+      "question": "At which among the following sites of Indus Valley Civilization, the rows of distinctive fire altars with provision of ritual bathing have been found ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mohen-jo-daro"
+        },
+        {
+          "label": "B",
+          "text": "Harappa"
+        },
+        {
+          "label": "C",
+          "text": "Kalibangan"
+        },
+        {
+          "label": "D",
+          "text": "Lothal"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Kalibangan"
+      },
+      "explanation": "Kalibangan – is an archaeological site where Ploughed Field, Bones of Camel, Circular and Rectangular Graves, distinctive fire (Vedic ) altars with provision of ritual bathing have been found."
+    },
+    {
+      "id": 1928,
+      "question": "Which Indus Valley Site was discovered by Rakhal Das Bannerjee?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kali Banga"
+        },
+        {
+          "label": "B",
+          "text": "Harappa"
+        },
+        {
+          "label": "C",
+          "text": "Lothal"
+        },
+        {
+          "label": "D",
+          "text": "Mohenjodaro"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Mohenjodaro"
+      },
+      "explanation": "Rakhal Das Bannerjee, an Indian archaeologist, discovered the Indus Valley civilization site of Mohenjodaro in 1922. Mohenjodaro is located in Sindh, Pakistan. The name Mohenjodaro means \"Mound of the dead\". It was the largest city of the Indus Valley civilization. Bannerjee was an officer of the Archaeological Survey of India. In 1920, he was surveying the lower part of the Indus River valley when he heard reports of a buried site. While exploring, he found pottery and stone blades. He studied the unusual shape and size of several mounds. He submitted a report to his boss on what he had found in 1922."
+    },
+    {
+      "id": 1929,
+      "question": "Which one of the following archaeologists discovered the Harappa site of the Indus Valley civilisation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rakhal Das Bannerjee"
+        },
+        {
+          "label": "B",
+          "text": "Sir William Jones"
+        },
+        {
+          "label": "C",
+          "text": "Vishnu Shridhar Wakankar"
+        },
+        {
+          "label": "D",
+          "text": "Daya Ram Sahini"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Daya Ram Sahini"
+      },
+      "explanation": "In 1921, an Indian archaeologist Raj Bahadur Daya Ram Sahini discovered the Harappa site of the Indus Valley civilisation."
+    }
+  ]
+}

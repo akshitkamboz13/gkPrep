@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-54-important-laws-on-criminal-activi",
+    "title": "Important Laws on Crime and Terror",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:23:25"
+  },
+  "questions": [
+    {
+      "id": 4197,
+      "question": "Section 375 of the Indian Penal Code is related to which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Murder"
+        },
+        {
+          "label": "B",
+          "text": "Culpable Homicide"
+        },
+        {
+          "label": "C",
+          "text": "Death under Negligence"
+        },
+        {
+          "label": "D",
+          "text": "Rape"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Rape"
+      },
+      "explanation": "Section 375 of the Indian Penal Code defines rape. Section 376 defines the punishment for rape."
+    },
+    {
+      "id": 4200,
+      "question": "In the 1970s, the COFEPOSA act was enacted to address which kind of offences?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Terrorist Activities"
+        },
+        {
+          "label": "B",
+          "text": "Religious Offences"
+        },
+        {
+          "label": "C",
+          "text": "Economic Offences"
+        },
+        {
+          "label": "D",
+          "text": "International Offences"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Economic Offences"
+      },
+      "explanation": "The Conservation of Foreign Exchange and Prevention of Smuggling Activities Act (COFEPOSA) was enacted in the year 1974 by the government of India. It was designed specifically to deter economic offences and safeguard the financial stability of the country. The act adds provisions for the preventive detention of perpetrators involved in such offences, thus reflecting the seriousness with which economic crimes were viewed."
+    },
+    {
+      "id": 34184,
+      "question": "To which of the following situations the cognizable offence refers? (UPSC Prelims 1989)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Arrests can be made without warrant"
+        },
+        {
+          "label": "B",
+          "text": "Arrests can be made with warrant"
+        },
+        {
+          "label": "C",
+          "text": "It is under the jurisdiction of a court"
+        },
+        {
+          "label": "D",
+          "text": "Police can register a case without formal complaint"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "It is under the jurisdiction of a court"
+      },
+      "explanation": "Cognizable offence means a police officer has the authority to make an arrest without a warrant and to start an investigation with or without the permission of a court. The police can file a First Information Report only for cognizable offences."
+    },
+    {
+      "id": 46663,
+      "question": "In which year Armed Forces Special Powers Act (AFSPA) was passed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1956"
+        },
+        {
+          "label": "B",
+          "text": "1957"
+        },
+        {
+          "label": "C",
+          "text": "1958"
+        },
+        {
+          "label": "D",
+          "text": "1959"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "1958"
+      },
+      "explanation": "Armed Forces Special Powers Act (AFSPA) was passed in the year 1958. The Act grant special powers to the Indian Armed Forces, that is, the power to maintain public order in “disturbed areas”."
+    },
+    {
+      "id": 46664,
+      "question": "An area declared \"disturbed\" according to the Disturbed Areas (Special Courts) Act, 1976 has to maintain status quo for how many months?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 months"
+        },
+        {
+          "label": "B",
+          "text": "3 months"
+        },
+        {
+          "label": "C",
+          "text": "4 months"
+        },
+        {
+          "label": "D",
+          "text": "6 months"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "3 months"
+      },
+      "explanation": "According to the Disturbed Areas (Special Courts) Act of the year 1976 once an area is declared ‘disturbed’, the area has to maintain status quo for a minimum of 3 months."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "3-indias-biogeographic-regions",
+    "title": "3. India&apos;s Biogeographic Regions",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:52:56"
+  },
+  "questions": [
+    {
+      "id": 11025,
+      "question": "How many number of the Biogeographic zones are present in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "4"
+        },
+        {
+          "label": "B",
+          "text": "8"
+        },
+        {
+          "label": "C",
+          "text": "10"
+        },
+        {
+          "label": "D",
+          "text": "15"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "10"
+      },
+      "explanation": "10 Biogeographic zones are Trans Himalayan zone, Himalayan zone, Desert zone, Semiarid zone, Western ghat zone, Deccan plateau zone, Gangetic plain zone, North east zone, Coastal zone and Islands present near the shore line"
+    },
+    {
+      "id": 12208,
+      "question": "The Andaman and Nicobar Islands are submerged parts of mountain range called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Arakan Yoma"
+        },
+        {
+          "label": "B",
+          "text": "Pegu Yoma"
+        },
+        {
+          "label": "C",
+          "text": "Askai Chin"
+        },
+        {
+          "label": "D",
+          "text": "Tien Shan"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Arakan Yoma"
+      },
+      "explanation": "The Andaman and Nicobar Islands are submerged parts of the Arakan Yoma mountain range. This range extends from Myanmar into the Bay of Bengal, forming a geological connection between the Indian subcontinent and Southeast Asia. The islands are known for their unique biodiversity and indigenous tribes, with some areas still largely unexplored."
+    },
+    {
+      "id": 51372,
+      "question": "Thar desert lies in which among the following states of India?1. Rajasthan2. Gujarat3. Punjab4. HaryanaChoose the correct option from the codes given below :",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 & 2"
+        },
+        {
+          "label": "B",
+          "text": "1 & 3"
+        },
+        {
+          "label": "C",
+          "text": "1, 2 & 4"
+        },
+        {
+          "label": "D",
+          "text": "1, 2, 3 & 4"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1, 2, 3 & 4"
+      },
+      "explanation": "Thar desert lies in the state of Rajasthan (Major part), Gujarat, Punjab and Haryana."
+    },
+    {
+      "id": 51373,
+      "question": "What is the rank of Thar desert in the world as per the total area coverage?",
+      "options": [
+        {
+          "label": "A",
+          "text": "7th"
+        },
+        {
+          "label": "B",
+          "text": "11th"
+        },
+        {
+          "label": "C",
+          "text": "13th"
+        },
+        {
+          "label": "D",
+          "text": "17th"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "17th"
+      },
+      "explanation": "As per the total area, Thar desert ranked 17th in the world and ranked 9th in the subtropical desert category."
+    },
+    {
+      "id": 52715,
+      "question": "Which of the following is true about Estuary?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is the ecosystem marked by the mixing of sea water and river water"
+        },
+        {
+          "label": "B",
+          "text": "They are always marked by very low salinity"
+        },
+        {
+          "label": "C",
+          "text": "Both"
+        },
+        {
+          "label": "D",
+          "text": "None"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "It is the ecosystem marked by the mixing of sea water and river water"
+      },
+      "explanation": "Estuary is the ecosystem marked by the mixing of marine and fresh water. It is a semi- closed coastal body with opening to sea. A range of salinity is found in the estuary ranging from 0-35 ppt."
+    }
+  ]
+}

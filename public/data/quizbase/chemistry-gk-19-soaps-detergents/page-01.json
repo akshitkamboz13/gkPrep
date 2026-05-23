@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "chemistry-gk-19-soaps-detergents",
+    "title": "Chemistry-19-Soaps & Detergents",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:02:31"
+  },
+  "questions": [
+    {
+      "id": 5003,
+      "question": "Which among the following methods can be used to remove the permanent hardness in water due to calcium or magnesium sulphates?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sulphonate method"
+        },
+        {
+          "label": "B",
+          "text": "Nitrate method"
+        },
+        {
+          "label": "C",
+          "text": "Zeolite method"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Zeolite method"
+      },
+      "explanation": "Zeolite is hydrated Sodium Alumino-silicate capable of exchanging reversible Sodium ions for hardness producing ions in water. It is also use as softening of water. It is used to remove the permanent hardness in water due to Calcium or Magnesium sulphates."
+    },
+    {
+      "id": 5882,
+      "question": "Which among the following is a common salt in Detergents?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sulphate"
+        },
+        {
+          "label": "B",
+          "text": "Nitrate"
+        },
+        {
+          "label": "C",
+          "text": "Sulphonate"
+        },
+        {
+          "label": "D",
+          "text": "Carbonate"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Sulphate"
+      },
+      "explanation": "Sodium sulfate, used as a filler in detergent powder, enables the adjustment of the concentration of the active matter in the detergent, as required."
+    },
+    {
+      "id": 6675,
+      "question": "What are Sodium Alkyl Sulphate and Benzene Sulphate examples of?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Explosives"
+        },
+        {
+          "label": "B",
+          "text": "Insecticides"
+        },
+        {
+          "label": "C",
+          "text": "Fungicides"
+        },
+        {
+          "label": "D",
+          "text": "Synthetic Detergents"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Synthetic Detergents"
+      },
+      "explanation": "Sodium Alkyl Sulphate and Benzene Sulphate are typical examples of Synthetic Detergents. Synthetic detergents are man-made cleansing agents that function similarly to soap. These compounds were developed during World War II when a shortage of natural oils led to a search of alternative substances. The advanced features of synthetic detergents include improved cleansing efficacy, resistance to water hardness, and the ability to function in acidic conditions."
+    },
+    {
+      "id": 21123,
+      "question": "Which of the following radical is also known as the “atmospheric detergent” ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chlorine radical"
+        },
+        {
+          "label": "B",
+          "text": "Hydroxyl radical"
+        },
+        {
+          "label": "C",
+          "text": "Methyl radical"
+        },
+        {
+          "label": "D",
+          "text": "Ozone radical"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Hydroxyl radical"
+      },
+      "explanation": "One of the most important chemical components of the troposphere is the ‘hydroxyl radical’: a highly reactive substance composed of an oxygen and a hydrogen atom, denoted ‘OH’. Hydroxyl radicals react with just about any other trace gas they encounter, removing them from the atmosphere.For example, OH combines with toxic carbon monoxide to generate carbon dioxide. In this sense, OH ‘cleans up’ the troposphere, and is sometimes called the detergent of the atmosphere."
+    },
+    {
+      "id": 29013,
+      "question": "Which of the following is the product of saponification process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ethanoic acid"
+        },
+        {
+          "label": "B",
+          "text": "Ethanol"
+        },
+        {
+          "label": "C",
+          "text": "Butanaldehyde"
+        },
+        {
+          "label": "D",
+          "text": "Glycerol"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Glycerol"
+      },
+      "explanation": "In saponification process, esters of fatty acids are hydrolysed and the soap obtained remains in colloidal form. The solution left after removing the soap contains glycerol, which can be recovered by fractional distillation."
+    }
+  ]
+}

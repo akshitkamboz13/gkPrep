@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: April 18, 2026",
+    "date": "2026-04-18",
+    "year": "2026",
+    "month": "04-april",
+    "day": 18,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 02:20:51",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:51:19"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What kind of disease is “Subacute Sclerosing Panencephalitis (SSPE)” that was recently seen in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A genetic disorder affecting muscles"
+        },
+        {
+          "label": "B",
+          "text": "A bacterial infection affecting lungs"
+        },
+        {
+          "label": "C",
+          "text": "A viral-induced progressive neurodegenerative disease"
+        },
+        {
+          "label": "D",
+          "text": "An autoimmune skin disease"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "A viral-induced progressive neurodegenerative disease"
+      },
+      "explanation": "The Bombay High Court was informed that the Maharashtra government has not yet framed a policy to address Subacute Sclerosing Panencephalitis (SSPE), a rare but fatal neurological disease. Subacute Sclerosing Panencephalitis (SSPE), also known as Dawson disease, is a progressive and disabling brain disorder caused by a persistent infection of the measles (rubeola) virus. The disease typically develops several years after a person has recovered from measles, due to an abnormal immune response or mutated virus. It is a rare condition occurring in about one per 50,000 measles cases and mainly affects children and adolescents, with males being more vulnerable."
+    },
+    {
+      "id": 2,
+      "question": "A new species of bent-toed gecko named Cyrtodactylus jayadityai was recently discovered in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tripura"
+        },
+        {
+          "label": "B",
+          "text": "Assam"
+        },
+        {
+          "label": "C",
+          "text": "Manipur"
+        },
+        {
+          "label": "D",
+          "text": "Mizoram"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Tripura"
+      },
+      "explanation": "Researchers recently discovered a new bent-toed gecko species, Cyrtodactylus jayadityai, in Tripura, highlighting Northeast India’s rich biodiversity. The species inhabits lowland forest patches, emphasizing the ecological value of these habitats. It is genetically distinct, showing about 4.7–5.2 percent divergence from its closest relative, Cyrtodactylus tripuraensis, based on mitochondrial Deoxyribonucleic Acid (DNA) analysis. The gecko is nocturnal, becoming active at night for foraging and hiding in burrows during the day. With this discovery, the total number of Cyrtodactylus species in Northeast India has increased to 31."
+    },
+    {
+      "id": 3,
+      "question": "Which university has developed a hafnium-oxide memristor for reducing AI energy use?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Harvard University"
+        },
+        {
+          "label": "B",
+          "text": "Stanford University"
+        },
+        {
+          "label": "C",
+          "text": "University of Cambridge"
+        },
+        {
+          "label": "D",
+          "text": "Banaras Hindu University"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "University of Cambridge"
+      },
+      "explanation": "Researchers from the University of Cambridge have developed a hafnium-oxide memristor, a brain-inspired nanodevice that can significantly reduce Artificial Intelligence (AI) energy consumption. A memristor (memory + resistor) is an electronic component whose resistance depends on past current flow, enabling it to “remember” previous electrical states. Unlike a conventional resistor, a memristor has variable resistance and retains its state even when the current is switched off. Memristors are nanoscale devices with low energy requirements and are commonly made using materials like titanium dioxide (TiO₂) between metal electrodes."
+    },
+    {
+      "id": 4,
+      "question": "Lakhwar Hydroelectric Project is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uttarakhand"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Gujarat"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Uttarakhand"
+      },
+      "explanation": "North India’s water and energy security will improve as the 300 megawatt Lakhwar Hydroelectric Project on the Yamuna River in Uttarakhand progresses after review by the Ministry of Jal Shakti. The Lakhwar project is a multipurpose hydroelectric project located near Lohari village in Dehradun district and is being developed by Uttarakhand Jal Vidyut Nigam. It includes a 204 metre high concrete gravity dam, three steel-lined penstocks, and an underground powerhouse with three vertical Francis turbines of 100 megawatts each."
+    },
+    {
+      "id": 5,
+      "question": "RELIEF Scheme was launched by which ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Commerce and Industry"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Finance"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Urban Development"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Health and Family Welfare"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ministry of Commerce and Industry"
+      },
+      "explanation": "The Government has expanded the RELIEF (Resilience and Logistics Intervention for Export Facilitation) scheme under the Export Promotion Mission (EPM) due to geopolitical disruptions in West Asia affecting maritime trade. The RELIEF scheme, launched by Ministry of Commerce & Industry in March 2026. It provides support to Indian exporters facing high freight costs, increased insurance premiums, and war-related risks in the Gulf region. It is implemented through the Export Credit Guarantee Corporation of India as the nodal agency, focusing on insurance facilitation and risk coverage."
+    }
+  ]
+}

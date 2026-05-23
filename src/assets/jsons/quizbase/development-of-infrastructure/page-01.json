@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "development-of-infrastructure",
+    "title": "22. Development of Infrastructure",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:10:43"
+  },
+  "questions": [
+    {
+      "id": 4795,
+      "question": "Which among the following is India’s first Oil refinery ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Guwahati Refinery"
+        },
+        {
+          "label": "B",
+          "text": "Vishakhapatnam Refinery"
+        },
+        {
+          "label": "C",
+          "text": "Digboi Refinery"
+        },
+        {
+          "label": "D",
+          "text": "Barauni Refinery"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Digboi Refinery"
+      },
+      "explanation": "Digboi is a town and a town area committee in Tinsukia district in the north-eastern part of the state of Assam, India. Crude oil was discovered here in late 19th century. Digboi is known as the Oil City of Assam where the first oil well in Asia was drilled. The first refinery was started here as early as 1901. Digboi has the oldest oil well in operation. The Digboi Refinery modernization project was taken up in large scale in order to overcome the technological obsolescence of the old refinery. Subsequently a number of other major projects were undertaken by Assam Oil Division to further revamp and modernize Digboi Refinery.Digboi refinery has been awarded the ISO-14001 and OHSMC certificate."
+    },
+    {
+      "id": 6029,
+      "question": "1853 is a landmark in India’s Transport because of ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "First train"
+        },
+        {
+          "label": "B",
+          "text": "First cargo plane"
+        },
+        {
+          "label": "C",
+          "text": "First ship"
+        },
+        {
+          "label": "D",
+          "text": "None of them"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "First train"
+      },
+      "explanation": "Lord Dalhousie is credited for the introduction of the first passenger train of India. The first passenger train in India ran between Bombay (Bori Bunder) station and Thane on 16 April 1853. It took about 45 minutes to cover the 21 miles length. The name of the three locomotives were SULTAN, SINDH and SAHIB."
+    },
+    {
+      "id": 8622,
+      "question": "The main objective of British developing India Railway system was to facilitate the traffic between?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Source of raw material and export centers"
+        },
+        {
+          "label": "B",
+          "text": "Source of raw material and ports"
+        },
+        {
+          "label": "C",
+          "text": "Source of raw material and production centers"
+        },
+        {
+          "label": "D",
+          "text": "Source of raw material and markets"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Source of raw material and production centers"
+      },
+      "explanation": "During the time of Lord Dalhousie, the first passenger train was ran between Bombay (Bori Bunder) and Thane on 16th April 1853. But the purpose of constructing the rail network was not for the development of India. The main purpose of rail network was just to quench their desire i.e., creating channel between source of raw material and production centers, sending of military to the remote places, collection of raw materials from India etc."
+    },
+    {
+      "id": 8623,
+      "question": "In which century maximum investment was made by the British in Core & Infrastructure sector in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "17th century"
+        },
+        {
+          "label": "B",
+          "text": "18th century"
+        },
+        {
+          "label": "C",
+          "text": "19th century"
+        },
+        {
+          "label": "D",
+          "text": "20th century"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "19th century"
+      },
+      "explanation": "In the 19th century, the bulk investment to the infrastructure sector was done by the British. The invested in Railway, Cotton Mills, Jute mill industries, steel industries as well as in the ship and navigation industries. In the year 1916, Industry commission was appointed under Thomas Holand."
+    },
+    {
+      "id": 10084,
+      "question": "Mountain Railways of India refer to the railway lines built in the mountains of India in the nineteenth and early twentieth century, during the British Raj, even being run today by the Indian Railways. How many railway lines refer to the Mountain Railways of India ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3"
+        },
+        {
+          "label": "B",
+          "text": "4"
+        },
+        {
+          "label": "C",
+          "text": "5"
+        },
+        {
+          "label": "D",
+          "text": "6"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "5"
+      },
+      "explanation": "The Mountain Railways of India consist of three notable lines: the Darjeeling Himalayan Railway, the Nilgiri Mountain Railway, and the Kalka-Shimla Railway. These railways are UNESCO World Heritage Sites, recognized for their historical significance and engineering marvels. The Darjeeling Himalayan Railway, established in 1881, is famous for its narrow gauge and scenic views. The Nilgiri Mountain Railway, operational since 1908, features a unique rack and pinion system. The Kalka-Shimla Railway, completed in 1903, is known for its picturesque landscapes and numerous tunnels."
+    }
+  ]
+}

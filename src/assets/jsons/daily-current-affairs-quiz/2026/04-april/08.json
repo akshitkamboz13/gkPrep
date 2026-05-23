@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: April 8, 2026",
+    "date": "2026-04-08",
+    "year": "2026",
+    "month": "04-april",
+    "day": 8,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 02:58:53",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:51:47"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Government e Marketplace (GeM) is India’s national public procurement portal launched by which ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Finance"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Commerce & Industry"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Electronics & Information Technology"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Housing & Urban Affairs"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ministry of Commerce & Industry"
+      },
+      "explanation": "Government e Marketplace (GeM) is India’s national public procurement portal, launched in 2016 by the Ministry of Commerce and Industry. GeM has achieved a cumulative Gross Merchandise Value (GMV) of ₹18.4 lakh crore, including crossing ₹5 lakh crore GMV in FY 2025–26. It facilitates procurement of goods and services for Central Government, State Government Ministries, Departments, Public Sector Units (PSUs), and affiliated organizations. GeM is fully digital, cashless, and system-driven, offering end-to-end solutions with AI-powered tools and a multilingual Learning Management System (LMS)."
+    },
+    {
+      "id": 2,
+      "question": "What are “Corononema dhriti and Epacanthion indica” that were recently seen in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Newly discovered species of marine nematodes"
+        },
+        {
+          "label": "B",
+          "text": "Rare medicinal plants"
+        },
+        {
+          "label": "C",
+          "text": "Invasive weeds"
+        },
+        {
+          "label": "D",
+          "text": "Newly discovered species of spider"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Newly discovered species of marine nematodes"
+      },
+      "explanation": "Researchers from the Zoological Survey of India (ZSI) have discovered two new species of free-living marine nematodes off the coast of Tamil Nadu named Corononema dhriti and Epacanthion indica. Corononema dhriti is the fourth known species of its genus, previously recorded only in Australia, Thailand, and Vietnam. Epacanthion indica is a microscopic predator with specialized mandibles and teeth, feeding within the benthic food web. Marine nematodes play a key role in nutrient cycling, sediment health, and act as bio-indicators for environmental and climate change."
+    },
+    {
+      "id": 3,
+      "question": "India’s first Prototype Fast Breeder Reactor (PFBR) is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "B",
+          "text": "Karnataka"
+        },
+        {
+          "label": "C",
+          "text": "Kerala"
+        },
+        {
+          "label": "D",
+          "text": "Andhra Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Tamil Nadu"
+      },
+      "explanation": "India’s first indigenous Prototype Fast Breeder Reactor (PFBR) at Kalpakkam, Tamil Nadu, has successfully attained criticality. A Fast Breeder Reactor (FBR) produces more fissile fuel than it consumes using fast neutrons. Criticality is the stage where a self-sustaining nuclear chain reaction is achieved. The 500 Megawatt Electric (MWe) PFBR is developed by Bharatiya Nabhikiya Vidyut Nigam Limited (BHAVINI). It uses Uranium-Plutonium Mixed Oxide fuel and liquid sodium as coolant. It supports India’s three-stage nuclear programme, enabling Thorium-232 to Uranium-233 conversion for long-term energy security."
+    },
+    {
+      "id": 4,
+      "question": "Which ministry has released draft rules to manage tar balls and protect India’s coastline and marine environment from oil spills?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Fisheries"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Environment, Forest, and Climate Change"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Petroleum and Natural Gas"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Shipping"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ministry of Environment, Forest, and Climate Change"
+      },
+      "explanation": "The Ministry of Environment, Forest and Climate Change (MoEFCC) has released draft rules to manage tar balls and protect India’s coastline and marine environment from oil spills. Tar balls are small, dark, sticky blobs of weathered oil formed in marine environments due to oil spills or natural seeps. It is formed when crude oil undergoes physical, chemical, and biological weathering, forming semi-solid or solid lumps transported by currents and waves to shores. It contains toxic contaminants, including heavy metals, trace elements, and persistent organic pollutants."
+    },
+    {
+      "id": 5,
+      "question": "Madras Hedgehog, that was recently seen in news, is primarily found in which region of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Northern Plains and Himalayas"
+        },
+        {
+          "label": "B",
+          "text": "Peninsular India"
+        },
+        {
+          "label": "C",
+          "text": "Western Ghats only"
+        },
+        {
+          "label": "D",
+          "text": "None of the Above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Peninsular India"
+      },
+      "explanation": "The complete mitochondrial genome of the Madras Hedgehog (Paraechinus nudiventris) has been analysed for the first time, revealing insights into its evolutionary history. Locally called Mulleli, it is also known as the bare-bellied hedgehog, discovered in 1851. They are found in dry scrublands, thorn forests, grasslands, and farmland edges in peninsular India—mainly Tamil Nadu, Kerala, Andhra Pradesh, and parts of Karnataka. It is listed as Least Concern in International Union for Conservation of Nature (IUCN) list."
+    }
+  ]
+}

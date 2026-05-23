@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "steel-industry-mcqs-for-ssc-examination",
+    "title": "23. Steel Industry",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:34:09"
+  },
+  "questions": [
+    {
+      "id": 8858,
+      "question": "What is India's rank in steel production in the world?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1st"
+        },
+        {
+          "label": "B",
+          "text": "2nd"
+        },
+        {
+          "label": "C",
+          "text": "3rd"
+        },
+        {
+          "label": "D",
+          "text": "4th"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "2nd"
+      },
+      "explanation": "In 2024, India was the second-largest steel producer after China. India produced around 149.4 to 149.6 million tonnes of crude steel. China produced 1,005.1 million tonnes, and Japan ranked third with 84 million tonnes. Major Indian companies include Tata Steel, JSW Steel Limited, and SAIL. India plans to expand steel production capacity to 300 million tonnes by 2030 and 500 million tonnes by 2047."
+    },
+    {
+      "id": 29247,
+      "question": "Where was India's first successful iron and steel industry established?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Parangipettai"
+        },
+        {
+          "label": "B",
+          "text": "Jamshedpur"
+        },
+        {
+          "label": "C",
+          "text": "Kulti"
+        },
+        {
+          "label": "D",
+          "text": "Mumbai"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Jamshedpur"
+      },
+      "explanation": "Tata Iron and Steel Company (TISCO) was established in Jamshedpur in 1907. Pig iron production began in 1911 and steel production started in 1912. Jamshedpur is located in present-day Jharkhand. TISCO became the first commercially successful iron and steel plant in India, whereas earlier plants in Parangipettai and Kulti eventually failed and did not operate at such a large scale."
+    },
+    {
+      "id": 29249,
+      "question": "Which of the following countries collaborated with Bhilai Steel plant for its establishment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Britain"
+        },
+        {
+          "label": "B",
+          "text": "USA"
+        },
+        {
+          "label": "C",
+          "text": "Russia"
+        },
+        {
+          "label": "D",
+          "text": "Japan"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Russia"
+      },
+      "explanation": "The Bhilai plant and the Bokaro Steel Plant in Jharkhand were commissioned to collaborate with Russia. The agreement for constructing Bhilai plant was signed with the Soviet Union in 1955 after Indian Prime Minster Jawaharlal Nehru visited Magnitogorsk, the capital of Russian iron and steel works."
+    },
+    {
+      "id": 29276,
+      "question": "Kudremukh iron ore was historically exported from which port?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cochin"
+        },
+        {
+          "label": "B",
+          "text": "Chennai"
+        },
+        {
+          "label": "C",
+          "text": "Mangalore"
+        },
+        {
+          "label": "D",
+          "text": "Karwar"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Mangalore"
+      },
+      "explanation": "The Kudremukh Iron Ore Company Limited, formed in 1976 in Karnataka, transported mined ore via slurry pipeline to Panambur. Export operations used New Mangalore Port. Kudremukh mine ceased operations in 2006 after Supreme Court directive. KIOCL now exports pellets through Mangalore port. New Mangalore Port is a major port located in Karnataka on the Arabian Sea, operational since 1974."
+    },
+    {
+      "id": 29278,
+      "question": "The steel plants of Durgapur, Bhilai & Rourkela were set up under which of the following five year plans?",
+      "options": [
+        {
+          "label": "A",
+          "text": "First Five Year Plan"
+        },
+        {
+          "label": "B",
+          "text": "Second Five Year Plan"
+        },
+        {
+          "label": "C",
+          "text": "Third Five Year Plan"
+        },
+        {
+          "label": "D",
+          "text": "Fourth Five Year Plan"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Second Five Year Plan"
+      },
+      "explanation": "Second Five Year Plan of 1956 to 1961 was given Importance to an establishment of heavy industries only. The main thrust of industrial development was on iron and steel,Heavy engineering and fertilizer industries. Three new iron and steel plants were located in Bhilai, Durgapur, and Rourkela."
+    }
+  ]
+}

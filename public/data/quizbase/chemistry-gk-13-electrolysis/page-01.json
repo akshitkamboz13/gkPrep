@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "chemistry-gk-13-electrolysis",
+    "title": "Chemistry-13-Electrochemistry",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:01:55"
+  },
+  "questions": [
+    {
+      "id": 3134,
+      "question": "What is the key element used in the batteries of electric vehicles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Magnesium"
+        },
+        {
+          "label": "B",
+          "text": "Lithium"
+        },
+        {
+          "label": "C",
+          "text": "Sodium"
+        },
+        {
+          "label": "D",
+          "text": "Bromine"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Lithium"
+      },
+      "explanation": "The primary component for electric vehicle batteries is Lithium, used as Lithium carbonate or Lithium hydroxide. These Lithium-ion batteries have a high power-to-weight ratio, energy efficiency, and thermal stability, leading to their prevalence in electric vehicles. Notably, the boom in EVs has significantly driven the demand for Lithium globally."
+    },
+    {
+      "id": 6980,
+      "question": "Galvanizing is a metallurgical process that is used to coat steel or iron with which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zinc"
+        },
+        {
+          "label": "B",
+          "text": "Lead"
+        },
+        {
+          "label": "C",
+          "text": "Chromium"
+        },
+        {
+          "label": "D",
+          "text": "Copper"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Zinc"
+      },
+      "explanation": "Galvanisation is a method of protecting steel and iron from rusting by coating them with a thin layer of zinc"
+    },
+    {
+      "id": 8173,
+      "question": "Which among the following is correct regarding the alkaline battery ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Negative terminal made of Zinc Powder and Positive terminal made of Manganese dioxide & electrolyte is KOH"
+        },
+        {
+          "label": "B",
+          "text": "Negative terminal made of Manganese dioxide and Positive terminal made of Zinc powder & electrolyte KOH"
+        },
+        {
+          "label": "C",
+          "text": "Negative terminal made of Zinc Powder and Positive terminal made of Manganese dioxide & Electrolyte is Ammonium Chloride"
+        },
+        {
+          "label": "D",
+          "text": "Negative terminal made of Manganese dioxide and Positive terminal made of Zinc powder & electrolyte Ammonium Chloride"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Negative terminal made of Zinc Powder and Positive terminal made of Manganese dioxide & electrolyte is KOH"
+      },
+      "explanation": "The correct statement is that in an alkaline battery, the negative terminal is made of zinc powder, the positive terminal is made of manganese dioxide, and the electrolyte is potassium hydroxide (KOH). Alkaline batteries are known for their long shelf life and higher energy density compared to zinc-carbon batteries. They were invented in the 1950s and are widely used in household devices."
+    },
+    {
+      "id": 27433,
+      "question": "Which among the following is most advantageous in storage in fuel cells used in small, portable electronics such as phones and laptop computers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Methanol"
+        },
+        {
+          "label": "B",
+          "text": "Hydrogen"
+        },
+        {
+          "label": "C",
+          "text": "Formic Acid"
+        },
+        {
+          "label": "D",
+          "text": "Acetic Acid"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Formic Acid"
+      },
+      "explanation": "The cells are called Direct-formic acid fuel cells, in which formic acid is directly fed in the cells. Storage of formic acid is much easier and safer than that of hydrogen because it does not need to be done at high pressures and (or) low temperatures, as formic acid is a liquid at standard temperature and pressure. Formic acid does not cross over the polymer membrane, so its efficiency can be higher than that of methanol. Use of acetic acid in cells does not arise."
+    },
+    {
+      "id": 27858,
+      "question": "What do we call the device which converts the chemical energy of a spontaneous redox reaction into electrical energy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Galvanic cell"
+        },
+        {
+          "label": "B",
+          "text": "Fuel cell"
+        },
+        {
+          "label": "C",
+          "text": "Electrolytic cell"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Galvanic cell"
+      },
+      "explanation": "A galvanic cell is an electrochemical cell that converts the chemical energy of a spontaneous redox reaction into electrical energy. Daniel cell is a kind of Galvanic cell."
+    }
+  ]
+}

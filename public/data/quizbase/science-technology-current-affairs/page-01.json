@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "science-technology-current-affairs",
+    "title": "Science & Technology Current Affairs MCQs",
+    "page": 1,
+    "total_pages": 8,
+    "generated_at": "2026-05-02 07:01:04",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:31:04"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which institute has developed a 3D computational model to study thermoregulation in space?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indian Institute of Technology (IIT) Kanpur"
+        },
+        {
+          "label": "B",
+          "text": "Indian Institute of Science (IISc), Bengaluru"
+        },
+        {
+          "label": "C",
+          "text": "Indian Institute of Space Science and Technology (IIST)"
+        },
+        {
+          "label": "D",
+          "text": "Indian Institute of Technology (IIT) Delhi"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Indian Institute of Space Science and Technology (IIST)"
+      },
+      "explanation": "Researchers at the Indian Institute of Space Science and Technology (IIST) have developed a 3D computational model to study thermoregulation in space. It shows that microgravity consistently increases human core body temperature, which is important for long-duration space missions. Microgravity is a condition of near-weightlessness experienced when objects are in free fall around Earth, not the absence of gravity. In microgravity, normal body functions like heat regulation are altered due to changes in blood flow and metabolism. The IIST model includes sweating, shivering, clothing, and organ heat to simulate real human conditions in space."
+    },
+    {
+      "id": 2,
+      "question": "What are “Magnetars” that were recently seen in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Unmanned Aerial Vehicle"
+        },
+        {
+          "label": "B",
+          "text": "Neuron Star"
+        },
+        {
+          "label": "C",
+          "text": "Black hole"
+        },
+        {
+          "label": "D",
+          "text": "Invasive weed"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Neuron Star"
+      },
+      "explanation": "Researchers have recently found that magnetar flares can create heavy elements like gold using a process called rapid neutron-capture or r-process nucleosynthesis. Magnetars are a special type of neutron star with extremely powerful magnetic fields—about a thousand times stronger than normal neutron stars. These stars sometimes release huge flares of energy, and one such giant flare in 2004 helped scientists make this discovery. The flare was observed by NASA’s Compton Gamma Ray Observatory, which recorded strange gamma-ray signals nearly a day later. These delayed signals did not match typical afterglows but showed signs of radioactive decay from neutron-rich elements. This proves that r-process nucleosynthesis, earlier linked mainly to neutron star mergers, can also happen in magnetar flares. This recent evidence changes our understanding of where rare elements like gold in the universe might come from."
+    },
+    {
+      "id": 3,
+      "question": "Which institute has developed a novel iron-doped catalyst to enhance oxygen-related electrocatalytic reactions for clean energy technologies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indian Institute of Technology Delhi"
+        },
+        {
+          "label": "B",
+          "text": "CSIR- National Chemical Laboratory"
+        },
+        {
+          "label": "C",
+          "text": "Indian Institute of Technology Kanpur"
+        },
+        {
+          "label": "D",
+          "text": "Centre for Nano and Soft Matter Sciences"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Centre for Nano and Soft Matter Sciences"
+      },
+      "explanation": "Researchers from the Centre for Nano and Soft Matter Sciences (CeNS), under the Department of Science and Technology (DST), have developed a new iron-doped catalyst. This catalyst improves oxygen-related electrocatalytic reactions. Oxygen electrocatalysis is important for clean energy technologies like water splitting to produce hydrogen, generating clean fuels, and making hydrogen peroxide (H₂O₂). These technologies often face challenges such as slow reaction speeds, high energy use, and expensive materials. They usually depend on precious metals like platinum (Pt) and ruthenium (Ru). The new iron-based catalyst aims to reduce costs and improve efficiency in these clean energy processes."
+    },
+    {
+      "id": 4,
+      "question": "What is the name of the indigenously developed submersible vehicle for the Samudrayaan Mission?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Varun 2000"
+        },
+        {
+          "label": "B",
+          "text": "Matsya 6000"
+        },
+        {
+          "label": "C",
+          "text": "Jal Doot"
+        },
+        {
+          "label": "D",
+          "text": "Sagar Putra"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Matsya 6000"
+      },
+      "explanation": "India will launch its first manned deep-ocean mission called Samudrayaan by 2026 to explore marine resources up to 6,000 metres deep. The mission is part of the Deep Ocean Mission and will use an indigenously developed submersible named MATSYA 6000. MATSYA 6000 is a 4th generation manned submersible vehicle designed by the National Institute of Ocean Technology (NIOT), Chennai. It can carry three people and operate for 12 hours, with an emergency endurance of 96 hours. The research vessel Sagar Nidhi will be used to deploy and recover MATSYA 6000 during the mission."
+    },
+    {
+      "id": 5,
+      "question": "Which organization developed the India’s High-Altitude Platform (HAP) prototype, a solar-powered, unmanned aircraft?",
+      "options": [
+        {
+          "label": "A",
+          "text": "National Aerospace Laboratories (NAL)"
+        },
+        {
+          "label": "B",
+          "text": "Bharat Electronics Ltd (BEL)"
+        },
+        {
+          "label": "C",
+          "text": "Indian Space Research Organisation (ISRO)"
+        },
+        {
+          "label": "D",
+          "text": "Defence Research and Development Organisation (DRDO)"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "National Aerospace Laboratories (NAL)"
+      },
+      "explanation": "In a recent development, India’s High-Altitude Platform (HAP) prototype designed by National Aerospace Laboratories (NAL) successfully completed pre-monsoon flight tests with a certified autopilot system. A High-Altitude Platform (HAP) is an unmanned, solar-powered aircraft that flies in the stratosphere at 17 to 22 kilometers altitude. It serves as a middle layer between ground systems and satellites for continuous aerial services. It was developed by NAL, Bengaluru, under the Council of Scientific and Industrial Research (CSIR). The Aeronautical Test Range (ATR) at Chitradurga, Karnataka supported its development. It is designed for border patrolling, surveillance in remote areas, and civil-military use. It can also act as a relay for telecommunications and weather monitoring."
+    },
+    {
+      "id": 6,
+      "question": "In which country has West Nile Virus (WNV) been detected for the first time in mosquitoes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "China"
+        },
+        {
+          "label": "B",
+          "text": "Australia"
+        },
+        {
+          "label": "C",
+          "text": "United Kingdom"
+        },
+        {
+          "label": "D",
+          "text": "Russia"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "United Kingdom"
+      },
+      "explanation": "West Nile Virus (WNV) has been detected for the first time in mosquitoes in the United Kingdom, as confirmed by the UK Health Security Agency (UKHSA). The virus was found in Aedes vexans mosquitoes from wetlands near the River Idle in Nottinghamshire during July 2023 under the Vector-Borne RADAR surveillance program. WNV spreads mainly between birds and mosquitoes but can occasionally infect humans and horses. Most human cases show no symptoms, but about 20% may have flu-like symptoms. In rare cases, WNV can cause serious brain conditions like encephalitis or meningitis. The current public health risk is very low, with no widespread transmission found."
+    },
+    {
+      "id": 7,
+      "question": "Which aerospace company successfully test-fired India’s first electric motor-driven semi-cryogenic engine?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dhruva Space"
+        },
+        {
+          "label": "B",
+          "text": "Agnikul"
+        },
+        {
+          "label": "C",
+          "text": "Skyroot Aerospace"
+        },
+        {
+          "label": "D",
+          "text": "Digantra"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Agnikul"
+      },
+      "explanation": "On May 23, 2025, Chennai-based startup Agnikul Cosmos successfully test-fired India’s first electric motor-driven semi-cryogenic engine. This marks a major step for private players in advancing Indian space technology. The engine uses electric motors instead of traditional gas generators to power fuel pumps, allowing precise thrust control and quick response. It runs on semi-cryogenic propulsion using liquid oxygen (LOX) and refined kerosene, balancing performance and cost. This innovation boosts engine reliability and suits future sub-orbital missions."
+    },
+    {
+      "id": 8,
+      "question": "Which institute has created India’s first gene-edited sheep?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Doon University, Dehradun"
+        },
+        {
+          "label": "B",
+          "text": "Himachal Pradesh University"
+        },
+        {
+          "label": "C",
+          "text": "Sher-e-Kashmir University of Agricultural Sciences and Technology"
+        },
+        {
+          "label": "D",
+          "text": "None of the Above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Sher-e-Kashmir University of Agricultural Sciences and Technology"
+      },
+      "explanation": "Researchers at Sher-e-Kashmir University of Agricultural Sciences and Technology (SKUAST) have created India’s first gene-edited sheep. This is a major breakthrough in animal biotechnology and marks a historic achievement for India. The sheep was developed using genome editing without adding any foreign Deoxyribonucleic Acid (DNA), making it different from transgenic animals. This innovation may ease regulatory approvals under India’s updated biotechnology policy. It positions SKUAST-Kashmir as a leader in reproductive biotechnology research. This recent development places India among the global frontrunners in advanced genome editing technologies."
+    },
+    {
+      "id": 9,
+      "question": "The IndiaAI Mission was jointly launched by Ministry of Electronics and Information Technology and which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "National Association of Software and Service Companies (NASSCOM)"
+        },
+        {
+          "label": "B",
+          "text": "Defence Research and Development Organisation (DRDO)"
+        },
+        {
+          "label": "C",
+          "text": "Indian Space Research Organization (ISRO)"
+        },
+        {
+          "label": "D",
+          "text": "Council of Scientific and Industrial Research (CSIR)"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "National Association of Software and Service Companies (NASSCOM)"
+      },
+      "explanation": "Recently, three new startups were selected to build India’s own Foundation Model under the IndiaAI Mission, marking a big step in boosting local Artificial Intelligence (AI) capabilities. The IndiaAI Mission was launched in 2023 as a joint effort by the Ministry of Electronics and Information Technology (MeitY) and the National Association of Software and Service Companies (NASSCOM). It supports startups and researchers by providing access to high-end computing power. The mission promotes “Making AI in India” by developing AI technologies locally."
+    },
+    {
+      "id": 10,
+      "question": "Diphtheria, which recently caused the largest outbreak in Western Europe, is caused by which agent?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fungus"
+        },
+        {
+          "label": "B",
+          "text": "Virus"
+        },
+        {
+          "label": "C",
+          "text": "Bacteria"
+        },
+        {
+          "label": "D",
+          "text": "Protozoa"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Bacteria"
+      },
+      "explanation": "New research revealed the largest diphtheria outbreak in Western Europe in 70 years started in 2022. The outbreak mainly affected vulnerable groups like migrants and the homeless. Diphtheria is a highly contagious bacterial infection caused by bacteria Corynebacterium diphtheriae. This bacteria produces a toxin that attacks the respiratory tract and can spread through the body. Transmission occurs through respiratory droplets from coughing or sneezing. It can also spread by contact with infected open sores or ulcers on the skin."
+    }
+  ]
+}

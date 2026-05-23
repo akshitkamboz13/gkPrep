@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-march-2022",
+    "title": "Current Affairs Quiz - March 2022",
+    "page": 3,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:47:30",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:58:47"
+  },
+  "questions": [
+    {
+      "id": 21,
+      "question": "What is the name of the Panchayat system, in which leader and members are chosen by consensus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Samras Panchayats"
+        },
+        {
+          "label": "B",
+          "text": "Sarvoday Panchayats"
+        },
+        {
+          "label": "C",
+          "text": "Sarvottam Panchayats"
+        },
+        {
+          "label": "D",
+          "text": "Sammelan Panchayats"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Samras Panchayats"
+      },
+      "explanation": "Prime Minister Narendra Modi visited Gujarat and addressed Panchayati Raj representatives. During his address, he said that Samaras Panchayat is the index of true democracy. In a Samras Panchayat, the leader and members of village panchayats are chosen by consensus and not elected through elections. Gujarat has three-tier Panchayati Raj structure, with 33 district panchayats, 248 taluka panchayats and over 14,500 gram panchayats."
+    },
+    {
+      "id": 22,
+      "question": "‘National Vaccination Day’ is observed in India to commemorate the first dose of which vaccine administered in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Polio"
+        },
+        {
+          "label": "B",
+          "text": "Measles"
+        },
+        {
+          "label": "C",
+          "text": "Hepatitis B"
+        },
+        {
+          "label": "D",
+          "text": "DPT"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Polio"
+      },
+      "explanation": "National Vaccination Day is observed annually on 16 March across India. The occasion is celebrated to raise awareness about importance of vaccination. India administered its first dose of oral vaccine against Polio on this day in 1995. It marked the launch of National Immunization Day (NID), also known as National Vaccination Day and Pulse Polio Immunisation programme."
+    },
+    {
+      "id": 23,
+      "question": "Which Indian player won the silver medal in German Open 2022 tournament?",
+      "options": [
+        {
+          "label": "A",
+          "text": "P V Sindhu"
+        },
+        {
+          "label": "B",
+          "text": "K Srikanth"
+        },
+        {
+          "label": "C",
+          "text": "Lakhsya Sen"
+        },
+        {
+          "label": "D",
+          "text": "Saina Nehwal"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Lakhsya Sen"
+      },
+      "explanation": "Indian badminton player Lakshya Sen met Thailand’s ace player and World No. 20 Kunlavut Vitidsarn in the Men’s Singles finals of German Open 2022. Lakshya Sen, who took medical breaks for blisters, settled for silver after he put up a great fight against Vitidsarn. Lakshya Sen has started preparing for the All England Open week that is coming up soon."
+    },
+    {
+      "id": 24,
+      "question": "Which is the first state in the country to use ‘Crop Diversification Index’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Telangana"
+        },
+        {
+          "label": "C",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "D",
+          "text": "Punjab"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Telangana"
+      },
+      "explanation": "For the first time in the country, Telangana has begun recording crop diversification patterns in the form of an index. According to the crop diversification index, the state grows 77 varieties, with about 10 crops, mostly grains, preferred for diversification. The index will serve as a base for future crop diversification in the state."
+    },
+    {
+      "id": 25,
+      "question": "Bhagwant Mann sworn in as the Chief Minister of which Indian state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Goa"
+        },
+        {
+          "label": "B",
+          "text": "Punjab"
+        },
+        {
+          "label": "C",
+          "text": "Manipur"
+        },
+        {
+          "label": "D",
+          "text": "Rajasthan"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Punjab"
+      },
+      "explanation": "Aam Aadmi Party (AAP) leader Bhagwant Mann recently assumed office as the 18th chief minister of Punjab, at the state civil secretariat in Chandigarh. He took oath as the 18th chief minister of Punjab at Kahtar Kalan, the ancestral village of freedom fighter Bhagat Singh in Nawanshahr."
+    },
+    {
+      "id": 26,
+      "question": "Which country tops the list in South Asia in terms of women on board of listed companies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India"
+        },
+        {
+          "label": "B",
+          "text": "Bangladesh"
+        },
+        {
+          "label": "C",
+          "text": "Nepal"
+        },
+        {
+          "label": "D",
+          "text": "Maldives"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Bangladesh"
+      },
+      "explanation": "As per a study conducted by International Finance Corporation (IFC) and Dhaka Stock Exchange (DSE), Bangladesh tops the list in South Asia in terms of women on board of listed companies. There was an increase in the percentage of women who are independent directors on listed companies from 5 percent in 2020 to six percent."
+    },
+    {
+      "id": 27,
+      "question": "Which institution releases the Periodic Labour Force Survey (PLFS)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NITI Aayog"
+        },
+        {
+          "label": "B",
+          "text": "National Statistical Office"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Labour and Employment"
+        },
+        {
+          "label": "D",
+          "text": "Reserve Bank of India"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "National Statistical Office"
+      },
+      "explanation": "The latest Periodic Labour Force Survey (PLFS) released by the National Statistical Office (NSO), which works under the Ministry of Statistics and Program Implementation (MoSPI). As per the recent PLFS update, India’s urban unemployment rate jumped to 12.6 per cent in the April-June quarter of 2021, compared to 9.3 per cent in the January-March quarter."
+    },
+    {
+      "id": 28,
+      "question": "Which Indian company is the second fastest-growing retailer in the world, as per the 2022 Deloitte report?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aditya Birla Fashion & Retail"
+        },
+        {
+          "label": "B",
+          "text": "Reliance Retail"
+        },
+        {
+          "label": "C",
+          "text": "Avenue Supermarts"
+        },
+        {
+          "label": "D",
+          "text": "Future Retail"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Reliance Retail"
+      },
+      "explanation": "Reliance Retail is the second fastest-growing retailer in the world, according to the 2022 Deloitte report, ‘Global Powers of Retailing.’ South Korean e-commerce brand ‘Coupang’ topped the list. Reliance Retail is also the only Indian company to be featured for the fifth year in a row among the top 250 global retailers in the report. The company is ranked at 56 overall, three ranks below its 2021 rank."
+    },
+    {
+      "id": 29,
+      "question": "Which Union Ministry of India launched the “India and the Arctic: building a partnership for sustainable development” policy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Earth Sciences"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Environment, Forest and Climate Change"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Defence"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of External Affairs"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ministry of Earth Sciences"
+      },
+      "explanation": "The policy, titled “India and the Arctic: building a partnership for sustainable development” was released by Union Earth Sciences Minister Jitendra Singh. The Arctic policy seeks to deepen the country’s partnership with the resource-rich Arctic region. India is one of the 13 countries holding the observer status in the Arctic Council. It also seeks to study the linkages between polar regions and the Himalayas."
+    },
+    {
+      "id": 30,
+      "question": "The ‘Golden Langur’ is an endangered species, native to which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India and Bhutan"
+        },
+        {
+          "label": "B",
+          "text": "India and Sri Lanka"
+        },
+        {
+          "label": "C",
+          "text": "India and Bangladesh"
+        },
+        {
+          "label": "D",
+          "text": "Laos and Cambodia"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "India and Bhutan"
+      },
+      "explanation": "Golden Langur (Trachypithecus geei) is an endangered primate species that is distributed along the boundary of Bhutan and India. As per a recent study, there is a significant decline in the habitat of Golden Langur and the intensity of human-langur conflict is increasing due to enhanced human footprints in the habitat of the species."
+    }
+  ]
+}

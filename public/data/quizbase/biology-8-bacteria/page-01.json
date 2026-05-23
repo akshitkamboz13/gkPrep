@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-8-bacteria",
+    "title": "8. Bacteria",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:00:05"
+  },
+  "questions": [
+    {
+      "id": 4413,
+      "question": "Which of the following bacteria forms an endosymbiotic nitrogen fixing association with roots of legumes that helps in Nitrogen Fixation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Clostridium"
+        },
+        {
+          "label": "B",
+          "text": "Rhizobium"
+        },
+        {
+          "label": "C",
+          "text": "Salmonella"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Rhizobium"
+      },
+      "explanation": "Rhizobium Found in roots of legumes, like Peas, grams, Pulses etc, where it fixes atmospheric nitrogen as ammonia, which is then converted into useful amino acid."
+    },
+    {
+      "id": 5504,
+      "question": "Effective TB treatment is difficult because of the unusual structure and chemical composition of the which among the following parts of the cells of Tuberculosis Bacteria (Mycobacterium tuberculosis)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cell membrane"
+        },
+        {
+          "label": "B",
+          "text": "Cell wall"
+        },
+        {
+          "label": "C",
+          "text": "Nucleus"
+        },
+        {
+          "label": "D",
+          "text": "Plasama"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Cell wall"
+      },
+      "explanation": "TB is bacterial disease caused by “Mycobacterium tuberculosis” bacteria that most often affect the lungs. The disease is spread from person to person through the air. It commonly affects the lungs but can also affect other parts of the body. It is the second biggest killer disease worldwide next only to HIV/AIDS. It can be completely cured with proper and regular medication"
+    },
+    {
+      "id": 6750,
+      "question": "The shape of Vibrio bacteria is ________?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Comma Shaped"
+        },
+        {
+          "label": "B",
+          "text": "Dot shaped"
+        },
+        {
+          "label": "C",
+          "text": "Clusters"
+        },
+        {
+          "label": "D",
+          "text": "Sticks"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Comma Shaped"
+      },
+      "explanation": "The shape of Vibrio bacteria is comma shaped. These bacteria naturally live in certain coastal waters and are present in higher concentrations between the months of May and October when water temperatures are warmer."
+    },
+    {
+      "id": 8829,
+      "question": "Which among the following bacterial cells are found in cubical packets?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tetracocci"
+        },
+        {
+          "label": "B",
+          "text": "Streptococci"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococci"
+        },
+        {
+          "label": "D",
+          "text": "Sarcinae"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Sarcinae"
+      },
+      "explanation": "Sarcina is a genus of Gram-positive cocci bacteria in the family Clostridiaceae. They are gram positive bacteria which are found in water and soil and thrive in low pH environment. They are arranged in cubical pockets."
+    },
+    {
+      "id": 11142,
+      "question": "The Gram Positive Bacteria can be identified by the Gram staining because of the following reasons?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The cell walls have more lipids compared to peptidoglycan"
+        },
+        {
+          "label": "B",
+          "text": "The Cells walls have more Peptidoglycan compared to Lipids"
+        },
+        {
+          "label": "C",
+          "text": "The Cells membrane has more fatty acids"
+        },
+        {
+          "label": "D",
+          "text": "The plasma has Peptidoglycans"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "The Cells walls have more Peptidoglycan compared to Lipids"
+      },
+      "explanation": "The cell wall which is made up of Peptidoglycan as well as lipids gets violet due to the reaction of the CV+. After the decolorization with alcohol, the lipids gets dissolved and the bacteria with higher Peptidoglycan remain violet. These are called Gram Positive bacteria."
+    }
+  ]
+}

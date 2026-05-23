@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "general-science-biology-mcqs",
+    "title": "Biology MCQs",
+    "page": 4,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:50:38",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:12:46"
+  },
+  "questions": [
+    {
+      "id": 31,
+      "question": "A process where urine is removed from the body is called __",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dialysis"
+        },
+        {
+          "label": "B",
+          "text": "Micturition"
+        },
+        {
+          "label": "C",
+          "text": "Secretion"
+        },
+        {
+          "label": "D",
+          "text": "Glomerular Filtration"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Micturition"
+      },
+      "explanation": "A process where urine is removed from the body is called Micturition."
+    },
+    {
+      "id": 32,
+      "question": "What results in severe, acute, or incurable liver disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Blood clotting"
+        },
+        {
+          "label": "B",
+          "text": "Production of blood proteins"
+        },
+        {
+          "label": "C",
+          "text": "Elimination of water, drugs, and toxins from the body"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "All of the above"
+      },
+      "explanation": "Blood clotting, Production of blood proteins, and Elimination of water, drugs, and toxins from the body are results in severe, acute, or incurable liver disease."
+    },
+    {
+      "id": 33,
+      "question": "Which of the following gland of the body produces antibodies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thymus gland"
+        },
+        {
+          "label": "B",
+          "text": "Thyroid gland"
+        },
+        {
+          "label": "C",
+          "text": "Pineal gland"
+        },
+        {
+          "label": "D",
+          "text": "Adrenal gland"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Thymus gland"
+      },
+      "explanation": "The thymus gland secretes thymosin, which matures lymphocytes into T-lymphocytes which produces antibodies and thereby increases immunity."
+    },
+    {
+      "id": 34,
+      "question": "Malaria is an acute febrile illness caused by__.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Salmonella typhi"
+        },
+        {
+          "label": "B",
+          "text": "Mycobacterium"
+        },
+        {
+          "label": "C",
+          "text": "Plasmodium parasites"
+        },
+        {
+          "label": "D",
+          "text": "Bordetella pertussis"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Plasmodium parasites"
+      },
+      "explanation": "Malaria is an acute febrile illness caused by Plasmodium parasites. Malaria is a parasitic disease that is transmitted to humans through the bite of infected mosquitoes."
+    },
+    {
+      "id": 35,
+      "question": "Which of the following is an important objective of biotechnology in the field of agriculture?",
+      "options": [
+        {
+          "label": "A",
+          "text": "to decrease seed number"
+        },
+        {
+          "label": "B",
+          "text": "to produce pest-resistant varieties of plants"
+        },
+        {
+          "label": "C",
+          "text": "to increase phosphorous, nitrogen production"
+        },
+        {
+          "label": "D",
+          "text": "to reduce the number of plants"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "to produce pest-resistant varieties of plants"
+      },
+      "explanation": "An important objective of biotechnology in the field of agriculture is to produce pest-resistant varieties of plants."
+    },
+    {
+      "id": 36,
+      "question": "What is Bt cotton?",
+      "options": [
+        {
+          "label": "A",
+          "text": "cloned plant"
+        },
+        {
+          "label": "B",
+          "text": "transgenic plant"
+        },
+        {
+          "label": "C",
+          "text": "hybrid plant"
+        },
+        {
+          "label": "D",
+          "text": "mutated plant"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "transgenic plant"
+      },
+      "explanation": "Bt cotton is a transgenic plant. Plants in which one or more genes of another species have been introduced into the genome using genetic engineering procedures are called transgenic plants."
+    },
+    {
+      "id": 37,
+      "question": "Which of the following are examples of hydrophilic molecules?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sugar"
+        },
+        {
+          "label": "B",
+          "text": "cellulose"
+        },
+        {
+          "label": "C",
+          "text": "starch"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "All of the above"
+      },
+      "explanation": "A molecule whose interaction with water and other polar substances is more thermodynamically favorable than its interaction with oil or other hydrophobic solvents is called a hydrophilic molecule. Sugar, salt, starch, and cellulose are examples of hydrophilic molecules."
+    },
+    {
+      "id": 38,
+      "question": "Jellyfish are an example of which type of phylum?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phylum -Protozoa"
+        },
+        {
+          "label": "B",
+          "text": "Phylum -Porifera"
+        },
+        {
+          "label": "C",
+          "text": "Phylum – Cnidaria"
+        },
+        {
+          "label": "D",
+          "text": "Phylum -Ctenophora"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Phylum – Cnidaria"
+      },
+      "explanation": "Cnidarian, also called coelenterate, any member of the phylum Cnidaria (Coelenterata), a group made up of more than 9,000 living species. ? Mostly marine animals, the cnidarians include the corals, hydras, jellyfish, Portuguese men-of-war, sea anemones, sea pens, sea whips, and sea fans."
+    },
+    {
+      "id": 39,
+      "question": "The largest White Blood Corpuscle is ____:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lymphocyte"
+        },
+        {
+          "label": "B",
+          "text": "Monocyte"
+        },
+        {
+          "label": "C",
+          "text": "Thrombocyte"
+        },
+        {
+          "label": "D",
+          "text": "Erythrocyte"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Monocyte"
+      },
+      "explanation": "Monocytes are the largest white blood cell about 20m in diameter. When they leave the blood they’re called macrophages. Macrophages work with lymphocytes as antigen presenting cells."
+    },
+    {
+      "id": 40,
+      "question": "Which of the following plant pigments absorbs in red and far red region of light?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phytochrome"
+        },
+        {
+          "label": "B",
+          "text": "Cryptochrome"
+        },
+        {
+          "label": "C",
+          "text": "Carotenoide"
+        },
+        {
+          "label": "D",
+          "text": "Chlorophyll"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Phytochrome"
+      },
+      "explanation": "Phytochrome is a photoreceptor, a pigment that plants use to detect light. It is a protein with a bilin chromophore. It detects mainly red and far-red region of the visible spectrum and regulates germination of seeds in photoblastic seeds."
+    }
+  ]
+}

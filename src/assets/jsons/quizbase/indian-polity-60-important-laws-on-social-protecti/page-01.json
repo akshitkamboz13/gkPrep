@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-60-important-laws-on-social-protecti",
+    "title": "Important Laws on Social Protection",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:23:58"
+  },
+  "questions": [
+    {
+      "id": 10594,
+      "question": "In which year “The Protection of Women from Domestic Violence Act” was enacted?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2003"
+        },
+        {
+          "label": "B",
+          "text": "2005"
+        },
+        {
+          "label": "C",
+          "text": "2007"
+        },
+        {
+          "label": "D",
+          "text": "2009"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "2005"
+      },
+      "explanation": "The Protection of Women from Domestic Violence Act was enacted by the parliament of India in 2005 to protect women from domestic violence. It was brought into force on 26 October 2006."
+    },
+    {
+      "id": 23125,
+      "question": "The Protection of Children from Sexual Offences Act, (POSCO) 2012, provides protection of all children from the offences of sexual assault, sexual harassment and pornography. The POSCO Act defines a child as any person in the age group of _?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0-6 years"
+        },
+        {
+          "label": "B",
+          "text": "0-14 years"
+        },
+        {
+          "label": "C",
+          "text": "0-18 years"
+        },
+        {
+          "label": "D",
+          "text": "6-14 years"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "0-18 years"
+      },
+      "explanation": "The Protection of Children from Sexual Offences Act, (POCSO), 2012, aims at providing protection to children (individuals below the age of 18) from sexual violence including sexual assault, sexual harassment, and the inclusion of children in pornography. The Act also provides for the establishment of special courts for trials of such offenders and for related matters."
+    },
+    {
+      "id": 46964,
+      "question": "The Rights of Persons with Disabilities Act was passed in which year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2015"
+        },
+        {
+          "label": "B",
+          "text": "2016"
+        },
+        {
+          "label": "C",
+          "text": "2017"
+        },
+        {
+          "label": "D",
+          "text": "2018"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "2016"
+      },
+      "explanation": "The Rights of Persons with Disabilities Act was passed in the year 2016. It was passed to fulfill the obligations to the United Nations Convention on the Rights of Persons with Disabilities, which India ratified in 2007."
+    },
+    {
+      "id": 46966,
+      "question": "The Child and Adolescent Labour (Prohibition and Regulation) Act was enacted in which year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1980"
+        },
+        {
+          "label": "B",
+          "text": "1982"
+        },
+        {
+          "label": "C",
+          "text": "1984"
+        },
+        {
+          "label": "D",
+          "text": "1986"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1986"
+      },
+      "explanation": "The Child and Adolescent Labour (Prohibition and Regulation) Act was passed by the Parliament of India in the year 1986. It was enacted on 23 December 1986 to prohibit private, government or semi-government companies, organizations, civil departments or child's family from employing a child or adolescents in any occupation or process."
+    },
+    {
+      "id": 46967,
+      "question": "The Child and Adolescent Labour (Prohibition and Regulation) Act, 1986 prohibits employment of a child in any employment including as domestic help below which age?",
+      "options": [
+        {
+          "label": "A",
+          "text": "12"
+        },
+        {
+          "label": "B",
+          "text": "13"
+        },
+        {
+          "label": "C",
+          "text": "14"
+        },
+        {
+          "label": "D",
+          "text": "15"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "14"
+      },
+      "explanation": "The Child and Adolescent Labour (Prohibition and Regulation) Act, 1986 prohibits employment of a child in any employment including as domestic help below the age of 14 years."
+    }
+  ]
+}

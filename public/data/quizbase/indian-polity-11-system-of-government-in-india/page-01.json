@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-11-system-of-government-in-india",
+    "title": "System of Government in India",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:19:21"
+  },
+  "questions": [
+    {
+      "id": 4337,
+      "question": "On the pattern of which among the following countries, the parliamentary system was established in India by the Constitution of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "United States"
+        },
+        {
+          "label": "B",
+          "text": "England"
+        },
+        {
+          "label": "C",
+          "text": "Australia"
+        },
+        {
+          "label": "D",
+          "text": "Canada"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "England"
+      },
+      "explanation": "Indian parliamentary system is based upon the Parliamentary system in England."
+    },
+    {
+      "id": 5420,
+      "question": "The Indian Constitution has adopted Parliamentary System of Constitution from which among the following countries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "USA"
+        },
+        {
+          "label": "B",
+          "text": "UK"
+        },
+        {
+          "label": "C",
+          "text": "Japan"
+        },
+        {
+          "label": "D",
+          "text": "France"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "UK"
+      },
+      "explanation": "Indian Constitution has adopted Parliamentary System of Constitution from UK."
+    },
+    {
+      "id": 7069,
+      "question": "Which of the following statements is correct regarding parliamentary system in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Executive is responsible to the Legislature"
+        },
+        {
+          "label": "B",
+          "text": "Legislature is responsible to the Executive"
+        },
+        {
+          "label": "C",
+          "text": "Executive is responsible to the people"
+        },
+        {
+          "label": "D",
+          "text": "Executive is responsible to the judicary"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Executive is responsible to the Legislature"
+      },
+      "explanation": "The Constitution of India states that the in a parliamentary system, the Executive branch of the State (Council of Ministers) shall be collectively responsible to the Legislature (House of the People)."
+    },
+    {
+      "id": 9265,
+      "question": "Executive is responsible to which among the following in parliamentary system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Directly to the people"
+        },
+        {
+          "label": "B",
+          "text": "To the legislature"
+        },
+        {
+          "label": "C",
+          "text": "To the Judiciary"
+        },
+        {
+          "label": "D",
+          "text": "To cabinet"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "To the legislature"
+      },
+      "explanation": "A parliamentary system or parliamentary democracy is a system of democratic governance of a state where the executive is responsible to the legislature."
+    },
+    {
+      "id": 10391,
+      "question": "Which among the following is an essential feature of a Unitary Government ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Written Constitution"
+        },
+        {
+          "label": "B",
+          "text": "Independence of Judiciary"
+        },
+        {
+          "label": "C",
+          "text": "Double Citizenship"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "None of the above"
+      },
+      "explanation": "Written Constitution, Independence of Judiciary, Double Citizenship, Dual Polity, Division of Powers, Supremacy of the Constitution are all federal features."
+    }
+  ]
+}

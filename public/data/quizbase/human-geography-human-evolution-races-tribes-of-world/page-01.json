@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "human-geography-human-evolution-races-tribes-of-world",
+    "title": "Human Geography - Human Evolution, Races, Tribes of World",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:14:27"
+  },
+  "questions": [
+    {
+      "id": 7509,
+      "question": "Karen people are ethnic groups found in which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Myanmar and Thailand"
+        },
+        {
+          "label": "B",
+          "text": "Africa"
+        },
+        {
+          "label": "C",
+          "text": "India"
+        },
+        {
+          "label": "D",
+          "text": "China"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Myanmar and Thailand"
+      },
+      "explanation": "The Karen are an ethnolinguistic group. They are of Sino-Tibetan language-speaking ethnic groups. They are found in Myanmar and Thailand."
+    },
+    {
+      "id": 8418,
+      "question": "Bushmen are the native people from which of the following continents?",
+      "options": [
+        {
+          "label": "A",
+          "text": "North America"
+        },
+        {
+          "label": "B",
+          "text": "South America"
+        },
+        {
+          "label": "C",
+          "text": "Africa"
+        },
+        {
+          "label": "D",
+          "text": "Asia"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Africa"
+      },
+      "explanation": "The Bushmen, also known as the San people, are indigenous hunter-gatherers of southern Africa. They are traditionally located in the Kalahari Desert and neighboring arid regions of Botswana, Namibia, Angola, Zambia, Zimbabwe, Lesotho, and South Africa. So the Bushmen originate from the continent of Africa."
+    },
+    {
+      "id": 11461,
+      "question": "“Konso Cultural Landscape” is a part of which among the following African Countries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kenya"
+        },
+        {
+          "label": "B",
+          "text": "Tanzania"
+        },
+        {
+          "label": "C",
+          "text": "Ethiopia"
+        },
+        {
+          "label": "D",
+          "text": "South Africa"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Ethiopia"
+      },
+      "explanation": "Konso Cultural Landscape is part of Ethiopia. It is part of the UNESCO world heritage sites. It is an arid property of stone walled terraces and fortified settlements in the Konso highlands of Ethiopia."
+    },
+    {
+      "id": 31404,
+      "question": "Maasai is a tribe of which of the following country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kenya"
+        },
+        {
+          "label": "B",
+          "text": "Germany"
+        },
+        {
+          "label": "C",
+          "text": "Australia"
+        },
+        {
+          "label": "D",
+          "text": "India"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Kenya"
+      },
+      "explanation": "The Maasai are a Nilotic ethnic group inhabiting northern, central and southern Kenya and northern Tanzania. They are among the best known local populations internationally due to their residence near the many game parks of the African Great Lakes, and their distinctive customs and dress."
+    },
+    {
+      "id": 54924,
+      "question": "The habitation of the \"Cross River Gorillas\" in the world are restricted to only which two nations?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cameroon and Nigeria"
+        },
+        {
+          "label": "B",
+          "text": "Argentina and Chile"
+        },
+        {
+          "label": "C",
+          "text": "Cambodia and Laos"
+        },
+        {
+          "label": "D",
+          "text": "Egypt and Somalia."
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Cameroon and Nigeria"
+      },
+      "explanation": "Cross River Gorilla is a subspecies of Western Gorilla. Its habitation is restricted to only lowland montane forests and rainforests region of Cameroon and Nigeria border, most particularly at the banks of Cross River of Nigeria. Its conservation status is classified as \"Critically Endangered\" as per the IUCN Red List of Threatened Species."
+    }
+  ]
+}

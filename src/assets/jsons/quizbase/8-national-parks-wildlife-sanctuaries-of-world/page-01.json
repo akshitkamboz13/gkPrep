@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "8-national-parks-wildlife-sanctuaries-of-world",
+    "title": "8. National Parks, Wildlife Sanctuaries of World",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:55:16"
+  },
+  "questions": [
+    {
+      "id": 3359,
+      "question": "The Lawachara National Park (LNP) is located in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sri Lanka"
+        },
+        {
+          "label": "B",
+          "text": "Bangladesh"
+        },
+        {
+          "label": "C",
+          "text": "Nepal"
+        },
+        {
+          "label": "D",
+          "text": "Bhutan"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Bangladesh"
+      },
+      "explanation": "Lawachara National Park (LNP) is located at Kamalganj Upazila, Maulvi Bazar District of Bangladesh and covers an area of 12.5 km2. It is a major national park and nature reserve in Bangladesh. There are 460 species, of which 167 species are plants, 4 amphibian species, 6 reptile species, 246 bird species, 20 mammal species, and 17 insect species. The park is considered of critical importance because the last viable population of critically endangered Western Hoolock Gibbons survive here."
+    },
+    {
+      "id": 5848,
+      "question": "The “Hkakabo Razi” which is famous for Hkakabo Razi National Park, is a border tripoint between which among the following countries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India-Nepal-China"
+        },
+        {
+          "label": "B",
+          "text": "India-Bhutan-China"
+        },
+        {
+          "label": "C",
+          "text": "India-Bangladesh-Myanmar"
+        },
+        {
+          "label": "D",
+          "text": "India-China-Myanmar"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "India-China-Myanmar"
+      },
+      "explanation": "Hkakabo Razi (5881 meters) is located in the northern Myanmar near the border tripoint with India and China. It is enclosed with Khakaborazi National Park. It is rich in flora and fauna ranging from tropical to alpine species."
+    },
+    {
+      "id": 6914,
+      "question": "Royal Manas national park is located in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nepal"
+        },
+        {
+          "label": "B",
+          "text": "Bhutan"
+        },
+        {
+          "label": "C",
+          "text": "Bangladesh"
+        },
+        {
+          "label": "D",
+          "text": "India"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Bhutan"
+      },
+      "explanation": "Royal Manas National Park is the oldest National Park of Bhutan. It is close to India's Manas National Park in Assam."
+    },
+    {
+      "id": 62084,
+      "question": "The National Heritage List is a heritage register of which of the following country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Russia"
+        },
+        {
+          "label": "B",
+          "text": "China"
+        },
+        {
+          "label": "C",
+          "text": "Australia"
+        },
+        {
+          "label": "D",
+          "text": "European Union"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Australia"
+      },
+      "explanation": "The National Heritage List is a heritage register of Australia. It is a list of national heritage places that are of outstanding heritage significance to Australia. It was established in the year 2003."
+    },
+    {
+      "id": 62086,
+      "question": "Birdlife International is headquartered at which of the following places?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Geneva"
+        },
+        {
+          "label": "B",
+          "text": "Paris"
+        },
+        {
+          "label": "C",
+          "text": "London"
+        },
+        {
+          "label": "D",
+          "text": "Cambridge"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Cambridge"
+      },
+      "explanation": "BirdLife International was founded in 1922 as the International Council for Bird Preservation by American ornithologists T. Gilbert Pearson and Jean Theodore Delacour. Initially it was founded under the name International Committee for Bird Protection. It is headquartered at Cambridge, United Kingdom."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: February 10, 2026",
+    "date": "2026-02-10",
+    "year": "2026",
+    "month": "02-february",
+    "day": 10,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 05:24:29",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:54:30"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is ‘Lyriothemis keralensis’ that was recently seen in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A new species of dragonfly"
+        },
+        {
+          "label": "B",
+          "text": "Invasive weed"
+        },
+        {
+          "label": "C",
+          "text": "A new species of Fish"
+        },
+        {
+          "label": "D",
+          "text": "Traditional medicine"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "A new species of dragonfly"
+      },
+      "explanation": "Researchers confirmed a new dragonfly species named Lyriothemis keralensis from the low-lying coastal regions of Kerala. It is commonly called the Slender Bombardier and belongs to the genus Lyriothemis. It was identified as a separate species after detailed comparison with its Northeast Indian relative Lyriothemis acigastra. The species has a slender abdomen, uniquely shaped tail, and distinct genital structures. It appears during the monsoon season and disappears as rainfall decreases."
+    },
+    {
+      "id": 2,
+      "question": "The Copernicus Sentinel-2 mission is an Earth observation satellite mission developed by which space agency?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indian Space Research Organisation (ISRO)"
+        },
+        {
+          "label": "B",
+          "text": "European Space Agency (ESA)"
+        },
+        {
+          "label": "C",
+          "text": "Japan Aerospace Exploration Agency (JAXA)"
+        },
+        {
+          "label": "D",
+          "text": "China National Space Administration (CNSA)"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "European Space Agency (ESA)"
+      },
+      "explanation": "The European Space Agency (ESA) released a high-resolution satellite image through the Copernicus Sentinel-2 mission. The image captures the venues planned for the 2026 Winter Olympic Games. The image highlights land features, terrain, and human-made infrastructure in great detail. The Copernicus Sentinel-2 mission is an Earth observation satellite mission developed by the European Space Agency (ESA). It is part of Copernicus, the European Union’s Earth observation programme. The mission focuses on monitoring changes and variability in land surface conditions."
+    },
+    {
+      "id": 3,
+      "question": "Indian National Centre for Ocean Information Services (INCOIS) was established under which ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Science and Technology"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Earth Sciences"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Electronics and Information Technology"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Environment, Forest and Climate Change"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ministry of Earth Sciences"
+      },
+      "explanation": "The Indian National Centre for Ocean Information Services (INCOIS) will launch three new ocean services: Jellyfish Artificial Intelligence Information Platform (JellyAIIP), SAMUDRA 2.0 Mobile Application, and Seamless Information Visualization and Analysis System (SIVAS) along with a new logo. It was established as an autonomous body under the Ministry of Earth Sciences (MoES) and is located in Hyderabad, Telangana. It provides ocean information and advisory services through continuous ocean observations and focused research. It runs the Indian Tsunami Early Warning Centre (ITEWC), issuing tsunami alerts within 10 minutes for India and 28 Indian Ocean countries."
+    },
+    {
+      "id": 4,
+      "question": "Thwaites Glacier, that was recently seen in news, is located in which region?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Antarctica"
+        },
+        {
+          "label": "B",
+          "text": "Himalayas"
+        },
+        {
+          "label": "C",
+          "text": "Nigeria"
+        },
+        {
+          "label": "D",
+          "text": "Greece"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Antarctica"
+      },
+      "explanation": "Scientists warned that the Thwaites Glacier is melting rapidly due to human-induced climate change. It is a massive glacier in West Antarctica, often called the Doomsday Glacier. The glacier is very wide and fast-flowing, roughly the size of Florida or Great Britain. It is extremely important because it already contributes about 4% to global annual sea-level rise. Studies show it is thinning, retreating, and adding more meltwater to the oceans. If it collapses, it could destabilise the West Antarctic Ice Sheet, causing severe sea-level rise."
+    },
+    {
+      "id": 5,
+      "question": "What is the name of the fellowship programme launched to strengthen India–Netherlands cooperation in hydrogen technologies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indo-Dutch Green Energy Mission"
+        },
+        {
+          "label": "B",
+          "text": "National Hydrogen Research Fellowship"
+        },
+        {
+          "label": "C",
+          "text": "Global Hydrogen Academic Exchange Scheme"
+        },
+        {
+          "label": "D",
+          "text": "India–Netherlands Hydrogen Fellowship Programme"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "India–Netherlands Hydrogen Fellowship Programme"
+      },
+      "explanation": "The Department of Science and Technology (DST) strengthened India–Netherlands cooperation by launching the India–Netherlands Hydrogen Fellowship Programme and enabling an academic partnership in green energy. The fellowship is a national capacity-building initiative open to Indian doctoral, postdoctoral, and faculty researchers. It focuses on hydrogen system integration, safety, techno-economic analysis, life-cycle assessment, and indigenisation. DST also hosted the signing of a Memorandum of Understanding (MoU) between the University of Groningen and 19 Indian Institutes of Technology (IITs)."
+    }
+  ]
+}

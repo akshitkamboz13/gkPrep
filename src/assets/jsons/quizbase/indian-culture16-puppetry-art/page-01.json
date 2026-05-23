@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-culture16-puppetry-art",
+    "title": "Indian Culture:16-Puppetry Art",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:16:27"
+  },
+  "questions": [
+    {
+      "id": 25544,
+      "question": "Kundhei puppetry art belongs to which of the following states?",
+      "options": [
+        {
+          "label": "A",
+          "text": "West Bengal"
+        },
+        {
+          "label": "B",
+          "text": "Odisha"
+        },
+        {
+          "label": "C",
+          "text": "Karnataka"
+        },
+        {
+          "label": "D",
+          "text": "Kerala"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Odisha"
+      },
+      "explanation": "The string puppets of Odisha are known as Kundhei. Made of light wood, the Orissa puppets have no legs but wear long flowing skirts."
+    },
+    {
+      "id": 25545,
+      "question": "The Putul Nautch puppetry art belongs to which state of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "West Bengal"
+        },
+        {
+          "label": "B",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "C",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Punjab"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "West Bengal"
+      },
+      "explanation": "The traditional rod puppet form of West Bengal is known as Putul Nautch. They are carved from wood and follow the various artistic styles of a particular region"
+    },
+    {
+      "id": 94676,
+      "question": "The earliest evidence of puppetry has been found from which ancient site?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Harappan civilisation"
+        },
+        {
+          "label": "B",
+          "text": "Bhimbetaka Caves"
+        },
+        {
+          "label": "C",
+          "text": "Nalanda Ruins"
+        },
+        {
+          "label": "D",
+          "text": "Mangar Bani"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Harappan civilisation"
+      },
+      "explanation": "Harappan civilization has produced puppets with sockets attached to them, which suggests the existence of puppetry as an art form even in those days. Other references marionette theatre found in about 500 BC."
+    },
+    {
+      "id": 94677,
+      "question": "From which ancient source the written reference to puppets were found?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Malavikagnimitra"
+        },
+        {
+          "label": "B",
+          "text": "Vikramorvashi"
+        },
+        {
+          "label": "C",
+          "text": "Silappadikaram"
+        },
+        {
+          "label": "D",
+          "text": "Ratnavali"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Silappadikaram"
+      },
+      "explanation": "A written reference to puppetry has also been found in the Tamil classic Silappadikaram and the Mahabharata, written in the 1st and 2nd centuries BCE. Traditional puppet plays in India apply stories of heroes and heroines, gods and goddesses taken from ancient literary texts such as the Ramayana and the Mahabharata epics and myths (literally \"ancient times\", meaning stories of various deities) in addition to local myths."
+    },
+    {
+      "id": 94678,
+      "question": "Pavakoothu puppet show is associated with which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kerela"
+        },
+        {
+          "label": "B",
+          "text": "Bengal"
+        },
+        {
+          "label": "C",
+          "text": "Odisha"
+        },
+        {
+          "label": "D",
+          "text": "Assam"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Kerela"
+      },
+      "explanation": "In Kerala, the traditional glove puppet game is called Pavakoothu. It came into existence in the 18th century on a puppet show under the influence of the famous classical dance-drama Kathakali in Kerala. The height of the puppet in the puppet varies from one foot to two feet. The puppets are adorned with colorful hats and feathers, And facial colors convey the enormous impact of the storytelling dance form. The plays revolve around the Ramayana and the storylines of Mahabharata."
+    }
+  ]
+}

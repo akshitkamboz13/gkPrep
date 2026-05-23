@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-48-rights-and-liabilities-of-the-gov",
+    "title": "Rights and Liabilities of the Government",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:22:57"
+  },
+  "questions": [
+    {
+      "id": 8306,
+      "question": "In whose name all the contracts of Government of India are concluded?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prime miniter of India"
+        },
+        {
+          "label": "B",
+          "text": "President of India"
+        },
+        {
+          "label": "C",
+          "text": "Finance Minister of India"
+        },
+        {
+          "label": "D",
+          "text": "Finance Secretary of India"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "President of India"
+      },
+      "explanation": "President of India is the head of the state and all government contracts are concluded in the name of President."
+    },
+    {
+      "id": 46298,
+      "question": "Which Article of the Constitution deals with the property, contracts, rights, liabilities, obligations and suits of the Union and the states?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Articles 264 to 84"
+        },
+        {
+          "label": "B",
+          "text": "Articles 294 to 300"
+        },
+        {
+          "label": "C",
+          "text": "Articles 314 to 335"
+        },
+        {
+          "label": "D",
+          "text": "Articles 360 to 375"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Articles 294 to 300"
+      },
+      "explanation": "The Articles 294 to 300 in Part XII of the Constitution of India deals with the property, contracts, rights, liabilities, obligations and suits of the Union and the states in India."
+    },
+    {
+      "id": 46299,
+      "question": "In which of the following cases the property accrues to the government as there is no rightful owner?1. Escheat2. Lapse3. Bona vacantiaSelect the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1"
+        },
+        {
+          "label": "B",
+          "text": "Only 2"
+        },
+        {
+          "label": "C",
+          "text": "Only 3"
+        },
+        {
+          "label": "D",
+          "text": "1, 2 & 3"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1, 2 & 3"
+      },
+      "explanation": "In three cases, the property accrues to the government as there is no rightful owner (claimant). These include: by escheat (death of a person inte-state without any heir), lapse (termination of rights through disuse or failure to follow appropriate procedures) or bona vacantia (property found without any owner)."
+    },
+    {
+      "id": 46303,
+      "question": "Which article of the Constitution of India deals with the suits by or against the Government in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Article 250"
+        },
+        {
+          "label": "B",
+          "text": "Article 270"
+        },
+        {
+          "label": "C",
+          "text": "Article 300"
+        },
+        {
+          "label": "D",
+          "text": "Article 310"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Article 300"
+      },
+      "explanation": "The Article 300 of the Constitution of India deals with the suits by or against the Government in India. The article states that the Government ofIndia may sue or be sued by the name of the Union of India and government of a state may sue or be sued by the name of that state."
+    },
+    {
+      "id": 46306,
+      "question": "In which of the following cases the distinction between the sovereign and non-sovereign functions of the Government in India and the immunity of the government in respect of its sovereign functions was established?",
+      "options": [
+        {
+          "label": "A",
+          "text": "S.R. Bommai case"
+        },
+        {
+          "label": "B",
+          "text": "P and O Steam Navigation Company case"
+        },
+        {
+          "label": "C",
+          "text": "Keshvananda Bharti case"
+        },
+        {
+          "label": "D",
+          "text": "Minerva Mills Case"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "P and O Steam Navigation Company case"
+      },
+      "explanation": "In the famous P and O Steam Navigation Company case of 1861 the distinction between the sovereign and non-sovereign functions of the Government of India and the immunity of the government in respect of its sovereign functions was established."
+    }
+  ]
+}

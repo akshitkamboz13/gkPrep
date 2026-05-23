@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "4-database-management",
+    "title": "4. Database Management",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:54:01"
+  },
+  "questions": [
+    {
+      "id": 4650,
+      "question": "What are the uses of Structured Query Language (SQL)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Creating Databases"
+        },
+        {
+          "label": "B",
+          "text": "Creating & Modifying Databases"
+        },
+        {
+          "label": "C",
+          "text": "Creating, Modifying & Querying Databases"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Creating, Modifying & Querying Databases"
+      },
+      "explanation": "Structured Query Language (SQL) is a standard computer language designed for managing data held in a Relational Database Management System (RDBMS). It is used not only for creating and modifying databases but also for querying them. In essence, SQL allows you to interact with databases in all the ways that you might need, making it an essential tool for managing complex data structures."
+    },
+    {
+      "id": 4670,
+      "question": "Which among the following are not Objects in Access Database?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Table"
+        },
+        {
+          "label": "B",
+          "text": "Form"
+        },
+        {
+          "label": "C",
+          "text": "Query"
+        },
+        {
+          "label": "D",
+          "text": "Pivot table"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Pivot table"
+      },
+      "explanation": "Databases in Access are composed of four objects: tables, queries, forms, and reports. Microsoft Access Pivot Table Database allowed to select one row heading, one column heading, and one filter field. It has been removed in Access 2016."
+    },
+    {
+      "id": 27780,
+      "question": "Which of the following is used as an application programming interface with RDBMS?",
+      "options": [
+        {
+          "label": "A",
+          "text": "VB"
+        },
+        {
+          "label": "B",
+          "text": "COBOL"
+        },
+        {
+          "label": "C",
+          "text": "SQL"
+        },
+        {
+          "label": "D",
+          "text": "All of the Above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "SQL"
+      },
+      "explanation": "With relational DBMSs known as RDBMSs, the Application programming interface is SQL.SQL a standard programming language for defining, protecting and accessing data in a RDBMS."
+    },
+    {
+      "id": 27781,
+      "question": "What is the full form of IMDBMS?",
+      "options": [
+        {
+          "label": "A",
+          "text": "In-Memory database management system"
+        },
+        {
+          "label": "B",
+          "text": "In-Module database management system"
+        },
+        {
+          "label": "C",
+          "text": "Indian Memory database management system"
+        },
+        {
+          "label": "D",
+          "text": "None of the Above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "In-Memory database management system"
+      },
+      "explanation": "IMDBMS stands for In-memory database management system. It provides faster response times and better performance. It is a database management system that predominantly relies on main memory for data storage, management and manipulation."
+    },
+    {
+      "id": 27782,
+      "question": "Which of the following DBMS is well-suited for data warehouses that have a large number of similar data items?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Columnar database management system"
+        },
+        {
+          "label": "B",
+          "text": "In-memory database management system"
+        },
+        {
+          "label": "C",
+          "text": "RDBMS"
+        },
+        {
+          "label": "D",
+          "text": "NoSQL DBMS"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Columnar database management system"
+      },
+      "explanation": "CDBMS stands for Columnar database management system. It well-suited for data warehouses that have a large number of similar data items."
+    }
+  ]
+}

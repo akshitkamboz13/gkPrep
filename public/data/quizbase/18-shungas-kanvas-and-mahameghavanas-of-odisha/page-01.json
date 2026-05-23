@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "18-shungas-kanvas-and-mahameghavanas-of-odisha",
+    "title": "18. Shungas, Kanvas and Mahameghavanas",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:51:46"
+  },
+  "questions": [
+    {
+      "id": 327,
+      "question": "Hathigumpha inscription gives account of which of the following rulers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Asoka"
+        },
+        {
+          "label": "B",
+          "text": "Chandragupta Maurya"
+        },
+        {
+          "label": "C",
+          "text": "Kharvela"
+        },
+        {
+          "label": "D",
+          "text": "Samudragupya"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Kharvela"
+      },
+      "explanation": "The Hathigumpha Inscription at Udayagiri near Bhubaneswar in Odisha was got inscribed by King Kharvela of Kalinga in 2nd century BC."
+    },
+    {
+      "id": 1795,
+      "question": "Who presided Second Buddhist Council?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mahakassapa"
+        },
+        {
+          "label": "B",
+          "text": "Vasumitra"
+        },
+        {
+          "label": "C",
+          "text": "Moggliputra Tissa"
+        },
+        {
+          "label": "D",
+          "text": "Sabakami"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Sabakami"
+      },
+      "explanation": "The second Buddhist Council took place at Vaishali in 383 BC. It was presided by Sabakami under Kalasoka of Shisunga dynatsy to settle down dispute between two opposing groups of monks of Vaishali and Patliputra and monks of Kausambi and Avanti regarding the code of discipline."
+    },
+    {
+      "id": 1809,
+      "question": "Which among the following University was founded by Ramapala, the ruler of Pala dynasty?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Somapuri"
+        },
+        {
+          "label": "B",
+          "text": "Vallabhi"
+        },
+        {
+          "label": "C",
+          "text": "Jagadal"
+        },
+        {
+          "label": "D",
+          "text": "Odantpuri"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Jagadal"
+      },
+      "explanation": "Jagadal is situated in Bengal and was founded by Ramapala, the Pala ruler."
+    },
+    {
+      "id": 1814,
+      "question": "The last Mauryan ruler, who was killed by his Commander-in-Chief was __?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dasaratha"
+        },
+        {
+          "label": "B",
+          "text": "Kun-ala"
+        },
+        {
+          "label": "C",
+          "text": "Samprati"
+        },
+        {
+          "label": "D",
+          "text": "Brihadratha"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Brihadratha"
+      },
+      "explanation": "Maurya Emperor Brihadratha was killed by his senapati (Commander-in-Chief) Pushymitra Shunga . Pushymitra Shunga founded the Shunga Dynasty in around 185-183 BC."
+    },
+    {
+      "id": 2036,
+      "question": "Variyar, the Revenue term was used for which action?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tax Collector"
+        },
+        {
+          "label": "B",
+          "text": "Extra Demand"
+        },
+        {
+          "label": "C",
+          "text": "Land Tax"
+        },
+        {
+          "label": "D",
+          "text": "Custom Duty"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Tax Collector"
+      },
+      "explanation": "Term ‘Variyar’ was used for Tax Collector."
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-april-2023",
+    "title": "Current Affairs Quiz - April, 2023",
+    "page": 4,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:45:55",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:47:36"
+  },
+  "questions": [
+    {
+      "id": 31,
+      "question": "Which institution released guidelines for assessment of child suspects in heinous offences?",
+      "options": [
+        {
+          "label": "A",
+          "text": "UNICEF"
+        },
+        {
+          "label": "B",
+          "text": "NITI Aayog"
+        },
+        {
+          "label": "C",
+          "text": "NCPCR"
+        },
+        {
+          "label": "D",
+          "text": "NCW"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "NCPCR"
+      },
+      "explanation": "The National Commission for Protection of Child Rights (NCPCR) issued guidelines for the first time for conducting ‘preliminary assessment’ of child suspects. The guidelines will help to determine whether a child should be treated as a minor or not in criminal cases which come under the ‘heinous’ offences category of the Juvenile Justice (Care and Protection of Children) Act, 2015. Juvenile Justice Board is responsible for conducting preliminary assessment."
+    },
+    {
+      "id": 32,
+      "question": "‘Vegetable Production System (Veggie)’ is associated with which space agency?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ISRO"
+        },
+        {
+          "label": "B",
+          "text": "NASA"
+        },
+        {
+          "label": "C",
+          "text": "ESA"
+        },
+        {
+          "label": "D",
+          "text": "JAXA"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "NASA"
+      },
+      "explanation": "The Vegetable Production System (Veggie) is plant growth unit aboard the International Space Station. Tomatoes grown on this unit will return to Earth using SpaceX’s commercial resupply services. Veggie’s purpose is to help NASA study plant growth in microgravity, while adding fresh food to the astronauts’ diet and enhancing happiness and well-being on the orbiting laboratory."
+    },
+    {
+      "id": 33,
+      "question": "‘Metarhizium indicum’ which was seen in the news, belongs to which species?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bird"
+        },
+        {
+          "label": "B",
+          "text": "Fish"
+        },
+        {
+          "label": "C",
+          "text": "Fungus"
+        },
+        {
+          "label": "D",
+          "text": "Bacterium"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Fungus"
+      },
+      "explanation": "A team of scientists led by the Indian Institute of Spices Research (IISR), Kozhikode, have discovered a new species of insect pathogenic fungus. The fungus, isolated from leafhopper pest of Malabar tamarind, has been named Metarhizium indicum to indicate its Indian origin. It is said to have a potential biocontrol application."
+    },
+    {
+      "id": 34,
+      "question": "Which Indian state/UT announced ‘Dr. B R Ambedkar Award’ for recognising people involved in the welfare of Dalits?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "B",
+          "text": "Telangana"
+        },
+        {
+          "label": "C",
+          "text": "Madhya Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "West Bengal"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Telangana"
+      },
+      "explanation": "The Telangana Government recently announced an award in the name of Babasaheb Dr. B R Ambedkar. The government will form Rs.51 crore corpus for this award and every year. Rs.3 crore worth of award will be given to anyone involved in the welfare of Dalits."
+    },
+    {
+      "id": 35,
+      "question": "Who was recently crowned as ‘Miss India 2023’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nandini Gupta"
+        },
+        {
+          "label": "B",
+          "text": "Megan Edward"
+        },
+        {
+          "label": "C",
+          "text": "Shreya Poonja"
+        },
+        {
+          "label": "D",
+          "text": "Strela Luwang"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Nandini Gupta"
+      },
+      "explanation": "Nandini Gupta, a 19-year-old girl from Rajasthan, was recently crowned Miss India 2023 at the Grand Finale event held in Imphal, Manipur. This year’s event is the 59th edition of the Femina Miss India beauty pageant. Contestants from 29 states, including Delhi and all UTs competed for the title. This is the first time that the event is held in North-eastern region in Imphal."
+    },
+    {
+      "id": 36,
+      "question": "The PTP-NER Scheme has been launched by which Ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Home Affairs"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Finance"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Tribal Affairs"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Commerce"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Ministry of Tribal Affairs"
+      },
+      "explanation": "The Union Ministry of Tribal Affairs has launched a new Central Sector Scheme “Marketing and Logistics Development for Promotion of Tribal Products from North -Eastern Region (PTP-NER)”. The scheme with a substantial outlay of Rs.143 crore is intended to benefit Scheduled Tribes of North-eastern India. programme has been designed to strengthen the opportunities for tribal craftsmen to support their livelihoods."
+    },
+    {
+      "id": 37,
+      "question": "Kisan Sampark Abhiyan Programme is associated with which state / UT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bihar"
+        },
+        {
+          "label": "B",
+          "text": "Odisha"
+        },
+        {
+          "label": "C",
+          "text": "Jammu and Kashmir"
+        },
+        {
+          "label": "D",
+          "text": "Ladakh"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Jammu and Kashmir"
+      },
+      "explanation": "The Agriculture Production Department of Jammu and Kashmir will launch the Kisan Sampark Abhiyan programme, which seeks to ensure the overall welfare of farmers across the Union Territory. The scheme will cover 3565 panchayats in J&K. To ensure that the programme is successful, nearly 2400 resource persons have been identified and trained for all districts."
+    },
+    {
+      "id": 38,
+      "question": "Where is the India Steel 2023 Conference held?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chennai"
+        },
+        {
+          "label": "B",
+          "text": "New Delhi"
+        },
+        {
+          "label": "C",
+          "text": "Mumbai"
+        },
+        {
+          "label": "D",
+          "text": "Jamshedpur"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Mumbai"
+      },
+      "explanation": "The India Steel 2023 is a conference and International Exhibition on the steel industry, held at Mumbai from April 19 to 21. The conference is jointly organized by the Union Ministry of Steel, Commerce Department and the FICCI. The event provides an integrated platform for discussing prospects of the steel industry, facilitate the growth and connect new technologies & innovative products."
+    },
+    {
+      "id": 39,
+      "question": "In which year, the indirect discrimination was recognized in the equality jurisprudence by the Supreme Court?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1992"
+        },
+        {
+          "label": "B",
+          "text": "2002"
+        },
+        {
+          "label": "C",
+          "text": "2010"
+        },
+        {
+          "label": "D",
+          "text": "2018"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "2018"
+      },
+      "explanation": "In 2018, Chief Justice of India D Y Chandrachud read down the law that criminalized homosexuality, citing the idea of indirect discrimination where seemingly neutral laws could disproportionately disadvantage a group. This marked the first time that indirect discrimination was recognized in the equality jurisprudence by the Supreme Court."
+    },
+    {
+      "id": 40,
+      "question": "Which institution launched the ‘Coalition of Coastal Cities to Combat Marine Litter’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NITI Aayog"
+        },
+        {
+          "label": "B",
+          "text": "Centre for Science and Environment"
+        },
+        {
+          "label": "C",
+          "text": "UNESCO"
+        },
+        {
+          "label": "D",
+          "text": "UNICEF"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Centre for Science and Environment"
+      },
+      "explanation": "The Coalition of Coastal Cities to Combat Marine Litter was launched recently by Delhi-based non-profit Centre for Science and Environment (CSE). It is a coalition of coastal cities that will combat marine litter pollution across India. Of the 460 million tonnes (MT) of global plastic production, nearly 353 MT comes back as plastic waste; 8 MT (2.26 per cent) of which is leaked into the marine ecosystem."
+    }
+  ]
+}

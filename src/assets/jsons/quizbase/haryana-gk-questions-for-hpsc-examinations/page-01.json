@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "haryana-gk-questions-for-hpsc-examinations",
+    "title": "States PCS: Haryana GK Questions for HPSC Examinations",
+    "page": 1,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 05:51:09",
+    "total_questions": 4,
+    "scraped_at": "2026-05-02 12:15:03"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who was the British officer responsible for suppressing the 1857 revolt in Ambala?",
+      "options": [
+        {
+          "label": "A",
+          "text": "John Nicholson"
+        },
+        {
+          "label": "B",
+          "text": "James Neill"
+        },
+        {
+          "label": "C",
+          "text": "Henry Lawrence"
+        },
+        {
+          "label": "D",
+          "text": "George Anson"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "George Anson"
+      },
+      "explanation": "The British officer primarily responsible for suppressing the 1857 revolt in Ambala was General Anson, though he died of cholera before the revolt fully erupted. His timely warnings to Sir John Lawrence, the Chief Commissioner of Punjab, regarding the brewing unrest in Ambala Cantonment were crucial. While Anson died before the revolt escalated, his earlier actions and the subsequent deployment of European regiments helped to quickly check the uprising."
+    },
+    {
+      "id": 2,
+      "question": "Which artificial lake in Haryana, located in Morni Hills, Panchkula, is a major tourist and ecological attraction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tikkar Tal"
+        },
+        {
+          "label": "B",
+          "text": "Brahma Sarovar"
+        },
+        {
+          "label": "C",
+          "text": "Badkhal Lake"
+        },
+        {
+          "label": "D",
+          "text": "Karna Lake"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Tikkar Tal"
+      },
+      "explanation": "Tikkar Tal is an artificial reservoir in Morni Hills, Panchkula, Haryana, known for its scenic beauty and ecological importance."
+    },
+    {
+      "id": 3,
+      "question": "Which of the following best describes the predominant climate type of Haryana?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Humid subtropical"
+        },
+        {
+          "label": "B",
+          "text": "Tropical wet and dry"
+        },
+        {
+          "label": "C",
+          "text": "Semiarid"
+        },
+        {
+          "label": "D",
+          "text": "Coastal monsoon"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Semiarid"
+      },
+      "explanation": "Haryana mainly has a semiarid climate with hot summers, scanty rainfall, and mild winters."
+    },
+    {
+      "id": 4,
+      "question": "Which district of Haryana is situated at the junction of the Shivalik Hills and the Indo-Gangetic Plain?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ambala"
+        },
+        {
+          "label": "B",
+          "text": "Yamunanagar"
+        },
+        {
+          "label": "C",
+          "text": "Kurukshetra"
+        },
+        {
+          "label": "D",
+          "text": "Panchkula"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Yamunanagar"
+      },
+      "explanation": "Yamunanagar lies where the Shivalik foothills meet the Indo-Gangetic Plain, resulting in a diverse topography of plains and hills."
+    }
+  ]
+}

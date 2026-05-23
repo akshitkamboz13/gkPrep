@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "jammu-kashmir-gk-questions-for-jkpsc-exams",
+    "title": "States PCS: Jammu & Kashmir GK Questions for JKPSC Exams",
+    "page": 2,
+    "total_pages": 2,
+    "generated_at": "2026-05-02 05:57:01",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:23:11"
+  },
+  "questions": [
+    {
+      "id": 11,
+      "question": "Which mountain range separates the Kashmir Valley from the Tibetan Plateau?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zanskar Range"
+        },
+        {
+          "label": "B",
+          "text": "Pir Panjal Range"
+        },
+        {
+          "label": "C",
+          "text": "Shivalik Range"
+        },
+        {
+          "label": "D",
+          "text": "Ladakh Range"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Zanskar Range"
+      },
+      "explanation": "The Zanskar Range separates the Kashmir Valley from the Tibetan Plateau and has rugged terrain in Jammu & Kashmir."
+    },
+    {
+      "id": 12,
+      "question": "Which major river originates from the Verinag spring in Jammu and Kashmir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tawi"
+        },
+        {
+          "label": "B",
+          "text": "Chenab"
+        },
+        {
+          "label": "C",
+          "text": "Jhelum"
+        },
+        {
+          "label": "D",
+          "text": "Ravi"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Jhelum"
+      },
+      "explanation": "The Jhelum River starts from Verinag spring at the base of Pir Panjal range in Jammu & Kashmir."
+    },
+    {
+      "id": 13,
+      "question": "Which national park in Jammu & Kashmir is famous for being the last habitat of the Hangul (Kashmir stag)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Salim Ali National Park"
+        },
+        {
+          "label": "B",
+          "text": "Kishtwar National Park"
+        },
+        {
+          "label": "C",
+          "text": "Hemis National Park"
+        },
+        {
+          "label": "D",
+          "text": "Dachigam National Park"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Dachigam National Park"
+      },
+      "explanation": "Dachigam National Park near Srinagar is the primary habitat of the critically endangered Hangul (Kashmir stag)."
+    },
+    {
+      "id": 14,
+      "question": "Which tree species, native to Jammu & Kashmir, is renowned for its vibrant autumn foliage and valuable timber?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Deodar"
+        },
+        {
+          "label": "B",
+          "text": "Kail"
+        },
+        {
+          "label": "C",
+          "text": "Chinar"
+        },
+        {
+          "label": "D",
+          "text": "Willow"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Chinar"
+      },
+      "explanation": "Chinar (Platanus orientalis) is native to Jammu & Kashmir, famed for its striking autumn colors and valued wood; locally called Booune."
+    },
+    {
+      "id": 15,
+      "question": "Which annual weather phenomenon is primarily responsible for most of the winter snowfall in Jammu & Kashmir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bay of Bengal Depression"
+        },
+        {
+          "label": "B",
+          "text": "Southwest Monsoon"
+        },
+        {
+          "label": "C",
+          "text": "Western Disturbance"
+        },
+        {
+          "label": "D",
+          "text": "Kalbaisakhi"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Western Disturbance"
+      },
+      "explanation": "Western Disturbances are Mediterranean-origin cyclonic systems causing major winter snowfall in Jammu & Kashmir."
+    }
+  ]
+}

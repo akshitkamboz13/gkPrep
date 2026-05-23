@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "cement-industry-mcqs-for-ssc-examination",
+    "title": "14. Cement Industry",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:00:48"
+  },
+  "questions": [
+    {
+      "id": 57721,
+      "question": "What is India's per capita cement consumption?",
+      "options": [
+        {
+          "label": "A",
+          "text": "195 kg"
+        },
+        {
+          "label": "B",
+          "text": "290-340 kg"
+        },
+        {
+          "label": "C",
+          "text": "470-520 kg"
+        },
+        {
+          "label": "D",
+          "text": "1,320-1,370 kg"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "290-340 kg"
+      },
+      "explanation": "India's per capita cement consumption is 290-340 kg. The global average is 470-520 kg. China's per capita cement consumption is 1,320-1,370 kg. India remains the world's second-largest cement consumer by total volume. The country's cement sector is expanding annually due to infrastructure and real estate growth. Data reflects figures as of 2023-2024."
+    },
+    {
+      "id": 57722,
+      "question": "Which state is set to become India's largest cement producer by 2029?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Madhya Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Rajasthan"
+      },
+      "explanation": "Rajasthan is projected to become India's largest cement producing state by 2029 due to new plants. Jaisalmer, Chittorgarh, and Nagaur districts contain extensive limestone reserves essential for cement. Major companies such as UltraTech, ACC, and Ambuja operate in Rajasthan. The state’s cement capacity expansion is expected to surpass Andhra Pradesh. Rajasthan’s cement production growth is supported by ongoing industrial investments."
+    },
+    {
+      "id": 57723,
+      "question": "Which is the largest cement consuming state in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Gujarat"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Maharashtra"
+      },
+      "explanation": "Maharashtra is the largest cement consuming state in India. Urbanization and infrastructure projects like the Mumbai-Ahmedabad Bullet Train corridor drive high cement demand in Maharashtra. The state is a major market for the Indian cement industry. India’s total cement production touched 453 million tonnes in FY2025 with Maharashtra accounting for a significant share of consumption due to large-scale construction and real estate development."
+    },
+    {
+      "id": 57724,
+      "question": "Which is the largest cement producer in India by production capacity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shree Cement Ltd."
+        },
+        {
+          "label": "B",
+          "text": "ACC Cement Ltd."
+        },
+        {
+          "label": "C",
+          "text": "Ambuja Cements Ltd."
+        },
+        {
+          "label": "D",
+          "text": "UltraTech Cement Ltd."
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "UltraTech Cement Ltd."
+      },
+      "explanation": "UltraTech Cement Ltd. is India's largest cement manufacturer with a domestic capacity of approximately 188.8 Million Tonnes Per Annum as of 2024. It operates 34 integrated manufacturing units and 34 grinding units. UltraTech acquired India Cements in December 2024 and Kesoram Industries' cement business in February 2025. The company’s capacity expansion target is 200 Million Tonnes Per Annum by 2027."
+    },
+    {
+      "id": 57725,
+      "question": "How many cement clusters are there in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3"
+        },
+        {
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "label": "C",
+          "text": "7"
+        },
+        {
+          "label": "D",
+          "text": "9"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "7"
+      },
+      "explanation": "There are 7 cement clusters in India. They produce cement and are the leading cement producing areas in the country. They are as follows: Satna (Madhya Pradesh), Chandrapur (North Andhra Pradesh and Maharashtra), Gulbarga (North Karnataka and East AP), Chanderia (South Rajasthan + Jawad & Neemuch in MP), Bilaspur (Chattisgarh), Yerraguntla (South AP), Nalgonda (Central AP). They together account for close to 49% of the total installed capacity of India."
+    }
+  ]
+}

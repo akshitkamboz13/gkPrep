@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-55-important-laws-on-education",
+    "title": "Important Laws on Education",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:23:30"
+  },
+  "questions": [
+    {
+      "id": 8432,
+      "question": "What fraction of seats in the private schools are reserved for weaker sections of the society under the Right to Education Act?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10%"
+        },
+        {
+          "label": "B",
+          "text": "25%"
+        },
+        {
+          "label": "C",
+          "text": "30%"
+        },
+        {
+          "label": "D",
+          "text": "40%"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "25%"
+      },
+      "explanation": "Right of Children to Free and Compulsory Education Bill, 2008 which was passed by the parliament seeks to reserve 25% of seats in the private schools for weaker sections of the society."
+    },
+    {
+      "id": 12132,
+      "question": "Right to Education Act, 2009 mandates 25 pc free seats to the poor in which among the following schools of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Government Schools only"
+        },
+        {
+          "label": "B",
+          "text": "Government Schools and Government Aided Private Schools only"
+        },
+        {
+          "label": "C",
+          "text": "Government Schools, Government aided Private Schools and Private unaided schools"
+        },
+        {
+          "label": "D",
+          "text": "Private Schools only"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Government Schools, Government aided Private Schools and Private unaided schools"
+      },
+      "explanation": "Right to Education Act, 2009 mandates 25 pc free seats to the poor in Government Schools, Government aided Private Schools and Private unaided schools."
+    },
+    {
+      "id": 46703,
+      "question": "The Indian Institute of Management Act was enacted in which year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2016"
+        },
+        {
+          "label": "B",
+          "text": "2017"
+        },
+        {
+          "label": "C",
+          "text": "2018"
+        },
+        {
+          "label": "D",
+          "text": "2019"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "2017"
+      },
+      "explanation": "The Indian Institute of Management Act of 2017 declared the Indian Institute of Management as institutions of national importance. It enabled them to offer degrees and further make substantial changes in their administration."
+    },
+    {
+      "id": 46704,
+      "question": "According to Indian Institute of Management Act, 2017 the board of governors can have maximum how many members including the chairman?",
+      "options": [
+        {
+          "label": "A",
+          "text": "19"
+        },
+        {
+          "label": "B",
+          "text": "20"
+        },
+        {
+          "label": "C",
+          "text": "21"
+        },
+        {
+          "label": "D",
+          "text": "22"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "19"
+      },
+      "explanation": "According to the Indian Institute of Management Act of 2017 the board of governors can have maximum of 19 members including the chairman. Among the nineteen, four are eminent personalities from the fields including education and industry."
+    },
+    {
+      "id": 46705,
+      "question": "Indian Institute of Management Act, 2017 provides for the creation of an academic council which takes decisions about which of the following?1. Academic content2. Criteria and processes for admissions to course3. Guidelines for conduct of examinationsSelect the correct option form the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1"
+        },
+        {
+          "label": "B",
+          "text": "Only 2 & 3"
+        },
+        {
+          "label": "C",
+          "text": "Only 1 & 3"
+        },
+        {
+          "label": "D",
+          "text": "1, 2 & 3"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1, 2 & 3"
+      },
+      "explanation": "Indian Institute of Management Act, 2017 provides for the creation of an academic council which takes decisions about the following:1. Academic content2. Criteria and processes for admissions to course3. Guidelines for conduct of examinations"
+    }
+  ]
+}

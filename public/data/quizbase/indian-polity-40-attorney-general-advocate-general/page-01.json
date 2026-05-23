@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-40-attorney-general-advocate-general",
+    "title": "Attorney General, Advocate General and other Law Officers",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:22:13"
+  },
+  "questions": [
+    {
+      "id": 5156,
+      "question": "Who among the following appoints Attorney General of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "President"
+        },
+        {
+          "label": "B",
+          "text": "Prime minister"
+        },
+        {
+          "label": "C",
+          "text": "Law Ministry"
+        },
+        {
+          "label": "D",
+          "text": "Cabinet Committee on Appointments"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "President"
+      },
+      "explanation": "Attorney General of India is appointed by the President of India on advice of Union Cabinet under Article 76(1) of the Constitution. He / she holds office during the pleasure of the President."
+    },
+    {
+      "id": 5428,
+      "question": "For which among the following periods, an Attorney General is appointed in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 years"
+        },
+        {
+          "label": "B",
+          "text": "3 years"
+        },
+        {
+          "label": "C",
+          "text": "4 years"
+        },
+        {
+          "label": "D",
+          "text": "Any period which the president feels suitable"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Any period which the president feels suitable"
+      },
+      "explanation": "As per article 76(1), Attorney General is appointed by President for a period decided by him. The AG remains in office during pleasure of the president and thus has no fixed tenure."
+    },
+    {
+      "id": 6143,
+      "question": "Which among the following articles of Indian Constitution gives right to the Attorney General of India to speak in Houses of Parliament or their committee?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Article 76"
+        },
+        {
+          "label": "B",
+          "text": "Article 86"
+        },
+        {
+          "label": "C",
+          "text": "Article 96"
+        },
+        {
+          "label": "D",
+          "text": "Article 106"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Article 76"
+      },
+      "explanation": "The article 76 of Indian Constitution gives Attorney General of India the right to speak in Houses of Parliament or their committee."
+    },
+    {
+      "id": 8310,
+      "question": "The Qualifications of a candidate for Attorney General must be equivalent to ___?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A Judge of High Court"
+        },
+        {
+          "label": "B",
+          "text": "A Judge of Supreme Court"
+        },
+        {
+          "label": "C",
+          "text": "A Minimum Practice of 10 years in High Courts"
+        },
+        {
+          "label": "D",
+          "text": "A Minimum Practice of 10 years in Supreme Court"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "A Judge of Supreme Court"
+      },
+      "explanation": "A candidate for the post of Attorney General of India must be a person qualified to be appointed as a Judge of the Supreme Court. The following are pre-qualifications for a Judge of the Supreme Court: Citizen of India Minimum five years service as a Judge of a High Court or 10 years an advocate of a High Court A distinguished jurist in the opinion of the president."
+    },
+    {
+      "id": 8869,
+      "question": "Which of the following article deals with the appointment, duty and tenure of the Advocate General of State?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Article 155"
+        },
+        {
+          "label": "B",
+          "text": "Article 160"
+        },
+        {
+          "label": "C",
+          "text": "Article 162"
+        },
+        {
+          "label": "D",
+          "text": "Article 165"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Article 165"
+      },
+      "explanation": "An advocate general is a senior officer of the law. According to article 165, the Governor of each State shall appoint a person who is qualified to be appointed as Judge of a High Court to be Advocate General for the State."
+    }
+  ]
+}

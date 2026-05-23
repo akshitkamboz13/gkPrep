@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-april-2020",
+    "title": "Current Affairs Quiz - April, 2020",
+    "page": 4,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:45:36",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:45:41"
+  },
+  "questions": [
+    {
+      "id": 31,
+      "question": "National Institute of Rural Development and Panchayati Raj (NIRDPR) has collaborated with the regional office of which global organisation to train community leaders?",
+      "options": [
+        {
+          "label": "A",
+          "text": "World Health Organisation"
+        },
+        {
+          "label": "B",
+          "text": "UNICEF"
+        },
+        {
+          "label": "C",
+          "text": "World Bank"
+        },
+        {
+          "label": "D",
+          "text": "Food and Agricultural Organisation"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "UNICEF"
+      },
+      "explanation": "The National Institute of Rural Development and Panchayati Raj (NIRDPR) has collaborated with UNICEF Hyderabad Field Office. The Communication Resource Unit (CRU) of NIRDPR and UNICEF, Hyderabad field office have developed an online programme for Panchayati Raj Institutions, Self-help Groups (SHG), National Service Scheme (NSS) officials and volunteers for practising sanitation and social measures."
+    },
+    {
+      "id": 32,
+      "question": "The Union Home ministry has flagged which video-conferencing software as vulnerable to cyber-crimes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Skype"
+        },
+        {
+          "label": "B",
+          "text": "Zoom"
+        },
+        {
+          "label": "C",
+          "text": "Duo"
+        },
+        {
+          "label": "D",
+          "text": "Meet"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Zoom"
+      },
+      "explanation": "The Union Home ministry has red flagged popular video-conferencing software Zoom, as vulnerable to cyber-crimes. The software has gained several million users as most of the professionals are working from home amid the Covid-19 outbreak. The Government has also directed Ministers and Central government officers not to use third party video conferencing applications and software. Cyber Coordination Centre (CyCord) under the MHA has released security guidelines for using the Zoom software."
+    },
+    {
+      "id": 33,
+      "question": "‘Assess Koro Na’ is a new application being implemented in which Indian state/ UT, for containing the spread of Covid-19?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "B",
+          "text": "Kerala"
+        },
+        {
+          "label": "C",
+          "text": "New Delhi"
+        },
+        {
+          "label": "D",
+          "text": "Odisha"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "New Delhi"
+      },
+      "explanation": "The Delhi government has launched a new application called ‘Assess Koro Na’ and has directed its officials to use the new app to conduct door-to-door survey. The survey is carried out in coronavirus containment zones, and with the real-time information collected through the app, the control centres can decide quickly if they require ambulances and medical equipment."
+    },
+    {
+      "id": 34,
+      "question": "Abba Kyari, who recently passed away due to Covid-19, was the Chief of Staff of which African country’s President?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Egypt"
+        },
+        {
+          "label": "B",
+          "text": "Libya"
+        },
+        {
+          "label": "C",
+          "text": "Algeria"
+        },
+        {
+          "label": "D",
+          "text": "Nigeria"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Nigeria"
+      },
+      "explanation": "The Chief of Staff of the President of Nigeria, Abba Kyari, recently passed away, after contracting the novel coronavirus. Abbu Kyari was considered as one of the most powerful personnel in the country and he was also the top official advisor to the Nigerian President Muhammadu Buhari. The spokesperson of the President confirmed his death."
+    },
+    {
+      "id": 35,
+      "question": "‘National ICH List’, which was seen in news recently, has been launched by which Union Ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Defence"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Home Affairs"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Culture"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Finance"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Ministry of Culture"
+      },
+      "explanation": "With an aim to create awareness about intangible cultural heritage elements from different Indian states, the Union Minister for Culture (I/C) Prahlad Singh Patel has recently launched the National List of Intangible Cultural Heritage (ICH) of India. The Minister launched the list in New Delhi and also highlighted that our country comprises of several Intangible Cultural Heritage (ICH) traditions. As many as thirteen traditions were recognized by UNESCO as Intangible Cultural Heritage of Humanity."
+    },
+    {
+      "id": 36,
+      "question": "Which is the second largest organ of the human body, which is also related to a special day celebrated on April 19, every year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Skin"
+        },
+        {
+          "label": "B",
+          "text": "Liver"
+        },
+        {
+          "label": "C",
+          "text": "Intestine"
+        },
+        {
+          "label": "D",
+          "text": "Lungs"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Liver"
+      },
+      "explanation": "World liver day is observed on every 19 April every year across the world, to spread awareness about liver related diseases. The liver is the second largest organ of the human body and an important part of the digestive system. It is second only to the skin, the largest organ. In 2018, Ministry of Health and Family Welfare launched National Viral Hepatitis Control Program, which aims to prevent and control viral hepatitis in India."
+    },
+    {
+      "id": 37,
+      "question": "Which is the first Indian state to geotag its community kitchens and community shelters created for tackling Covid-19?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kerala"
+        },
+        {
+          "label": "B",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "C",
+          "text": "Gujarat"
+        },
+        {
+          "label": "D",
+          "text": "Uttar Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Uttar Pradesh"
+      },
+      "explanation": "The state of Uttar Pradesh has claimed to be the first in the country to geotag its community kitchens and community shelters across the state. The state has geotagged its 7,368 community kitchens and community shelters, it has set up across 75 districts of the state. The establishments were created in partnership with the civil society and various non-governmental organisations. The state also partnered with Google, to integrate the locations in the Google Maps."
+    },
+    {
+      "id": 38,
+      "question": "In a recent study by an autonomous institute of DST, the organ of which water species has been used to develop a catalyst in energy conversion devices?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Crab"
+        },
+        {
+          "label": "B",
+          "text": "Fish"
+        },
+        {
+          "label": "C",
+          "text": "Turtle"
+        },
+        {
+          "label": "D",
+          "text": "Prawn"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Fish"
+      },
+      "explanation": "The Scientists at the Institute of Nano Science and Technology (INST), Mohali, an autonomous institute under the Department of Science and Technology, have recently discovered that fish gills can be used to develop efficient electro-catalyst used in building energy conversion devices. The devices thus developed are claimed to be more affordable and environment friendly. It is also expected to work better than the commercial Platinum on carbon (Pt/C) catalyst. The study has been published in the American Chemical Society’s ‘Inorganic Chemistry’ journal."
+    },
+    {
+      "id": 39,
+      "question": "As per the recent statement of the Chinese Embassy in India, the recent modifications in FDI policy of India is against the rules of which international organisation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "United Nations"
+        },
+        {
+          "label": "B",
+          "text": "World Bank"
+        },
+        {
+          "label": "C",
+          "text": "World Trade Organisation"
+        },
+        {
+          "label": "D",
+          "text": "World Economic Forum"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "World Trade Organisation"
+      },
+      "explanation": "As per the recent statement of the spokesperson of the Chinese Embassy in India, the country has asked India to revise the recent amendments in the Foreign Direct Investment policy. Recently, India amended its FDI policy and mandated all countries sharing land borders with India to invest only under Government route. China said that India should promote a fair and equitable trade environment and this restriction violates the norms of World Trade Organisation."
+    },
+    {
+      "id": 40,
+      "question": "What is the name of the mobile application launched by Jharkhand, to deliver essential commodities to people amid lock-down?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Covid Sevak"
+        },
+        {
+          "label": "B",
+          "text": "Jharkhand Sevak"
+        },
+        {
+          "label": "C",
+          "text": "Covid Bazar"
+        },
+        {
+          "label": "D",
+          "text": "Jharkhand Bazar"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Jharkhand Bazar"
+      },
+      "explanation": "The Chief Minister of Jharkhand Hemant Soren has launched a mobile application named Jharkhand Bazar, which aims to deliver essential commodities to the people of the state amidst the lock-down and control the spread of Covid-19 outbreak. The application has been developed by the Department of Food, Public Distribution and Consumer Affairs of the state. The state had earlier launched ‘Jharkhand Sahayta App’ to assist migrant workers in receiving the financial assistance of Rs.1000 and Rs.2000. It has been used by more than 2 lakh workers, as per the state."
+    }
+  ]
+}

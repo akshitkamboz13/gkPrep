@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-1-introduction-branches-of-biology",
+    "title": "1. Introduction & Branches of Biology",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:56:59"
+  },
+  "questions": [
+    {
+      "id": 4421,
+      "question": "Herpetology is the branch of science that deals with the study of__?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fishes"
+        },
+        {
+          "label": "B",
+          "text": "Insects"
+        },
+        {
+          "label": "C",
+          "text": "Snakes"
+        },
+        {
+          "label": "D",
+          "text": "Amphibians and Reptiles"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Amphibians and Reptiles"
+      },
+      "explanation": "Herpetology is the branch of zoology which deals with the study of amphibians such as frogs, toads, salamanders, newts and the gymnophiona; and reptiles such as snakes, lizards, amphisbaenids, turtles, terrapins, tortoises, crocodilians and the tuataras."
+    },
+    {
+      "id": 8632,
+      "question": "In which of the following branches of science study of functions, characteristics, and phenomena observed in the living world and the application of this knowledge to world of machine is studied?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Biometry"
+        },
+        {
+          "label": "B",
+          "text": "Bionics"
+        },
+        {
+          "label": "C",
+          "text": "Bionomy"
+        },
+        {
+          "label": "D",
+          "text": "Bionomy"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Bionics"
+      },
+      "explanation": "Bionics or biologically inspired engineering is the application of biological methods combined with engineering. It is that branches of science which studies the functions, characteristics, and phenomena observed in the living world and the application of this knowledge to world of machine."
+    },
+    {
+      "id": 8818,
+      "question": "Lepidopterology is a branch of biology, which deals with the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ferns"
+        },
+        {
+          "label": "B",
+          "text": "animals in stagnant waters"
+        },
+        {
+          "label": "C",
+          "text": "Lipids and Fats"
+        },
+        {
+          "label": "D",
+          "text": "Moths & Butterflies"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Moths & Butterflies"
+      },
+      "explanation": "Lepidopterology is the branch of zoology which deals with the scientific study of moths and the three superfamilies of butterflies. The person who wishes to study Lepidopterology is called as lepidopterist or an aurelian."
+    },
+    {
+      "id": 9057,
+      "question": "Which among the following is correct about biocenosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The study of energy transformations in the living systems"
+        },
+        {
+          "label": "B",
+          "text": "Community of organisms occupying an area"
+        },
+        {
+          "label": "C",
+          "text": "Study of the parts of an ecosystem with specific species"
+        },
+        {
+          "label": "D",
+          "text": "A kind of abnormality related to organism living in a particular habitat"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Community of organisms occupying an area"
+      },
+      "explanation": "The term Biocenosis was coined by Karl Mobius in 1877. It describes the interacting organisms which are living together in a habitat or biotope. The use of this term has declined in the 21st Century."
+    },
+    {
+      "id": 11351,
+      "question": "Which among the following is the correct meaning of Phyllotaxy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Classification of plants as per the leaves structure"
+        },
+        {
+          "label": "B",
+          "text": "The manner of arrangement of leaves in stem or branch"
+        },
+        {
+          "label": "C",
+          "text": "The manner the leaves fall from the branches"
+        },
+        {
+          "label": "D",
+          "text": "The anatomy of leaves in angiosperms"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "The manner of arrangement of leaves in stem or branch"
+      },
+      "explanation": "Phyllotaxy means the manner of arrangement of leaves in stem or branch. It is the arrangement of leaves on a plant stem. Phyllotactic spirals usually form a distinctive class of patterns in nature."
+    }
+  ]
+}

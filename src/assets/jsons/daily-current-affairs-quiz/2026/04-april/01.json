@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: April 1, 2026",
+    "date": "2026-04-01",
+    "year": "2026",
+    "month": "04-april",
+    "day": 1,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 04:00:33",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:52:05"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "The Kariba Dam, where a 500 MW floating solar plant is being planned, is located on which river?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nile River"
+        },
+        {
+          "label": "B",
+          "text": "Congo River"
+        },
+        {
+          "label": "C",
+          "text": "Zambezi River"
+        },
+        {
+          "label": "D",
+          "text": "Niger River"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Zambezi River"
+      },
+      "explanation": "A 500 MW floating solar plant is being planned at Kariba Dam by Green Hybrid Power in partnership with Intensive Energy User Group. The dam is located on the Zambezi River at the Kariba Gorge, forming the boundary between Zambia and Zimbabwe. It is a double-curvature concrete arch dam, completed in 1959, and stands about 128 metres high. The dam plays a crucial role in power generation, supplying electricity to both Zambia and Zimbabwe. Its construction led to the creation of Lake Kariba, the world’s largest human-made lake by volume."
+    },
+    {
+      "id": 2,
+      "question": "The Convention on the Conservation of Migratory Species of Wild Animals (CMS) is an environmental treaty under which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "United Nations Development Programme (UNDP)"
+        },
+        {
+          "label": "B",
+          "text": "United Nations Environment Programme (UNEP)"
+        },
+        {
+          "label": "C",
+          "text": "World Bank"
+        },
+        {
+          "label": "D",
+          "text": "United Nations Educational, Scientific and Cultural Organization (UNESCO)"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "United Nations Environment Programme (UNEP)"
+      },
+      "explanation": "At the 15th Conference of Parties (COP15) of the Convention on the Conservation of Migratory Species of Wild Animals, about 40 new species were added to the protected list category. The convention, also known as the Bonn Convention, is an environmental treaty under the United Nations Environment Programme. It provides a global framework for conservation and sustainable use of migratory animals and their habitats. The convention was signed in Bonn, Germany on 23 June 1979."
+    },
+    {
+      "id": 3,
+      "question": "Which city has been included in the inaugural “20 Cities Towards Zero Waste” initiative?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Varkala, Kerala"
+        },
+        {
+          "label": "B",
+          "text": "Chennai, Tamil Nadu"
+        },
+        {
+          "label": "C",
+          "text": "Pune, Maharashtra"
+        },
+        {
+          "label": "D",
+          "text": "Jaipur, Rajasthan"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Varkala, Kerala"
+      },
+      "explanation": "Varkala, Kerala, has been included in the inaugural “20 Cities Towards Zero Waste” initiative. The initiative is led by the UN Secretary-General’s Advisory Board on Zero Waste with support from UN-Habitat and United Nations Environment Programme. It recognises cities that demonstrate innovative and ambitious efforts in waste reduction, circular economy practices, and sustainable urban development. The initiative aims to highlight leadership and innovation in managing waste effectively. It promotes the exchange of best practices and lessons among cities globally. It seeks to inspire other cities to adopt zero-waste strategies and accelerate sustainability transitions."
+    },
+    {
+      "id": 4,
+      "question": "Agray, an anti-submarine warfare shallow water craft, has been indigenously designed and built by which shipyard?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mazagon Dock Shipbuilders Limited"
+        },
+        {
+          "label": "B",
+          "text": "Cochin Shipyard Limited"
+        },
+        {
+          "label": "C",
+          "text": "Garden Reach Shipbuilders and Engineers"
+        },
+        {
+          "label": "D",
+          "text": "Hindustan Shipyard Limited"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Garden Reach Shipbuilders and Engineers"
+      },
+      "explanation": "Agray, an anti-submarine warfare shallow water craft, has been delivered to the Indian Navy. It is the fourth of eight ASW Shallow Water Crafts, aimed at strengthening coastal defence capabilities. The vessel is indigenously designed and built by Garden Reach Shipbuilders and Engineers. It is a reincarnation of the earlier INS Agray, a patrol vessel decommissioned in 2017. The ship has been constructed as per standards of the Indian Register of Shipping. It uses waterjet propulsion, making it among the largest Indian naval warships to use this technology. It is equipped with lightweight torpedoes, indigenous rocket launchers, and advanced shallow water SONAR systems for effective submarine detection."
+    },
+    {
+      "id": 5,
+      "question": "Navegaon Nagzira Tiger Reserve is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "B",
+          "text": "Karnataka"
+        },
+        {
+          "label": "C",
+          "text": "Kerala"
+        },
+        {
+          "label": "D",
+          "text": "Tamil Nadu"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Maharashtra"
+      },
+      "explanation": "Navegaon Nagzira Tiger Reserve took control of its notified buffer area, strengthening conservation management. It is located in Maharashtra and forms part of the Central Indian Tiger Landscape, which supports nearly one-sixth of India’s tiger population. The reserve was declared in 2013 and is the fifth tiger reserve in Maharashtra. It comprises multiple protected areas, including Nawegaon National Park, Nawegaon Wildlife Sanctuary, Nagzira Wildlife Sanctuary, New Nagzira Wildlife Sanctuary, and Koka Wildlife Sanctuary."
+    }
+  ]
+}

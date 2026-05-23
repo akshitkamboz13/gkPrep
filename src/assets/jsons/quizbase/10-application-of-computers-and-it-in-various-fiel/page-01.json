@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "10-application-of-computers-and-it-in-various-fiel",
+    "title": "10. Application of Computers and IT in Various Fields",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:50:36"
+  },
+  "questions": [
+    {
+      "id": 4654,
+      "question": "Which among the following is not a payment card technology?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Magnetic Stripe Card"
+        },
+        {
+          "label": "B",
+          "text": "Smart Card"
+        },
+        {
+          "label": "C",
+          "text": "Fleet Card"
+        },
+        {
+          "label": "D",
+          "text": "All of them are payment card technologies"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "All of them are payment card technologies"
+      },
+      "explanation": "EMV is a payment method based upon a technical standard. It is for smart payment cards and for payment terminals and automated teller machines which can accept them. EMV originally stood for \"Europay, Mastercard, and Visa\", the three companies which created the standard. The Magnetic strip cards,smart cards and Fleet cards are the different technologies available."
+    },
+    {
+      "id": 4655,
+      "question": "Which among the following can be called an electronic check?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Debit card"
+        },
+        {
+          "label": "B",
+          "text": "Smart card"
+        },
+        {
+          "label": "C",
+          "text": "Credit card"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Debit card"
+      },
+      "explanation": "Electronic cheek is a form of payment system. In this funds from customer’s account are transferred to the merchants account over the ACH (Automated clearing House) network. Debit card is one such payment as the customers funds are transferred."
+    },
+    {
+      "id": 4686,
+      "question": "Core Banking Solutions are developed to perform__?",
+      "options": [
+        {
+          "label": "A",
+          "text": "recording of transactions"
+        },
+        {
+          "label": "B",
+          "text": "passbook maintenance"
+        },
+        {
+          "label": "C",
+          "text": "interest calculations"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "All of the above"
+      },
+      "explanation": "Core banking is a banking service provided by a group of networked bank branches as a single unit. It is where customers may access their bank account and perform basic transactions from any of the member branch offices."
+    },
+    {
+      "id": 4708,
+      "question": "The terms “push and pull services” in context with the Banking are used in which among the following generally?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rural Banking"
+        },
+        {
+          "label": "B",
+          "text": "Unit Banking"
+        },
+        {
+          "label": "C",
+          "text": "Mobile Banking"
+        },
+        {
+          "label": "D",
+          "text": "Online banking"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Mobile Banking"
+      },
+      "explanation": "Mobile Banking, refers to sms sending on customer’s request and without requests."
+    },
+    {
+      "id": 4710,
+      "question": "Which among the following is an example of “Card not present transaction” in context with the Credit / Debit Cards?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A person paying a restaurant bill by giving details of his credit card"
+        },
+        {
+          "label": "B",
+          "text": "A person making an online purchase using his / her credit card"
+        },
+        {
+          "label": "C",
+          "text": "A person making a purchase using mobile banking"
+        },
+        {
+          "label": "D",
+          "text": "Both 2 & 3"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Both 2 & 3"
+      },
+      "explanation": "A card not present transaction is a payment card transaction made where the cardholder is not physically present the card for a merchant's visual examination at the time that an order is given and payment effected. A person using credit card online or using mobile banking can use this kind."
+    }
+  ]
+}

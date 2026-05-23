@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "economic-geography-service-industries-quaternary-activities",
+    "title": "Economic Geography - Service Industries, Quaternary Activities",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:11:24"
+  },
+  "questions": [
+    {
+      "id": 2814,
+      "question": "The Katanga plateau in Africa is known for rich deposits of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Copper and Uranium"
+        },
+        {
+          "label": "B",
+          "text": "Uranium and Zinc"
+        },
+        {
+          "label": "C",
+          "text": "Zinc and Bauxite"
+        },
+        {
+          "label": "D",
+          "text": "Bauxite and Gypsum"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Copper and Uranium"
+      },
+      "explanation": "The Katanga Plateau in the Democratic Republic of the Congo is known for its rich deposits of copper and uranium. The plateau is located at an altitude of 1220m (4,000 ft) above sea level, which makes it cooler than the surrounding area. The mean annual temperature is 19-20 °C. The plateau is also known for its copper production. Other minerals that are mined in the Katanga Plateau include: Cobalt, Zinc, Silver, Gold, Tin. The Katanga Plateau is also good for farming and ranching. The seasonal rainfall makes it a fertile arable area."
+    },
+    {
+      "id": 8402,
+      "question": "In which country is the largest iron ore mine in the world located?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Australia"
+        },
+        {
+          "label": "B",
+          "text": "Brazil"
+        },
+        {
+          "label": "C",
+          "text": "Russia"
+        },
+        {
+          "label": "D",
+          "text": "China"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Brazil"
+      },
+      "explanation": "The Carajás Mine in Brazil is the world's largest iron ore mine. It is operated by Vale, a Brazilian mining company. Vale is the second largest metals and mining company in the world. The Carajás region is rich in reserves of various important minerals, including iron ore, copper, and gold, which makes it a critical area for investment for multinational mining corporations."
+    },
+    {
+      "id": 9875,
+      "question": "Which of the following country is the largest producer of Uranium?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Australia"
+        },
+        {
+          "label": "B",
+          "text": "Kazakhstan"
+        },
+        {
+          "label": "C",
+          "text": "Russia"
+        },
+        {
+          "label": "D",
+          "text": "France"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Kazakhstan"
+      },
+      "explanation": "Kazakhstan is the world's largest uranium producer. In 2022, Kazakhstan produced 21,227 metric tons of uranium, which accounted for 43% of the world's uranium supply. Kazakhstan has been a major uranium producer for over 50 years. Other top uranium producers include: Canada, which produced 7,351 metric tons of uranium in 2022 Namibia, which produced 11% of the world's uranium in 2022 Uzbekistan, which produced about 3,300 metric tons of uranium in 2022 Kazakhstan has 12% of the world's uranium deposits. The Chu-Sarysu basin in central Kazakhstan accounts for over half of the country's known uranium resources."
+    },
+    {
+      "id": 10909,
+      "question": "Which country has the largest reserves of Natural Gas in the world?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Australia"
+        },
+        {
+          "label": "B",
+          "text": "United States"
+        },
+        {
+          "label": "C",
+          "text": "Russia"
+        },
+        {
+          "label": "D",
+          "text": "China"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Russia"
+      },
+      "explanation": "Russia has the largest natural gas reserves in the world, with 38 trillion cubic meters (1,341 trillion cubic feet). This is equivalent to about 19% of the world's total reserves. Russia exports 26% of its gas production to other countries. The Arctic accounts for over 80% of Russia's natural gas production. The top five countries with the largest natural gas reserves are: Russia Iran Qatar USA Saudi Arabia The world has proven reserves equivalent to 52.3 times its annual consumption. This means it has about 52 years of gas left at current consumption levels."
+    },
+    {
+      "id": 11525,
+      "question": "In which nation will you find the world’s largest helium-rich natural gas reservoirs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Australia"
+        },
+        {
+          "label": "B",
+          "text": "China"
+        },
+        {
+          "label": "C",
+          "text": "India"
+        },
+        {
+          "label": "D",
+          "text": "USA"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "USA"
+      },
+      "explanation": "The biggest reserves of helium-rich natural gas can be found in the United States, specifically in the regions of Kansas, Oklahoma, and Texas. These sites, especially the Hugoton field, are commonly referred to as the \"Helium Capital of the World\". Helium, a valuable resource used in a variety of fields, from medical imaging to electronics, is increasingly becoming scarce globally."
+    }
+  ]
+}

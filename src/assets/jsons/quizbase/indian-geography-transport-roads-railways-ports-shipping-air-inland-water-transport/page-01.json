@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-geography-transport-roads-railways-ports-shipping-air-inland-water-transport",
+    "title": "Indian Geography - Transport - Roads, Railways, Ports, Shipping, Air & Inland Water Transport",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:19:06"
+  },
+  "questions": [
+    {
+      "id": 3212,
+      "question": "Which of the following is a correct sequence of sea ports of India from \"South to North\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cochin - Thiruvananthapuram - Calicut - Mangalore"
+        },
+        {
+          "label": "B",
+          "text": "Calicut - Thiruvananthapuram - Cochin - Mangalore"
+        },
+        {
+          "label": "C",
+          "text": "Thiruvananthapuram - Cochin - Calicut - Mangalore"
+        },
+        {
+          "label": "D",
+          "text": "Thiruvananthapuram - Calicut - Mangalore - Cochin"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Thiruvananthapuram - Cochin - Calicut - Mangalore"
+      },
+      "explanation": "Correct sequence will be Thiruvananthapuram - Cochin - Calicut - Mangalore"
+    },
+    {
+      "id": 4208,
+      "question": "Which is the longest National Highway in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NH-44"
+        },
+        {
+          "label": "B",
+          "text": "NH-1"
+        },
+        {
+          "label": "C",
+          "text": "NH-2"
+        },
+        {
+          "label": "D",
+          "text": "NH-10"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "NH-44"
+      },
+      "explanation": "NH-44 is the longest highway in India. It starts from Srinagar (J&K) and ends at Kanyakumari (Tamilnadu). Total length of this highway is 3,745km."
+    },
+    {
+      "id": 4278,
+      "question": "Which port is known as Queen of Arabian Sea?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vizag port"
+        },
+        {
+          "label": "B",
+          "text": "Paradip port"
+        },
+        {
+          "label": "C",
+          "text": "Kochi Port"
+        },
+        {
+          "label": "D",
+          "text": "Mumbai Port"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Kochi Port"
+      },
+      "explanation": "Kochi Port is a natural Harbour, situated at the head of Vembanad Kayal, popularly known as the “Queen of the Arabian Sea”"
+    },
+    {
+      "id": 5284,
+      "question": "Which among the following highway connects Sikkim with rest of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "National Highway 10"
+        },
+        {
+          "label": "B",
+          "text": "National Highway 32A"
+        },
+        {
+          "label": "C",
+          "text": "National Highway 28"
+        },
+        {
+          "label": "D",
+          "text": "National Highway 26A"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "National Highway 10"
+      },
+      "explanation": "National Highway 10 (old name NH 31A) connects the Indo-Bangladesh border via Siliguri to Gangtok. It passes through West Bengal and Sikkim."
+    },
+    {
+      "id": 5974,
+      "question": "In how many zones Indian Railway has been divided?",
+      "options": [
+        {
+          "label": "A",
+          "text": "14"
+        },
+        {
+          "label": "B",
+          "text": "16"
+        },
+        {
+          "label": "C",
+          "text": "18"
+        },
+        {
+          "label": "D",
+          "text": "20"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "18"
+      },
+      "explanation": "There are total 18 zones in Indian Railways."
+    }
+  ]
+}

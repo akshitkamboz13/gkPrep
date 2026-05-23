@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "22-the-satavahanas",
+    "title": "22. The Satavahanas",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:52:23"
+  },
+  "questions": [
+    {
+      "id": 1745,
+      "question": "The rulers of which dynasty were first to make land grants to Brahmins?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maurya"
+        },
+        {
+          "label": "B",
+          "text": "Sunga"
+        },
+        {
+          "label": "C",
+          "text": "Satvahana"
+        },
+        {
+          "label": "D",
+          "text": "Kanvas"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Satvahana"
+      },
+      "explanation": "The rulers of Sarvanana dynasty were the first to make land grant to Brahmins."
+    },
+    {
+      "id": 1746,
+      "question": "Which Satavahana ruler composed Gathasaptashati?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Simuka"
+        },
+        {
+          "label": "B",
+          "text": "Gautamiputra Satkarni"
+        },
+        {
+          "label": "C",
+          "text": "Pulumayi"
+        },
+        {
+          "label": "D",
+          "text": "Hala"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Hala"
+      },
+      "explanation": "Gathasaptashati was written by the Satavahana king Hala. Hala was the 17th ruler of the Satavahana dynasty and ruled from 20–24 CE. The text is a collection of 700 Prakrit verses written by various poets and poetesses. Most of the poems are about love. The text is considered the most important literary work in Prakrit. It is believed that the text took its formal shape in the early centuries of the Common Era."
+    },
+    {
+      "id": 1748,
+      "question": "Which among the following Satavahana / Satakarni rulers recovered Malwa from the Shaka rulers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gautamiputra Satkarni"
+        },
+        {
+          "label": "B",
+          "text": "Satkarni I"
+        },
+        {
+          "label": "C",
+          "text": "Hala"
+        },
+        {
+          "label": "D",
+          "text": "Yajnsari Satkarni"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Yajnsari Satkarni"
+      },
+      "explanation": "Yajna Sri Satakarni, who ruled in second century AD was the last great king of the Satavahana dynasty. Inscriptions about him in Nasik Caves and Kanheri Caves mention that he was able to regain some lost territories such as north Konkan and Malwa from the Shaka rulers."
+    },
+    {
+      "id": 1749,
+      "question": "The famous book ‘Brihat Katha’ was written by__?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gunadhya"
+        },
+        {
+          "label": "B",
+          "text": "Sarva Varman"
+        },
+        {
+          "label": "C",
+          "text": "Panini"
+        },
+        {
+          "label": "D",
+          "text": "Radhagupt"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Gunadhya"
+      },
+      "explanation": "The famous book ‘Brihat Katha’ was written by Gunadhya, who was the great scholar in the court of Satvahana King Hala."
+    },
+    {
+      "id": 1776,
+      "question": "Who among the following was the first Satavahana King to introduce the Ruler’s head on the coins ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Satkarni I"
+        },
+        {
+          "label": "B",
+          "text": "Gautamiputra Satkarni"
+        },
+        {
+          "label": "C",
+          "text": "Vasishthiputra Pulumavi"
+        },
+        {
+          "label": "D",
+          "text": "Yajna Satakarni"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Satkarni I"
+      },
+      "explanation": "Satavahana dynasty ruled from Pune in Maharastra to Coastal Andhra Pradesh in the 2nd century BC onwards.The coins issued by Satavahanas had Bilingual legends. The name of the Kings was mentioned in Prakrit as well as some south Indian Language. Satavahana Kings promoted Buddhism. Satkarni I was the first Satavahana King to introduce the Ruler’s head on the coins."
+    }
+  ]
+}

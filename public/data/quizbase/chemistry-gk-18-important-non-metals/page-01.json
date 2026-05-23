@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "chemistry-gk-18-important-non-metals",
+    "title": "Chemistry-18-Important Non-Metals",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:02:26"
+  },
+  "questions": [
+    {
+      "id": 6668,
+      "question": "Which of the following is the correct term used to describe Graphite, Carbon and Diamonds?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Isotopes"
+        },
+        {
+          "label": "B",
+          "text": "Isomers"
+        },
+        {
+          "label": "C",
+          "text": "Isotones"
+        },
+        {
+          "label": "D",
+          "text": "Allotropes"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Allotropes"
+      },
+      "explanation": "Allotropes refer to two or more different physical forms in which an element can exist. The property is due to different ways atoms bond together. The most common instance is the element carbon, which exists in several different forms, including diamond, graphite, and fullerenes, making it an allotropic element. It's crucial to note that allotropy applies to elements, not compounds."
+    },
+    {
+      "id": 6673,
+      "question": "Which of the following is not a common use of Graphite?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Manufacturing of electrodes"
+        },
+        {
+          "label": "B",
+          "text": "As a lubricant"
+        },
+        {
+          "label": "C",
+          "text": "Manufacturing of crucibles"
+        },
+        {
+          "label": "D",
+          "text": "In glass cutting"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "In glass cutting"
+      },
+      "explanation": "Graphite is renowned for its conspicuous uses owing to its unique properties like its ability to conduct electricity, which makes it ideal for electrode manufacturing. It's also used as a lubricant and in the production of crucibles, thanks to its high melting point. However, it isn't used in glass cutting."
+    },
+    {
+      "id": 20288,
+      "question": "In a photochemical smog, which gas causes irritation to mucous membrane and respiratory system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nitrous oxide"
+        },
+        {
+          "label": "B",
+          "text": "Sulphur dioxide"
+        },
+        {
+          "label": "C",
+          "text": "Ozone"
+        },
+        {
+          "label": "D",
+          "text": "Carbon monoxide"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Ozone"
+      },
+      "explanation": "Ozone (O3) is the most common photochemical oxidant in photochemical smog. Inhaling ozone can cause irritation to the mucous membrane and respiratory system. Ozone can also cause chest constriction and damage to vegetation. Other components of photochemical smog include: Nitrogen dioxide (NO2) Peroxyacetylnitrate (PAN) Aldehydes Other air pollutants that can be harmful to humans include: Sulfur dioxide Volatile organic compounds (VOCs) Dioxins Polycyclic aromatic hydrocarbons (PAHs) Carbon monoxide can cause hyperventilation, respiratory distress, and stillbirths. At high levels, carbon monoxide can even cause direct poisoning."
+    },
+    {
+      "id": 21239,
+      "question": "Which of the following chemicals is also known as lachrymatory agent or lachrymator?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mustard Gas"
+        },
+        {
+          "label": "B",
+          "text": "Tear gas"
+        },
+        {
+          "label": "C",
+          "text": "Diborane"
+        },
+        {
+          "label": "D",
+          "text": "Chlorine gas"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Tear gas"
+      },
+      "explanation": "Tear gas is also known as CS Gas. It acts as a lachrymatory agent. Tear gas irritate the mucous membrane of the eyes, nose, mouth and lungs, and causes tearing, coughing, burning and difficult breathing."
+    },
+    {
+      "id": 21273,
+      "question": "Which of the following chemicals is also known as “Chinese snow”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Silver iodide"
+        },
+        {
+          "label": "B",
+          "text": "Potassium nitrate"
+        },
+        {
+          "label": "C",
+          "text": "Ammonium chloride"
+        },
+        {
+          "label": "D",
+          "text": "Sodium phosphate"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Potassium nitrate"
+      },
+      "explanation": "Potassium nitrate is one of several nitrogen-containing compounds collectively referred to as saltpetre or saltpetre. It is also known as “Chinese snow”. Major uses of potassium nitrate are in fertilizers, rocket propellants and fireworks."
+    }
+  ]
+}

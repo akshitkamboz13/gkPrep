@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "9-ajivikas-and-other-ascetics",
+    "title": "9. Ajivikas and Other Ascetics",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:55:26"
+  },
+  "questions": [
+    {
+      "id": 6012,
+      "question": "Which among the following kings have been linked to the Sudaman Caves ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ashoka"
+        },
+        {
+          "label": "B",
+          "text": "ChandraGupta Maurya"
+        },
+        {
+          "label": "C",
+          "text": "Bindusara"
+        },
+        {
+          "label": "D",
+          "text": "Bimbisara"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ashoka"
+      },
+      "explanation": "Ashoka is credited with the establishment of the Sudaman Caves. These caves were primarily built for and dedicated to the Ajivikas. It is believed that the cave was named after Sudama, an Ajivika monk."
+    },
+    {
+      "id": 19072,
+      "question": "The rock cut Barabar and Nagarjuna caves were mainly used by the ascetics associated to _?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Buddhism"
+        },
+        {
+          "label": "B",
+          "text": "Jainism"
+        },
+        {
+          "label": "C",
+          "text": "Charvaka"
+        },
+        {
+          "label": "D",
+          "text": "Ajivika"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Ajivika"
+      },
+      "explanation": "Makkhali Gosala is said to be the founder of Ajivika School of philosophy. He was contemporary of Siddhartha Gautama and of Mahavira. The rock cut Barabar and Nagarjuna caves were built during the Mauryan period for the Ajivika sect."
+    },
+    {
+      "id": 34877,
+      "question": "“Live well, as long as you live. Live well even by borrowings, for, once cremated, there is no ‘return.” This rejection of after-life is an aphorism of which of the following sects? (UPSC Prelims 1994)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kapalika sect"
+        },
+        {
+          "label": "B",
+          "text": "Sunyavada of Nagarjuna"
+        },
+        {
+          "label": "C",
+          "text": "Ajivikas"
+        },
+        {
+          "label": "D",
+          "text": "Charvakas"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Charvakas"
+      },
+      "explanation": "The rejection of after-life is an aphorism of the Charvakas. Charvaka also known as Lokayata, is an ancient school of Indian materialism. Charvaka holds direct perception, empiricism, and conditional inference as proper sources of knowledge, embraces philosophical skepticism and rejects ritualism, and supernaturalism."
+    },
+    {
+      "id": 48121,
+      "question": "'Followers of the way of life' term is associated with which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hinduism"
+        },
+        {
+          "label": "B",
+          "text": "Buddhism"
+        },
+        {
+          "label": "C",
+          "text": "Jainism"
+        },
+        {
+          "label": "D",
+          "text": "Ajivikas"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Ajivikas"
+      },
+      "explanation": "The Ajivikas or ‘Followers of the way of life,’ was an ascetic order which started at the time of Buddha and Mahavira. It lasted until the 14th century. There were around 62 sects along with Ajivikas that challenged Brahmanical dominance."
+    },
+    {
+      "id": 48122,
+      "question": "Ajivika was founded by which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Makkhali Gosala"
+        },
+        {
+          "label": "B",
+          "text": "Janak"
+        },
+        {
+          "label": "C",
+          "text": "Krishna"
+        },
+        {
+          "label": "D",
+          "text": "Tirugyan"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Makkhali Gosala"
+      },
+      "explanation": "The Ajivika sect was founded by Makkhali Gosala. During the third century BCE Ajivikas were very popular in Magadha and Mauryan kings donated several caves in the honour of Ajivika monks."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-culture15-folk-theatre",
+    "title": "Indian Culture:15-Folk Theatre",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:16:23"
+  },
+  "questions": [
+    {
+      "id": 9590,
+      "question": "In which Indian state is the dance drama, Yakshagana, primarily popular?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "B",
+          "text": "Karnataka"
+        },
+        {
+          "label": "C",
+          "text": "Kerala"
+        },
+        {
+          "label": "D",
+          "text": "Madhya Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Karnataka"
+      },
+      "explanation": "Yakshagana, a distinct Indian theatre form, is predominantly seen and cultivated in the Karnataka state, more specifically in districts like Dakshina Kannada, Udupi, Uttara Kannada, Shimoga and the western parts of Chikmagalur. This art form, characterized by a unique amalgamation of dance, music, dialogue, costume, make-up, and stage techniques, has also found its way to Kasaragod district in Kerala, further underlining its appeal and influence."
+    },
+    {
+      "id": 19022,
+      "question": "'Bhand Pather' is the traditional folk theatre of which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assam"
+        },
+        {
+          "label": "B",
+          "text": "Uttarakhand"
+        },
+        {
+          "label": "C",
+          "text": "Jammu and Kashmir"
+        },
+        {
+          "label": "D",
+          "text": "Gujarat"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Jammu and Kashmir"
+      },
+      "explanation": "The Bhand Pather is not a monologue but a social drama which incorporates mythological legends and contemporary social satire. Bhands are the traditional folk entertainers and plays of the Bhands are called pather. It is predominantly practised in Jammu & Kashmir."
+    },
+    {
+      "id": 30107,
+      "question": "Jatra is a traditional theatre form of which of the following states of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "West Bengal"
+        },
+        {
+          "label": "B",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "D",
+          "text": "Bihar"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "West Bengal"
+      },
+      "explanation": "Jatra is a popular folk-theatre form of Bengali theatre, spread throughout most of Bengali speaking areas of the Indian subcontinent, including Bangladesh and Indian state of West Bengal."
+    },
+    {
+      "id": 93066,
+      "question": "Which of the following is a traditional theatre form of Haryana?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Swang"
+        },
+        {
+          "label": "B",
+          "text": "Tamaasha"
+        },
+        {
+          "label": "C",
+          "text": "Dashavatar"
+        },
+        {
+          "label": "D",
+          "text": "Nautanki"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Swang"
+      },
+      "explanation": "Swang is a traditional theater form of Haryana. The ‘Swang’ is the rural folk drama, which expresses the interplay of love, depicting mythological and modern tales of valour, sacrifice, humour and whatever else comes to mind. The word ‘’Swang’’ stands for disguise or imitation. Better known as ‘’sang’’ in Haryana, theatre forms an integral part of the state’s culture. The word ‘sang’ is the corrupted form of ‘Swang’. With a deep-rooted tradition, the ‘sang’ is based on the open theatre style as it performed in the open."
+    },
+    {
+      "id": 93068,
+      "question": "What is the name of the famous folk drama of Bhils?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Swang"
+        },
+        {
+          "label": "B",
+          "text": "Gavari"
+        },
+        {
+          "label": "C",
+          "text": "Rammat"
+        },
+        {
+          "label": "D",
+          "text": "Tamasha"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Gavari"
+      },
+      "explanation": "The Gavari dance-drama of Bhils has its origin in the story of Shiva and Bhasmasur. It is a 40-day long festival celebrated in July and September of each year in the Mewar region of Rajasthan, India. Among Gavari's many mythic dramas, two of the most popular and often repeated are Badalya Hindawa (The Banyan Swing) and Bhilurana (King of the Bhils)."
+    }
+  ]
+}

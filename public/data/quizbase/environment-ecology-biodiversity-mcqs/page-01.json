@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "environment-ecology-biodiversity-mcqs",
+    "title": "Environment & Biodiversity MCQs",
+    "page": 1,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:50:12",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:11:52"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "The Kalesar National Park (KNP) is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kerala"
+        },
+        {
+          "label": "B",
+          "text": "Manipur"
+        },
+        {
+          "label": "C",
+          "text": "Punjab"
+        },
+        {
+          "label": "D",
+          "text": "Haryana"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Haryana"
+      },
+      "explanation": "The Kalesar National Park (KNP) is a protected area in Yamunanagar district of Haryana and covers 13,000 acres. It is a popular destination for Leopard and home to red jungle fowl among other birds. Other animals recorded were leopard cat, rusty-spotted cat, jungle cat, Indian jackal, Asiatic elephant, chital, sambar, barking deer, etc."
+    },
+    {
+      "id": 2,
+      "question": "The Nagzira Wildlife Sanctuary (NWS) is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "B",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Jammu & Kashmir"
+        },
+        {
+          "label": "D",
+          "text": "Nagaland"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Maharashtra"
+      },
+      "explanation": "The Nagzira Wildlife Sanctuary (NWS) is located between Bhandara district and Gondia district of Maharashtra and covers an area of 152.81 square kilometres. This sanctuary has a number of fish, 34 species of mammals, 166 species of birds, 36 species of reptiles and four species of amphibians. Apart from this, this sanctuary is a home of many interesting varieties of frogs and toads like Tree-frog, Bull-frog, Six-toed frog, an uncommon toad; Ramanella Montana etc."
+    },
+    {
+      "id": 3,
+      "question": "The Wayanad Wildlife Sanctuary (WWS) is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jharkhand"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Kerala"
+        },
+        {
+          "label": "D",
+          "text": "Bihar"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Kerala"
+      },
+      "explanation": "The Wayanad Wildlife Sanctuary (WWS) is located in Wayanad, Kerala and covers an area of 344 square kilometers. It is home to elephants, tigers, panthers, jungle cats, civet cats, monkeys, wild dogs, bisons, deer, bears, etc. The sanctuary is one of the safest havens for different species of vultures like the White-rumped Vultures and the Red-headed Vultures. It is part of the Nilgiri Biosphere Reserve."
+    },
+    {
+      "id": 4,
+      "question": "The Rowa Wildlife Sanctuary (RWS) is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "B",
+          "text": "Kerala"
+        },
+        {
+          "label": "C",
+          "text": "Tripura"
+        },
+        {
+          "label": "D",
+          "text": "Odisha"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Tripura"
+      },
+      "explanation": "The Rowa Wildlife Sanctuary (RWS) is located in Tripura and covers an area of only 0.86 square kilometres. The sanctuary is known for varies rare species plants and animals providing immense scope for the botany and zoology experts. According to statistics, the small sanctuary is a safe abode for 150 species of birds, wild beasts and primates."
+    },
+    {
+      "id": 5,
+      "question": "The Red List of IUCN provides the list of which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "GM plants"
+        },
+        {
+          "label": "B",
+          "text": "Dangerous plant species"
+        },
+        {
+          "label": "C",
+          "text": "Threatened species"
+        },
+        {
+          "label": "D",
+          "text": "Dangerous animal species"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Threatened species"
+      },
+      "explanation": "The Red List of IUCN provides the list of threatened species. It is recognized as the most comprehensive, objective global approach for evaluating the conservation status of plant and animal species. It was founded in 1964 by the International Union for the Conservation of Nature (IUCN), which is the world’s main authority on the conservation status of species."
+    },
+    {
+      "id": 6,
+      "question": "Which among the following is responsible for depletion of Ozone?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbon monoxide"
+        },
+        {
+          "label": "B",
+          "text": "Carbon dioxide"
+        },
+        {
+          "label": "C",
+          "text": "Chlorofluoro carbon"
+        },
+        {
+          "label": "D",
+          "text": "Mercuric oxide"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Chlorofluoro carbon"
+      },
+      "explanation": "Ozone molecules got destroyed when the chlorine and bromine atoms come into contact with ozone in the atmospheric layer of stratosphere. CFC (Chlorofluoro carbon) slowly moves upward to the stratosphere and are broken up by ultraviolet radiation, which releases chlorine atoms."
+    },
+    {
+      "id": 7,
+      "question": "What is the name of world’s first greenhouse-gas-monitoring satellite?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ICESat"
+        },
+        {
+          "label": "B",
+          "text": "Jason-1"
+        },
+        {
+          "label": "C",
+          "text": "Ibuki"
+        },
+        {
+          "label": "D",
+          "text": "NPOESS"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Ibuki"
+      },
+      "explanation": "Ibuki is the world’s first satellite dedicated to greenhouse-gas-monitoring. It was manufactured by Mitsubishi Electric and launched in 2009. It measures the densities of CO2 and CH4 on the Earth’s atmosphere."
+    },
+    {
+      "id": 8,
+      "question": "Biligiriranga Temple Wildlife Sanctuary is located in which state ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "B",
+          "text": "Karnataka"
+        },
+        {
+          "label": "C",
+          "text": "West Bengal"
+        },
+        {
+          "label": "D",
+          "text": "Kerala"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Karnataka"
+      },
+      "explanation": "Biligiriranganatha Swamy Temple Wildlife Sanctuary is a protected reserve under the Wildlife Protection Act of 1972. In 2011, the Government of Karnataka declared the site a tiger reserve. The name Biligiri came from the white rock face that constitutes the major hill."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following National Park is called “Topslip”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indira Gandhi Wildlife Sanctuary and National Park"
+        },
+        {
+          "label": "B",
+          "text": "Mudumalai National Park"
+        },
+        {
+          "label": "C",
+          "text": "Mukurthi National Park"
+        },
+        {
+          "label": "D",
+          "text": "Palani Hills National Park"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Indira Gandhi Wildlife Sanctuary and National Park"
+      },
+      "explanation": "Aanaimalai Tiger Reserve was also known as Indira Gandhi Wildlife Sanctuary and National Park is located in the state of Tamil Nadu. The practice of sliding timber logs down the hills from a place located in the northeast corner of the park is named as “Topslip”. It is a famous tourist attraction."
+    },
+    {
+      "id": 10,
+      "question": "One species of Coffee called Coffea charrieriana is free of Cafeine. In which of the following countries Coffea charrieriana is grown?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vietnam"
+        },
+        {
+          "label": "B",
+          "text": "Cameroon"
+        },
+        {
+          "label": "C",
+          "text": "Liberia"
+        },
+        {
+          "label": "D",
+          "text": "Yemen"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Cameroon"
+      },
+      "explanation": "Coffea liberica is a species that originated in Liberia. Its variety Baraco is a major crop in Philippines. Coffea arabica is indigenous to Ethiopia and Arab world. It is also known as Coffee Shrub of Arabia and is believed to be the first variety of Coffee to be cultivated. Coffea charrieriana is a coffee that is free of caffeine. It is found in Cameroon. Mocha Coffee or Cafe mocha is derived from Coffea Arabica. This name derived from the Mocha town of Yemen. Yemen was the largest producer and exporter of Mocha Coffee"
+    }
+  ]
+}

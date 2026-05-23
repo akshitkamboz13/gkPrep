@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-22-high-courts-subordinate-courts",
+    "title": "High Courts & Subordinate Courts",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:20:28"
+  },
+  "questions": [
+    {
+      "id": 5527,
+      "question": "The decisions of District court is subject to what kind of jurisdiction of High Court?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Advisory Jurisdiction"
+        },
+        {
+          "label": "B",
+          "text": "Appellate Jurisdiction"
+        },
+        {
+          "label": "C",
+          "text": "Original jurisdiction"
+        },
+        {
+          "label": "D",
+          "text": "Judicial Review"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Appellate Jurisdiction"
+      },
+      "explanation": "The district judge is the highest judicial authority in the district. Appeals against the orders and Judgements of the district judge lie to the High Court."
+    },
+    {
+      "id": 6763,
+      "question": "Which of the following funds is charged for the salary and other allowances of the Judges of the High Courts?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Consolidated fund of India"
+        },
+        {
+          "label": "B",
+          "text": "Consolidated fund of state"
+        },
+        {
+          "label": "C",
+          "text": "both of them in 1:1 ratio"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Consolidated fund of state"
+      },
+      "explanation": "The salary of High Court judges is charged from Consolidated Fund of State; while pension of the High Court Judges comes from Consolidated Fund of India."
+    },
+    {
+      "id": 7916,
+      "question": "Who among the following can establish a common high court for two or more states / or Union Territories in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "President"
+        },
+        {
+          "label": "B",
+          "text": "Supreme court"
+        },
+        {
+          "label": "C",
+          "text": "Governors of the two states"
+        },
+        {
+          "label": "D",
+          "text": "Parliament by The Law"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Parliament by The Law"
+      },
+      "explanation": "The Parliament of India by Law can establish a common high court for two or more states or Union Territories in India."
+    },
+    {
+      "id": 8524,
+      "question": "The judiciary of Puducherry falls under the jurisdiction of which high court?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Madras High Court"
+        },
+        {
+          "label": "B",
+          "text": "Andhra Pradesh High Court"
+        },
+        {
+          "label": "C",
+          "text": "Kerala High Court"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka High Court"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Madras High Court"
+      },
+      "explanation": "The judiciary of Puducherry falls under the jurisdiction of the Madras High Court. Puducherry, also known as Pondicherry, is a Union Territory of India situated on the south-eastern coast and it does not have its own High Court. The laws are enforced by the Madras High Court, which also handles any litigation or legal matter arising from this region."
+    },
+    {
+      "id": 10187,
+      "question": "What is the current number of High Courts in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "20"
+        },
+        {
+          "label": "B",
+          "text": "22"
+        },
+        {
+          "label": "C",
+          "text": "24"
+        },
+        {
+          "label": "D",
+          "text": "25"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "25"
+      },
+      "explanation": "Currently there are 25 High Courts operational in India. They are established in different states of the country. Articles 214-231 deals with the provisions of the High Courts in India."
+    }
+  ]
+}

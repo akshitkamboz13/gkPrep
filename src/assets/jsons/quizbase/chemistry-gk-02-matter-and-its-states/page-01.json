@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "chemistry-gk-02-matter-and-its-states",
+    "title": "Chemistry-2-Matter and Its States",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:01:04"
+  },
+  "questions": [
+    {
+      "id": 5895,
+      "question": "What happens to ozone's volume when it is heated?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increases"
+        },
+        {
+          "label": "B",
+          "text": "Decreases"
+        },
+        {
+          "label": "C",
+          "text": "Remains unchanged"
+        },
+        {
+          "label": "D",
+          "text": "First increases, then decreases"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Increases"
+      },
+      "explanation": "According to Charles's Law, for gases at constant pressure, volume increases with temperature. Heating ozone increases the kinetic energy of molecules, expanding its volume if pressure is constant. Ozone (O₃) behaves like other gases, expanding when heated. This law applies to all ideal gases and ozone approximates ideal behavior under moderate conditions."
+    },
+    {
+      "id": 6435,
+      "question": "What is the electrical state of a molecule, considered the smallest part of matter retaining the properties of the original matter?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Positive"
+        },
+        {
+          "label": "B",
+          "text": "Negative"
+        },
+        {
+          "label": "C",
+          "text": "Either positive or negative"
+        },
+        {
+          "label": "D",
+          "text": "Neutral"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Neutral"
+      },
+      "explanation": "A molecule represents the smallest portion of a substance that retains the characteristics of the substance. It's electrically neutral because it's made up of atoms that bond together, sharing or exchanging electrons to achieve stability. This process balances out the electrical charges of the protons and electrons, rendering the molecule as a whole electrically neutral."
+    },
+    {
+      "id": 6672,
+      "question": "Water at 4 degree centigrade has____?",
+      "options": [
+        {
+          "label": "A",
+          "text": "minimum density"
+        },
+        {
+          "label": "B",
+          "text": "maximum density"
+        },
+        {
+          "label": "C",
+          "text": "No density"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "maximum density"
+      },
+      "explanation": "Water at 4 degrees Celsius has maximum density. This is due to the unique molecular structure of water, which allows it to reach its highest density at this temperature. As water cools from higher temperatures, it becomes denser until it reaches 4 degrees. below this temperature, it begins to expand, making ice less dense than liquid water. This phenomenon is crucial for aquatic life, as it allows ice to float, insulating the water below."
+    },
+    {
+      "id": 7323,
+      "question": "Which of the following best describes the nature of Froth and Foam?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Solid suspended in gas"
+        },
+        {
+          "label": "B",
+          "text": "Liquid suspended in gas"
+        },
+        {
+          "label": "C",
+          "text": "Gas suspended in liquid"
+        },
+        {
+          "label": "D",
+          "text": "Gas suspended in solid"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Gas suspended in liquid"
+      },
+      "explanation": "Froth and foams are examples of \"gas suspended in liquid\". They are typically created when gas bubbles are dispersed in a liquid. This physical phenomenon is commonly observed in many daily life scenarios such as soap lather and carbonated drinks. Technically, they are a special case of colloid where little blobs of one liquid are dispersed in another and show the property of surface tension."
+    },
+    {
+      "id": 7327,
+      "question": "According to Avogadro’s hypothesis, equal volumes of gases contain equal number of?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atoms"
+        },
+        {
+          "label": "B",
+          "text": "Molecules"
+        },
+        {
+          "label": "C",
+          "text": "Particles"
+        },
+        {
+          "label": "D",
+          "text": "Electrons"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Molecules"
+      },
+      "explanation": "Avogadro's hypothesis was proposed by Amedeo Avogadro in 1811. It states that equal volumes of all gases, at the same temperature and pressure, contain equal numbers of molecules. Avogadro's number is defined as 6.022×10^23 molecules per mole. This hypothesis was crucial for determining molecular weights and led to the development of the ideal gas law."
+    }
+  ]
+}

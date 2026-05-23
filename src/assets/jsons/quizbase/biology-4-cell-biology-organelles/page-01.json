@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-4-cell-biology-organelles",
+    "title": "4. Cell Biology & Organelles",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:59:34"
+  },
+  "questions": [
+    {
+      "id": 3059,
+      "question": "Which of the following statements is incorrect about the Lysosome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is a membrane-bound organelle found in plant as well as animal cells"
+        },
+        {
+          "label": "B",
+          "text": "It is also called the suicidal bag of the cell"
+        },
+        {
+          "label": "C",
+          "text": "It helps in the synthesis of protein"
+        },
+        {
+          "label": "D",
+          "text": "It acts as a dispatch station of protein products received from the endoplasmic reticulum (ER)"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "It acts as a dispatch station of protein products received from the endoplasmic reticulum (ER)"
+      },
+      "explanation": "Golgi apparatus acts as a dispatch station of protein products received from the endoplasmic reticulum (ER). Lysosomes are membrane-bound organelles. They are also called suicide bags because in case of disturbance of their cellular metabolism they digest their own cell by releasing own enzymes. Though lysosomes are not commonly-found in plant cells, but some plant cells do contain lysosomes."
+    },
+    {
+      "id": 3060,
+      "question": "Which of the following is not present in animal cells?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cell walls"
+        },
+        {
+          "label": "B",
+          "text": "Mitochondria"
+        },
+        {
+          "label": "C",
+          "text": "Ribosomes"
+        },
+        {
+          "label": "D",
+          "text": "Cytoplasm"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Cell walls"
+      },
+      "explanation": "Animal cells do not have cell walls. Cell walls are found in plant cells. Other given organelles like Mitochondria, Ribosome and Cytoplasm are present in animal cells."
+    },
+    {
+      "id": 3061,
+      "question": "Which of the following protects the body against infectious disease and foreign invaders?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Leukocytes"
+        },
+        {
+          "label": "B",
+          "text": "Red blood cells"
+        },
+        {
+          "label": "C",
+          "text": "Endoplasmic reticulum (ER)"
+        },
+        {
+          "label": "D",
+          "text": "Golgi apparatus"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Leukocytes"
+      },
+      "explanation": "White blood cells (WBCs), also called leukocytes or leucocytes, are the cells of the immune system that are involved in protecting the body against both infectious disease and foreign invaders. All white blood cells are produced and derived from multipotent cells in the bone marrow known as hematopoietic stem cells."
+    },
+    {
+      "id": 4296,
+      "question": "Which among the following is the most important role played by Ribosome in the cells?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Synthesis of RNA"
+        },
+        {
+          "label": "B",
+          "text": "Synthesis of DNA"
+        },
+        {
+          "label": "C",
+          "text": "Synthesis of Proteins"
+        },
+        {
+          "label": "D",
+          "text": "Metabolism of Carbohydrates"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Synthesis of Proteins"
+      },
+      "explanation": "The most important role played by Ribosome in the cells is the synthesis of proteins. Ribosomes are composed of special proteins and nucleic acids."
+    },
+    {
+      "id": 6207,
+      "question": "Which among the following cell organelles is essential for Cellular respiration?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Endoplasmic Reticulum"
+        },
+        {
+          "label": "B",
+          "text": "Golgi Body"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondrion"
+        },
+        {
+          "label": "D",
+          "text": "Lysosomes"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Mitochondrion"
+      },
+      "explanation": "Mitochondrion is essential for Cellular respiration. Mitochondria are also responsible for generating clusters of iron and sulphur. Iron and Sulphur are important cofactors of many enzymes."
+    }
+  ]
+}

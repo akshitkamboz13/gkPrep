@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-30-scheduled-and-tribal-areas",
+    "title": "Scheduled and Tribal Areas",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:21:17"
+  },
+  "questions": [
+    {
+      "id": 2955,
+      "question": "Which of the following states is not included in the sixth schedule of Indian Constitution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Meghalaya"
+        },
+        {
+          "label": "B",
+          "text": "Tripura"
+        },
+        {
+          "label": "C",
+          "text": "Mizoram"
+        },
+        {
+          "label": "D",
+          "text": "Manipur"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Manipur"
+      },
+      "explanation": "Sixth Schedule of Indian Constitution consists of provisions for administration of Tribal Area in Assam, Meghalaya, Tripura, and Mizoram & Arunachal Pradesh. District or the Regional Councils in these states may after its first constitution make rules with the approval of the Governor."
+    },
+    {
+      "id": 7345,
+      "question": "Which of the following are called \"scheduled areas\" as per Indian constitution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tribal inhabited areas located in North East India"
+        },
+        {
+          "label": "B",
+          "text": "Tribal inhabited areas which are located in other parts of India other than North East India"
+        },
+        {
+          "label": "C",
+          "text": "Tribal inhabited areas located all over India including NE states"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Tribal inhabited areas which are located in other parts of India other than North East India"
+      },
+      "explanation": "Tribal inhabited areas which are located in other parts of India than North East India. Tribal areas of the Assam, Meghalaya, Tripura and Mizoram are separately dealt with provisions given in 5th schedule"
+    },
+    {
+      "id": 8302,
+      "question": "Who among the following has right to declare any area as a Scheduled Area?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Governor of the respective state"
+        },
+        {
+          "label": "B",
+          "text": "President of India"
+        },
+        {
+          "label": "C",
+          "text": "Parliament of India"
+        },
+        {
+          "label": "D",
+          "text": "State legislature"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "President of India"
+      },
+      "explanation": "President of India has the right to declare any area as a Scheduled Area and has powers with respect to the administration of scheduled areas and tribal areas."
+    },
+    {
+      "id": 10078,
+      "question": "Samata judgment (1997) is related to which of the following schedules of Indian Constitution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Schedule 4"
+        },
+        {
+          "label": "B",
+          "text": "Schedule 5"
+        },
+        {
+          "label": "C",
+          "text": "Schedule 6"
+        },
+        {
+          "label": "D",
+          "text": "Schedule 9"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Schedule 5"
+      },
+      "explanation": "Supreme Court’s Samata judgment (1997) nullified all mining leases granted by the State government of Andhra Pradesh in the Scheduled areas and asked it to stop all mining operations, thus protecting the land of tribal people. This judgement is a landmark decision that has since 1997 helped save the scheduled areas and the tribal people in different states. Under schedule 5 of the constitution, Supreme Court protected the land of the tribal people through this judgment."
+    },
+    {
+      "id": 11192,
+      "question": "In India, the responsibility for recognition and vesting of forest rights and distribution of land rights rests with which among the following ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Environment & Forests"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Tribal affairs"
+        },
+        {
+          "label": "C",
+          "text": "State and UT Governments"
+        },
+        {
+          "label": "D",
+          "text": "Local Governments"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "State and UT Governments"
+      },
+      "explanation": "The responsibility for recognition and vesting of forest rights and distribution of land rights in India rests with the respective State and UT Governments."
+    }
+  ]
+}

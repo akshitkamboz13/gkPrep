@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-january-2023",
+    "title": "Current Affairs Quiz - January, 2023",
+    "page": 5,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:46:50",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:54:15"
+  },
+  "questions": [
+    {
+      "id": 41,
+      "question": "The Statehood Day of Manipur, Meghalaya and Tripura is celebrated on which day?",
+      "options": [
+        {
+          "label": "A",
+          "text": "January 18"
+        },
+        {
+          "label": "B",
+          "text": "January 21"
+        },
+        {
+          "label": "C",
+          "text": "January 24"
+        },
+        {
+          "label": "D",
+          "text": "January 27"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "January 21"
+      },
+      "explanation": "The Statehood Day of Manipur, Meghalaya and Tripura is celebrated on January 21. This year marks the 51st foundation year for the three states. They attained statehood under the North Eastern Areas (Reorganisation) Act of 1971. Under the Sixth Schedule of the Constitution of India, Meghalaya was made an autonomous state in Assam through the Assam (Meghalaya) Reorganization Act, of 1969."
+    },
+    {
+      "id": 42,
+      "question": "Which state organised the Regional Conference on ‘e-Governance’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jharkhand"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Telengana"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Maharashtra"
+      },
+      "explanation": "The Chief Minister of Maharashtra Eknath Shinde inaugurated the Regional Conference on ‘e-Governance’ at Mumbai. This conference has been jointly organized by the Department of Administrative Reforms and Public Grievances (DARPG) in collaboration with the Government of Maharashtra in Mumbai. It aims to create a common platform to share experiences in the formulation and implementation of best practices in transparent and citizen-friendly effective administration."
+    },
+    {
+      "id": 43,
+      "question": "Which institution launched an information database including a repository of information pertaining to municipal bonds?",
+      "options": [
+        {
+          "label": "A",
+          "text": "RBI"
+        },
+        {
+          "label": "B",
+          "text": "SEBI"
+        },
+        {
+          "label": "C",
+          "text": "IRDAI"
+        },
+        {
+          "label": "D",
+          "text": "NSE"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "SEBI"
+      },
+      "explanation": "The Securities and Exchange Board of India (SEBI) has launched an information database including a repository of information pertaining to municipal bonds on its website. It aims to assist municipal debt issuers and other stakeholders in the municipal debt market. The information database will also be accessible by using a QR Code. The repository also contains checklists for pre-listing requirements and sample letters and certificates from intermediaries to be obtained by an issuer."
+    },
+    {
+      "id": 44,
+      "question": "What is the name of the programme launched to spread awareness about lives of national icons?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Parakram Netas program"
+        },
+        {
+          "label": "B",
+          "text": "Know Your Leader program"
+        },
+        {
+          "label": "C",
+          "text": "Mera Bharat Mahan program"
+        },
+        {
+          "label": "D",
+          "text": "Atmanirbhar India"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Know Your Leader program"
+      },
+      "explanation": "Prime Minister Narendra Modi interacted with youngsters on Netaji Jayati, which is known as Parakram Diwas. PM Modi interacted with youngsters selected under ‘Know Your Leader’ programme at his residence. As many as 80 youngsters were selected from across the country to participate in the floral tribute function in the parliament in honour of Netaji Subhas Chandra Bose."
+    },
+    {
+      "id": 45,
+      "question": "In the FIH Hockey Men’s World Cup 2023, which country defeated India in the crossover match?",
+      "options": [
+        {
+          "label": "A",
+          "text": "England"
+        },
+        {
+          "label": "B",
+          "text": "New Zealand"
+        },
+        {
+          "label": "C",
+          "text": "Morocco"
+        },
+        {
+          "label": "D",
+          "text": "South Africa"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "New Zealand"
+      },
+      "explanation": "India lost 4-5 to New Zealand in the penalty shoot-out of the FIH Men’s Hockey World Cup crossover match at the Kalinga Stadium, Bhubaneswar. Spain defeated Malaysia 4-3 in a penalty shoot-out in the same venue. It will lock horns with Australia in quarters. Australia, Belgium, the Netherlands, and England have already entered the quarterfinals."
+    },
+    {
+      "id": 46,
+      "question": "Which institution released the ‘World Economic Situation and Prospects 2023’ report?",
+      "options": [
+        {
+          "label": "A",
+          "text": "World Bank"
+        },
+        {
+          "label": "B",
+          "text": "United Nations"
+        },
+        {
+          "label": "C",
+          "text": "World Economic Forum"
+        },
+        {
+          "label": "D",
+          "text": "Asian Development Bank"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "United Nations"
+      },
+      "explanation": "As per United Nations (UN) World Economic Situation and Prospects 2023 report, India’s growth is likely to remain strong at 5.8 per cent. The growth estimation was slightly lower than the estimated 6.4 per cent in 2022, due to higher interest rates and effect of global slowdown on investment and exports. UN also predicted a worsening outlook in most developing regions amid the fear of a possible recession."
+    },
+    {
+      "id": 47,
+      "question": "Which major tech company announced to change its policy to comply with the Competition Commission of India (CCI)’s directives?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Meta"
+        },
+        {
+          "label": "B",
+          "text": "Microsoft"
+        },
+        {
+          "label": "C",
+          "text": "Google"
+        },
+        {
+          "label": "D",
+          "text": "Amazon"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Google"
+      },
+      "explanation": "Tech major Google announced that it would change its Android and Play policies in India in order to comply with the Competition Commission of India (CCI)’s directives. The Supreme Court last week said it would not block the actions the CCI wanted for antitrust reasons."
+    },
+    {
+      "id": 48,
+      "question": "Which state announced to give monthly allowance to unemployed youth from next financial year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gujarat"
+        },
+        {
+          "label": "B",
+          "text": "Assam"
+        },
+        {
+          "label": "C",
+          "text": "Chhattisgarh"
+        },
+        {
+          "label": "D",
+          "text": "Rajasthan"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Chhattisgarh"
+      },
+      "explanation": "Chhattisgarh Chief Minister, Bhupesh Baghel announced to give monthly allowance to unemployed youth from next financial year (2023-24). Bhupesh Baghel also announced the formulation of a rural industry policy to boost the cottage industry-based rural economy. He also announced housing assistance scheme for labourers, scheme for women entrepreneurs."
+    },
+    {
+      "id": 49,
+      "question": "Which city is the host of ‘National Child Science Congress’ in 2023?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ahmedabad"
+        },
+        {
+          "label": "B",
+          "text": "Mysuru"
+        },
+        {
+          "label": "C",
+          "text": "Pune"
+        },
+        {
+          "label": "D",
+          "text": "Kolkata"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ahmedabad"
+      },
+      "explanation": "The 30th National Child Science Congress began at Science City in Ahmedabad. Gujarat Council on Science and Technology (GUJCOST) and Gujarat Council of Science City are hosting the congress. Over 1400 delegates including child scientists, teachers, evaluators, and government officials will attend the congress. As many as 850 students from across the country will showcase their projects."
+    },
+    {
+      "id": 50,
+      "question": "Which state has launched the ‘Aam Aadmi Clinics’ (Mohalla Clinics) for providing health services to common public?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kerala"
+        },
+        {
+          "label": "B",
+          "text": "Punjab"
+        },
+        {
+          "label": "C",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Gujarat"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Punjab"
+      },
+      "explanation": "Delhi Chief Minister and Aam Aadmi Party (AAP) head Arvind Kejriwal launched 400 “Aam Aadmi clinics” in Amritsar, Punjab. The first set of 100 Mohalla clinics were opened in Punjab last year and more than 10 lakh people had availed health services in the Mohalla clinics."
+    }
+  ]
+}

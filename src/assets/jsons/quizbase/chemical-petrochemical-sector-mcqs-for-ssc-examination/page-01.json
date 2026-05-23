@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "chemical-petrochemical-sector-mcqs-for-ssc-examination",
+    "title": "15. Chemical & Petrochemical Sector",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:00:53"
+  },
+  "questions": [
+    {
+      "id": 57744,
+      "question": "What is India's global rank in chemical production?",
+      "options": [
+        {
+          "label": "A",
+          "text": "4"
+        },
+        {
+          "label": "B",
+          "text": "6"
+        },
+        {
+          "label": "C",
+          "text": "8"
+        },
+        {
+          "label": "D",
+          "text": "12"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "6"
+      },
+      "explanation": "India is the sixth-largest producer of chemicals worldwide as of 2024. The Indian chemical industry is valued at $220 billion. Over 80,000 chemical products are manufactured in India. India ranks third in chemical production in the Asia-Pacific region. The industry is projected to grow at 9–12% annually. Chemical products include bulk chemicals, specialty chemicals, fertilizers, agrochemicals, polymers, and petrochemicals."
+    },
+    {
+      "id": 57753,
+      "question": "Which city is a major chemical industry hub in Gujarat?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dahej"
+        },
+        {
+          "label": "B",
+          "text": "Pune"
+        },
+        {
+          "label": "C",
+          "text": "Hyderabad"
+        },
+        {
+          "label": "D",
+          "text": "Bhubaneswar"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Dahej"
+      },
+      "explanation": "Dahej is an industrial town in Bharuch district of Gujarat. Dahej hosts a Petroleum, Chemicals and Petrochemicals Investment Region (PCPIR). The Dahej Industrial Estate spans over 1700 hectares. Dahej's port handles large chemical cargo. Major chemical plants in Dahej include Reliance Industries and ONGC Petro additions Limited. The Gujarat Industrial Development Corporation manages Dahej Industrial Estate."
+    },
+    {
+      "id": 57755,
+      "question": "What percentage does the chemical industry contribute to India's GDP?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3%"
+        },
+        {
+          "label": "B",
+          "text": "7%"
+        },
+        {
+          "label": "C",
+          "text": "2.1%"
+        },
+        {
+          "label": "D",
+          "text": "6%"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "7%"
+      },
+      "explanation": "The Indian chemical industry contributed about 7% to India's GDP in 2024. The industry has a market size of around US$ 220–250 billion and is ranked sixth in the world and third in Asia by output. The industry supports over 2 million people and covers more than 80,000 commercial products."
+    },
+    {
+      "id": 57756,
+      "question": "Which chemical type has the highest production in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Commodity chemicals"
+        },
+        {
+          "label": "B",
+          "text": "Specialty chemicals"
+        },
+        {
+          "label": "C",
+          "text": "Agrochemicals"
+        },
+        {
+          "label": "D",
+          "text": "Petrochemicals"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Commodity chemicals"
+      },
+      "explanation": "Commodity chemicals account for 25% of the Indian chemical market as per recent industry data. Specialty chemicals represent 21%, agrochemicals 19%, petrochemicals 15%, and biotech/pharmaceuticals 20%. India’s chemical sector is among the top six in the world, and commodity chemicals remain the largest single category produced in the country."
+    },
+    {
+      "id": 57757,
+      "question": "Which of the following chemicals are classified as Basic Chemicals?Adhesive sealantPlasticsFertilizersPetrochemicalsSelect the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 2 and 3 only"
+        },
+        {
+          "label": "B",
+          "text": "2, 3 and 4 only"
+        },
+        {
+          "label": "C",
+          "text": "1, 2, 3 and 4"
+        },
+        {
+          "label": "D",
+          "text": "3 and 4 only"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "2, 3 and 4 only"
+      },
+      "explanation": "Basic chemicals include petrochemicals, fertilizers, inorganic chemicals, and other industrial chemicals. Plastics are a product of the petrochemical industry. Adhesive sealant is considered a specialty chemical, not a basic chemical. Therefore, only plastics, fertilizers, and petrochemicals (options 2, 3, and 4) are basic chemicals."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-29-human-body-senses-eyes-ears-and-nose",
+    "title": "29. Human Body - Senses - Eyes, Ears and Nose",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:58:37"
+  },
+  "questions": [
+    {
+      "id": 5168,
+      "question": "The most common use of ‘silicone hydrogels’ is making of which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Surgery Equipments"
+        },
+        {
+          "label": "B",
+          "text": "Contact Lenses"
+        },
+        {
+          "label": "C",
+          "text": "Breast Transplants"
+        },
+        {
+          "label": "D",
+          "text": "Capsules of medicines"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Contact Lenses"
+      },
+      "explanation": "Silicone hydrogel and regular hydrogel lenses both are made of plastics that are hard when dry but readily absorb water and become soft and gel-like when hydrated. They are most commonly used in making Contact Lenses."
+    },
+    {
+      "id": 5980,
+      "question": "Which among the following diseases is also known as \"Pink Eye\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Conjunctivitis"
+        },
+        {
+          "label": "B",
+          "text": "Myopia"
+        },
+        {
+          "label": "C",
+          "text": "Astigmatism"
+        },
+        {
+          "label": "D",
+          "text": "Presbyopia"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Conjunctivitis"
+      },
+      "explanation": "Pink eye or Conjunctivitis is an irritation or inflammation of the conjunctiva, which covers the white part of the eyeball. It can be caused by allergies or a bacterial or viral infection."
+    },
+    {
+      "id": 6753,
+      "question": "Which among the following makes the Cornea Transplantation easy and used more widely ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cornea are easily available"
+        },
+        {
+          "label": "B",
+          "text": "Cornea does not link up with blood vessels"
+        },
+        {
+          "label": "C",
+          "text": "both of the above reasons"
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Cornea does not link up with blood vessels"
+      },
+      "explanation": "A cornea transplant also called as keratoplasty is a surgical procedure to replace part of your cornea with corneal tissue from a donor. Cornea does not link up with blood vessels, this makes the Cornea Transplantation easy and used more widely."
+    },
+    {
+      "id": 9071,
+      "question": "Lacrimal apparatus, Lacrimal artery, Lacrimal bone, Lacrimal ducts, Lacrimal fossa, Lacrimal fluid & Lacrimal gland are parts of which organ of the body?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ear"
+        },
+        {
+          "label": "B",
+          "text": "Nose"
+        },
+        {
+          "label": "C",
+          "text": "Eye"
+        },
+        {
+          "label": "D",
+          "text": "Throat"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Eye"
+      },
+      "explanation": "These are parts of lacrimal apparatus in eye which is responsible for tear production and drainage."
+    },
+    {
+      "id": 11383,
+      "question": "Which among the following live tissues of the Human Eye does not have blood vessels?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sclera"
+        },
+        {
+          "label": "B",
+          "text": "Cornea"
+        },
+        {
+          "label": "C",
+          "text": "Choroid"
+        },
+        {
+          "label": "D",
+          "text": "Iris"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Cornea"
+      },
+      "explanation": "Cornea does not have blood vessels. It is the transparent part of the eye that covers the front portion of the eye. It covers the pupil, iris, and anterior chamber."
+    }
+  ]
+}

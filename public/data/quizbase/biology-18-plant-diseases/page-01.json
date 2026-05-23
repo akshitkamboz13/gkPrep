@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-18-plant-diseases",
+    "title": "18. Plant Diseases",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:57:41"
+  },
+  "questions": [
+    {
+      "id": 6963,
+      "question": "\"Karnal bunt” is a disease found in which if the following cereals?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rice"
+        },
+        {
+          "label": "B",
+          "text": "Wheat"
+        },
+        {
+          "label": "C",
+          "text": "Maize"
+        },
+        {
+          "label": "D",
+          "text": "Pulses"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Wheat"
+      },
+      "explanation": "Karnal bunt is a fungal disease of wheat, durum wheat, and triticale. T. indica is the fungal pathogen causing Karnal bunt of wheat seeds. Its distribution is mainly limited to northwest India and adjoining countries."
+    },
+    {
+      "id": 6964,
+      "question": "Which of the following disease is found in ground nut?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Downy mildew"
+        },
+        {
+          "label": "B",
+          "text": "Bunt"
+        },
+        {
+          "label": "C",
+          "text": "Ikki"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Ikki"
+      },
+      "explanation": "Ikki disease is found in ground nut. Groundnut is taxonomically classified as Arachis hypogaea, is a legume crop grown mainly for its edible seeds. It is widely grown in the tropics and subtropics."
+    },
+    {
+      "id": 21027,
+      "question": "Which of the following diseases is caused by consumption of a wheat bread contaminated with a fungus called Claviceps purpurea?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lathyrism"
+        },
+        {
+          "label": "B",
+          "text": "Ergotism"
+        },
+        {
+          "label": "C",
+          "text": "Cinchonism"
+        },
+        {
+          "label": "D",
+          "text": "Mushroom Poisoning"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ergotism"
+      },
+      "explanation": "Cleviceps purpurea is an important ascomycete that grows on the grains of rye grass cereals. It produces the drug ergot, which is both a severe poison and a useful medicinal drug. It affects the central nervous system as well as causes the contraction of involuntary muscle. Ergotism, caused by eating infected rye bread, was common in the Middle Ages, when it was known as “St. Anthony’s Fire."
+    },
+    {
+      "id": 22169,
+      "question": "Kernel smut and Sheath blight are two common diseases which occur due to excessive use of nitrogen fertilizer. The diseases are most commonly found in which of the following crops?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rice"
+        },
+        {
+          "label": "B",
+          "text": "Potato"
+        },
+        {
+          "label": "C",
+          "text": "Cotton"
+        },
+        {
+          "label": "D",
+          "text": "Sugarcane"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Rice"
+      },
+      "explanation": "Kernel smut of rice normally is a minor disease. Damage is caused by the endosperm of the rice grain being replaced by masses of black fungal spores. Sheath blight disease caused by the fungus Rhizoctonia solani. This fungus is very widespread in agricultural crops."
+    },
+    {
+      "id": 33146,
+      "question": "Which of the following is the most common wheat disease in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Green ear"
+        },
+        {
+          "label": "B",
+          "text": "Smut"
+        },
+        {
+          "label": "C",
+          "text": "Loose smut"
+        },
+        {
+          "label": "D",
+          "text": "Rust"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Rust"
+      },
+      "explanation": "Wheat leaf rust is a fungal disease that affects wheat, barley and rye stems, leaves and grains. Its infections can lead up to 20% yield loss, which is exacerbated by dying leaves, which fertilize the fungus. The pathogen of rust is Puccinia rust fungus."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: April 21, 2026",
+    "date": "2026-04-21",
+    "year": "2026",
+    "month": "04-april",
+    "day": 21,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 02:31:26",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:51:11"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Apis mellifera, that was recently seen in news, belongs to which species?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Spider"
+        },
+        {
+          "label": "B",
+          "text": "Frog"
+        },
+        {
+          "label": "C",
+          "text": "Honey bee"
+        },
+        {
+          "label": "D",
+          "text": "Fish"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Honey bee"
+      },
+      "explanation": "Scientists at CSIR Indian Institute of Integrative Medicine demonstrated that Apis mellifera can survive sub-zero temperatures, reducing the need for seasonal hive migration. Apis mellifera is the most widely distributed and domesticated honey bee species globally. It is commercially important for honey, wax, propolis production, and crop pollination. It is native to Europe, West Asia, and Africa, it has been introduced worldwide since the 17th century. It thrives in habitats with abundant flowering plants such as meadows, forests, and gardens. It can adapt to diverse environments including grasslands, deserts, and wetlands with adequate resources."
+    },
+    {
+      "id": 2,
+      "question": "Col. Sher Jung National Park is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Karnataka"
+        },
+        {
+          "label": "D",
+          "text": "Kerala"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Himachal Pradesh"
+      },
+      "explanation": "The Himachal Pradesh High Court quashed a notification declaring Eco-Sensitive Zone (ESZ) around the Col. Sher Jung National Park, also known as Simbalbara National Park, is located in the Paonta Valley, Himachal Pradesh. It is named after freedom fighter and environmentalist Colonel Sher Jung. The park lies in the lower to upper Shiwalik ranges with elevations between 350–700 metres. It is situated at the confluence of the Himalayas, Gangetic plains, and semi-arid biogeographic regions. It shares ecological connectivity with Kalesar National Park."
+    },
+    {
+      "id": 3,
+      "question": "The Muthuvan tribe is primarily found in which region?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eastern Himalayas"
+        },
+        {
+          "label": "B",
+          "text": "Eastern Ghats"
+        },
+        {
+          "label": "C",
+          "text": "chotanagpur Plateau"
+        },
+        {
+          "label": "D",
+          "text": "Western Ghats"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Western Ghats"
+      },
+      "explanation": "A report by the Kerala State Food Commission highlighted discrepancies in ration distribution in Edamalakkudy, Kerala’s only tribal panchayat inhabited by the Muthuvan tribe. The Muthuvan tribe resides in the Western Ghats across Kerala and Tamil Nadu. They speak the Muthuvan language, belonging to the Dravidian language family, with dialects like Malayalam Muthuvan and Pandi Muthuvan. They are known for harmonious coexistence with wildlife and deep ecological knowledge of hill ecosystems. The tribe possesses traditional medicinal knowledge passed down through generations."
+    },
+    {
+      "id": 4,
+      "question": "The AI-powered chatbot “Abhay” has been launched by which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "National Investigation Agency"
+        },
+        {
+          "label": "B",
+          "text": "Intelligence Bureau"
+        },
+        {
+          "label": "C",
+          "text": "Central Bureau of Investigation"
+        },
+        {
+          "label": "D",
+          "text": "Enforcement Directorate"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Central Bureau of Investigation"
+      },
+      "explanation": "The Central Bureau of Investigation launched an Artificial Intelligence-powered chatbot named “Abhay” to help citizens verify official notices and prevent digital scams. The chatbot will be launched during the D.P. Kohli Memorial Lecture by Justice Surya Kant. It enables users to check the authenticity of notices, addressing rising “digital arrest” scams involving impersonation of officials. The tool acts as a first line of defence against cyber fraud, where criminals siphon money through deception. It reflects increasing adoption of Artificial Intelligence in policing for fraud detection and public assistance."
+    },
+    {
+      "id": 5,
+      "question": "India’s first Petroglyph Conservation Park is being established in which state/UT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Ladakh"
+        },
+        {
+          "label": "C",
+          "text": "Uttarakhand"
+        },
+        {
+          "label": "D",
+          "text": "Delhi"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ladakh"
+      },
+      "explanation": "India’s first Petroglyph Conservation Park is being established in Ladakh on the banks of the Indus River to preserve ancient rock art. Petroglyphs are prehistoric carvings or engravings on rock surfaces depicting symbols, figures, and inscriptions. The park aims to protect endangered petroglyphs threatened by tourism, infrastructure development, and environmental factors. It will relocate and conserve carvings from vulnerable and isolated sites across Ladakh for safe preservation and public display."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "chemistry-gk-04-compounds",
+    "title": "Chemistry-4-Compounds",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:01:13"
+  },
+  "questions": [
+    {
+      "id": 4211,
+      "question": "Which among the following is the correct set of chemical formulae of Chile Saltpetre, Saltpetre and Quick Lime?",
+      "options": [
+        {
+          "label": "A",
+          "text": "KNO3, NaNO3, CaO"
+        },
+        {
+          "label": "B",
+          "text": "NaNO3, KNO3, Ca(OH)2"
+        },
+        {
+          "label": "C",
+          "text": "Na(OH)2, KOH, CaO"
+        },
+        {
+          "label": "D",
+          "text": "NaNO3, KNO3, CaO"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "NaNO3, KNO3, CaO"
+      },
+      "explanation": "Saltpetre, also spelled Saltpeter, also called Nitre, or Niter, any of three naturally occurring nitrates, distinguished as (1) ordinary saltpetre, or potassium nitrate, KNO3; (2) Chile saltpetre, cubic nitre, or sodium nitrate, NaNO3; and (3) lime saltpetre, wall saltpetre, or calcium nitrate, Ca(NO3)2. Calcium oxide (CaO), commonly known as quicklime or burnt lime, is a widely used chemical compound."
+    },
+    {
+      "id": 4369,
+      "question": "Which among the following compound is most commonly used in the Photochromic lenses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Potassium Dichromate"
+        },
+        {
+          "label": "B",
+          "text": "Silver Chloride"
+        },
+        {
+          "label": "C",
+          "text": "Potassium ferrate"
+        },
+        {
+          "label": "D",
+          "text": "Ferric Chloride"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Silver Chloride"
+      },
+      "explanation": "Photochromatic or Photochromic glass acquires a darker shade when exposed to bright light and returns to its original lighter shade in dim light. This happens because silver halides (iodide or chloride) is added to this glass"
+    },
+    {
+      "id": 4988,
+      "question": "Highest percentage of nitrogen is found in which among the following fertilizers among the given options?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Calcium ammonium nitrate"
+        },
+        {
+          "label": "B",
+          "text": "Ammonium nitrate"
+        },
+        {
+          "label": "C",
+          "text": "Calcium nitrate"
+        },
+        {
+          "label": "D",
+          "text": "Urea"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Urea"
+      },
+      "explanation": "The agricultural industry widely uses urea, a white crystalline solid containing 46 percent nitrogen as an animal feed additive and fertilizer. Urea has the highest nitrogen content of all solid fertilizers at 46% N."
+    },
+    {
+      "id": 5170,
+      "question": "In what form is Nitrogen present in Urea?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nitrite"
+        },
+        {
+          "label": "B",
+          "text": "Nitrate"
+        },
+        {
+          "label": "C",
+          "text": "Ammonium"
+        },
+        {
+          "label": "D",
+          "text": "Amide"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Amide"
+      },
+      "explanation": "Urea is an organic compound with the formula (NH2)2CO. The Nitrogen present in Urea is in the form of Amide. This compound is highly soluble in water and is a very effective source of Nitrogen for plants. It is the main nitrogenous end product of the metabolic breakdown of proteins in all mammals and some fishes."
+    },
+    {
+      "id": 5293,
+      "question": "Which among the following is known as Quick Lime?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CaO"
+        },
+        {
+          "label": "B",
+          "text": "CaCO2"
+        },
+        {
+          "label": "C",
+          "text": "Ca(OH)2"
+        },
+        {
+          "label": "D",
+          "text": "CaCl2"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "CaO"
+      },
+      "explanation": "Calcium oxide (CaO), commonly known as quicklime or burnt lime, is a widely used chemical compound. It is a white, caustic, alkaline crystalline solid at room temperature."
+    }
+  ]
+}

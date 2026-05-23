@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-culture10-indian-classical-music",
+    "title": "Indian Culture:10-Indian Classical Music",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:15:51"
+  },
+  "questions": [
+    {
+      "id": 3081,
+      "question": "Bobbili veena, also known as Saraswathi Veena or the Ekanda Veena, is a large plucked string instrument used in Carnatic classical music. It is made from which of the following trees?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sandalwood"
+        },
+        {
+          "label": "B",
+          "text": "Jackwood"
+        },
+        {
+          "label": "C",
+          "text": "Bamboo"
+        },
+        {
+          "label": "D",
+          "text": "Rosewood"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Jackwood"
+      },
+      "explanation": "Bobbili veena, also known as Saraswathi Veena or the Ekanda Veena, is a large plucked string instrument used in Carnatic classical music. It is carved from a single piece of Jackwood. Jackwood is a rainforest tree."
+    },
+    {
+      "id": 4547,
+      "question": "Ustad Allah Rakkha Khan was a famous exponent of which among the following instruments?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shehnai"
+        },
+        {
+          "label": "B",
+          "text": "Tabla"
+        },
+        {
+          "label": "C",
+          "text": "Sitar"
+        },
+        {
+          "label": "D",
+          "text": "Harmonium"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Tabla"
+      },
+      "explanation": "Ustad Allah Rakha Khan, also known as A. R. Khan or simply Ustad Allah Rakha, was a Indian classical musician and tabla player. He was one of the most respected and influential tabla players of his time, and he played with many of the greatest musicians in Indian classical music."
+    },
+    {
+      "id": 5019,
+      "question": "Thumri Singer Girija Devi belongs to which among the following Gharanas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Banaras Gharana"
+        },
+        {
+          "label": "B",
+          "text": "Agra Gharana"
+        },
+        {
+          "label": "C",
+          "text": "Kirana Gharana"
+        },
+        {
+          "label": "D",
+          "text": "Lucknow Gharana"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Banaras Gharana"
+      },
+      "explanation": "Girija Devi belongs to Banaras gharana. She performs classical and light classical music and has helped elevate the profile of thumri."
+    },
+    {
+      "id": 5410,
+      "question": "Who among the following is considered to be the originator of the khayal and tarana styles of Hindustani Classical Music?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Niyamat Khan"
+        },
+        {
+          "label": "B",
+          "text": "Mohammad Shah Rangile"
+        },
+        {
+          "label": "C",
+          "text": "Amir Khusro"
+        },
+        {
+          "label": "D",
+          "text": "Tansen"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Amir Khusro"
+      },
+      "explanation": "Amir Khusro was a Sufi mystic and a spiritual disciple of Nizamuddin Auliya. He was a poet as well as prolific musician. He is regarded as the “father of qawwali”. He is also credited with enriching Indian classical music by introducing Persian and Arabic elements in it, and was the originator of the khayal and tarana styles of music. Khayal later reached to its zenith during the times of Mohammad Shah Rangila and today is integral part of Hindustani classical music."
+    },
+    {
+      "id": 5526,
+      "question": "Pandit Jasraj belongs to which among the following Gharanas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kirana"
+        },
+        {
+          "label": "B",
+          "text": "Jaipur"
+        },
+        {
+          "label": "C",
+          "text": "Banaras"
+        },
+        {
+          "label": "D",
+          "text": "Mewati"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Mewati"
+      },
+      "explanation": "Pandit Jasraj was an Indian classical vocalist, belonging to the Mewati gharana. His musical career spanned 75 years resulting in national and international fame, respect and numerous major awards and accolades. He died in August 2020."
+    }
+  ]
+}

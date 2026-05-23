@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: March 19, 2026",
+    "date": "2026-03-19",
+    "year": "2026",
+    "month": "03-march",
+    "day": 19,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 05:22:42",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:52:43"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Prambanan Temple, that was recently seen in news, is located in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "South Africa"
+        },
+        {
+          "label": "B",
+          "text": "Chile"
+        },
+        {
+          "label": "C",
+          "text": "Japan"
+        },
+        {
+          "label": "D",
+          "text": "Indonesia"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Indonesia"
+      },
+      "explanation": "India and Indonesia have partnered to restore the Prambanan Temple complex in Yogyakarta, Southern Java. Prambanan is the largest Hindu temple complex in Indonesia, located in Sleman region. It is locally known as Roro Jonggrang, meaning “Temple of the Slender Virgin.” The temple was built in the 9th century by the Sanjaya dynasty. It is dedicated to the Hindu Trimurti: Brahma, Vishnu, and Shiva. The complex remained buried for centuries and was rediscovered in the 19th century. It was declared a UNESCO World Heritage Site in 1991."
+    },
+    {
+      "id": 2,
+      "question": "The Ladakh Magmatic Arc (LMA) is primarily associated with which type of rocks?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sedimentary rocks"
+        },
+        {
+          "label": "B",
+          "text": "Metamorphic rocks"
+        },
+        {
+          "label": "C",
+          "text": "Igneous rocks"
+        },
+        {
+          "label": "D",
+          "text": "Volcanic ash deposits"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Igneous rocks"
+      },
+      "explanation": "Scientists studied the evolution of the Ladakh Magmatic Arc (LMA) in the North-West Himalaya. Ladakh Magmatic Arc (LMA) is a belt of igneous rocks in the Trans-Himalaya formed between Jurassic and Eocene period (about 201.3 to 33.9 million years ago). It is an extinct volcanic arc that developed over millions of years in three phases. First phase (160–110 million years ago) involved early island arc formation. Second phase (103–45 million years ago) saw intense magmatism due to plate convergence. Third phase (after 45 million years ago) involved post-collision magmatic activity. It formed when the Neo-Tethys Ocean existed and tectonic plates underwent subduction beneath the Earth’s surface."
+    },
+    {
+      "id": 3,
+      "question": "The Floating LiDAR Buoy System has been developed by which institute?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indian Space Research Organisation"
+        },
+        {
+          "label": "B",
+          "text": "Defence Research and Development Organisation"
+        },
+        {
+          "label": "C",
+          "text": "National Institute of Ocean Technology"
+        },
+        {
+          "label": "D",
+          "text": "Indian Institute of Tropical Meteorology"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "National Institute of Ocean Technology"
+      },
+      "explanation": "National Institute of Ocean Technology (NIOT) tested an indigenously developed Floating LiDAR Buoy System off Muttom coast, Tamil Nadu. It is a high-tech ocean instrument that measures wind conditions using LiDAR (Light Detection and Ranging) technology. The system combines a floating buoy with laser-based sensors to study atmospheric conditions over the sea. It emits laser pulses that reflect from air particles, and the returned signals are analysed to measure wind speed, direction, and patterns. It can capture detailed wind data up to 300 metres above sea level, which is better than traditional instruments."
+    },
+    {
+      "id": 4,
+      "question": "What kind of disease is ‘Melanoma’ that was recently seen in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fungal disease"
+        },
+        {
+          "label": "B",
+          "text": "Skin cancer"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial disease"
+        },
+        {
+          "label": "D",
+          "text": "Blood cancer"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Skin cancer"
+      },
+      "explanation": "Researchers at the U.S. National Institutes of Health discovered that cholesterol present in the membrane around the cell nucleus plays a role in promoting the spread of melanoma, a type of skin cancer. Melanoma originates in melanocytes, which are specialized cells responsible for producing melanin, the pigment that gives color to the skin. This type of cancer typically develops on areas of the skin that are frequently exposed to the sun, such as the arms, back, face, and legs, although it can occasionally appear inside the body, including in the nose or throat. Ultraviolet (UV) light exposure, whether from sunlight or artificial sources like tanning lamps and beds, is the main cause of most melanomas, although other factors may also contribute."
+    },
+    {
+      "id": 5,
+      "question": "Where was Asia’s largest tulip garden inaugurated?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dehradun"
+        },
+        {
+          "label": "B",
+          "text": "Shimla"
+        },
+        {
+          "label": "C",
+          "text": "Srinagar"
+        },
+        {
+          "label": "D",
+          "text": "Chandigarh"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Srinagar"
+      },
+      "explanation": "The Indira Gandhi Memorial Tulip Garden in Srinagar, Asia’s largest tulip garden, was inaugurated on 16 March 2026 by Jammu and Kashmir Chief Minister Omar Abdullah, marking the start of the spring tourism season. The garden is spread over 74 acres at the foothills of the Zabarwan Range, overlooking Dal Lake. It features over 1.8 million tulips across 70–75 varieties, including imported varieties from the Netherlands. The garden’s vibrant floral display attracts tourists from across India and abroad, turning the valley into a colorful and picturesque landscape."
+    }
+  ]
+}

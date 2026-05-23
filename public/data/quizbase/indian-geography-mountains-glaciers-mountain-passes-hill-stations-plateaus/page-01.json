@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-geography-mountains-glaciers-mountain-passes-hill-stations-plateaus",
+    "title": "4. Mountains, Glaciers, Mountain Passes, Hill Stations, Plateaus of India",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:18:44"
+  },
+  "questions": [
+    {
+      "id": 2025,
+      "question": "The Pir Panjal range is located in which of the following states or Union Territories?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Arunachal Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Jammu and Kashmir"
+        },
+        {
+          "label": "C",
+          "text": "Punjab"
+        },
+        {
+          "label": "D",
+          "text": "Uttarakhand"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Jammu and Kashmir"
+      },
+      "explanation": "The Pir Panjal ranges lie in the Inner Himalayan region, running from east southeast to west northwest across the states of Himachal Pradesh and Jammu and Kashmir in India as well as Pakistan Administered Kashmir in Pakistan, where the average elevation varies from 1,400 m to 4,100 m ."
+    },
+    {
+      "id": 2760,
+      "question": "Which of the following is not a correct statement?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both Khasi Hills and Mizo Hills are part of Patkai Range"
+        },
+        {
+          "label": "B",
+          "text": "Phawngpui or 'Blue Mountain is highest point of Mizo Hills"
+        },
+        {
+          "label": "C",
+          "text": "Khasi Hills are also known as Lushai Hills in local language"
+        },
+        {
+          "label": "D",
+          "text": "All are correct statements"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Khasi Hills are also known as Lushai Hills in local language"
+      },
+      "explanation": "The third statement is not correct. Lushai hills is an alternative name of Mizo Hills. Rest two statements are memorable points."
+    },
+    {
+      "id": 2763,
+      "question": "Malwa Plateau does not make a part of which of the following states?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "B",
+          "text": "Gujarat"
+        },
+        {
+          "label": "C",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "D",
+          "text": "Madhya Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Maharashtra"
+      },
+      "explanation": "Malwa Plateau is spread in Rajasthan, Madhya Pradesh and Gujarat."
+    },
+    {
+      "id": 3028,
+      "question": "Khardung La mountain pass is located in which Indian state or Union Territory?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Uttarakhand"
+        },
+        {
+          "label": "C",
+          "text": "Jammu & Kashmir"
+        },
+        {
+          "label": "D",
+          "text": "Sikkim"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Jammu & Kashmir"
+      },
+      "explanation": "Khardung La is a mountain pass in the Ladakh region of the Indian state of Jammu and Kashmir."
+    },
+    {
+      "id": 3176,
+      "question": "Which of the following is an example of Piedmont plateau?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tibetan Plateau"
+        },
+        {
+          "label": "B",
+          "text": "Bolivian Plateau"
+        },
+        {
+          "label": "C",
+          "text": "Malwa Plateau"
+        },
+        {
+          "label": "D",
+          "text": "Ladakh plateau"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Malwa Plateau"
+      },
+      "explanation": "A Piedmont plateau has a mountain on one side. Malwa plateau is a Piedmont plateau. Other examples of such plateaus are Patagonian plateau in Argentina, Piedmont plateau in America etc."
+    }
+  ]
+}

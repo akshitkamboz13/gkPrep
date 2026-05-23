@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "important-days-and-years",
+    "title": "Important Days and Years",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:14:44"
+  },
+  "questions": [
+    {
+      "id": 99,
+      "question": "The National Deworming Day (NDD) is celebrated on which date in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "February 13"
+        },
+        {
+          "label": "B",
+          "text": "February 10"
+        },
+        {
+          "label": "C",
+          "text": "February 12"
+        },
+        {
+          "label": "D",
+          "text": "February 11"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "February 10"
+      },
+      "explanation": "The Union Ministry of Health and Family Welfare (MoHFW) has observed its 3rd National Deworming Day (NDD) on February 10 to tackle worm infections among pre-school (anganwadi) and school-age children across India. The aim of the NDD is to reach every child, regardless of their socio-economic circumstance. It is the world’s largest deworming programme that covers 340 million children under-19 years of age across 36 states/ UTs. The deworming programme is India’s commitment to a comprehensive national response to the public health threat posed by worms."
+    },
+    {
+      "id": 758,
+      "question": "The Civil Services Day (CSD) is celebrated on which day in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "April 18"
+        },
+        {
+          "label": "B",
+          "text": "April 21"
+        },
+        {
+          "label": "C",
+          "text": "April 19"
+        },
+        {
+          "label": "D",
+          "text": "April 20"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "April 21"
+      },
+      "explanation": "Civil Services Day is celebrated on April 21 every year in India. This day is celebrated to commemorate the day when the first home minister of Independent India, Sardar Vallabhbhai Patel, addressed administrative services officers in 1947."
+    },
+    {
+      "id": 2591,
+      "question": "National Doctors Day (NDD) is celebrated on which date in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "July 4"
+        },
+        {
+          "label": "B",
+          "text": "July 2"
+        },
+        {
+          "label": "C",
+          "text": "July 3"
+        },
+        {
+          "label": "D",
+          "text": "July 1"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "July 1"
+      },
+      "explanation": "The National Doctors' Day (NDD) is celebrated every year in India on July 1 to honour the legendary physician and the second Chief Minister of West Bengal, Dr Bidhan Chandra Roy. The day is an attempt to emphasize on the value of doctors in our lives and to offer them our respects by commemorating one of their greatest representatives."
+    },
+    {
+      "id": 2782,
+      "question": "National Broadcasting Day (NBD) is celebrated on which date in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "July 23"
+        },
+        {
+          "label": "B",
+          "text": "July 24"
+        },
+        {
+          "label": "C",
+          "text": "July 22"
+        },
+        {
+          "label": "D",
+          "text": "July 21"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "July 23"
+      },
+      "explanation": "The National Broadcasting Day (NBD) is celebrated every year on July 23 because on this day, in 1927, the radio broadcasting was started in India. The first ever radio broadcast in India went on air from the Bombay Station on July 23, 1927 under a private company, the Indian Broadcasting Company (IBC). It was by the British Viceroy of India Lord Irwin. On June 8, 1936, the Indian State Broadcasting Service became All India Radio (AIR)."
+    },
+    {
+      "id": 2934,
+      "question": "“International Biodiversity Day” is celebrated on:",
+      "options": [
+        {
+          "label": "A",
+          "text": "22 March"
+        },
+        {
+          "label": "B",
+          "text": "22 April"
+        },
+        {
+          "label": "C",
+          "text": "22 May"
+        },
+        {
+          "label": "D",
+          "text": "22 June"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "22 May"
+      },
+      "explanation": "International Biodiversity Day is celebrated on 22nd May every year to raise awareness about biodiversity issues. This day commemorates the adoption of the text of the Convention on Biological Diversity in 1992. 192 countries are party to this convention to promote sustainable development."
+    }
+  ]
+}

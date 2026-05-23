@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "climatology-climatic-classification",
+    "title": "Climatology - Climatic Classification",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:02:44"
+  },
+  "questions": [
+    {
+      "id": 5454,
+      "question": "Continent where Tundra type of climate is NOT found?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Asia"
+        },
+        {
+          "label": "B",
+          "text": "North America"
+        },
+        {
+          "label": "C",
+          "text": "Europe"
+        },
+        {
+          "label": "D",
+          "text": "Australia"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Australia"
+      },
+      "explanation": "In the continent of Australia, the northern section of Australia has a more tropical influenced climate, hot and humid in the summer, and quite warm and dry in the winter, while the southern parts are cooler with mild summers and cool, sometimes rainy winters. So it doesn’t have Tundra type of climate."
+    },
+    {
+      "id": 5460,
+      "question": "What are the main criteria of dividing major natural regions of the world?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Temperature, rain fall and vegetation"
+        },
+        {
+          "label": "B",
+          "text": "Latitudes and Longitudes"
+        },
+        {
+          "label": "C",
+          "text": "Atmospheric Pressure and Winds"
+        },
+        {
+          "label": "D",
+          "text": "All of them"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Temperature, rain fall and vegetation"
+      },
+      "explanation": "The main criteria of dividing major natural regions of the world are Temperature, rainfall and vegetation. They play a major role as they vary with the latitude and they became the main criteria."
+    },
+    {
+      "id": 6103,
+      "question": "Pine trees are generally found in which type of climate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wet Deciduous"
+        },
+        {
+          "label": "B",
+          "text": "Coniferous"
+        },
+        {
+          "label": "C",
+          "text": "Tundra"
+        },
+        {
+          "label": "D",
+          "text": "Monsoon"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Coniferous"
+      },
+      "explanation": "The pine trees grow in the coniferous forests. It is a cold climate which led to sharp leaves of the pine."
+    },
+    {
+      "id": 6570,
+      "question": "The two equinoxes occur in which of the two months?",
+      "options": [
+        {
+          "label": "A",
+          "text": "June & December"
+        },
+        {
+          "label": "B",
+          "text": "March & September"
+        },
+        {
+          "label": "C",
+          "text": "March & December"
+        },
+        {
+          "label": "D",
+          "text": "January & December"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "March & September"
+      },
+      "explanation": "The equinoxes occur in March and September. The equinoxes are the days when the sun is directly over the equator, making day and night of equal length. The equinoxes are sometimes called the “vernal equinox” (spring equinox) and the “autumnal equinox” (fall equinox). The equinoxes have different dates in the Northern and Southern Hemispheres. The equinoxes occur around March 21 and September 22. In the Northern Hemisphere, the autumnal equinox occurs around September 22 or 23. In the Southern Hemisphere, the equinox occurs on March 20 or 21. On equinoxes, most places on Earth receive more than 12 hours of daylight."
+    },
+    {
+      "id": 7155,
+      "question": "Eskimos live in which of the following climates?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tundra"
+        },
+        {
+          "label": "B",
+          "text": "Taiga"
+        },
+        {
+          "label": "C",
+          "text": "Siberian"
+        },
+        {
+          "label": "D",
+          "text": "Tropical"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Tundra"
+      },
+      "explanation": "Eskimos live in the tundra climate. The tundra is part of the polar region, which is characterized by a frigid climate. The polar region includes the Arctic and the Antarctic. Eskimos are indigenous people who have traditionally lived in the northern circumpolar region. This region includes eastern Siberia, Alaska, Canada, and Greenland. Eskimos live in igloos during the winter and portable huts in the summer. The word \"igloo\" is the Eskimo word for \"house\". Eskimos have developed unique skills and adaptations to survive in the extreme cold climates."
+    }
+  ]
+}

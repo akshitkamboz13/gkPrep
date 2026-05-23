@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "healthcare-services-industry-mcqs-for-ssc-examination",
+    "title": "28. Healthcare Services Industry",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:14:05"
+  },
+  "questions": [
+    {
+      "id": 60328,
+      "question": "Which hospital is first opened in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kolkata hospital"
+        },
+        {
+          "label": "B",
+          "text": "Madras general hospital"
+        },
+        {
+          "label": "C",
+          "text": "King George Hospital"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Madras general hospital"
+      },
+      "explanation": "The Madras general hospital is the first hospital opened in India. It was opened in 1664 in chennai."
+    },
+    {
+      "id": 60329,
+      "question": "When was the first National Health Policy of India created?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1983"
+        },
+        {
+          "label": "B",
+          "text": "1989"
+        },
+        {
+          "label": "C",
+          "text": "1993"
+        },
+        {
+          "label": "D",
+          "text": "1990"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "1983"
+      },
+      "explanation": "In India the first National Health Policy (NHP) was launched in 1983. It was created with the goals of establishing a system with primary-care facilities and a referral system. In 2002, the updated NHP focused on improving the practicality and reach of the system as well as incorporating private and public clinics into the health sphere."
+    },
+    {
+      "id": 60330,
+      "question": "In which year was national rural health mission launched?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2005"
+        },
+        {
+          "label": "B",
+          "text": "2003"
+        },
+        {
+          "label": "C",
+          "text": "2002"
+        },
+        {
+          "label": "D",
+          "text": "2000"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "2005"
+      },
+      "explanation": "The National Rural Health Mission (NRHM) was launched in 2005. It is an initiative undertaken by the government of India to address the health needs of under-served rural areas."
+    },
+    {
+      "id": 60332,
+      "question": "In which year was the Integrated child development scheme launched?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1990"
+        },
+        {
+          "label": "B",
+          "text": "1980"
+        },
+        {
+          "label": "C",
+          "text": "1975"
+        },
+        {
+          "label": "D",
+          "text": "1985"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "1975"
+      },
+      "explanation": "The Integrated child development scheme was launched in 1975. Its main purpose is to improve nutrition and health status in children."
+    },
+    {
+      "id": 60333,
+      "question": "In which year was the medical council act was passed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1970"
+        },
+        {
+          "label": "B",
+          "text": "1960"
+        },
+        {
+          "label": "C",
+          "text": "1975"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "1970"
+      },
+      "explanation": "The government of India passes the Indian Medical Central Council Act in 1970. It was passed to standardize Ayurvedic teaching institutions, their curriculum and their diplomas."
+    }
+  ]
+}

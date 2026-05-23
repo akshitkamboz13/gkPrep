@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-1-evolution-of-indian-constitution",
+    "title": "Historical Background",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:19:12"
+  },
+  "questions": [
+    {
+      "id": 5669,
+      "question": "By which among the following Dyarchy was introduced in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Act of 1892"
+        },
+        {
+          "label": "B",
+          "text": "Act of 1909"
+        },
+        {
+          "label": "C",
+          "text": "Act of 1919"
+        },
+        {
+          "label": "D",
+          "text": "Act of 1935"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Act of 1919"
+      },
+      "explanation": "The system called Dyarchy or diarchy, literally meaning double government was introduced by GOI Act, 1919 for the provinces of British India. The act is also known to have marked the first introduction of the democratic principle into the executive branch of the British administration of India."
+    },
+    {
+      "id": 5719,
+      "question": "Which among the following had an objective of introducing the self-governing institutions to India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indian Council Act 1909"
+        },
+        {
+          "label": "B",
+          "text": "Mont-Ford Reforms"
+        },
+        {
+          "label": "C",
+          "text": "Cabinet Mission"
+        },
+        {
+          "label": "D",
+          "text": "Government of India Act 1935"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Mont-Ford Reforms"
+      },
+      "explanation": "Government of India Act, 1919 is also known as Montagu-Chelmsford Reforms which was introduced by the colonial government in British India. It came into force in the year 1921. One of the objectives of the act was to introduce self-governing institutions gradually in India."
+    },
+    {
+      "id": 6330,
+      "question": "Which among the following was the first attempt to regulate the affairs of English East India Company in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pitts India Act 1784"
+        },
+        {
+          "label": "B",
+          "text": "Charter Act 1833"
+        },
+        {
+          "label": "C",
+          "text": "The Regulating Act 1773"
+        },
+        {
+          "label": "D",
+          "text": "Charter Act of 1813"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "The Regulating Act 1773"
+      },
+      "explanation": "Regulating Act of 1773 was the first landmark in the constitutional development of India. Via this act, the British Parliament for the first time interfered into affairs of India. The Prime Minister of England at the time of Regulating Act of 1773 was Lord North."
+    },
+    {
+      "id": 6332,
+      "question": "Which of the following acts created Supreme Court of Judicature at Fort William?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Regulating Act 1773"
+        },
+        {
+          "label": "B",
+          "text": "Indian Councils Act 1861"
+        },
+        {
+          "label": "C",
+          "text": "Dundas Bill of 1783"
+        },
+        {
+          "label": "D",
+          "text": "Charter Act of 1833"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "The Regulating Act 1773"
+      },
+      "explanation": "The regulating act of 1773 established a supreme court at Fort William, Calcutta. This Supreme Court consisted one Chief Justice and three other regular judges or Puisne Judges. Sir Elijah Imphey was the first Chief Justice of this Supreme Court."
+    },
+    {
+      "id": 6333,
+      "question": "The East India Company was deprived of monopoly of trade with India except Tea Trade by which among the following acts?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Charter Act of 1813"
+        },
+        {
+          "label": "B",
+          "text": "The Charter Act of 1833"
+        },
+        {
+          "label": "C",
+          "text": "The Charter Act of 1853"
+        },
+        {
+          "label": "D",
+          "text": "Government of India Act 1858"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "The Charter Act of 1813"
+      },
+      "explanation": "Charter act of 1813 ended the monopoly of the East India Company in India, however the company’s monopoly in trade with china and trade in tea with India was kept intact. Thus, trade with India for all commodities except Tea was thrown open to all British subjects. This lasted till 1833 when the next charter abolished the trade of the company."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "foreign-investments-in-india-mcqs-for-ssc-examination",
+    "title": "46. Foreign Investments in India MCQs for SSC Examination",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:12:40"
+  },
+  "questions": [
+    {
+      "id": 8400,
+      "question": "What does the FDI trigger list in India primarily include?",
+      "options": [
+        {
+          "label": "A",
+          "text": "List of country-specific FDI restrictions under FEMA"
+        },
+        {
+          "label": "B",
+          "text": "Sectors needing prior approval, like broadcasting and civil aviation"
+        },
+        {
+          "label": "C",
+          "text": "Investors with suspicious funds and sectors or locations needing security screening"
+        },
+        {
+          "label": "D",
+          "text": "All proposals submitted to DPIIT for automatic route processing"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Investors with suspicious funds and sectors or locations needing security screening"
+      },
+      "explanation": "The FDI trigger list in India includes proposals from investors with suspicious sources of funds and investments in sensitive sectors like broadcasting, telecommunications, civil aviation, and private security agencies. Investments in sensitive geographic areas, such as Jammu & Kashmir, are also included. Such proposals are scrutinized by the Ministry of Home Affairs for national security under the Foreign Exchange Management Act."
+    },
+    {
+      "id": 8679,
+      "question": "Which option is an example of Green Field Investment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Investment in agriculture land for future development"
+        },
+        {
+          "label": "B",
+          "text": "Investment in a new factory complex on undeveloped land"
+        },
+        {
+          "label": "C",
+          "text": "Cleaning and converting an old cement factory to commercial use"
+        },
+        {
+          "label": "D",
+          "text": "Cleaning and converting an old cement factory to residential use"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Investment in a new factory complex on undeveloped land"
+      },
+      "explanation": "Green Field Investment refers to setting up a new facility on previously undeveloped land. The term is commonly used in foreign direct investment when a parent company builds its operations in a foreign country from scratch. Such investments involve construction of new plants, buildings, and infrastructure, often in areas where no prior facilities exist. This is distinct from Brown Field Investment, which involves modifying or upgrading an existing facility."
+    },
+    {
+      "id": 10531,
+      "question": "What is the meaning of the “Government Route” in Foreign Investments?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Investments without government approval."
+        },
+        {
+          "label": "B",
+          "text": "Investments made by government."
+        },
+        {
+          "label": "C",
+          "text": "Investments that requires prior government approval"
+        },
+        {
+          "label": "D",
+          "text": "Foreign investments in government bonds"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Investments that requires prior government approval"
+      },
+      "explanation": "The \"Government Route\" in the language of foreign investments refers to the scenario where a foreign investor needs to acquire prior approval from the government to make an investment. This route is usually applicable for sectors which are of strategic importance or have implications for national security, where it would be imperative for the host country to have an additional level of scrutiny and control."
+    },
+    {
+      "id": 10865,
+      "question": "From time to time, which among the following body publishes the “Exchange Control Manual” in context with the Foreign Exchange in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Foreign Trade Promotion Board"
+        },
+        {
+          "label": "B",
+          "text": "Department of Commerce"
+        },
+        {
+          "label": "C",
+          "text": "Reserve Bank of India"
+        },
+        {
+          "label": "D",
+          "text": "SEBI"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Reserve Bank of India"
+      },
+      "explanation": "The correct answer is the Reserve Bank of India (RBI). The RBI is responsible for regulating foreign exchange in India under the Foreign Exchange Management Act (FEMA) of 1999. The \"Exchange Control Manual\" provides guidelines for foreign exchange transactions and is crucial for maintaining the stability of the Indian economy. The RBI also plays a key role in managing the country's foreign exchange reserves and ensuring compliance with international financial regulations."
+    },
+    {
+      "id": 10867,
+      "question": "What do we call an arrangement whereby an issuing Bank at the request of the Importer (Buyer) undertakes to make payment to the exporter (Beneficiary) against stipulated documents?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bill of Exchange"
+        },
+        {
+          "label": "B",
+          "text": "Letter of Exchange"
+        },
+        {
+          "label": "C",
+          "text": "Letter of Credit"
+        },
+        {
+          "label": "D",
+          "text": "Bill of Entry"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Letter of Credit"
+      },
+      "explanation": "The correct answer is \"Letter of Credit.\" A Letter of Credit (LC) is a financial document issued by a bank that guarantees payment to the exporter upon presentation of specified documents, such as shipping and insurance documents. This arrangement reduces risk for both parties in international trade, ensuring that the exporter receives payment and the importer receives the goods. LCs are widely used in global commerce, with the first recorded use dating back to the 12th century in the Mediterranean trade."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "chemistry-gk-15-hydrocarbons-fuels",
+    "title": "Chemistry-15-Hydrocarbons & Fuels",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:02:10"
+  },
+  "questions": [
+    {
+      "id": 3170,
+      "question": "Which of the following is not a correct statement about Bitumen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It’s a mixture of highly condensed polycyclic aromatic compounds"
+        },
+        {
+          "label": "B",
+          "text": "Its is soluble in Carbon Disulphide"
+        },
+        {
+          "label": "C",
+          "text": "SARA analysis is used to determine bitumen chemistry"
+        },
+        {
+          "label": "D",
+          "text": "All of above are correct statements"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "All of above are correct statements"
+      },
+      "explanation": "Bitumen is a mixture of organic liquids that are highly viscous, black, sticky, soluble in carbon disulfide and composed of highly condensed polycyclic aromatic hydrocarbons."
+    },
+    {
+      "id": 4416,
+      "question": "The term “white coal” sometimes referred to which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Geothermal Electricity"
+        },
+        {
+          "label": "B",
+          "text": "Wind Energy"
+        },
+        {
+          "label": "C",
+          "text": "Hydroelectricity"
+        },
+        {
+          "label": "D",
+          "text": "Biomass Energy"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Hydroelectricity"
+      },
+      "explanation": "The term white coal was used for Hydroelectricity, particularly in Europe, because of its capability to produce more energy than any other source except coal. The term was coined by a French Engineer Aristide Bèrges."
+    },
+    {
+      "id": 4982,
+      "question": "Which of the following is also known as wood alcohol?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Methanol"
+        },
+        {
+          "label": "B",
+          "text": "Ethanol"
+        },
+        {
+          "label": "C",
+          "text": "Propanal"
+        },
+        {
+          "label": "D",
+          "text": "Butanol"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Methanol"
+      },
+      "explanation": "Methanol (CH3OH) is also known as Wood Alcohol. It's a solvent in many chemical processes and is a component of automobile antifreeze."
+    },
+    {
+      "id": 4997,
+      "question": "Which among the following is the objective of the Methyl tert-butyl ether (MTBE) mixing with Petroleum?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Raise Octane Number"
+        },
+        {
+          "label": "B",
+          "text": "Antioxidant Stabilizer"
+        },
+        {
+          "label": "C",
+          "text": "Lead Scavanger"
+        },
+        {
+          "label": "D",
+          "text": "Fuel Dye"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Raise Octane Number"
+      },
+      "explanation": "MTBE is a gasoline additive, used as an oxygenate to raise the octane number. Its use is controversial in the US and declining in that country in part because of its occurrence in groundwater and legislation favoring ethanol."
+    },
+    {
+      "id": 5345,
+      "question": "What are the main constituents of LPG?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Methane, Hexane, Ethane"
+        },
+        {
+          "label": "B",
+          "text": "Methane, Butane, Propane"
+        },
+        {
+          "label": "C",
+          "text": "Ethane, Pentane, Hexane"
+        },
+        {
+          "label": "D",
+          "text": "Ethane, Methane, Pentane"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Methane, Butane, Propane"
+      },
+      "explanation": "LPG is composed hydrocarbons containing three or four carbon atoms. The normal components of LPG thus, are propane (C3H8), butane (C4H10) and Methane (CH4). Small concentrations of other hydrocarbons may also be present."
+    }
+  ]
+}

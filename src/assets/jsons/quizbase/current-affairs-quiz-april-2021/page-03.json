@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-april-2021",
+    "title": "Current Affairs Quiz - April, 2021",
+    "page": 3,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:45:51",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:47:07"
+  },
+  "questions": [
+    {
+      "id": 21,
+      "question": "As per a recent notification from the Finance Ministry, a basic savings bank account can be opened in which institution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Payment Bank"
+        },
+        {
+          "label": "B",
+          "text": "Foreign Bank"
+        },
+        {
+          "label": "C",
+          "text": "Post office"
+        },
+        {
+          "label": "D",
+          "text": "Small Finance Bank"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Post office"
+      },
+      "explanation": "The Finance Ministry has notified changes in Post Office Savings Account Scheme, 2019. As per the notification, a beneficiary of the Government welfare scheme can open a basic savings bank account with a post office. As per the notification, there is no minimum deposit required for opening of such an account. There will also be no requirement for maintaining minimum balance. The ministry also reduced fee for not maintain the balance in a savings account."
+    },
+    {
+      "id": 22,
+      "question": "Which constitutional body has recently stated that all adults above 18 were free to choose a religion of their choice?",
+      "options": [
+        {
+          "label": "A",
+          "text": "National Human Rights Commission"
+        },
+        {
+          "label": "B",
+          "text": "National Administrative Tribunal"
+        },
+        {
+          "label": "C",
+          "text": "Supreme Court of India"
+        },
+        {
+          "label": "D",
+          "text": "National Commission for Backward Classes"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Supreme Court of India"
+      },
+      "explanation": "The apex judicial body of India – The Supreme court has recently held that the word “propagate” mentioned in Indian Constitution permits any above the age of 18 to freely a religion of his / her choice. Quoting the above, the supreme court has dismissed a public interest litigation which had sought court intervention to stop “fraudulent” conversions in India."
+    },
+    {
+      "id": 23,
+      "question": "What is the name of four-day long vaccination drive against Corona organized in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Teeka Utsav"
+        },
+        {
+          "label": "B",
+          "text": "Mission Indradhanush"
+        },
+        {
+          "label": "C",
+          "text": "Mission Intensified Indradhanush"
+        },
+        {
+          "label": "D",
+          "text": "Mission Covid Indradhanush"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Teeka Utsav"
+      },
+      "explanation": "A special four-day long vaccination drive against Corona virus named “Teeka Utsav” has commenced in the country. This vaccination campaign will commence on the birth anniversary of Jyotiba Phule and will end on the birth anniversary of Dr BR Ambedkar. This campaign is organized to curtail the rising Covid 19 infection cases in India for the second time."
+    },
+    {
+      "id": 24,
+      "question": "Commerce and Industry Minister launched the ‘Trade facilitation mobile app’ of which office?",
+      "options": [
+        {
+          "label": "A",
+          "text": "DGFT"
+        },
+        {
+          "label": "B",
+          "text": "DGTR"
+        },
+        {
+          "label": "C",
+          "text": "MPEDA"
+        },
+        {
+          "label": "D",
+          "text": "APEDA"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "DGFT"
+      },
+      "explanation": "Commerce and industry Minister Piyush Goyal recently launched the “Trade facilitation mobile app” of the Directorate General of Foreign Trade. The app has a state-of-the-art system and provides real-time trade policy updates, applications and real-time data. It will also provide artificial intelligence-based 24×7 assistance and all services of the DGFT."
+    },
+    {
+      "id": 25,
+      "question": "Which organization has released the “2021 Global Food Policy Report”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IMF"
+        },
+        {
+          "label": "B",
+          "text": "WHO"
+        },
+        {
+          "label": "C",
+          "text": "FAO"
+        },
+        {
+          "label": "D",
+          "text": "IFPRI"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "IFPRI"
+      },
+      "explanation": "The 2021 Global Food Policy Report has been released by the International Food Policy Research Institute (IFPRI). As per the report, severe health and economic impacts of the COVID-19 pandemic has an adverse impact on the food systems and livelihood of people. The policy makes a detailed analysis on the impacts and policy responses to the crisis, with a particular focus on vulnerable groups."
+    },
+    {
+      "id": 26,
+      "question": "“Central Asia” center for trade and economic cooperation is being constructed by which countries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uzbekistan and Kazakhstan"
+        },
+        {
+          "label": "B",
+          "text": "USA and India"
+        },
+        {
+          "label": "C",
+          "text": "China and Japan"
+        },
+        {
+          "label": "D",
+          "text": "USA and UK"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Uzbekistan and Kazakhstan"
+      },
+      "explanation": "‘Central Asia’ is the name of an international center for trade and economic cooperation, being constructed by Uzbekistan and Kazakhstan at the borders of the two countries. The center would have a capacity of accommodating 35,000 people and 5,000 trucks per day in both directions. It would serve as a large industrial, trade and logistics platform for both countries."
+    },
+    {
+      "id": 27,
+      "question": "The month of April is dedicated for awareness generation of which disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diabetes"
+        },
+        {
+          "label": "B",
+          "text": "Anemia"
+        },
+        {
+          "label": "C",
+          "text": "Parkinson’s"
+        },
+        {
+          "label": "D",
+          "text": "Cancer"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Parkinson’s"
+      },
+      "explanation": "The month of April is considered to be Parkinson’s Awareness Month. On April 11 every year, communities from around the world come together to raise awareness about the disorder. Parkinson’s disease is a progressive nervous system disorder that affects the movement of the human body."
+    },
+    {
+      "id": 28,
+      "question": "The India Energy Dashboard (IED) 2.0 has been launched by which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NITI Aayog"
+        },
+        {
+          "label": "B",
+          "text": "Planning Commission"
+        },
+        {
+          "label": "C",
+          "text": "GST Council"
+        },
+        {
+          "label": "D",
+          "text": "Planning Commission"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "NITI Aayog"
+      },
+      "explanation": "India’s policy think tank – NITI Aayog has launched the Version 2.0 of the India Energy Dashboards (IED). The dashboard has been launched to achieve the development goals (SDGs) and India’s Nationally Determined Contributions. It provides a single window access to the energy data for the country."
+    },
+    {
+      "id": 29,
+      "question": "What is “MK-4482”, which was seen in the news recently?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Missile Launcher"
+        },
+        {
+          "label": "B",
+          "text": "Antiviral Drug"
+        },
+        {
+          "label": "C",
+          "text": "Submarine"
+        },
+        {
+          "label": "D",
+          "text": "Unmanned Aerial Vehicle"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Antiviral Drug"
+      },
+      "explanation": "As per a recent study, MK-4482, an experimental antiviral drug, is said to have decreased levels of virus in the lungs of hamsters treated for SARS-CoV-2 infection. The scientists from the US National Institutes of Health (NIH) published the study in the journal Nature Communications. MK-4482 is now in human clinical trials, and is delivered orally. These data suggest that MK-4482 treatment could mitigate high-risk exposures to the coronavirus."
+    },
+    {
+      "id": 30,
+      "question": "Which company has delivered the first lot of light bulletproof vehicles to the Indian Air Force, in collaboration with Lockheed Martin?",
+      "options": [
+        {
+          "label": "A",
+          "text": "BEL"
+        },
+        {
+          "label": "B",
+          "text": "DRDO"
+        },
+        {
+          "label": "C",
+          "text": "Ashok Leyland"
+        },
+        {
+          "label": "D",
+          "text": "Tata Motors"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Ashok Leyland"
+      },
+      "explanation": "Ashok Leyland, which is a flagship firm of the Hinduja group, has delivered the first lot of light bulletproof vehicles to the Indian Air Force. These vehicles have been designed and developed in collaboration with Lockheed Martin, which is a US based aerospace and defence technology company."
+    }
+  ]
+}

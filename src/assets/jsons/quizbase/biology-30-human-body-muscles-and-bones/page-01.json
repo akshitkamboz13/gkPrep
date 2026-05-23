@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-30-human-body-muscles-and-bones",
+    "title": "30. Human Body - Muscles and Bones",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:58:48"
+  },
+  "questions": [
+    {
+      "id": 4329,
+      "question": "What is the number of “True Ribs” in human body?",
+      "options": [
+        {
+          "label": "A",
+          "text": "12"
+        },
+        {
+          "label": "B",
+          "text": "14"
+        },
+        {
+          "label": "C",
+          "text": "16"
+        },
+        {
+          "label": "D",
+          "text": "18"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "14"
+      },
+      "explanation": "In the human body, there are a total of 12 pairs of ribs. Out of these, the first 7 pairs are referred to as \"true ribs.\" True ribs are so named because they are directly connected to the sternum (breastbone) through their own costal cartilages. Each true rib consists of a bony portion that connects to the spine and a cartilaginous portion that attaches to the sternum. These true ribs play a crucial role in protecting the internal organs within the thoracic cavity, including the heart and lungs. The remaining 5 pairs of ribs are known as \"false ribs\" – they are either indirectly connected to the sternum or not connected at all. False ribs are attached to each other through cartilage or are floating freely, not attaching to the sternum directly."
+    },
+    {
+      "id": 5262,
+      "question": "Fatigue is caused because of formation and depositing of which among the following acids in Muscles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lactic Acid"
+        },
+        {
+          "label": "B",
+          "text": "Acetic acid"
+        },
+        {
+          "label": "C",
+          "text": "Citric Acid"
+        },
+        {
+          "label": "D",
+          "text": "Pyruvic acid"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Lactic Acid"
+      },
+      "explanation": "Fatigue is caused because of formation and depositing of Lactic acid, or lactate which is a chemical by product of anaerobic respiration which is the process by which cells produce energy without oxygen around."
+    },
+    {
+      "id": 5621,
+      "question": "How many pairs of ribs are there in a human body?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10 pairs"
+        },
+        {
+          "label": "B",
+          "text": "12 pairs"
+        },
+        {
+          "label": "C",
+          "text": "14 pairs"
+        },
+        {
+          "label": "D",
+          "text": "16 pairs"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "12 pairs"
+      },
+      "explanation": "There are total 24 ribs (12 pairs), out of which 14 (7 pairs) are true ribs"
+    },
+    {
+      "id": 5686,
+      "question": "Stapes, the smallest and the lightest bone in human body, is the part of which organ ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ear"
+        },
+        {
+          "label": "B",
+          "text": "Nose"
+        },
+        {
+          "label": "C",
+          "text": "Neck"
+        },
+        {
+          "label": "D",
+          "text": "hand"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ear"
+      },
+      "explanation": "An adult human has 206 bones while a new born baby has 300 bones. 94 bones fuse as a baby grows. The total number of bones in human skull is 29. The face of a man is made up of 14 bones. Largest and longest bone is femur (thigh bone).The shortest bone in the human body is stapes or stirrup bone in the middle ear."
+    },
+    {
+      "id": 6743,
+      "question": "Which of the following vertebrae are found in Neck ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cervical"
+        },
+        {
+          "label": "B",
+          "text": "Thoracic"
+        },
+        {
+          "label": "C",
+          "text": "Lumbar"
+        },
+        {
+          "label": "D",
+          "text": "None"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Cervical"
+      },
+      "explanation": "Cervical vertebrae are found in neck. The cervical vertebrae of the spine is consisted of seven bony rings that reside in the neck between the base of the skull and the thoracic vertebrae in the trunk."
+    }
+  ]
+}

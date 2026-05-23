@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "general-science-physics-mcqs",
+    "title": "Physics MCQs",
+    "page": 3,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:50:44",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:13:28"
+  },
+  "questions": [
+    {
+      "id": 21,
+      "question": "Which of the following is correct about the speed of the sound, at same temperature?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sound travels faster in humid air than in dry air"
+        },
+        {
+          "label": "B",
+          "text": "sound travels slower in humid air than in dry air"
+        },
+        {
+          "label": "C",
+          "text": "speed of sound is same in humid air and dry air"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "sound travels faster in humid air than in dry air"
+      },
+      "explanation": "With increase in humidity, density of air decreases. So with rise in humidity velocity of sound increases. This is why sound travels faster in humid air (rainy season) than in dry air (summer) at the same temperature."
+    },
+    {
+      "id": 22,
+      "question": "What is the S.I unit of Stefan-Boltzmann constant?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2.34 × 10–4 W m–2 K–4"
+        },
+        {
+          "label": "B",
+          "text": "1.44 × 10–6 W m–2 K–4"
+        },
+        {
+          "label": "C",
+          "text": "3.99 × 10–7 W m–2 K–4"
+        },
+        {
+          "label": "D",
+          "text": "5.67 × 10–8 W m–2 K–4"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "5.67 × 10–8 W m–2 K–4"
+      },
+      "explanation": "The value of Stefan-Boltzmann constant in SI units is 5.67 × 10–8 W m–2 K–4."
+    },
+    {
+      "id": 23,
+      "question": "What part of eyes give it a distinctive colour?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cornea"
+        },
+        {
+          "label": "B",
+          "text": "Iris"
+        },
+        {
+          "label": "C",
+          "text": "Pupil"
+        },
+        {
+          "label": "D",
+          "text": "Retina"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Iris"
+      },
+      "explanation": "The iris is that part of eye which gives it its distinctive colour."
+    },
+    {
+      "id": 24,
+      "question": "Which of the following part of eyes controls the size of the pupil?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Retina"
+        },
+        {
+          "label": "B",
+          "text": "iris"
+        },
+        {
+          "label": "C",
+          "text": "Cornea"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "iris"
+      },
+      "explanation": "The size of the pupil is controlled by the iris. The iris controls the amount of light entering into the eye."
+    },
+    {
+      "id": 25,
+      "question": "What is the Meissner effect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "perfect paramagnetism in superconductors"
+        },
+        {
+          "label": "B",
+          "text": "perfect ferromagnetism in superconductors"
+        },
+        {
+          "label": "C",
+          "text": "perfect diamagnetism in insulators"
+        },
+        {
+          "label": "D",
+          "text": "perfect diamagnetism in superconductors"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "perfect diamagnetism in superconductors"
+      },
+      "explanation": "The phenomenon of perfect diamagnetism in superconductors is called the Meissner effect, after the name of its discoverer."
+    },
+    {
+      "id": 26,
+      "question": "Why does water pipes in hilly areas often burst on a cold frosty night?",
+      "options": [
+        {
+          "label": "A",
+          "text": "water in the pipes freezes and on freezing water expands, so pipes break"
+        },
+        {
+          "label": "B",
+          "text": "the material of which pipes are made contracts due to cold and so breaks"
+        },
+        {
+          "label": "C",
+          "text": "frost makes the pipes rusty, so they break"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "water in the pipes freezes and on freezing water expands, so pipes break"
+      },
+      "explanation": "Water pipes burst because the water inside them expands is it gets close to freezing, and this causes an increase in pressure inside thepipe. This happens with water too, and whenwater is cooled down, it gets denser and denser, down to 3.98°C then, something interesting occurs, it starts to expand again."
+    },
+    {
+      "id": 27,
+      "question": "Why is the wall of a dam broader at the base?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Because streamlining is required"
+        },
+        {
+          "label": "B",
+          "text": "To withstand pressure that increases with depth"
+        },
+        {
+          "label": "C",
+          "text": "To withstand pressure that increases with atmosphere"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "To withstand pressure that increases with depth"
+      },
+      "explanation": "The wall of a dam is broad at its base. The reason behind this is, pressure exerted by the liquid increases with increase in depth. The dam contains huge amount of water and as we go deep the pressure exerted by such a huge amount of water increases to very high."
+    },
+    {
+      "id": 28,
+      "question": "If water contracts on freezing, which of the following would happen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Icebergs will completely float on the surface of water"
+        },
+        {
+          "label": "B",
+          "text": "Ice would become more dense"
+        },
+        {
+          "label": "C",
+          "text": "Lakes would freeze from top to bottom"
+        },
+        {
+          "label": "D",
+          "text": "Rocks will crack due to freezing or internal water"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ice would become more dense"
+      },
+      "explanation": "When liquid water is cooled, it contracts like one would expect until a temperature of approximately 4 degrees Celsius is reached. After that, it expands slightly until it reaches the freezing point, and then when it freezes it expands by approximately 9%.Ice becomes more dense when water contracts."
+    },
+    {
+      "id": 29,
+      "question": "At which of the following places lies the centre of gravity of the floating ship? (UPSC Prelims 1985)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lies above the metacentre."
+        },
+        {
+          "label": "B",
+          "text": "Lies below the metacentre."
+        },
+        {
+          "label": "C",
+          "text": "Coincides with the metacentre."
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Lies below the metacentre."
+      },
+      "explanation": "The metacentre remains directly above the centre of buoyancy regardless of the tilt of a floating body, such as a ship. (The centre of gravity is the point in a body about which all parts of the body balance each other.)"
+    },
+    {
+      "id": 30,
+      "question": "A hydrogen-inflated polythene balloon is released from the surface of the earth. As the balloon rises to an altitude up in the atmosphere, what will happen to its shape and size? (UPSC Prelims 2003)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decrease in size"
+        },
+        {
+          "label": "B",
+          "text": "Flatten into a disc-like shape"
+        },
+        {
+          "label": "C",
+          "text": "Increase in size"
+        },
+        {
+          "label": "D",
+          "text": "maintain the same size and shape"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Increase in size"
+      },
+      "explanation": "As a weather balloon rises into high altitudes, where air pressure decreases, the helium or hydrogen pressure inside the balloon increases and expands the balloon. This way the balloon and the radiosonde can rise at a consistent pace high into the atmosphere."
+    }
+  ]
+}

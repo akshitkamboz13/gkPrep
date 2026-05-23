@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "general-science-physics-mcqs",
+    "title": "Physics MCQs",
+    "page": 2,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:50:44",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:13:26"
+  },
+  "questions": [
+    {
+      "id": 11,
+      "question": "Which of the following is correct about Kinetic energy during the projectile motion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "it is minimum at the point of projection"
+        },
+        {
+          "label": "B",
+          "text": "it is minimum at the highest point"
+        },
+        {
+          "label": "C",
+          "text": "it is maximum at the highest point"
+        },
+        {
+          "label": "D",
+          "text": "it is minimum at the point of reaching the ground"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "it is minimum at the highest point"
+      },
+      "explanation": "The Kinetic energy of an object is maximum at the point of projection or at the point of reaching the ground. It is minimum at the highest point."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is NOT correct about an inelastic collision?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Linear momentum is conserved"
+        },
+        {
+          "label": "B",
+          "text": "Kinetic energy is conserved"
+        },
+        {
+          "label": "C",
+          "text": "Total energy is conserved"
+        },
+        {
+          "label": "D",
+          "text": "Some or all the forces involved may be non-conservative in nature"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Kinetic energy is conserved"
+      },
+      "explanation": "Following are the basic characteristics of an inelastic collision: 1. Linear momentum is conserved 2. Kinetic energy is NOT conserved 3. Total energy is conserved 4. Some or all the forces involved may be non-conservative in nature"
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is correct about the value of acceleration due to gravity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "it is greater at mountains than in plains"
+        },
+        {
+          "label": "B",
+          "text": "it is lesser at mountains than in plains"
+        },
+        {
+          "label": "C",
+          "text": "it is equal for mountains and plains"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "it is lesser at mountains than in plains"
+      },
+      "explanation": "The value of acceleration due to gravity decreases with increase in height. Therefore, it is lesser at mountains than in plains."
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is the orbital velocity of a satellite orbiting very close to the surface of earth?",
+      "options": [
+        {
+          "label": "A",
+          "text": "7.92 km/s"
+        },
+        {
+          "label": "B",
+          "text": "9.8 km/s"
+        },
+        {
+          "label": "C",
+          "text": "11.2 km/s"
+        },
+        {
+          "label": "D",
+          "text": "14.8 km/s"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "7.92 km/s"
+      },
+      "explanation": "In this case, the radius of the orbit will be nearly equal to the radius of earth. The orbital velocity of a satellite orbiting very close to the surface of earth is 7.92 km/s."
+    },
+    {
+      "id": 15,
+      "question": "In which of the following mediums can sound waves travel?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Solids"
+        },
+        {
+          "label": "B",
+          "text": "Liquids"
+        },
+        {
+          "label": "C",
+          "text": "Gases"
+        },
+        {
+          "label": "D",
+          "text": "All of them"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "All of them"
+      },
+      "explanation": "Sound waves are longitudinal mechanical waves that can travel through solids, liquids, or gases."
+    },
+    {
+      "id": 16,
+      "question": "What is the phenomenon of bouncing back of light in the same medium on striking the surface of any object known as?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Refraction"
+        },
+        {
+          "label": "B",
+          "text": "Absorption"
+        },
+        {
+          "label": "C",
+          "text": "Reflection"
+        },
+        {
+          "label": "D",
+          "text": "Diffusion"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Reflection"
+      },
+      "explanation": "Reflection of light is the phenomenon of bouncing back of light in the same medium on striking the surface of any object."
+    },
+    {
+      "id": 17,
+      "question": "What is the size of the image formed by a concave mirror when the object is at focus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Enlarged"
+        },
+        {
+          "label": "B",
+          "text": "Point sized"
+        },
+        {
+          "label": "C",
+          "text": "Same size"
+        },
+        {
+          "label": "D",
+          "text": "Highly enlarged"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Highly enlarged"
+      },
+      "explanation": "Highly enlarged image is formed by a concave mirror when the object is at focus."
+    },
+    {
+      "id": 18,
+      "question": "Which of the following metals is mostly used for filaments of electric bulbs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Copper"
+        },
+        {
+          "label": "B",
+          "text": "Silver"
+        },
+        {
+          "label": "C",
+          "text": "Nickel"
+        },
+        {
+          "label": "D",
+          "text": "Tungsten"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Tungsten"
+      },
+      "explanation": "Tungsten is mostly used to manufacture filaments of electric bulbs. Among all the metals, Tungsten has the highest melting point. Its symbol is W, its atomic number is 74, and its atomic weight is 183.85. It is used in many other high temperature application because of its high melting point."
+    },
+    {
+      "id": 19,
+      "question": "Which of the following represents the unit ampere?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kg/metre"
+        },
+        {
+          "label": "B",
+          "text": "coulomb/metre"
+        },
+        {
+          "label": "C",
+          "text": "coulomb/second"
+        },
+        {
+          "label": "D",
+          "text": "Kg/coulomb"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "coulomb/second"
+      },
+      "explanation": "One ampere is constituted by the flow of one coulomb of charge per second i.e 1 Ampere = 1 Coulomb/1 second."
+    },
+    {
+      "id": 20,
+      "question": "What is the net magnetic field in a solenoid?",
+      "options": [
+        {
+          "label": "A",
+          "text": "product of the fields due to all the turns"
+        },
+        {
+          "label": "B",
+          "text": "equal to the field due to the largest turn"
+        },
+        {
+          "label": "C",
+          "text": "vector sum of the fields due to all the turns"
+        },
+        {
+          "label": "D",
+          "text": "arithmetic mean of the fields due to all the turns"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "vector sum of the fields due to all the turns"
+      },
+      "explanation": "The net magnetic field in a solenoid is the vector sum of the fields due to all the turns."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "economic-geography-minerals-and-mining-activities",
+    "title": "Economic Geography - Minerals and Mining Activities",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:11:18"
+  },
+  "questions": [
+    {
+      "id": 61311,
+      "question": "Which among the following is/are the methods of Mining? Quarrying Open Cast mining Shaft Mining Drilling Select the correct code from the options given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 2 & 3"
+        },
+        {
+          "label": "B",
+          "text": "Only 2, 3 & 4"
+        },
+        {
+          "label": "C",
+          "text": "Only 2"
+        },
+        {
+          "label": "D",
+          "text": "1, 2, 3 & 4"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1, 2, 3 & 4"
+      },
+      "explanation": "Mining is the activity of obtaining minerals from the surface of the earth or from the rocks from below the surface.On the basis of the technique of obtaining minerals, the activity can be categorised as following: - quarrying- open cast mining- shaft mining- drilling"
+    },
+    {
+      "id": 61312,
+      "question": "In what type of mining, minerals are just dug out of the rocks?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shaft mining"
+        },
+        {
+          "label": "B",
+          "text": "Drilling"
+        },
+        {
+          "label": "C",
+          "text": "Open Cast mining"
+        },
+        {
+          "label": "D",
+          "text": "Quarrying"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Quarrying"
+      },
+      "explanation": "Mining is the activity of obtaining minerals from the surface of the earth or from the rocks from below the surface. Some of the minerals like building stone occur either on the surface or at very shallow depths. These minerals are just dug out of the rocks. This activity is called Quarrying."
+    },
+    {
+      "id": 61313,
+      "question": "In what type of mining, the minerals are obtained from under the ground by means of making large dug out hollows?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Quarrying"
+        },
+        {
+          "label": "B",
+          "text": "Shaft mining"
+        },
+        {
+          "label": "C",
+          "text": "Drilling"
+        },
+        {
+          "label": "D",
+          "text": "Open Cast mining"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Open Cast mining"
+      },
+      "explanation": "Mining is the activity of obtaining minerals from the surface of the earth or from the rocks from below the surface. Minerals obtained from under the ground by means of making large dug out hollows is called open-cast mining."
+    },
+    {
+      "id": 61314,
+      "question": "In which type of mining, deep underground tunnels are made to obtain minerals?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shaft mining"
+        },
+        {
+          "label": "B",
+          "text": "Drilling"
+        },
+        {
+          "label": "C",
+          "text": "Open cast mining"
+        },
+        {
+          "label": "D",
+          "text": "Quarrying"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Shaft mining"
+      },
+      "explanation": "Mining is the activity of obtaining minerals from the surface of the earth or from the rocks from below the surface. Sometimes the minerals occur at great depths and in order to mine them deep tunnels are made below the surface. These tunnels may extend several kilometres and may be very deep. Mining by this method is called Shaft mining."
+    },
+    {
+      "id": 61315,
+      "question": "Much of the coal produced in India is obtained through which among the following types of Mining?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shaft Mining"
+        },
+        {
+          "label": "B",
+          "text": "Drilling"
+        },
+        {
+          "label": "C",
+          "text": "Quarrying"
+        },
+        {
+          "label": "D",
+          "text": "Open cast mining"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Shaft Mining"
+      },
+      "explanation": "Sometimes the minerals occur at great depths and in order to mine them deep tunnels are made below the surface. These tunnels may extend several kilometres and may be very deep. Mining by this method is called shaft mining. Much of the coal produced in India is obtained through this technique."
+    }
+  ]
+}

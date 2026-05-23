@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-25-emergency-provisions",
+    "title": "Emergency Provisions",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:20:45"
+  },
+  "questions": [
+    {
+      "id": 2953,
+      "question": "The Emergency Provisions of Indian Constitution have been borrowed from:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Germany"
+        },
+        {
+          "label": "B",
+          "text": "Japan"
+        },
+        {
+          "label": "C",
+          "text": "USSR"
+        },
+        {
+          "label": "D",
+          "text": "U.S.A"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Germany"
+      },
+      "explanation": "The Emergency Provisions of the Indian Constitution have been borrowed from Germany. The part 18 of Indian constitution deals with the emergency provisions. Under the emergency provisions, if the President is satisfied that a grave emergency exists whereby the security of India or of any part of the territory thereof is threatened, whether by war or external aggression or armed rebellion, he may, by Proclamation, make a declaration to that effect in respect of the whole of India or of such part of the territory thereof as may be specified in the Proclamation."
+    },
+    {
+      "id": 4575,
+      "question": "A National emergency on the grounds of security threat is proclaimed under which among the following articles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Article 344"
+        },
+        {
+          "label": "B",
+          "text": "Article 352"
+        },
+        {
+          "label": "C",
+          "text": "Article 367"
+        },
+        {
+          "label": "D",
+          "text": "Article 301"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Article 352"
+      },
+      "explanation": "Article 352 of the Indian Constitution 1949 deals with the National emergency that can be proclaimed on the grounds of security threat or the situation crisis in India. In the history of independent India, there were three periods during which a state of emergency was deemed to have existed. It has been proclaimed three times so far-1962, 1971 and 1975. Financial emergency (article 360) has not been declared so far."
+    },
+    {
+      "id": 5568,
+      "question": "How many types of emergencies are there in Constitution of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "2"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "4"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "3"
+      },
+      "explanation": "The part 18 of Indian constitution deals with the emergency provisions. Three types of emergencies are defined in the constitution-National emergency, state emergency and financial emergency"
+    },
+    {
+      "id": 6183,
+      "question": "Which among the following articles gives the power to the central government to take pre-emptive action to protect any state against external aggression & internal disturbances?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Article 355"
+        },
+        {
+          "label": "B",
+          "text": "Article 356"
+        },
+        {
+          "label": "C",
+          "text": "Article 358"
+        },
+        {
+          "label": "D",
+          "text": "Article 360"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Article 355"
+      },
+      "explanation": "The article 355 of the Constitution gives the power to the central government to take pre-emptive action to protect any state against external aggression & internal disturbances."
+    },
+    {
+      "id": 6454,
+      "question": "What is true about Emergency duration under Articles 356 and 352?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Article 356: maximum 3 years; Article 352: indefinite duration"
+        },
+        {
+          "label": "B",
+          "text": "Article 352: maximum 3 years; Article 356: indefinite duration"
+        },
+        {
+          "label": "C",
+          "text": "Both Articles 356 and 352: maximum 3 years"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Article 356: maximum 3 years; Article 352: indefinite duration"
+      },
+      "explanation": "Article 356 allows President’s Rule for a maximum of 3 years. Article 352 (National Emergency) can remain in force indefinitely with Parliamentary approval every 6 months after the 44th Amendment Act, 1978. Both provisions regulate emergency powers under the Indian Constitution."
+    }
+  ]
+}

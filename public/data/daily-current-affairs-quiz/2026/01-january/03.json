@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: January 3, 2026",
+    "date": "2026-01-03",
+    "year": "2026",
+    "month": "01-january",
+    "day": 3,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 03:59:37",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:56:12"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "The Close Quarter Battle (CQB) Carbine is designed by which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hindustan Aeronautics Limited (HAL)"
+        },
+        {
+          "label": "B",
+          "text": "Bharat Electronics Limited (BEL)"
+        },
+        {
+          "label": "C",
+          "text": "Defence Research and Development Organisation (DRDO)"
+        },
+        {
+          "label": "D",
+          "text": "Indian Space Research Organization (ISRO)"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Defence Research and Development Organisation (DRDO)"
+      },
+      "explanation": "The Ministry of Defence signed defence contracts worth ₹4,666 crore to strengthen the Indian Army and Indian Navy. The deal includes Close Quarter Battle Carbines for both forces and Heavyweight Torpedoes for the Indian Navy. The Close Quarter Battle Carbine is a 56 × 45 millimetre compact firearm made under Indigenous Design, Development and Manufacturing. It is designed by the Defence Research and Development Organisation’s (DRDO’s) Armament Research and Development Establishment, Pune. It is manufactured by Bharat Forge Limited, a Pune-based Indian multinational company."
+    },
+    {
+      "id": 2,
+      "question": "The Sirkeer Malkoha, a rare bird species recently reported in the news, is usually found in the plains of which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uttarakhand"
+        },
+        {
+          "label": "B",
+          "text": "Arunachal Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Sikkim"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Uttarakhand"
+      },
+      "explanation": "The rare Sirkeer Malkoha has been recorded for the first time in Uttarkashi district of Uttarakhand. It is usually found in the plains of Uttarakhand, making this sighting significant. Sirkeer Malkoha, also called sirkeer cuckoo, is a unique type of cuckoo bird. It is found across the sub-Himalayan Indian subcontinent, Bangladesh, Sri Lanka, and parts of Pakistan and Rajasthan. It lives in scrublands, thin forests, and hilly areas. The International Union for Conservation of Nature Red List classifies it as Least Concern."
+    },
+    {
+      "id": 3,
+      "question": "Recently, which country became the 21st member of the Eurozone, bringing it closer to full European integration?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Romania"
+        },
+        {
+          "label": "B",
+          "text": "Croatia"
+        },
+        {
+          "label": "C",
+          "text": "Serbia"
+        },
+        {
+          "label": "D",
+          "text": "Bulgaria"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Bulgaria"
+      },
+      "explanation": "Bulgaria recently became the 21st member of the Eurozone, moving closer to full European integration. Bulgaria is located in southeastern Europe on the eastern part of the Balkan Peninsula. It shares borders with Romania, Turkey, Greece, North Macedonia, and Serbia, and has a maritime boundary with the Black Sea. The capital city of Bulgaria is Sofia."
+    },
+    {
+      "id": 4,
+      "question": "Which state has become the first in India to constitute its 8th State Pay Commission?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bihar"
+        },
+        {
+          "label": "B",
+          "text": "Assam"
+        },
+        {
+          "label": "C",
+          "text": "Odisha"
+        },
+        {
+          "label": "D",
+          "text": "Jharkhand"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Assam"
+      },
+      "explanation": "Assam became the first Indian state to constitute its 8th State Pay Commission before the 7th Pay Commission ends on 1 January 2026. The decision was announced by Chief Minister Himanta Biswa Sarma. Former Chief Secretary Subhas Das has been appointed as the head of the new Pay Commission. The move comes even before the Union Government’s 8th Central Pay Commission has started work. The 8th Pay Commission will revise salaries, allowances, and pensions of state government employees. Early constitution shows Assam’s intent to speed up the pay revision process. State employees and pensioners may get quicker clarity on future pay and pension benefits."
+    },
+    {
+      "id": 5,
+      "question": "The Land Stack & Glossary of Revenue Terms was launched under which programme?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pradhan Mantri Awas Yojana"
+        },
+        {
+          "label": "B",
+          "text": "Digital India Land Records Modernisation Programme"
+        },
+        {
+          "label": "C",
+          "text": "National Land Records Modernisation Project"
+        },
+        {
+          "label": "D",
+          "text": "Bharat Land Information System"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Digital India Land Records Modernisation Programme"
+      },
+      "explanation": "Minister of State for Rural Development and Communications, launched Land Stack in Chandigarh and Tamil Nadu and released the Glossary of Revenue Terms in New Delhi. These initiatives are part of the Digital India Land Record Modernisation Programme, aiming for modern, transparent, and citizen-centric land governance. Land Stack is an integrated GIS-based digital platform inspired by Singapore, the United Kingdom, and Finland. It provides single-window access to land and property information for citizens and government agencies."
+    }
+  ]
+}

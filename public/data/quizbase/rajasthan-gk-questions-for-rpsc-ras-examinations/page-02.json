@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "rajasthan-gk-questions-for-rpsc-ras-examinations",
+    "title": "States PCS: Rajasthan GK Questions for RPSC (RAS) Examinations",
+    "page": 2,
+    "total_pages": 2,
+    "generated_at": "2026-05-02 07:00:21",
+    "total_questions": 1,
+    "scraped_at": "2026-05-02 12:30:24"
+  },
+  "questions": [
+    {
+      "id": 11,
+      "question": "Which of the following districts of Rajasthan first adopted the Panchayati Raj system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nagaur"
+        },
+        {
+          "label": "B",
+          "text": "Ajmer"
+        },
+        {
+          "label": "C",
+          "text": "Tonk"
+        },
+        {
+          "label": "D",
+          "text": "Karauli"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Nagaur"
+      },
+      "explanation": "Nagaur district of Rajasthan first adopted the Panchayati Raj system on 2nd October 1959."
+    }
+  ]
+}

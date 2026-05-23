@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-january-2024",
+    "title": "Current Affairs Quiz - January, 2024",
+    "page": 1,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:46:52",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:54:19"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "As per RBI’s new policy, what is the maximum dividend commercial banks can pay out based on their net NPA ratios?",
+      "options": [
+        {
+          "label": "A",
+          "text": "30%"
+        },
+        {
+          "label": "B",
+          "text": "40%"
+        },
+        {
+          "label": "C",
+          "text": "50%"
+        },
+        {
+          "label": "D",
+          "text": "60%"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "50%"
+      },
+      "explanation": "As per RBI’s revised dividend distribution policy, banks with net NPA less than 6% and meeting capital adequacy norms can declare up to 50% dividend from profits, up from 40% earlier. Banks with zero net NPA can pay up to 50% dividend while those with over 4% NPA can only pay up to 15% dividend. The higher payout will benefit govt which holds majority stake in PSBs."
+    },
+    {
+      "id": 2,
+      "question": "What is the primary purpose of the ‘National Single Window System (NSWS)’ launched by CDSCO?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Digital Health Records Management"
+        },
+        {
+          "label": "B",
+          "text": "Streamlining Medical Device Import"
+        },
+        {
+          "label": "C",
+          "text": "Medical Research Funding"
+        },
+        {
+          "label": "D",
+          "text": "Public Health Surveillance"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Streamlining Medical Device Import"
+      },
+      "explanation": "The ‘National Single Window System (NSWS)’ launched by India’s Central Drugs Standard Control Organisation (CDSCO) is primarily designed to streamline the import of medical devices. Developed by Tata Consultancy Services (TCS) through Invest India, this unified portal aims to create a centralized platform for investors, thus enhancing the ease of doing business. The NSWS serves as a one-stop-shop for all approvals related to the import of medical devices, facilitating applications for certificates of registration, manufacturing licenses, and import licenses. This initiative represents a significant step towards simplifying and consolidating the regulatory processes in the medical device sector in India."
+    },
+    {
+      "id": 3,
+      "question": "How can students enroll in the APAAR (Automated Permanent Academic Account Registry) system, that was recently making news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Via School Registration"
+        },
+        {
+          "label": "B",
+          "text": "Through the Digilocker Portal"
+        },
+        {
+          "label": "C",
+          "text": "In-Person Verification"
+        },
+        {
+          "label": "D",
+          "text": "Email Application"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Through the Digilocker Portal"
+      },
+      "explanation": "Students can enroll in APAAR, the Automated Permanent Academic Account Registry, through the Digilocker portal. During the registration process, students are required to provide basic details such as their name, age, date of birth, gender, and a photograph. This online enrollment process facilitates ease of access and simplifies the procedure for students across India, allowing them to seamlessly monitor their academic journey and take advantage of the various benefits offered by the APAAR system. The integration of APAAR with the Academic Bank Credit (ABC) account further enhances the digital management of academic credits, reducing reliance on physical documents and improving academic tracking."
+    },
+    {
+      "id": 4,
+      "question": "Who is the author of recently released the book titled “Why Bharat Matters”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amit Shah"
+        },
+        {
+          "label": "B",
+          "text": "Nirmala Sitharaman"
+        },
+        {
+          "label": "C",
+          "text": "S. Jaishankar"
+        },
+        {
+          "label": "D",
+          "text": "Rajnath Singh"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "S. Jaishankar"
+      },
+      "explanation": "External Affairs Minister Dr. S. Jaishankar released his new book “Why Bharat Matters” at an event in New Delhi. The book examines India’s transformation in foreign policy over the past decade under PM Modi. It also juxtaposes India’s evolution with the Ramayana. Jaishankar outlined how 2024 will be turbulent due to geopolitics but India can face challenges given its strength."
+    },
+    {
+      "id": 5,
+      "question": "Which architect firm has been appointed by Adani group for preparing the draft city master plan of Dharavi redevelopment project?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Make Architects"
+        },
+        {
+          "label": "B",
+          "text": "HCP Design"
+        },
+        {
+          "label": "C",
+          "text": "Hafeez Contractor"
+        },
+        {
+          "label": "D",
+          "text": "Architecture Discipline"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Hafeez Contractor"
+      },
+      "explanation": "Adani appointed Hafeez Contractor Architects as the city planning firm for charting out the draft development plan for Dharavi project along with US firms Sasaki and Buro Happold. Contractor is known for slum rehabilitation and social housing projects aimed at improving lives."
+    },
+    {
+      "id": 6,
+      "question": "Which organization recently signed an MoU with National Remote Sensing Centre to develop a Green Cover Index for National Highways?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Road Transport and Highways"
+        },
+        {
+          "label": "B",
+          "text": "National Highways Authority of India"
+        },
+        {
+          "label": "C",
+          "text": "Bureau of Indian Standards"
+        },
+        {
+          "label": "D",
+          "text": "Defence Research and Development Organisation"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "National Highways Authority of India"
+      },
+      "explanation": "The National Highways Authority of India (NHAI) entered an MoU with ISRO’s National Remote Sensing Centre (NRSC) for 3 years to develop a “Green Cover Index” using satellite imagery to monitor plantation along vast network of national highways across India."
+    },
+    {
+      "id": 7,
+      "question": "What is the name of the biosimilar antidiabetic drug recently launched by Glenmark in the Indian market?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Insugen"
+        },
+        {
+          "label": "B",
+          "text": "Lirafit"
+        },
+        {
+          "label": "C",
+          "text": "Glyciphage"
+        },
+        {
+          "label": "D",
+          "text": "Januglify"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Lirafit"
+      },
+      "explanation": "Glenmark pharmaceuticals launched Lirafit, a biosimilar of popular antidiabetic medicine Liraglutide, in India priced nearly 70% cheaper to make the therapy more affordable for diabetic patients in the country."
+    },
+    {
+      "id": 8,
+      "question": "What is the full form of FMR as mentioned in the news regarding India’s border with Myanmar?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Financial Market Reforms"
+        },
+        {
+          "label": "B",
+          "text": "Free Medical Resources"
+        },
+        {
+          "label": "C",
+          "text": "Foreign Military Relations"
+        },
+        {
+          "label": "D",
+          "text": "Free Movement Regime"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Free Movement Regime"
+      },
+      "explanation": "FMR refers to the Free Movement Regime operational on India’s border with Myanmar. It allows tribal communities living along both sides of the boundary to travel up to 16 km across the border without visas. However, amidst rising illegal immigration and security challenges tied to cross-border crime, India plans to discontinue the FMR scheme and mandate visas for Myanmarese nationals’ entry. Concerns around FMR facilitating entry of non-tribals abusing its lax regulations prompted this reassessment of the agreement after 75 years."
+    },
+    {
+      "id": 9,
+      "question": "Who recently assumed the role of Vice Chief of the Naval Staff?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dinesh K Tripathi"
+        },
+        {
+          "label": "B",
+          "text": "Anil Kumar Chawla"
+        },
+        {
+          "label": "C",
+          "text": "R. Hari Kumar"
+        },
+        {
+          "label": "D",
+          "text": "Karambir Singh"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Dinesh K Tripathi"
+      },
+      "explanation": "Vice Admiral Dinesh K Tripathi recently took on the significant role of Vice Chief of the Naval Staff. His illustrious career in the Indian Navy began on July 1, 1985, and he has since held various pivotal positions, including serving as the Flag Officer Commanding-in-Chief of the Western Naval Command before his current appointment. Vice Admiral Tripathi is recognized for his specialization in Communication and Electronic Warfare and has been instrumental in various operational and strategic capacities within the Navy. His appointment as the Vice Chief of the Naval Staff marks another milestone in his distinguished service."
+    },
+    {
+      "id": 10,
+      "question": "Who has been appointed as the first woman Director-General of Police in Maharashtra?",
+      "options": [
+        {
+          "label": "A",
+          "text": "B. Sandhya"
+        },
+        {
+          "label": "B",
+          "text": "Archana Sondawale"
+        },
+        {
+          "label": "C",
+          "text": "Sushma Singh"
+        },
+        {
+          "label": "D",
+          "text": "Rashmi Shuklla"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Rashmi Shuklla"
+      },
+      "explanation": "Rashmi Shuklla, a 1988-batch Indian Police Service officer, has been appointed as the Director-General of Police in Maharashtra, becoming the first woman to hold this top police post in the state. She takes over from Rajnish Seth, another 1988-batch officer. Prior to this appointment, Shukla was on Central deputation, heading the Sashastra Seema Bal (SSB). Her career has included several significant positions, including serving as Commissioner of the State Intelligence Department (SID) and Additional Director-General of the Central Reserve Police Force. Despite being involved in some controversies, such as the phone-tapping row during her tenure in the SID, her appointment marks a notable achievement in the field of law enforcement in Maharashtra."
+    }
+  ]
+}

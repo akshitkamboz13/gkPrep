@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: February 14, 2026",
+    "date": "2026-02-14",
+    "year": "2026",
+    "month": "02-february",
+    "day": 14,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 04:24:09",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:54:19"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which state government launched Sthree Suraksha Scheme to give monthly pension to unemployed women and transwomen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kerala"
+        },
+        {
+          "label": "B",
+          "text": "Karnataka"
+        },
+        {
+          "label": "C",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "D",
+          "text": "Maharashtra"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Kerala"
+      },
+      "explanation": "The Kerala government has launched the Sthree Suraksha Scheme to provide a monthly pension of ₹1,000 to unemployed women and transwomen. The first installment was transferred to 10,18,042 beneficiaries whose applications have been approved so far. Women aged between 35 and 60 years who are economically backward and not receiving any other social welfare pension are eligible for this scheme. Transwomen are also included as beneficiaries under this pension scheme."
+    },
+    {
+      "id": 2,
+      "question": "What is the position of India in the Stanford University’s 2025 Global Artificial Intelligence (AI) Vibrancy Ranking?",
+      "options": [
+        {
+          "label": "A",
+          "text": "First"
+        },
+        {
+          "label": "B",
+          "text": "Second"
+        },
+        {
+          "label": "C",
+          "text": "Third"
+        },
+        {
+          "label": "D",
+          "text": "Fourth"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Third"
+      },
+      "explanation": "India ranks 3rd in Stanford University’s 2025 Global Artificial Intelligence (AI) Vibrancy Ranking. Data infrastructure, entrepreneurship, and demography are identified as key drivers for AI adoption in India. According to the Stanford Global AI Index Report, AI skill penetration in India is 2.5 times higher than the global average across similar occupations. As per the National Association of Software and Service Companies (NASSCOM) AI Adoption Index, 87% of enterprises in India are actively using AI solutions. The government states that India is among the first group of AI-ready nations, progressing across applications, models, chips, infrastructure, and energy layers."
+    },
+    {
+      "id": 3,
+      "question": "National Women’s Day in India is observed every year on which day?",
+      "options": [
+        {
+          "label": "A",
+          "text": "February 12"
+        },
+        {
+          "label": "B",
+          "text": "February 13"
+        },
+        {
+          "label": "C",
+          "text": "February 14"
+        },
+        {
+          "label": "D",
+          "text": "February 15"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "February 13"
+      },
+      "explanation": "National Women’s Day in India is observed every year on 13 February to mark the birth anniversary of Sarojini Naidu, known as the “Nightingale of India.” She was a renowned poet, social activist, and a prominent leader in India’s freedom struggle. The Government of India celebrates this day to honour her contribution to women’s empowerment and the national movement. The day promotes gender equality and encourages women to make independent decisions and become leaders in their own lives."
+    },
+    {
+      "id": 4,
+      "question": "Which state has become the first legislature in India to use AI-powered face-recognition technology to mark MLA attendance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gujarat"
+        },
+        {
+          "label": "B",
+          "text": "Madhya Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Andhra Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Andhra Pradesh"
+      },
+      "explanation": "Andhra Pradesh introduced an Artificial Intelligence (AI) based face-recognition attendance system for Members of the Legislative Assembly (MLAs) in February 2026. The system was launched on 11 February 2026 at the beginning of the State Budget Session. Andhra Pradesh became the first State Legislature in India to use AI-powered face-recognition technology to mark MLA attendance. Nine AI-enabled cameras have been installed inside the Assembly to record attendance only when members sit in their allotted seats. The main objective is to prevent proxy attendance and ensure real participation in proceedings."
+    },
+    {
+      "id": 5,
+      "question": "Which paramilitary force recently planned to induct Tangkhul Hui (Haofa) and Kombai breeds to reduce dependence on foreign dog breeds?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assam Rifles (AR)"
+        },
+        {
+          "label": "B",
+          "text": "Border Security Force (BSF)"
+        },
+        {
+          "label": "C",
+          "text": "Indo-Tibetan Border Police (ITBP)"
+        },
+        {
+          "label": "D",
+          "text": "Sashastra Seema Bal (SSB)"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Assam Rifles (AR)"
+      },
+      "explanation": "Assam Rifles is planning to induct two indigenous dog breeds, Tangkhul Hui from Manipur and Kombai from Tamil Nadu, to reduce long-term dependence on foreign breeds. Assam Rifles, India’s oldest paramilitary force, operates the Assam Rifles Dog Training Centre (ARDTC) at Jorhat for training service dogs. Tangkhul Hui (Haofa) is a rare indigenous breed from Ukhrul district, Manipur, traditionally reared by the Tangkhul community for hunting. Kombai, also called the Polygar dog, is an indigenous guard breed from Theni district, Tamil Nadu, named after Kombai town."
+    }
+  ]
+}

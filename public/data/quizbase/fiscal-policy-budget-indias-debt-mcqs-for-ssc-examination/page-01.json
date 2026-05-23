@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "fiscal-policy-budget-indias-debt-mcqs-for-ssc-examination",
+    "title": "41. Fiscal Policy, Budget, India&apos;s debt",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:12:28"
+  },
+  "questions": [
+    {
+      "id": 7807,
+      "question": "Which statement defines a balanced budget?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Total expenditure exceeds total revenue"
+        },
+        {
+          "label": "B",
+          "text": "Total revenue equals total expenditure"
+        },
+        {
+          "label": "C",
+          "text": "Total revenue exceeds total expenditure"
+        },
+        {
+          "label": "D",
+          "text": "Total revenue equals or exceeds expenditure"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Total revenue equals total expenditure"
+      },
+      "explanation": "A balanced budget occurs when a government’s total revenue matches its total expenditure within a fiscal year. The concept is found in public finance literature and is used by various countries’ budgets. The Government of India’s budgets list balanced budgets when revenue and expenditure are equal with no deficit or surplus."
+    },
+    {
+      "id": 7811,
+      "question": "Which among the following imposes a greater burden (relative to resources) on the poor than on the rich ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Progressive tax"
+        },
+        {
+          "label": "B",
+          "text": "Regressive Tax"
+        },
+        {
+          "label": "C",
+          "text": "Lump Sum tax"
+        },
+        {
+          "label": "D",
+          "text": "Proportional tax"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Regressive Tax"
+      },
+      "explanation": "A regressive tax is the one in which tax rate decreases as the amount subject to taxation increases; and the tax rate progresses from high to low. The lowest amount is subject to higher taxation and this leads to individuals with low income bear the highest burden of regressive taxes. Such tax does not take into account the ability to pay."
+    },
+    {
+      "id": 8496,
+      "question": "Which best defines Gross Budgetary Support?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Value of gross revenue receipts by the government"
+        },
+        {
+          "label": "B",
+          "text": "Fraction of total expenditure on Central sectors, ministries, and State/UT plans"
+        },
+        {
+          "label": "C",
+          "text": "Value of total plan expenditure"
+        },
+        {
+          "label": "D",
+          "text": "Fraction of expenditure on different Central sectors plans"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Fraction of total expenditure on Central sectors, ministries, and State/UT plans"
+      },
+      "explanation": "Gross Budgetary Support is the portion of the government budget allocated to central sectors, ministries, departments, and as support to State/UT plans. It forms a part of the total expenditure in India's Union Budget. GBS funds plan expenditures and is used for the implementation of schemes and programs under different government ministries and departments. It is released annually by the Government of India."
+    },
+    {
+      "id": 8968,
+      "question": "In context of Budget, which among the following is NOT a Non-Plan Expenditure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Interest payments on loans"
+        },
+        {
+          "label": "B",
+          "text": "Defense expenditure"
+        },
+        {
+          "label": "C",
+          "text": "Pension payments to government employees"
+        },
+        {
+          "label": "D",
+          "text": "Central Assistance to States for developmental projects"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Central Assistance to States for developmental projects"
+      },
+      "explanation": "Non-Plan Expenditure covers routine government expenses such as interest payments, defense costs, and pensions. Central Assistance to States for developmental projects is categorized as Plan Expenditure, intended for developmental activities as per the Planning Commission guidelines before 2017. After 2017, India merged Plan and Non-Plan expenditure in Union Budget, but the classification in this question refers to the pre-2017 structure."
+    },
+    {
+      "id": 9215,
+      "question": "Which tools and goals define fiscal policy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Managing interest rates and money supply"
+        },
+        {
+          "label": "B",
+          "text": "Taxation and government spending to influence economy"
+        },
+        {
+          "label": "C",
+          "text": "Open market operations for bank reserves"
+        },
+        {
+          "label": "D",
+          "text": "Setting reserve requirements for banks"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Taxation and government spending to influence economy"
+      },
+      "explanation": "Fiscal policy uses government taxation and spending to affect economic growth, employment, and inflation. Main tools are tax adjustments and expenditure management. These decisions are made through the government’s annual budget process. Fiscal policy is distinguished from monetary policy, which is implemented by central banks using instruments such as interest rates, reserve requirements, and open market operations."
+    }
+  ]
+}

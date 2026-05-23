@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "agriculture-policy-green-revolution-and-rainbow-revolution-mcqs-for-ssc-examination",
+    "title": "11. Agriculture Policy, Green Revolution and Rainbow Revolution",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:55:45"
+  },
+  "questions": [
+    {
+      "id": 8292,
+      "question": "Which body recommends Minimum Support Prices for major crops annually?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Planning Commission of India"
+        },
+        {
+          "label": "B",
+          "text": "Finance Commission of India"
+        },
+        {
+          "label": "C",
+          "text": "Commission for Agricultural Costs and Prices"
+        },
+        {
+          "label": "D",
+          "text": "Farmer’s Commission of India"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Commission for Agricultural Costs and Prices"
+      },
+      "explanation": "The Commission for Agricultural Costs and Prices (CACP) was established in 1965. CACP is an attached office of the Ministry of Agriculture and Farmers Welfare, Government of India. CACP annually recommends Minimum Support Prices for 23 agricultural commodities. The recommendations consider cost of production, market price trends, and inter-crop price parity. Government decides final MSPs based on CACP’s advice."
+    },
+    {
+      "id": 8678,
+      "question": "What is the main objective of setting up fair price shops?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To demote speculation and hoarding"
+        },
+        {
+          "label": "B",
+          "text": "To incentivise the trading of essential commodities"
+        },
+        {
+          "label": "C",
+          "text": "To eliminate the monopoly of the traders and speculators"
+        },
+        {
+          "label": "D",
+          "text": "To make the essential commodities available to the weaker sections of the society"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "To make the essential commodities available to the weaker sections of the society"
+      },
+      "explanation": "Fair price shops form part of India's Public Distribution System since 1947. They provide essential commodities such as grains, sugar, and kerosene to people below the poverty line at subsidized prices. The Targeted Public Distribution System was introduced in 1997 to further improve the food security for economically vulnerable sections. Only ration cardholders can purchase from these shops as per government rules."
+    },
+    {
+      "id": 10499,
+      "question": "Which body recommends Minimum Support Prices to the Government of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Agriculture and Farmers Welfare"
+        },
+        {
+          "label": "B",
+          "text": "Cabinet Committee on Economic Affairs"
+        },
+        {
+          "label": "C",
+          "text": "State Governments"
+        },
+        {
+          "label": "D",
+          "text": "Commission for Agricultural Costs and Prices (CACP)"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Commission for Agricultural Costs and Prices (CACP)"
+      },
+      "explanation": "The Commission for Agricultural Costs and Prices (CACP) was established in January 1965 as the Agricultural Prices Commission and renamed CACP in 1985. CACP functions as an attached office under the Ministry of Agriculture and Farmers Welfare. CACP annually recommends MSPs for 22-23 crops to the government. Its recommendations consider factors such as production costs, market prices, and inter-crop price parity."
+    },
+    {
+      "id": 11005,
+      "question": "In which financial year did Seed Crop Insurance start in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1999-2000"
+        },
+        {
+          "label": "B",
+          "text": "2000-2001"
+        },
+        {
+          "label": "C",
+          "text": "2001-2002"
+        },
+        {
+          "label": "D",
+          "text": "2002-2003"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "2000-2001"
+      },
+      "explanation": "The Seed Crop Insurance scheme was launched in India as a pilot in the financial year 2000-2001. It covered selected districts in 11 major seed-producing states. The scheme aimed to provide insurance protection to certified seed growers against crop loss due to natural calamities and pests. The program targeted crops produced for certified seed purposes, not regular grain crops."
+    },
+    {
+      "id": 21479,
+      "question": "How does the Indian government provide food subsidy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By fixing Central Issue Prices only"
+        },
+        {
+          "label": "B",
+          "text": "Through Public Distribution System only"
+        },
+        {
+          "label": "C",
+          "text": "By funding Food Corporation of India only"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "All of the above"
+      },
+      "explanation": "The Public Distribution System distributes subsidized foodgrains to eligible households under the National Food Security Act, 2013. The Food Corporation of India receives government funding for procurement and distribution of grains. Central Issue Prices are set by the government for affordable supply. As of January 2024, free foodgrains are provided to beneficiary households, impacting over 81 crore people."
+    }
+  ]
+}

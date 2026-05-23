@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-september-2021",
+    "title": "Current Affairs Quiz - September, 2021",
+    "page": 3,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:49:04",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:08:29"
+  },
+  "questions": [
+    {
+      "id": 21,
+      "question": "Which country has been suspended from the 2022 Beijing Winter Olympics by the International Olympic Committee?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cuba"
+        },
+        {
+          "label": "B",
+          "text": "North Korea"
+        },
+        {
+          "label": "C",
+          "text": "Venezuela"
+        },
+        {
+          "label": "D",
+          "text": "Peru"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "North Korea"
+      },
+      "explanation": "North Korea was formally suspended from the 2022 Beijing Winter Olympics by the International Olympic Committee (IOC) as punishment for refusing to send a team to the Tokyo Games citing the COVID-19 pandemic. North Korean national Olympic body will also have to forfeit money it was due from the previous Olympics."
+    },
+    {
+      "id": 22,
+      "question": "Which state has passed a bill seeking exemption from NEET for medical courses’ admissions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "B",
+          "text": "Telangana"
+        },
+        {
+          "label": "C",
+          "text": "Kerala"
+        },
+        {
+          "label": "D",
+          "text": "Odisha"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Tamil Nadu"
+      },
+      "explanation": "Tamil Nadu assembly has passed a bill seeking a permanent exemption to the state from NEET (National Eligibility cum Entrance Test). With the passing of this bill, students would get admissions to UG Medical degree courses based on the qualifying HSC +2 marks or class 12 marks, just like it used to happen before NEET was implemented."
+    },
+    {
+      "id": 23,
+      "question": "In which city, PM Modi has laid foundation stone of Raja Mahendra Pratap Singh University?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aligarh"
+        },
+        {
+          "label": "B",
+          "text": "Meerut"
+        },
+        {
+          "label": "C",
+          "text": "Jaipur"
+        },
+        {
+          "label": "D",
+          "text": "Varanasi"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Aligarh"
+      },
+      "explanation": "Prime Minister Narendra Modi has laid the foundation stone of Raja Mahendra Pratap Singh State University in Aligarh. The university is being established by the Uttar Pradesh government in the memory and honour of Raja Mahendra Pratap Singh, freedom fighter, educationist and social reformer. The university will provide affiliation to 395 colleges of the Aligarh division."
+    },
+    {
+      "id": 24,
+      "question": "With which company, Ministry of Agriculture and Farmers welfare has signed MoU for taking forward Digital Agriculture?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CISCO"
+        },
+        {
+          "label": "B",
+          "text": "Ninjacart"
+        },
+        {
+          "label": "C",
+          "text": "ITC Limited"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "All of the above"
+      },
+      "explanation": "Ministry of Agriculture and Farmers welfare has signed five MOUs with private companies for taking forward Digital Agriculture. Agriculture Minister Narendra Singh Tomar said the MOUs aimed at increasing farmer’s income and protecting their produce. The MoUs were signed for pilot projects with CISCO, Ninjacart, Jio Platforms Limited, ITC Limited and NCDEX e-Markets Limited. Based on these pilot projects farmers will be able to take informed decisions on what crop to grow, what variety of seed to use and what best practises to adopt to maximise the yield."
+    },
+    {
+      "id": 25,
+      "question": "On which date, International Day for the Preservation of the Ozone Layer is observed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "September 17"
+        },
+        {
+          "label": "B",
+          "text": "September 12"
+        },
+        {
+          "label": "C",
+          "text": "September 16"
+        },
+        {
+          "label": "D",
+          "text": "September 21"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "September 16"
+      },
+      "explanation": "International Day for the Preservation of the Ozone Layer is observed on September 16, every year. It is celebrated to spread awareness among people about the depletion of the Ozone Layer and search for possible solutions to preserve it. This year’s theme for the International Day for the Prevention of the Ozone Layer is ‘Montreal Protocol Keeping us, our food, and vaccines cool.’ The purpose of the Montreal Protocol is to protect the Ozone layer by reducing the production of substances that are supposed to be responsible for Ozone layer depletion."
+    },
+    {
+      "id": 26,
+      "question": "Recently, UNCTAD has projected the Indian economy to expand by what percentage in 2021?",
+      "options": [
+        {
+          "label": "A",
+          "text": "8.3%"
+        },
+        {
+          "label": "B",
+          "text": "7%"
+        },
+        {
+          "label": "C",
+          "text": "7.2%"
+        },
+        {
+          "label": "D",
+          "text": "9.1%"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "7.2%"
+      },
+      "explanation": "The United Nations Conference on Trade and Development (UNCTAD) has pegged India’s economic growth rate to hit a four-year high of 7.2% for 2021. It had predicted a contraction of 7% in 2020. At this rate, India would be the fastest growing economy after China, which is projected to grow by 8.3%. Calculations are based on GDP at constant dollars in 2015."
+    },
+    {
+      "id": 27,
+      "question": "Which organization has launched a unique Scheme called SPIN (Strengthening the Potential of India)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khadi and Village Industries Commission"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Rural Development"
+        },
+        {
+          "label": "C",
+          "text": "National Small Industries Corporation"
+        },
+        {
+          "label": "D",
+          "text": "State Bank of India"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Khadi and Village Industries Commission"
+      },
+      "explanation": "Khadi and Village Industries Commission (KVIC) has launched a unique Scheme called Strengthening the Potential of India (SPIN) and has also set up a pottery cluster under the SFURTI Scheme in Varanasi with the aim to empower over 1100 persons belonging to the marginalized potters. 780 electric potter wheels were also sanctioned to SPIN Scheme participants. Also in Gujarat KVIC has distributed 50 charkha to women artisans at Kevadia to engage them with sustainable livelihood and self-employment."
+    },
+    {
+      "id": 28,
+      "question": "Which organization has issued India’s first-ever Euro Green Bond?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Power Grid Corporation of India"
+        },
+        {
+          "label": "B",
+          "text": "NTPC Limited"
+        },
+        {
+          "label": "C",
+          "text": "Power Finance Corporation"
+        },
+        {
+          "label": "D",
+          "text": "Reliance Power"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Power Finance Corporation"
+      },
+      "explanation": "Power Finance Corporation (PFC), a non-banking financial company (NBFC) which comes under the ministry of power, has successfully issued its first 300-million-euro 7 year Euro Bond issuance. The Euro Green Bond is the first green bond denominated in Euro issued in India. This is also first-ever Euro issuance by an Indian NBFC. With this issuance, PFC also entered the European market for international fundraising."
+    },
+    {
+      "id": 29,
+      "question": "Which ministry has launched a Pan-India Special Campaign called “Ek Pahal Drive?”",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Law and Justice"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Rural Development"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Corporate Affairs"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Finance"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ministry of Law and Justice"
+      },
+      "explanation": "A Pan-India Special Campaign called “Ek Pahal Drive” for Justice Delivery at doorstep was launched by the Ministry of Law and Justice. This campaign was launched in a bid to encourage mass registration under Tele-Law. Department of Justice and NALSA launched this campaign. The purpose of this campaign is to realize the desire of Indian citizens to have access to justice."
+    },
+    {
+      "id": 30,
+      "question": "Which organization has tied up with Cordelia Cruises to launch India’s first indigenous cruise liner?",
+      "options": [
+        {
+          "label": "A",
+          "text": "MakeMyTrip"
+        },
+        {
+          "label": "B",
+          "text": "Ibibo"
+        },
+        {
+          "label": "C",
+          "text": "Indian Railway Catering and Tourism Corporation"
+        },
+        {
+          "label": "D",
+          "text": "Vistara"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Indian Railway Catering and Tourism Corporation"
+      },
+      "explanation": "The Indian Railway Catering and Tourism Corporation (IRCTC) has partnered with Cordelia Cruises, a private company operated by Waterways Leisure Tourism, to launch, market and promote India’s first local luxury cruise ship. This is another luxury travel which is provided to the public under the railway PSU’s travel services."
+    }
+  ]
+}

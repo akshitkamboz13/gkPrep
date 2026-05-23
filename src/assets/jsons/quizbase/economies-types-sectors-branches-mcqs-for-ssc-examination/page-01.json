@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "economies-types-sectors-branches-mcqs-for-ssc-examination",
+    "title": "3. Economies: Types, Sectors, Branches",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:11:51"
+  },
+  "questions": [
+    {
+      "id": 8740,
+      "question": "Which sector contributes most to India’s GDP in FY26?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Primary sector"
+        },
+        {
+          "label": "B",
+          "text": "Secondary sector"
+        },
+        {
+          "label": "C",
+          "text": "Tertiary sector"
+        },
+        {
+          "label": "D",
+          "text": "Quaternary sector"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Tertiary sector"
+      },
+      "explanation": "The tertiary (services) sector is the largest contributor to India’s GDP in FY26, with a share of 56.4% in Gross Value Added, according to the First Advance Estimates. The services sector grew by 9.1% in FY26."
+    },
+    {
+      "id": 10386,
+      "question": "Which country is the world's largest exporter of tea in 2025?",
+      "options": [
+        {
+          "label": "A",
+          "text": "China"
+        },
+        {
+          "label": "B",
+          "text": "India"
+        },
+        {
+          "label": "C",
+          "text": "Sri Lanka"
+        },
+        {
+          "label": "D",
+          "text": "Kenya"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "China"
+      },
+      "explanation": "In 2024–25, China led global tea exports by value with $1,739 million, holding nearly 45% share and surpassing Kenya and Sri Lanka. While Kenya leads in black tea by volume, China remains the largest exporter overall based on latest official data."
+    },
+    {
+      "id": 10809,
+      "question": "Which OPEC member is the largest oil producer in 2026?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Venezuela"
+        },
+        {
+          "label": "B",
+          "text": "Iran"
+        },
+        {
+          "label": "C",
+          "text": "Saudi Arabia"
+        },
+        {
+          "label": "D",
+          "text": "Canada"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Saudi Arabia"
+      },
+      "explanation": "Saudi Arabia is the top oil producer in OPEC, with vast reserves, low extraction costs, and significant spare production capacity managed by Saudi Aramco, granting major influence over global oil markets."
+    },
+    {
+      "id": 11554,
+      "question": "What drives economic growth in the MENA region in 2026?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tourism and hospitality services"
+        },
+        {
+          "label": "B",
+          "text": "Oil production and hydrocarbon exports"
+        },
+        {
+          "label": "C",
+          "text": "Manufacturing and industrial production"
+        },
+        {
+          "label": "D",
+          "text": "Data center and AI technology development"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Oil production and hydrocarbon exports"
+      },
+      "explanation": "In 2026, oil production and hydrocarbon exports remain the main growth drivers for the MENA region, especially within GCC states. Despite efforts toward economic diversification in areas like AI and tourism, hydrocarbons still overwhelmingly contribute to real GDP growth and export revenues in the region."
+    },
+    {
+      "id": 18162,
+      "question": "Which among the following is the chief characteristic of the primary industry of the developed countries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Larger farm size and increasing corporate ownership of farms"
+        },
+        {
+          "label": "B",
+          "text": "Larger farm size and more government ownership of farms"
+        },
+        {
+          "label": "C",
+          "text": "Smaller farm size and a diversity of crops on each farm"
+        },
+        {
+          "label": "D",
+          "text": "Smaller farm size and fewer family-owned farms"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Larger farm size and increasing corporate ownership of farms"
+      },
+      "explanation": "Consider agriculture in the developed countries such as United States and Canada. There, the small family farms are not able to earn a profit and are being replaced by large corporate farms."
+    }
+  ]
+}

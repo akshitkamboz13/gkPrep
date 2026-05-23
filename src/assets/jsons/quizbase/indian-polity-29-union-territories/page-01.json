@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-29-union-territories",
+    "title": "Union Territories",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:21:05"
+  },
+  "questions": [
+    {
+      "id": 4566,
+      "question": "Which of the following benches has jurisdiction over the Union Territory of Andaman and Nicobar Islands?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Circuit bench of the Bombay High Court at Port Blair"
+        },
+        {
+          "label": "B",
+          "text": "Circuit bench of the Madras High Court at Port Blair"
+        },
+        {
+          "label": "C",
+          "text": "Circuit bench of the Kolkata High Court at Port Blair"
+        },
+        {
+          "label": "D",
+          "text": "Circuit bench of the Supreme Court at Port Blair"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Circuit bench of the Kolkata High Court at Port Blair"
+      },
+      "explanation": "The Circuit bench of the Kolkata High Court at Port Blair holds jurisdiction over the Union Territory of Andaman and Nicobar Islands. Unlike other Union Territories in India, which are governed by the respective High Courts of the contiguous states, Andaman and Nicobar Islands are directly governed by the Kolkata High Court."
+    },
+    {
+      "id": 5987,
+      "question": "Which among the following is the official language of Union Territory of Lakshadweep ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamil"
+        },
+        {
+          "label": "B",
+          "text": "Malayalam"
+        },
+        {
+          "label": "C",
+          "text": "Great Andamanese"
+        },
+        {
+          "label": "D",
+          "text": "Sinhala"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Malayalam"
+      },
+      "explanation": "Official Languages of Lakshdweep are Malayalam and English, while there are two spoken languages also viz. Jeseri and Dhivehi."
+    },
+    {
+      "id": 6347,
+      "question": "In which year, Union Territories were introduced in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1949"
+        },
+        {
+          "label": "B",
+          "text": "1950"
+        },
+        {
+          "label": "C",
+          "text": "1956"
+        },
+        {
+          "label": "D",
+          "text": "1960"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "1956"
+      },
+      "explanation": "Reorganization of states on linguistic lines, abolition of Class A, B, C, D states and introduction of Union Territories by Constitution 7th amendment act"
+    },
+    {
+      "id": 6450,
+      "question": "Delhi was called national Capital Territory by which amendment Act ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "63rd"
+        },
+        {
+          "label": "B",
+          "text": "69th"
+        },
+        {
+          "label": "C",
+          "text": "91st"
+        },
+        {
+          "label": "D",
+          "text": "93rd"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "69th"
+      },
+      "explanation": "Constitution (69th) Amendment Act, 1991 granted special status to Delhi and declared it the National Capital Territory. A Lieutenant Governor was nominated as Administrator of Delhi and legislative assembly was created for Delhi."
+    },
+    {
+      "id": 6452,
+      "question": "Jurisdiction of Lakshadweep comes under __________?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamil Nadu High Court"
+        },
+        {
+          "label": "B",
+          "text": "Kerala High Court"
+        },
+        {
+          "label": "C",
+          "text": "West Bengal High Court"
+        },
+        {
+          "label": "D",
+          "text": "Mumbai High Court"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Kerala High Court"
+      },
+      "explanation": "The Kerala High Court was established in the year 1956. It has jurisdiction over both Kerala and Lakshadweep. It is located at Ernakulam."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: April 4, 2026",
+    "date": "2026-04-04",
+    "year": "2026",
+    "month": "04-april",
+    "day": 4,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 02:28:11",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:51:58"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Gangotri National Park is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uttarakhand"
+        },
+        {
+          "label": "B",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "D",
+          "text": "Gujarat"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Uttarakhand"
+      },
+      "explanation": "Gangotri National Park recently reopened after a six-month winter break, highlighting seasonal conservation management in the Himalayan region. It is located in Uttarakhand, along the upper catchment of the Bhagirathi River. The park’s northeastern boundary touches China (Tibet Autonomous Region). It shares borders with Kedarnath Wildlife Sanctuary and Govind National Park."
+    },
+    {
+      "id": 2,
+      "question": "The Multi-Hazard Early Warning Decision Support System (MH-EWDSS) has been developed by which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indian Space Research Organisation"
+        },
+        {
+          "label": "B",
+          "text": "National Disaster Management Authority"
+        },
+        {
+          "label": "C",
+          "text": "India Meteorological Department"
+        },
+        {
+          "label": "D",
+          "text": "Defence Research and Development Organisation"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "India Meteorological Department"
+      },
+      "explanation": "The Multi-Hazard Early Warning Decision Support System (MH-EWDSS) marks a major advancement in India’s disaster risk reduction and weather forecasting framework. It is developed by the India Meteorological Department (IMD) using open-source technology and in-house expertise. It is part of Mission Mausam, a digital transformation initiative, and was launched in 2024. It uses Geographic Information System (GIS) maps for real-time data collection, analysis, and dissemination."
+    },
+    {
+      "id": 3,
+      "question": "Newcastle Disease, that was recently seen in news, is caused by which agent?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Virus"
+        },
+        {
+          "label": "B",
+          "text": "Bacteria"
+        },
+        {
+          "label": "C",
+          "text": "Fungus"
+        },
+        {
+          "label": "D",
+          "text": "Protozoa"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Virus"
+      },
+      "explanation": "Newcastle Disease is a highly contagious viral disease affecting poultry and wild birds, recently reported spreading across Europe and the United Kingdom (UK). It is caused by Avian Paramyxovirus Serotype 1 (APMV-1) and has global distribution. It occurs in three forms: lentogenic (mild), mesogenic (moderate), and velogenic (highly virulent). Transmission occurs via respiratory droplets, exhaled air, and feces of infected birds. Symptoms include respiratory distress (gasping, coughing), nervous signs (paralysis, twisted neck), and diarrhoea."
+    },
+    {
+      "id": 4,
+      "question": "The SAMPANN platform is a flagship initiative of which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Finance"
+        },
+        {
+          "label": "B",
+          "text": "Department of Telecommunications"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Labour and Employment"
+        },
+        {
+          "label": "D",
+          "text": "Department of Pension and Pensioners’ Welfare"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Department of Telecommunications"
+      },
+      "explanation": "SAMPANN (System for Accounting and Management of Pension) is a digital pension platform being adopted by Goa Government and Cochin Port Authority to modernize pension disbursement. It is a flagship initiative of the Department of Telecommunications (DoT), launched in 2018. It is managed by the Office of the Controller General of Communication Accounts (CGCA). It enables end-to-end pension processing including sanction, authorization, and payment on a single platform. It ensures direct bank transfer of pensions without intermediaries, improving transparency."
+    },
+    {
+      "id": 5,
+      "question": "What is the name of the campaign launched by the Madhya Pradesh government in April 2026 to promote school enrollment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Padhe Bharat Badhe Bharat Abhiyan"
+        },
+        {
+          "label": "B",
+          "text": "School Chalen Hum Campaign"
+        },
+        {
+          "label": "C",
+          "text": "Shiksha Sudhar Abhiyan"
+        },
+        {
+          "label": "D",
+          "text": "Sarva Shiksha Enrollment Drive"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "School Chalen Hum Campaign"
+      },
+      "explanation": "The ‘School Chalen Hum’ campaign was launched in Bhopal by Mohan Yadav to boost universal school enrolment and quality education. It was conducted from April 1–4, it targets all children across 55 districts and more than 50,000 villages. It aligns with Pravesh Utsav (admission festival) and focuses on distribution of 5.6 crore textbooks and learning materials. The initiative supports goals of the National Education Policy 2020 (NEP 2020). Enrolment increased by 19.6%, with 32.4% rise in government schools. Sandipani Vidyalayas and PM-SHRI (Prime Minister Schools for Rising India) schools promote quality infrastructure."
+    }
+  ]
+}

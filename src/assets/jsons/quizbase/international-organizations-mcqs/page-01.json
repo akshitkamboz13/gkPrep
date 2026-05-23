@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "international-organizations-mcqs",
+    "title": "International Organizations",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:25:21"
+  },
+  "questions": [
+    {
+      "id": 25,
+      "question": "Apart from efforts towards economic integration across the region, which of the following African organizations has also served as a peacekeeping force sending joint military forces in the times of political unrest?",
+      "options": [
+        {
+          "label": "A",
+          "text": "African Economic Community"
+        },
+        {
+          "label": "B",
+          "text": "Economic Community of West African States (ECOWAS)"
+        },
+        {
+          "label": "C",
+          "text": "Arab Maghreb Union"
+        },
+        {
+          "label": "D",
+          "text": "East African Community"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Economic Community of West African States (ECOWAS)"
+      },
+      "explanation": "ECOWAS is a 15 member community of western African countries that makes efforts towards not only economic integration but also peace keeping during times of political unrest."
+    },
+    {
+      "id": 438,
+      "question": "With reference to United Nations, the decision that major countries should have veto power, was taken at which of the following conferences?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Teheran conference"
+        },
+        {
+          "label": "B",
+          "text": "Dumbarton oaks"
+        },
+        {
+          "label": "C",
+          "text": "Yalta Conference"
+        },
+        {
+          "label": "D",
+          "text": "Moscow Conference"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Dumbarton oaks"
+      },
+      "explanation": "The decision that major countries should have veto power was taken at Dumbarton oaks."
+    },
+    {
+      "id": 439,
+      "question": "Knesset is the name of the parliament of which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Israel"
+        },
+        {
+          "label": "B",
+          "text": "Lebanon"
+        },
+        {
+          "label": "C",
+          "text": "Tunisia"
+        },
+        {
+          "label": "D",
+          "text": "Egypt"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Israel"
+      },
+      "explanation": "Knesset is the unicameral national legislature of Israel. As the legislative branch of the Israeli government, the Knesset passes all laws, elects the President and Prime Minister, approves the cabinet, and supervises the work of the government. In addition, the Knesset elects the State Comptroller. It also has the power to waive the immunity of its members, remove the President and the State Comptroller from office, dissolve the government in a constructive vote of no confidence, and to dissolve itself and call new elections. The Prime Minister may dissolve the Knesset. The Knesset is located in Givat Ram, Jerusalem."
+    },
+    {
+      "id": 2191,
+      "question": "Where are the headquarters of OIC Independent Permanent Human Rights Commission (IPHRC)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "United Arab Emirates"
+        },
+        {
+          "label": "B",
+          "text": "Senegal"
+        },
+        {
+          "label": "C",
+          "text": "Saudi Arabia"
+        },
+        {
+          "label": "D",
+          "text": "Burkina Faso"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Saudi Arabia"
+      },
+      "explanation": "The headquarters of OIC Independent Permanent Human Rights Commission of Organization (IPHRC) are at Jeddah, Saudi Arabia. IPHRC seeks to promote human rights and fundamental freedoms in the Muslim world through provision of objective and neutral views on many human rights issues, in accordance with international rules and in consonance with Islamic principles. The IPHRC is an expert body with advisory capacity established by Organization of Islamic Cooperation (OIC) as the principal organ working independently in the area of human rights. The IPHRC has the power to monitor human rights within the member states and facilitates the integration of human rights into all OIC mandates. It also aids in the promotion of political, civil, and economic rights in all member states."
+    },
+    {
+      "id": 2448,
+      "question": "Economic and Social Council (ECOSOC) is an organ of __?",
+      "options": [
+        {
+          "label": "A",
+          "text": "World Bank"
+        },
+        {
+          "label": "B",
+          "text": "United Nations"
+        },
+        {
+          "label": "C",
+          "text": "International Monetary Fund"
+        },
+        {
+          "label": "D",
+          "text": "World Economic Forum"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "United Nations"
+      },
+      "explanation": "The Economic and Social Council (ECOSOC) is one of the six principal organs of the United Nations for coordinating economic, social and environmental issues, as well as for implementing internationally agreed development goals."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "socio-economic-issues-mcqs-for-ssc-examination",
+    "title": "48. Socio-economic Issues MCQs for SSC Examination",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:33:30"
+  },
+  "questions": [
+    {
+      "id": 5656,
+      "question": "Which goods are consumed collectively by the community?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Public Goods"
+        },
+        {
+          "label": "B",
+          "text": "Consumer Goods"
+        },
+        {
+          "label": "C",
+          "text": "Non-durable Goods"
+        },
+        {
+          "label": "D",
+          "text": "Durable Goods"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Public Goods"
+      },
+      "explanation": "Public goods are non-excludable and non-rivalrous commodities or services. They are made available to all members of society without direct payment. Examples include national defense, clean air, and street lighting. Governments usually fund public goods due to the free rider problem. Paul Samuelson formally defined public goods in 1954. Provision and maintenance typically rely on taxation and government administration."
+    },
+    {
+      "id": 6940,
+      "question": "In September 1999, which organization established the Poverty Reduction and Growth Facility (PRGF) to make the objectives of poverty reduction and growth more central to lending operations in its poorest member countries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Asian Development Bank"
+        },
+        {
+          "label": "B",
+          "text": "International Monetary Fund"
+        },
+        {
+          "label": "C",
+          "text": "World Bank"
+        },
+        {
+          "label": "D",
+          "text": "US Federal Bank"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "International Monetary Fund"
+      },
+      "explanation": "The Poverty Reduction and Growth Facility (PRGF) was set up by the International Monetary Fund in September 1999. Its objective was to formulate policies focusing on growth and poverty reduction."
+    },
+    {
+      "id": 7746,
+      "question": "Which is NOT an economic factor contributing to poverty in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Caste-based social discrimination"
+        },
+        {
+          "label": "B",
+          "text": "Low agricultural productivity"
+        },
+        {
+          "label": "C",
+          "text": "Unemployment and underemployment"
+        },
+        {
+          "label": "D",
+          "text": "Rapid population growth"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Caste-based social discrimination"
+      },
+      "explanation": "Caste-based social discrimination in India is classified as a social, not economic, factor. The caste system leads to social exclusion and restricts access to education and jobs for marginalized groups such as Scheduled Castes and Scheduled Tribes. Social discrimination originates from traditional societal structures and legal history, rather than economic variables like production levels, employment rate, or population growth."
+    },
+    {
+      "id": 7805,
+      "question": "Which among the following is a term for which alternate word \"Buyer’s Monopoly” is used?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oligopoly"
+        },
+        {
+          "label": "B",
+          "text": "Inverse monopoly"
+        },
+        {
+          "label": "C",
+          "text": "Monopsony"
+        },
+        {
+          "label": "D",
+          "text": "Duopoly"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Monopsony"
+      },
+      "explanation": "Monopsony refers to a market structure in which a single buyer substantially controls the market as the major purchaser of goods and services offered by many sellers."
+    },
+    {
+      "id": 8498,
+      "question": "Which among the following plan document has a subtitle ” Inclusive growth” ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10th Five year Plan"
+        },
+        {
+          "label": "B",
+          "text": "11th Five year Plan"
+        },
+        {
+          "label": "C",
+          "text": "National Solar Mission"
+        },
+        {
+          "label": "D",
+          "text": "Bhart Nirman"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "11th Five year Plan"
+      },
+      "explanation": "The correct answer is the 11th Five Year Plan. Launched in 2007, it emphasized \"Inclusive Growth\" to address poverty and inequality in India. This plan aimed to enhance social and economic development, focusing on sectors like education, health, and rural development. The 11th Plan set a target of 9% GDP growth, which indicates the importance of inclusive policies for sustainable development."
+    }
+  ]
+}

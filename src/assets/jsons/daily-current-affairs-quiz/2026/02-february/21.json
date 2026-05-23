@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: February 21, 2026",
+    "date": "2026-02-21",
+    "year": "2026",
+    "month": "02-february",
+    "day": 21,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 04:27:24",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:54:00"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "A new meat-eating dinosaur named Spinosaurus mirabilis was discovered in which desert?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gobi Desert"
+        },
+        {
+          "label": "B",
+          "text": "Atacama Desert"
+        },
+        {
+          "label": "C",
+          "text": "Sahara Desert"
+        },
+        {
+          "label": "D",
+          "text": "Kalahari Desert"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Sahara Desert"
+      },
+      "explanation": "A new meat-eating dinosaur named Spinosaurus mirabilis was discovered in the Sahara Desert. Its fossils were found in Jengueb area of Niger in the central Sahara. It lived about 95 million years ago in a forested inland region with rivers. It is the second known species of Spinosaurus. The first species, Spinosaurus aegyptiacus, was discovered in 1915 in Egypt."
+    },
+    {
+      "id": 2,
+      "question": "Kanlaon Volcano, that was recently seen in news, is located in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indonesia"
+        },
+        {
+          "label": "B",
+          "text": "Japan"
+        },
+        {
+          "label": "C",
+          "text": "China"
+        },
+        {
+          "label": "D",
+          "text": "Philippines"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Philippines"
+      },
+      "explanation": "Mount Kanlaon, also called Kanlaon Volcano, recently erupted and released heavy ash and smoke over Negros Island in the Philippines, leading to safety warnings. It is a stratovolcano located on Negros Island, Philippines, and is the tallest peak in the Visayas region, about 2,465 metres above sea level. It is one of the active volcanoes of the Philippines and forms part of the Pacific Ring of Fire. It has many pyroclastic cones and craters with a broad caldera and crater lake at the summit. Its slopes have lava flows, lahar deposits and rich biodiversity, and act as major river headwaters."
+    },
+    {
+      "id": 3,
+      "question": "CJ-1000 is a road-mobile missile developed by which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "China"
+        },
+        {
+          "label": "B",
+          "text": "Russia"
+        },
+        {
+          "label": "C",
+          "text": "Germany"
+        },
+        {
+          "label": "D",
+          "text": "India"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "China"
+      },
+      "explanation": "China recently showcased the CJ-1000, a land-based scramjet-powered hypersonic cruise missile, during a military parade in Beijing. It is developed indigenously by China and is considered the world’s first operational land-based scramjet-powered hypersonic missile. It is road-mobile and mounted on a 10-wheel diesel-electric hybrid transporter erector launcher for quick deployment. It has an estimated range of at least 2,500 kilometres. It is more advanced than hypersonic glide vehicles like China’s DF-17 and Russia’s Avangard."
+    },
+    {
+      "id": 4,
+      "question": "The Public Trust Doctrine, as recognized in the Indian legal system, is primarily invoked for the protection and preservation of which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Corporate property rights"
+        },
+        {
+          "label": "B",
+          "text": "Natural resources and ecosystems for public use"
+        },
+        {
+          "label": "C",
+          "text": "Religious institutions and trusts"
+        },
+        {
+          "label": "D",
+          "text": "Trade and commerce activities"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Natural resources and ecosystems for public use"
+      },
+      "explanation": "The Andhra Pradesh High Court said tank bunds are part of water bodies and encroachment violates the Public Trust Doctrine. Public Trust Doctrine means the government is custodian of key natural resources for public benefit. It says important resources cannot become private property as they belong to the people. It began in Roman law and developed in English common law. It covers tidal waters, lakes, rivers, wetlands and ecosystems. The State acts as trustee in a fiduciary relationship with the public. Resources must be used for public purpose, not sold, and properly maintained. The Supreme Court of India has recognised it as part of Indian law."
+    },
+    {
+      "id": 5,
+      "question": "The Strait of Gibraltar, that was recently seen in news, separates which two continents?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Europe and Africa"
+        },
+        {
+          "label": "B",
+          "text": "Europe and Asia"
+        },
+        {
+          "label": "C",
+          "text": "Asia and Australia"
+        },
+        {
+          "label": "D",
+          "text": "Africa and Asia"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Europe and Africa"
+      },
+      "explanation": "The nuclear-powered USS Gerald R. Ford lit up tracking systems while sailing fast toward the Strait of Gibraltar, a move defence experts say is unusual. The Strait of Gibraltar separates Europe from Africa and links the Atlantic Ocean to the Mediterranean Sea. It lies at the southern tip of the Iberian Peninsula, between Spain and the British Overseas Territory of Gibraltar in the north and Morocco plus Ceuta in the south. It is about 58 km long and only about 13 km wide at its narrowest. Its eastern end features the Pillars of Heracles, including the Rock of Gibraltar and Mount Hacho. Formed by tectonic plate movement, it is a vital and busy global waterway."
+    }
+  ]
+}

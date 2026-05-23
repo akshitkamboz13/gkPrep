@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-3-salient-features-of-the-constituti",
+    "title": "Salient Features of the Constitution",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:21:10"
+  },
+  "questions": [
+    {
+      "id": 5415,
+      "question": "What is the number of Schedules in Constitution of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "8"
+        },
+        {
+          "label": "B",
+          "text": "10"
+        },
+        {
+          "label": "C",
+          "text": "11"
+        },
+        {
+          "label": "D",
+          "text": "12"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "12"
+      },
+      "explanation": "Schedules are lists in the Constitution of India that categorize and tabulate bureaucratic activities and policy of the Government. Indian Constitution had originally eight schedules. 9th schedule was added via First Amendment Act. 10th Schedule was first added by 35th Amendment (Sikkim as Associate State) but as Sikkim became a state of India, the original 10 Schedule was repealed. Later it was added once again by 52th Amendment Act, 1985 to park the anti-defection law. Eleventh Schedule was added by 73rd amendment and has list of subjects under the Panchayat Raj institutions or rural local government. Twelfth Schedule was added by 74th amendment and enlists the subjects under Municipalities or urban local government."
+    },
+    {
+      "id": 5424,
+      "question": "Town Planning comes under which among the following parts of Constitution of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Part VII"
+        },
+        {
+          "label": "B",
+          "text": "Part IX"
+        },
+        {
+          "label": "C",
+          "text": "Part IXA"
+        },
+        {
+          "label": "D",
+          "text": "None of them"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Part IXA"
+      },
+      "explanation": "Part IXA of the constitution deals with municipalities i.e. urban local government."
+    },
+    {
+      "id": 5759,
+      "question": "Which among the following language is NOT there in the 8th Schedule of Constitution of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dogri"
+        },
+        {
+          "label": "B",
+          "text": "Rajasthani"
+        },
+        {
+          "label": "C",
+          "text": "Sindhi"
+        },
+        {
+          "label": "D",
+          "text": "Manipuri"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Rajasthani"
+      },
+      "explanation": "The 22 languages in Eighth schedule are: 1. Assamese 2. Bengali 3. Bodo 4. Dogri 5. Gujarati 6. Hindi 7. Kannada 8. Kashmiri 9. Konkani 10. Maithili 11. Malayalam 12. Manipuri 13. Marathi 14. Nepali 15. Odia 16. Punjabi 17. Sanskrit 18. Santali 19. Sindhi 20. Tamil 21. Telugu 22. Urdu"
+    },
+    {
+      "id": 6033,
+      "question": "Sindhi Language was included in the list of official languages in the 8th schedule of our constitution in which year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1957"
+        },
+        {
+          "label": "B",
+          "text": "1967"
+        },
+        {
+          "label": "C",
+          "text": "1969"
+        },
+        {
+          "label": "D",
+          "text": "1968"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "1967"
+      },
+      "explanation": "In the Constitution of India, there is a provision made for each of the Indian states to choose their own official language for communicating at the state level. The selected languages, which can be used for official purpose, have been listed in the Eighth Schedule to the Constitution. Originally, there were 14 languages in the 8th schedule. The further languages were added as follows: Sindhi by 21st amendment, 1967 Konkani, Manipuri and Nepali languages by 71st amendment, 1992 Bodo, Dogri, Santhali and Maithali by 92nd Amendment, 2004."
+    },
+    {
+      "id": 6697,
+      "question": "Which among the following are considered essential for the realization of the highest good of India’s citizens?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fundamental rights"
+        },
+        {
+          "label": "B",
+          "text": "Fundamental duities"
+        },
+        {
+          "label": "C",
+          "text": "DPSP"
+        },
+        {
+          "label": "D",
+          "text": "Preamble"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Fundamental rights"
+      },
+      "explanation": "Fundamental rights are called fundamental or basic because they are essential for the realisation of the highest good of the citizens."
+    }
+  ]
+}

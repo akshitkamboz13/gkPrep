@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "economic-growth-development-inclusive-growth-mcqs-for-ssc-examination",
+    "title": "47. Economic Growth, Development, Inclusive Growth MCQs for SSC Examination",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:11:28"
+  },
+  "questions": [
+    {
+      "id": 7748,
+      "question": "In which situation does investment increase?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase in output and increase in capital stock"
+        },
+        {
+          "label": "B",
+          "text": "Decrease in output and increase in capital stock"
+        },
+        {
+          "label": "C",
+          "text": "Increase in output and decrease in capital stock"
+        },
+        {
+          "label": "D",
+          "text": "Decrease in output and decrease in capital stock"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Increase in output and increase in capital stock"
+      },
+      "explanation": "Investment rises when both output and capital stock increase. According to investment theory, higher output raises firms' desired capital stock, and greater actual capital stock often results from increased investment activity. The investment function states that investment depends positively on output levels. Firms expand productive capacity by investing when higher output raises desired capital stock beyond the existing level."
+    },
+    {
+      "id": 8629,
+      "question": "Pump priming mainly deals with which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased government expenditure during recession"
+        },
+        {
+          "label": "B",
+          "text": "Decreased government expenditure during recession"
+        },
+        {
+          "label": "C",
+          "text": "Increased government income during recession"
+        },
+        {
+          "label": "D",
+          "text": "Decreased government income during recession"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Increased government expenditure during recession"
+      },
+      "explanation": "Pump priming refers to the collective measures taken by the governments during recession to simulate the economy during recession. This is done usually by cutting the taxes and increased public spending."
+    },
+    {
+      "id": 22239,
+      "question": "What is the primary operational role of MUDRA (SIDBI) Bank?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Provide direct loans to micro enterprises up to ₹10 lakh"
+        },
+        {
+          "label": "B",
+          "text": "Undertake refinance and support services like portal management and data analysis"
+        },
+        {
+          "label": "C",
+          "text": "Establish foreign direct investment channels for Indian MSMEs"
+        },
+        {
+          "label": "D",
+          "text": "Finance only high-growth manufacturing startups"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Undertake refinance and support services like portal management and data analysis"
+      },
+      "explanation": "MUDRA (SIDBI) Bank operates as a refinance agency primarily providing refinance support to banks, MFIs, and NBFCs for lending to micro and small enterprises. It also provides support services such as management of financing portals and data analysis. It does not directly lend to micro enterprises. MUDRA Bank operates under the Pradhan Mantri MUDRA Yojana scheme since its formation in 2015."
+    },
+    {
+      "id": 29571,
+      "question": "What does a decreasing agricultural sector share in GDP indicate for a country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The country is heading toward developed nation status"
+        },
+        {
+          "label": "B",
+          "text": "The country is becoming a developing nation"
+        },
+        {
+          "label": "C",
+          "text": "The country is becoming less developed"
+        },
+        {
+          "label": "D",
+          "text": "Agricultural production has completely stopped"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "The country is heading toward developed nation status"
+      },
+      "explanation": "The agricultural sector’s GDP share typically declines as countries industrialize and modernize. In 2023, developed economies like the United States had agriculture contributing less than 1% to GDP. In developing nations, the sector's share is higher—such as Kenya at around 33%. A falling agricultural share indicates structural transformation toward an industrial and service-based economy."
+    },
+    {
+      "id": 33393,
+      "question": "What mainly makes national income calculation difficult in India? (UPSC Prelims 1983)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Large population growth"
+        },
+        {
+          "label": "B",
+          "text": "Very low per capita income"
+        },
+        {
+          "label": "C",
+          "text": "Existence of non-monetized sectors"
+        },
+        {
+          "label": "D",
+          "text": "Insufficient government infrastructure"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Existence of non-monetized sectors"
+      },
+      "explanation": "India has a large non-monetized sector, especially in rural areas, where many goods and services are exchanged through barter or kept for self-consumption. This makes it challenging to assign monetary values during national income calculations. The Central Statistical Office reports this as a major obstacle for accurate estimation since such transactions are not recorded in the monetary economy."
+    }
+  ]
+}

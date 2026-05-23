@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "beginning-of-european-trade",
+    "title": "3. Beginning of European Trade",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:56:35"
+  },
+  "questions": [
+    {
+      "id": 440,
+      "question": "The Cartaz system with reference to naval trade was used by which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dutch"
+        },
+        {
+          "label": "B",
+          "text": "French"
+        },
+        {
+          "label": "C",
+          "text": "English"
+        },
+        {
+          "label": "D",
+          "text": "Portuguese"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Portuguese"
+      },
+      "explanation": "Cartaz system referred to a naval trade license or pass issued by the Portuguese in Indian ocean during the sixteenth century. A similar system used by British was navicert system in 20th century."
+    },
+    {
+      "id": 2830,
+      "question": "The Portuguese built their first fortress in India at __?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kochi"
+        },
+        {
+          "label": "B",
+          "text": "Goa"
+        },
+        {
+          "label": "C",
+          "text": "Anjidiv"
+        },
+        {
+          "label": "D",
+          "text": "Cannanore"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Kochi"
+      },
+      "explanation": "The Portuguese built their first fortress in India at Kochi in 1503. The fortress, named Fort Emmanuel after King Manuel I of Portugal, was constructed with the permission of the ruler of the Kingdom of Kochi. Strategically located near the Malabar coast's spice trade routes, Fort Emmanuel enabled the Portuguese to consolidate power along India's southwestern shores. For over a century, it served as the epicenter from which the Portuguese promoted trade interests and religious proselytization in the subcontinent. Though the fort now lies in ruins on Fort Kochi Beach, it inaugurated a era of direct European involvement in Indian political and mercantile affairs."
+    },
+    {
+      "id": 2969,
+      "question": "Where was the first European township established in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kochi"
+        },
+        {
+          "label": "B",
+          "text": "Chinsurah"
+        },
+        {
+          "label": "C",
+          "text": "Surat"
+        },
+        {
+          "label": "D",
+          "text": "Chennai"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Kochi"
+      },
+      "explanation": "The first European township in India was established at Fort Kochi, located in the Ernakulam district of Kerala. The township was built by the Portuguese in 1503, making it the site of the oldest European settlement in India. The region is known for its unique blend of Dutch, Portuguese, and English colonial architecture, and is a significant tourist attraction in Kerala today."
+    },
+    {
+      "id": 2970,
+      "question": "Which of the following kingdoms granted the “Golden Farman” to British to trade freely in the state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hyderabad"
+        },
+        {
+          "label": "B",
+          "text": "Bijapur"
+        },
+        {
+          "label": "C",
+          "text": "Golkunda"
+        },
+        {
+          "label": "D",
+          "text": "Ahmednagar"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Golkunda"
+      },
+      "explanation": "In 1632, the English East India Company secured an important trade concession from the Qutb Shahi rulers of the Golkonda kingdom in southern India. Known as the \"Golden Farman\", this royal decree granted the East India Company the right to freely trade within Golkonda by paying an annual duty of 500 pagodas (gold coins)."
+    },
+    {
+      "id": 4522,
+      "question": "Who among the following was called by Jahangir as “English Khan”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sir Thomas Roe"
+        },
+        {
+          "label": "B",
+          "text": "William Hawkins"
+        },
+        {
+          "label": "C",
+          "text": "Henry Middleton"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "William Hawkins"
+      },
+      "explanation": "Captain William Hawkins was a representative of the English East India Company. He was the commander of the first company ship to anchor at Surat named Hector. He reached in India on 24 August 1608 and went to the court of Emperor Jahangir in 1609. The emperor granted a commission for an English factory at Surat but later revoked under the Pressure of the Portuguese."
+    }
+  ]
+}

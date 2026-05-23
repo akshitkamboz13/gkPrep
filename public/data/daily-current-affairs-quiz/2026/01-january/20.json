@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: January 20, 2026",
+    "date": "2026-01-20",
+    "year": "2026",
+    "month": "01-january",
+    "day": 20,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 05:25:28",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:55:28"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Guillain-Barré Syndrome (GBS), that was recently seen in news, is classified as which type of disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Autoimmune neurological disorder"
+        },
+        {
+          "label": "B",
+          "text": "Respiratory disease"
+        },
+        {
+          "label": "C",
+          "text": "Cardiovascular disease"
+        },
+        {
+          "label": "D",
+          "text": "Infectious bacterial disease"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Autoimmune neurological disorder"
+      },
+      "explanation": "A Guillain-Barré Syndrome (GBS) outbreak has been reported in Neemuch district of Madhya Pradesh, with two deaths in Manasa town. Guillain-Barré Syndrome is a rare neurological disorder in which the body’s immune system attacks the peripheral nervous system. The peripheral nervous system is the network of nerves outside the brain and spinal cord that controls movement, pain, and sensations. Since the immune system causes the damage, it is an autoimmune disease, also called acute inflammatory demyelinating polyradiculoneuropathy."
+    },
+    {
+      "id": 2,
+      "question": "A new hedgehog species, Brandt’s hedgehog, has been discovered in which state/UT recently?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uttarakhand"
+        },
+        {
+          "label": "B",
+          "text": "Jammu and Kashmir"
+        },
+        {
+          "label": "C",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Lakshadweep"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Jammu and Kashmir"
+      },
+      "explanation": "A new hedgehog species, Brandt’s hedgehog, has been discovered for the first time in India in Jammu and Kashmir through Deoxyribonucleic Acid analysis and morphological studies. Brandt’s hedgehog is a desert hedgehog scientifically known as Paraechinus hypomelas. It is native to the Middle East and Central Asia, including Iran, Afghanistan, Pakistan, and Turkmenistan. The species lives in arid and semi-arid habitats such as rocky deserts, scrublands, and dry mountain slopes. It is listed as Least Concern on the International Union for Conservation of Nature Red List."
+    },
+    {
+      "id": 3,
+      "question": "The Chips to Start-up (C2S) Programme was launched by which ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Science and Technology"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Skill Development and Entrepreneurship"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Electronics and Information Technology"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Finance"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Ministry of Electronics and Information Technology"
+      },
+      "explanation": "Recently, the Chips to Start-up Programme has shown measurable success in skill building, infrastructure access, and practical chip design support. It is an umbrella capacity-building initiative launched by the Ministry of Electronics and Information Technology in 2022. The programme has a total outlay of ₹250 crore for five years. It aims to develop 85,000 industry-ready professionals and incubate 25 start-ups with 10 technology transfers. It provides access to Shared Modular Technology laboratories, advanced Electronic Design Automation tools, and semiconductor foundries."
+    },
+    {
+      "id": 4,
+      "question": "Indian Coast Guard Ship Sankalp was indigenously built by which shipyard?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Garden Reach Shipbuilders & Engineers"
+        },
+        {
+          "label": "B",
+          "text": "Cochin Shipyard Limited"
+        },
+        {
+          "label": "C",
+          "text": "Goa Shipyard Limited"
+        },
+        {
+          "label": "D",
+          "text": "Mazagon Dock Shipbuilders Limited"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Goa Shipyard Limited"
+      },
+      "explanation": "Recently, Indian Coast Guard Ship Sankalp visited Port Louis in Mauritius as part of overseas deployment in the Indian Ocean Region. It is the fifth Advanced Offshore Patrol Vessel of the Indian Coast Guard, commissioned in 2008. The ship is indigenously built by Goa Shipyard Limited. It is designed for maritime surveillance, Exclusive Economic Zone protection, search and rescue, and law enforcement. The vessel is 105 metres long with an endurance of 6,500 nautical miles and a displacement of about 2,325 tonnes. It has advanced navigation and communication systems and can operate Advanced Light Helicopter and Chetak helicopters."
+    },
+    {
+      "id": 5,
+      "question": "Bor Tiger Reserve is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "B",
+          "text": "Gujarat"
+        },
+        {
+          "label": "C",
+          "text": "Karnataka"
+        },
+        {
+          "label": "D",
+          "text": "Kerala"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Maharashtra"
+      },
+      "explanation": "Recently, two new safari gates were inaugurated at the Bor Tiger Project in Maharashtra. Bor Tiger Reserve is located in the Wardha district of Maharashtra. It is the smallest tiger reserve in India in terms of area. The reserve covers about 138.12 square kilometres, including the drainage basin of the Bor Dam. It holds strategic importance as it is centrally located among major Bengal tiger habitats."
+    }
+  ]
+}

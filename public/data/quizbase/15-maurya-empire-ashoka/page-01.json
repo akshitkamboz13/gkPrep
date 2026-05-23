@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "15-maurya-empire-ashoka",
+    "title": "15. Maurya Empire- Ashoka",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:51:28"
+  },
+  "questions": [
+    {
+      "id": 1744,
+      "question": "As per Asoka’s inscriptions, which among the following place was declared tax free and proclaimed only 1/8th part as taxable?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kushinagar"
+        },
+        {
+          "label": "B",
+          "text": "Lumbini"
+        },
+        {
+          "label": "C",
+          "text": "Kathmandu"
+        },
+        {
+          "label": "D",
+          "text": "Sarnath"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Lumbini"
+      },
+      "explanation": "At the 20th anniversary of his enthronement, Asoka announced Lumbini as tax-free and proclaimed only 1/8th part as taxable. Description of this fact is found in the inscriptions of Nigliva and Rumindei."
+    },
+    {
+      "id": 1771,
+      "question": "The beneficiaries of Asoka’s donations in the region of Barabar Hill were__?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Buddhists"
+        },
+        {
+          "label": "B",
+          "text": "Ajivikas"
+        },
+        {
+          "label": "C",
+          "text": "Svetambar Jains"
+        },
+        {
+          "label": "D",
+          "text": "Digambar Jains"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ajivikas"
+      },
+      "explanation": "The Edicts of Asoka are a collection of 33 inscriptions on the Pillars of Asoka. The one of the Edict of Asoka is “Barbara cave Inscription : giving away the Barbara cave to Ajivika sect. Dasharataha is known to have gifted the Nagarjuni hills to Ajivikas."
+    },
+    {
+      "id": 1772,
+      "question": "In which of the following inscriptions Ashoka made his famous declaration, “All men are my children”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Minor Rock Edict (Ahraura)"
+        },
+        {
+          "label": "B",
+          "text": "Pillar Edict VII"
+        },
+        {
+          "label": "C",
+          "text": "Lumbini Pillar Edict"
+        },
+        {
+          "label": "D",
+          "text": "Separate Kalinga Rock Edict I"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Separate Kalinga Rock Edict I"
+      },
+      "explanation": "Separate Edicts: They were found at sites in Kalinga »Separate Edict I : Asoka declared all people are my sons »Separate Edict II: proclamation of edicts even to a single person."
+    },
+    {
+      "id": 1825,
+      "question": "The inscriptions of Ashoka and the Brahmi script were deciphered by ___?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alexander Cunningham"
+        },
+        {
+          "label": "B",
+          "text": "James Princep"
+        },
+        {
+          "label": "C",
+          "text": "Max Muller"
+        },
+        {
+          "label": "D",
+          "text": "Mortimer Wheeler"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "James Princep"
+      },
+      "explanation": "James Princep (1799-1840) was an English scholar, orientalist and antiquary. He was the founding editor of the Journal of the Asiatic Society of Bengal and is best remembered for deciphering the Kharosthi and Brahmi scripts of ancient India. He was the first to decipher the inscriptions of Ashoka and the Brahmi script."
+    },
+    {
+      "id": 1910,
+      "question": "In which year, Ashoka invaded Kalinga?",
+      "options": [
+        {
+          "label": "A",
+          "text": "261 BC"
+        },
+        {
+          "label": "B",
+          "text": "235 BC"
+        },
+        {
+          "label": "C",
+          "text": "285 BC"
+        },
+        {
+          "label": "D",
+          "text": "275 BC"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "261 BC"
+      },
+      "explanation": "The Mauryan emperor, Ashoka invaded Kalinga in 261 BC and after a fierce battle Kalinga was conquered. The 13th rock edict of Ashoka elaborates the Kalinga war."
+    }
+  ]
+}

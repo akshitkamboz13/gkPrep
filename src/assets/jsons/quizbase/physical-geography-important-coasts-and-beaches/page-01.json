@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physical-geography-important-coasts-and-beaches",
+    "title": "Physical Geography - Important Coasts and Beaches",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:29:09"
+  },
+  "questions": [
+    {
+      "id": 7145,
+      "question": "What fraction of Earth’s total water content is in the form of oceans?",
+      "options": [
+        {
+          "label": "A",
+          "text": "20%"
+        },
+        {
+          "label": "B",
+          "text": "30%"
+        },
+        {
+          "label": "C",
+          "text": "50%"
+        },
+        {
+          "label": "D",
+          "text": "97%"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "97%"
+      },
+      "explanation": "Approximately 97% of the Earth's water is in the form of oceans. The remaining 3% is found in the form of fresh water, which is distributed among the Earth's lakes, rivers, and underground aquifers."
+    },
+    {
+      "id": 8337,
+      "question": "Which among the following is a Biggest Sea by size?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mediterranean Sea"
+        },
+        {
+          "label": "B",
+          "text": "South China Sea"
+        },
+        {
+          "label": "C",
+          "text": "Gulf of Mexico"
+        },
+        {
+          "label": "D",
+          "text": "Philippine Sea"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Philippine Sea"
+      },
+      "explanation": "The biggest sea by size is the Philippine Sea. The Philippine Sea is located in the western Pacific Ocean and is bordered by the Philippines, Taiwan, and the Marianas Islands. It covers an area of approximately 5 million square kilometers (1.9 million square miles). This vast expanse of water is known for its rich marine biodiversity, deep trenches, and important role in the global climate system. It is also home to numerous islands and is a significant part of the Western Pacific region."
+    },
+    {
+      "id": 9145,
+      "question": "Which among the following is a correct location of Strait of Magellan?",
+      "options": [
+        {
+          "label": "A",
+          "text": "South of South America"
+        },
+        {
+          "label": "B",
+          "text": "Pacific Ocean and South Atlantic Ocean"
+        },
+        {
+          "label": "C",
+          "text": "North Africa & Asia"
+        },
+        {
+          "label": "D",
+          "text": "North America & Japan"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Pacific Ocean and South Atlantic Ocean"
+      },
+      "explanation": "The Strait of Magellan located at the southern tip of South America. It is a 350-mile (570 km) channel. It connects the Atlantic Ocean and the Pacific Ocean."
+    },
+    {
+      "id": 9529,
+      "question": "Where is the world's longest seawall located?",
+      "options": [
+        {
+          "label": "A",
+          "text": "China"
+        },
+        {
+          "label": "B",
+          "text": "South Korea"
+        },
+        {
+          "label": "C",
+          "text": "North Korea"
+        },
+        {
+          "label": "D",
+          "text": "Netherlands"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Netherlands"
+      },
+      "explanation": "The Afsluitdijk in the Netherlands holds the title for the world's longest seawall. Finishing construction in 1932, it spans approximately 32 kilometers (20 miles) across the IJsselmeer, a former saltwater inlet. This formidable dam does not merely serve as a shield against floods, but also carries out land reclamation and facilitates the formation of freshwater lakes. Remarkably, this seawall also plays a crucial roadway role, as it interlinks the northern provinces of North Holland and Friesland."
+    },
+    {
+      "id": 9750,
+      "question": "The Gulf of Thailand borders Cambodia from which of the following directions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "East"
+        },
+        {
+          "label": "B",
+          "text": "West"
+        },
+        {
+          "label": "C",
+          "text": "North"
+        },
+        {
+          "label": "D",
+          "text": "South"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "South"
+      },
+      "explanation": "The gulf of Thailand Borders Cambodia from the south. The Gulf of Thailand, also known as the Gulf of Siam, is a shallow northwesternly inlet in southwestern South China Sea.It is bounded between the southwestern shores of the Indochinese Peninsula and the northern half of the Malay Peninsula."
+    }
+  ]
+}

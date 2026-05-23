@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: January 17, 2026",
+    "date": "2026-01-17",
+    "year": "2026",
+    "month": "01-january",
+    "day": 17,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 05:25:35",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:55:36"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Similipal National Park is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gujarat"
+        },
+        {
+          "label": "B",
+          "text": "Odisha"
+        },
+        {
+          "label": "C",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Odisha"
+      },
+      "explanation": "The latest crocodile census shows an increase in crocodile population in Similipal National Park of Odisha, highlighting successful wildlife conservation. Similipal National Park is located in Mayurbhanj district of Odisha and covers about 2,750 square kilometres. The park is named after the Simul or silk cotton tree found in large numbers. It is a National Park, Tiger Reserve, Wildlife Sanctuary, Biosphere Reserve, and part of the Mayurbhanj Elephant Reserve."
+    },
+    {
+      "id": 2,
+      "question": "The Robotsystem-15 (RBS-15) has been developed by which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sweden"
+        },
+        {
+          "label": "B",
+          "text": "France"
+        },
+        {
+          "label": "C",
+          "text": "Germany"
+        },
+        {
+          "label": "D",
+          "text": "Australia"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Sweden"
+      },
+      "explanation": "Swedish aerospace and defence company Saab showcased the RBS-15 missile’s ability to destroy parts of the Russian S-400 air defence system. RBS-15 stands for Robotsystem-15 and is a fire-and-forget anti-ship missile with land-attack capability. It is a surface-to-surface and air-to-surface missile developed by Saab Bofors Dynamics of Sweden. The missile is 4.35 metres long, weighs about 800 kilograms at launch, and flies at subsonic speed of Mach 0.9. It has a range of about 200 kilometres with a 200 kilogram high-explosive warhead. It flies low over the sea, performs evasive manoeuvres, and has low radar and infrared signatures."
+    },
+    {
+      "id": 3,
+      "question": "The Finke River, that was recently seen in news, is located in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Russia"
+        },
+        {
+          "label": "B",
+          "text": "Australia"
+        },
+        {
+          "label": "C",
+          "text": "New Zealand"
+        },
+        {
+          "label": "D",
+          "text": "France"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Australia"
+      },
+      "explanation": "The Finke River, called Larapinta by the Arrernte people, is believed to be the world’s oldest river system. It is a major but intermittent river located in central Australia. The river originates in the MacDonnell Ranges of the Northern Territory. It forms from the meeting of Davenport Creek and Ormiston Creek. The river flows for about 600 kilometres towards the Simpson Desert in South Australia. Geological evidence dates the river to the Devonian or Carboniferous period, around 300–400 million years ago. For most of the year, it appears as scattered waterholes but becomes fast-flowing after heavy rains."
+    },
+    {
+      "id": 4,
+      "question": "Voyager 1 is a space probe launched by which space organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "European Space Agency (ESA)"
+        },
+        {
+          "label": "B",
+          "text": "Indian Space Research Organisation (ISRO)"
+        },
+        {
+          "label": "C",
+          "text": "National Aeronautics and Space Administration (NASA)"
+        },
+        {
+          "label": "D",
+          "text": "China National Space Administration (CNSA)"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "National Aeronautics and Space Administration (NASA)"
+      },
+      "explanation": "Voyager 1 is a space probe launched by National Aeronautics and Space Administration (NASA) in 1977 to explore the outer planets. Recent news highlights that Voyager 1 is expected to become the first human-made object to reach a distance of one light-day from Earth. One light-day means the distance light travels in 24 hours, showing how far the spacecraft has gone. Voyager 1 is already the most distant human-made object and is travelling through interstellar space. It crossed the heliosphere and entered interstellar space in August 2012. Its mission earlier included flybys of Jupiter and Saturn, studying their moons, rings, and magnetic fields."
+    },
+    {
+      "id": 5,
+      "question": "Which state is home to India’s first full-stack Sovereign Artificial Intelligence (AI) Park?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "B",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Karnataka"
+        },
+        {
+          "label": "D",
+          "text": "Kerala"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Tamil Nadu"
+      },
+      "explanation": "Tamil Nadu government signed an agreement with Sarvam AI to set up India’s first full-stack Sovereign Artificial Intelligence (AI) Park. The project has an initial investment of ₹10,000 crore and is expected to create over 1,000 high-skilled jobs. The park will function as a dedicated AI district with high-performance computing, secure data systems, and AI research labs. It will keep data, models, and computing within the state’s trust boundary to ensure ethics, security, and regulation. Sarvam AI, an Indian generative AI company, will anchor the technology stack and support India-language models."
+    }
+  ]
+}

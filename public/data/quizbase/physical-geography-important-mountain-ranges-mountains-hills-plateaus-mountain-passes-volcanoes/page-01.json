@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physical-geography-important-mountain-ranges-mountains-hills-plateaus-mountain-passes-volcanoes",
+    "title": "Physical Geography - Important Mountain Ranges, Mountains, Hills, Plateaus, Mountain Passes, Volcanoes",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:29:19"
+  },
+  "questions": [
+    {
+      "id": 5185,
+      "question": "Mont Blanc, the highest peak in Alps is located in which among the following countries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "France"
+        },
+        {
+          "label": "B",
+          "text": "Italy and France"
+        },
+        {
+          "label": "C",
+          "text": "France and Spain"
+        },
+        {
+          "label": "D",
+          "text": "France, Italy and Monaco"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Italy and France"
+      },
+      "explanation": "Mont blanc is located between Italy and France. Alps is mountain range in Europe."
+    },
+    {
+      "id": 5383,
+      "question": "Which volcano is called the “light pillar of Mediterranean sea”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mount Barbaro"
+        },
+        {
+          "label": "B",
+          "text": "Mount Etna"
+        },
+        {
+          "label": "C",
+          "text": "Strombli"
+        },
+        {
+          "label": "D",
+          "text": "Mount Vesuvius"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Strombli"
+      },
+      "explanation": "Mt Stromboli is an active volcano located in Tyrrhenian Sea, Italy. It is known as the “Lighthouse of the Mediterranean”."
+    },
+    {
+      "id": 7856,
+      "question": "A mountain range which extends along the southern margin of Eurasia. Stretching from Java to Sumatra through the Himalayas, the Mediterranean, and out into the Atlantic is called?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alpide belt"
+        },
+        {
+          "label": "B",
+          "text": "Eurasian plate"
+        },
+        {
+          "label": "C",
+          "text": "Himalayan Belt"
+        },
+        {
+          "label": "D",
+          "text": "Mid-Atlantic Ridge"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Alpide belt"
+      },
+      "explanation": "The Alpide belt is a seismic belt and orogenic belt that stretches from Java and Sumatra, through the Himalayas and the Alps, to the Atlas Mountains. It is a region of intense tectonic activity, where the collision of the Earth's tectonic plates has resulted in the formation of mountain ranges and other geologic features. The Alpide belt is also known as the \"Himalayan-Alpine orogenic belt\" or the \"Eurasia-North Africa orogenic belt\". It is one of the three main orogenic belts on Earth, along with the circum-Pacific belt and the mid-oceanic ridge system."
+    },
+    {
+      "id": 9188,
+      "question": "Which among the following mountains separate the Iberian Peninsula from the rest of continental Europe?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbet Mountains"
+        },
+        {
+          "label": "B",
+          "text": "Jura Mountains"
+        },
+        {
+          "label": "C",
+          "text": "Pyrenees"
+        },
+        {
+          "label": "D",
+          "text": "Mont Blanc Massif"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Pyrenees"
+      },
+      "explanation": "The Pyrenees are a mountain range that forms a natural border between Spain and France. They extend for about 430 kilometers from the Bay of Biscay in the Atlantic Ocean to the Mediterranean Sea, and are about 120 kilometers wide at their widest point. The Pyrenees are known for their rugged, snow-capped peaks, which rise to over 3,000 meters in some places. The range is home to a wide variety of flora and fauna, and is a popular destination for outdoor activities such as hiking, mountain climbing, and skiing. The Pyrenees are also home to several protected natural areas, including the Pyrenees National Park in France and the Ordesa y Monte Perdido National Park in Spain."
+    },
+    {
+      "id": 10000,
+      "question": "Which among the following continent is with the highest mean elevation in the world?",
+      "options": [
+        {
+          "label": "A",
+          "text": "North America"
+        },
+        {
+          "label": "B",
+          "text": "Asia"
+        },
+        {
+          "label": "C",
+          "text": "South America"
+        },
+        {
+          "label": "D",
+          "text": "Antarctica"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Antarctica"
+      },
+      "explanation": "Antarctica as a continent has highest mean elevation, with an average elevation of 7,545 feet above sea level. The elevation of Antarctica at the South Pole is 9300 feet while the tallest mountain peak in Antarctica is Mount Vinson with a height of 16050 feet."
+    }
+  ]
+}

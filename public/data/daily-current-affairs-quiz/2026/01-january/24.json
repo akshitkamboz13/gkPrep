@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: January 24, 2026",
+    "date": "2026-01-24",
+    "year": "2026",
+    "month": "01-january",
+    "day": 24,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 05:25:16",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:55:17"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Engineering Export Promotion Council of India (EEPC India) is sponsored by which ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Heavy Industries"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Finance"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Commerce and Industry"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Micro, Small and Medium Enterprises"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Ministry of Commerce and Industry"
+      },
+      "explanation": "The Engineering Export Promotion Council of India (EEPC India) demanded lower income tax for non-corporate manufacturing Micro, Small and Medium Enterprises (MSMEs) and faster Goods and Services Tax (GST) refunds in the Union Budget. EEPC India is the premier trade and investment promotion body for India’s engineering sector. It is sponsored by the Ministry of Commerce and Industry and advises the Government of India. It acts as an interface between the engineering industry and the government."
+    },
+    {
+      "id": 2,
+      "question": "Phulkari embroidery, that was recently seen in news, originated in which region?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajasthan and Gujarat"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra and Karnataka"
+        },
+        {
+          "label": "C",
+          "text": "Punjab and Haryana"
+        },
+        {
+          "label": "D",
+          "text": "Uttar Pradesh and Bihar"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Punjab and Haryana"
+      },
+      "explanation": "An exhibition showcasing over 40 rare pre-Partition textiles highlights how phulkari was deeply woven into women’s daily lives and social traditions. Phulkari, meaning “flower work,” is a traditional embroidery of undivided Punjab, covering present-day Punjab, Haryana, and Pakistan. The term appeared in 18th-century Punjabi literature and is linked to the Iranian art of gulkari."
+    },
+    {
+      "id": 3,
+      "question": "The Liberalised Remittances Scheme (LRS) operates under which Indian law?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reserve Bank of India Act, 1934"
+        },
+        {
+          "label": "B",
+          "text": "Foreign Exchange Regulation Act, 1973"
+        },
+        {
+          "label": "C",
+          "text": "Foreign Exchange Management Act, 1999"
+        },
+        {
+          "label": "D",
+          "text": "Companies Act, 2013"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Foreign Exchange Management Act, 1999"
+      },
+      "explanation": "Data under the Reserve Bank of India (RBI) Liberalised Remittances Scheme (LRS) shows outward remittances by Indians fell to a two-year low of 1.94 billion US dollars in November 2025 due to reduced spending on foreign studies. Liberalised Remittances Scheme (LRS) operates under the Foreign Exchange Management Act (FEMA) 1999 to regulate outward remittances. It allows resident individuals, including minors, to remit up to 250,000 US dollars per financial year without prior approval. The scheme was introduced in 2004 and applies only to individuals, not companies or Hindu Undivided Families (HUFs)."
+    },
+    {
+      "id": 4,
+      "question": "Pangolakha Wildlife Sanctuary is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sikkim"
+        },
+        {
+          "label": "B",
+          "text": "Tripura"
+        },
+        {
+          "label": "C",
+          "text": "Assam"
+        },
+        {
+          "label": "D",
+          "text": "Meghalaya"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Sikkim"
+      },
+      "explanation": "A forest fire recently spread inside Pangolakha Wildlife Sanctuary along the Indo-China border at about 13,000 feet altitude in Sikkim. The sanctuary is located in eastern Sikkim and is connected to the forests of Bhutan and Neora Valley National Park in West Bengal. The Pangolakha Range below the Chola Range forms a natural boundary between Sikkim and Bhutan. It has alpine, temperate, and subtropical vegetation zones."
+    },
+    {
+      "id": 5,
+      "question": "What is the IUCN conservation status of the red-eared slider turtle that was recently seen in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vulnerable"
+        },
+        {
+          "label": "B",
+          "text": "Near Threatened"
+        },
+        {
+          "label": "C",
+          "text": "Least Concern"
+        },
+        {
+          "label": "D",
+          "text": "Endangered"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Least Concern"
+      },
+      "explanation": "The red-eared slider turtle, spread through the pet trade, is threatening freshwater bodies in Coimbatore. It is among the world’s most widely introduced freshwater turtles, found on all continents except Antarctica. This predominantly aquatic species is identified by red stripes behind each ear. It is highly adaptable, survives harsh conditions, and thrives in non-native habitats. It lives 20–50 years in the wild and is listed as Least Concern by the International Union for Conservation of Nature (IUCN)."
+    }
+  ]
+}

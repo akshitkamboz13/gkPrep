@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "science-technology-current-affairs",
+    "title": "Science & Technology Current Affairs MCQs",
+    "page": 3,
+    "total_pages": 8,
+    "generated_at": "2026-05-02 07:01:04",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:31:10"
+  },
+  "questions": [
+    {
+      "id": 21,
+      "question": "What kind of disease is “Trachoma” that was recently mentioned in Mann Ki Baat programme?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Blood infection"
+        },
+        {
+          "label": "B",
+          "text": "Cardiovascular disease"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial eye disease"
+        },
+        {
+          "label": "D",
+          "text": "Respiratory disease"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Bacterial eye disease"
+      },
+      "explanation": "Recently, in the ‘Mann Ki Baat’ programme, the Prime Minister of India announced that India has been declared free of Trachoma, a bacterial eye disease. Trachoma is caused by the bacterium Chlamydia trachomatis and spreads through contact with the eyes, eyelids, or throat secretions of infected people. The World Health Organization (WHO) calls it a neglected tropical disease, affecting around 150 million people worldwide. In 2017, India was declared free from infective Trachoma, with surveillance continuing until 2024."
+    },
+    {
+      "id": 22,
+      "question": "DengiAll is a vaccine developed for which disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cholera"
+        },
+        {
+          "label": "B",
+          "text": "Measles"
+        },
+        {
+          "label": "C",
+          "text": "Dengue"
+        },
+        {
+          "label": "D",
+          "text": "Tuberculosis"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Dengue"
+      },
+      "explanation": "Recently, India reached 50 percent enrolment in its Phase III clinical trial of the indigenous tetravalent dengue vaccine, DengiAll. DengiAll is developed by Panacea Biotec Limited under a licence from the National Institutes of Health (NIH), United States. It contains weakened forms of all four dengue virus subtypes, similar to the NIH vaccine except for inactive ingredients. The Indian Council of Medical Research (ICMR) is evaluating its safety and effectiveness through multiple institutes."
+    },
+    {
+      "id": 23,
+      "question": "Which institute has launched BHARAT (Biomarkers of Healthy Aging, Resilience, Adversity, and Transitions) initiative?",
+      "options": [
+        {
+          "label": "A",
+          "text": "All India Institute of Medical Sciences (AIIMS) New Delhi"
+        },
+        {
+          "label": "B",
+          "text": "Indian Institute of Science (IISc), Bengaluru"
+        },
+        {
+          "label": "C",
+          "text": "Homi Bhabha National Institute (HBNI), Mumbai"
+        },
+        {
+          "label": "D",
+          "text": "Bose Institute, Kolkata"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Indian Institute of Science (IISc), Bengaluru"
+      },
+      "explanation": "The Indian Institute of Science (IISc), Bengaluru, recently launched the BHARAT study under its Longevity India Program. BHARAT stands for Biomarkers of Healthy Aging, Resilience, Adversity, and Transitions. The study aims to map physiological, molecular, and environmental indicators that drive ageing in Indians. It will build India’s first comprehensive ageing database. It includes multiparametric analysis, advanced clinical assessment, and lifestyle factors. It will identify biomarkers for healthy ageing and set the Bharat Baseline for normal health values in India."
+    },
+    {
+      "id": 24,
+      "question": "Where is the Phenome India National Biobank established?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CSIR-Institute of Genomics and Integrative Biology (IGIB)"
+        },
+        {
+          "label": "B",
+          "text": "National Institute of Immunology (NII)"
+        },
+        {
+          "label": "C",
+          "text": "Indian Council of Medical Research (ICMR)"
+        },
+        {
+          "label": "D",
+          "text": "None of the Above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "CSIR-Institute of Genomics and Integrative Biology (IGIB)"
+      },
+      "explanation": "The union Minister of State for Science and Technology inaugurated the Phenome India National Biobank at the Council of Scientific and Industrial Research-Institute of Genomics and Integrative Biology (CSIR-IGIB). It is launched under the Phenome India Project. The biobank will collect genomic, lifestyle, and clinical data from 10,000 people across India. It aims to capture India’s diversity across geography, ethnicity, and socio-economic backgrounds."
+    },
+    {
+      "id": 25,
+      "question": "Software Technology Parks of India (STPI) was established under which ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Finance"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Science and Technology"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Electronics and Information Technology"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Communication"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Ministry of Electronics and Information Technology"
+      },
+      "explanation": "Recently, Software Technology Parks of India (STPI) announced it is repositioning itself to lead the next wave of digital transformation across the country. STPI was established in 1991 as an autonomous society under the Ministry of Electronics and Information Technology (MeitY). It promotes software exports and implements the Software Technology Park (STP) and Electronics Hardware Technology Park (EHTP) schemes to support the IT/ITES sector. STPI facilitates software development, export procedures, and ensures compliance with customs and foreign exchange regulations."
+    },
+    {
+      "id": 26,
+      "question": "The interstellar comet 3I/ATLAS was recently discovered by using which telescope?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hubble Space Telescope"
+        },
+        {
+          "label": "B",
+          "text": "James Webb Space Telescope"
+        },
+        {
+          "label": "C",
+          "text": "ATLAS telescope"
+        },
+        {
+          "label": "D",
+          "text": "Chandra X-ray Observatory"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "ATLAS telescope"
+      },
+      "explanation": "Recently, on July 1, scientists using the ATLAS telescope in Chile reported the discovery of an interstellar object named 3I/ATLAS. It has been tracked since June 14, 2025 and is believed to be the oldest comet ever observed, possibly over 3 billion years old, predating the solar system. It is classified as an interstellar comet due to its hyperbolic orbit and high speed of 57–68 km/s relative to the Sun. The comet comes from the direction of the constellation Sagittarius, suggesting an origin in the Milky Way’s thick disk."
+    },
+    {
+      "id": 27,
+      "question": "Which country has developed the world’s lightest brain control device to steer bees?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India"
+        },
+        {
+          "label": "B",
+          "text": "Russia"
+        },
+        {
+          "label": "C",
+          "text": "China"
+        },
+        {
+          "label": "D",
+          "text": "France"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "China"
+      },
+      "explanation": "Chinese researchers led by Professor Zhao Jieliang at Beijing Institute of Technology developed the world’s lightest brain control device to steer bees. It is fixed on the bee’s back with three fine needles connecting to the brain, sending signals to control direction. In trials, bees followed commands with 90% accuracy, including turning, moving forward, and reversing. The bee-based robotic model offers superior mobility, stealth, and adaptability for missions like urban combat, counterterrorism, and disaster relief."
+    },
+    {
+      "id": 28,
+      "question": "INVICTUS research programme is an initiative of which space organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "European Space Agency (ESA)"
+        },
+        {
+          "label": "B",
+          "text": "National Aeronautics and Space Administration (NASA)"
+        },
+        {
+          "label": "C",
+          "text": "Indian Space Research Organisation (ISRO)"
+        },
+        {
+          "label": "D",
+          "text": "China National Space Administration (CNSA)"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "European Space Agency (ESA)"
+      },
+      "explanation": "Recently, the European Space Agency (ESA) launched the INVICTUS research programme. The INVICTUS research program is an initiative of the European Space Agency (ESA), in collaboration with the UK-based Frazer-Nash Consultancy. The goal is to develop hypersonic technologies for future reusable vehicles with horizontal launch capability. It is funded by ESA’s General Support Technology Programme (GSTP) and Technology Development Element (TDE). It will test key technologies for sustained hypersonic flight in Earth’s atmosphere."
+    },
+    {
+      "id": 29,
+      "question": "Where has the new CRIB blood group been discovered?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Karnataka"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Kerala"
+        },
+        {
+          "label": "D",
+          "text": "Tamil Nadu"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Karnataka"
+      },
+      "explanation": "Recently, a new blood group named CRIB was discovered in a South Indian woman from Kolar district, Karnataka. The discovery was announced at the 35th Regional Congress of the International Society of Blood Transfusion (ISBT) held in Milan, Italy. CRIB stands for Cromer India Bangalore and is part of the Cromer (CR) blood group system. This blood group was previously unidentified anywhere in the world. The discovery took 10 months of research and molecular testing by international experts."
+    },
+    {
+      "id": 30,
+      "question": "Which country has launched 11 GEESATCOM (Geely Constellation) for Internet of Things (IoT) communication?",
+      "options": [
+        {
+          "label": "A",
+          "text": "China"
+        },
+        {
+          "label": "B",
+          "text": "Russia"
+        },
+        {
+          "label": "C",
+          "text": "Iran"
+        },
+        {
+          "label": "D",
+          "text": "Israel"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "China"
+      },
+      "explanation": "On 15 August 2025, Chinese commercial aerospace company Geespace successfully completed the fourth orbital deployment of GEESATCOM (Geely Constellation) by launching 11 satellites from waters off Rizhao, Shandong Province aboard a single rocket. All satellites entered their planned 600 km orbits and are operating normally. GEESATCOM, independently developed and operated by Geespace, supports satellite Internet of Things (IoT) testing and inter-satellite communications. It also provides Earth observation for ecological and environmental monitoring."
+    }
+  ]
+}

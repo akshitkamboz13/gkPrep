@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "13-invasion-of-alexander-on-india",
+    "title": "13. Invasion of Alexander on India",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:51:06"
+  },
+  "questions": [
+    {
+      "id": 325,
+      "question": "Which of the following Greek Explorers is considered to have left the earliest account of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Herodotus"
+        },
+        {
+          "label": "B",
+          "text": "Ctesias"
+        },
+        {
+          "label": "C",
+          "text": "Scylax"
+        },
+        {
+          "label": "D",
+          "text": "Hippalus"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Scylax"
+      },
+      "explanation": "The earliest Greek Account of India was left by Scylax of Caryanda who was sent by Kind Darius-I of Persia to follow the course of river Indus and find out where it led. His original works are now lost."
+    },
+    {
+      "id": 1908,
+      "question": "In which year, Alexander invaded India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "326 BC"
+        },
+        {
+          "label": "B",
+          "text": "316 BC"
+        },
+        {
+          "label": "C",
+          "text": "346 BC"
+        },
+        {
+          "label": "D",
+          "text": "256 BC"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "326 BC"
+      },
+      "explanation": "Alexander invaded India in 326 BC. In 326 BC, the Battle of Hydaspes was fought between Alexender the great and Porus along the banks of Haydaspes river( Jhelum river) in Punjab. Porus, the King of Paurava, ruled the area between the rivers Hydaspes (modern Jhelum) and Acesines (Chenab). Though, Porus was defeated, Alexendar was impressed by Porus’s might so asked Porus to rule his dynasty under his name."
+    },
+    {
+      "id": 1909,
+      "question": "Which among the following dynasties were ruling over Magadha when Alexander invaded India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shisunagas"
+        },
+        {
+          "label": "B",
+          "text": "Nandas"
+        },
+        {
+          "label": "C",
+          "text": "Mauryas"
+        },
+        {
+          "label": "D",
+          "text": "Kosalas"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Nandas"
+      },
+      "explanation": "The ruler of Nanda Dynasty, Dhanananda was the contemporary of Alexander."
+    },
+    {
+      "id": 3151,
+      "question": "Which of the following regions was called \"Gedrosia\" during times of Alexander, the great?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gujarat"
+        },
+        {
+          "label": "B",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "C",
+          "text": "Punjab"
+        },
+        {
+          "label": "D",
+          "text": "Baluchistan"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Baluchistan"
+      },
+      "explanation": "Gedrosia corresponded to today's Baluchistan or more specifically Makran. Alexander had lost a lots of soldiers during his march through the Gedrosian desert."
+    },
+    {
+      "id": 6699,
+      "question": "Battle of the Hydaspes was fought between Alexander and King Porus in 326 BC. Hydapses means which river________?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jelum"
+        },
+        {
+          "label": "B",
+          "text": "Indus"
+        },
+        {
+          "label": "C",
+          "text": "Beas"
+        },
+        {
+          "label": "D",
+          "text": "Ravi"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Jelum"
+      },
+      "explanation": "Alexander invaded India in 326 BC. In 326 BC, the Battle of Hydaspes was fought between Alexender the great and Porus along the banks of Haydaspes river( Jhelum river) in Punjab. Porus, the King of Paurava, ruled the area between the rivers Hydaspes (modern Jhelum) and Acesines (Chenab). Though, Porus was defeated, Alexendar was impressed by Porus’s might so asked Porus to rule his dynasty under his name."
+    }
+  ]
+}

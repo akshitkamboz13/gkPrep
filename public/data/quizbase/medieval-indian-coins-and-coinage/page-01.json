@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "medieval-indian-coins-and-coinage",
+    "title": "2. Medieval Indian Coins and Coinage",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:27:02"
+  },
+  "questions": [
+    {
+      "id": 2820,
+      "question": "Who among the following rulers had stamped the figure of Goddess Lakshmi on his coins and had his name inscribed in Nagari Characters ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Muhammad Ghazni"
+        },
+        {
+          "label": "B",
+          "text": "Muhammad Ghori"
+        },
+        {
+          "label": "C",
+          "text": "Muhammad Bin Tughlaq"
+        },
+        {
+          "label": "D",
+          "text": "Iltutmish"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Muhammad Ghori"
+      },
+      "explanation": "Muhammad Ghori is known to have adopted the seated goddess Lakshmi type of the coins of Gahadavalas/ Rajputs for circulation in the Gahadavala territories. He got stamped the figure of Goddess Lakshmi on his coins and had his name inscribed in Nagari Characters."
+    },
+    {
+      "id": 2859,
+      "question": "Who was the first ruler to issue Pure Arabic coin in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mohammad Ghori"
+        },
+        {
+          "label": "B",
+          "text": "Qutubuddin Aibak"
+        },
+        {
+          "label": "C",
+          "text": "Iltutmish"
+        },
+        {
+          "label": "D",
+          "text": "Razia Sultan"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Iltutmish"
+      },
+      "explanation": "Iltutmish introduced Silver Tanka and Copper Jital, the two coins of the Delhi Sultanate. The coins prior to Iltutmish were introduced by the invaders, which bear the Sanskrit characters and even Hindu Gods, Bull and Shivalinga. The name \"Tanka\" was derived from the Arabic word \"Tankhah,\" which means wage or salary."
+    },
+    {
+      "id": 2862,
+      "question": "Which of the following Mughal rulers banned engraving Kalma on coins?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jahangir"
+        },
+        {
+          "label": "B",
+          "text": "Aurangzeb"
+        },
+        {
+          "label": "C",
+          "text": "Shahjahan"
+        },
+        {
+          "label": "D",
+          "text": "Muhammad Shah"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Aurangzeb"
+      },
+      "explanation": "Aurangzeb stopped engraving Kalma on coins. Forbade the Parsis to celebrate their festival Navaroz. Released an order to ban the music everywhere and arrest those who listen to the music. His drink was plain water and he used to sleep on ground, something"
+    },
+    {
+      "id": 2990,
+      "question": "“Silver Tanka” and “Copper Jital” coins were introduced by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iltutmish"
+        },
+        {
+          "label": "B",
+          "text": "Abu Bakr Shah"
+        },
+        {
+          "label": "C",
+          "text": "Firuz Shah Tughlaq"
+        },
+        {
+          "label": "D",
+          "text": "Sikander Lodi"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Iltutmish"
+      },
+      "explanation": "Iltutmish introduced Silver Tanka and Copper Jital , the two coins of the Delhi Sultanate. The coins prior to Iltutmish were introduced by the invaders which bear the Sanskrit characters and even Bull and Shivalinga. Iltutmish was the first to introduce a “Pure Arabic Coin” in India. The Coins were engraved with “The Mighty Sultan, Sun of the Empire and the Faith, Conquest-laden, Il-tutmish,” after he received an investiture of Sovereign Sultan of Delhi from the Caliph of Baghdad. The Silver Tanka issued by Iltutmish was weighing 175 grains. Gold Tanka of the same weight was later issued by Balban."
+    },
+    {
+      "id": 11244,
+      "question": "In the name of which among the following Mughal emperors, the East India Company struck the first coins in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jahangir"
+        },
+        {
+          "label": "B",
+          "text": "Farrukhsiyar"
+        },
+        {
+          "label": "C",
+          "text": "Muhammad Shah"
+        },
+        {
+          "label": "D",
+          "text": "Jahandar Shah"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Farrukhsiyar"
+      },
+      "explanation": "The Farrukhsiyar royal farman of 1717 had allowed the company to mint its own coins. Thus, he was the Mughal King in whose name, East India Company minted its own coins."
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-march-2023",
+    "title": "Current Affairs Quiz - March, 2023",
+    "page": 4,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:47:33",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:59:09"
+  },
+  "questions": [
+    {
+      "id": 31,
+      "question": "Which Union Ministry implements the ‘PM MITRA’ scheme?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Education"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Textiles"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Steel"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of External Affairs"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ministry of Textiles"
+      },
+      "explanation": "The Indian government announced 7 PM MITRA (Pradhan Mantri Mega Integrated Textile Region and Apparel) Parks recently. The scheme is implemented by the Union Ministry of Textiles. PM MITRA Parks will come up in Tamil Nadu, Telangana, Gujarat, Karnataka, Madhya Pradesh, Uttar Pradesh Maharashtra."
+    },
+    {
+      "id": 32,
+      "question": "‘Geoffrey Bawa: It is Essential To be There’ Exhibition was inaugurated to mark 75 years of bilateral relations between India and?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bangladesh"
+        },
+        {
+          "label": "B",
+          "text": "Sri Lanka"
+        },
+        {
+          "label": "C",
+          "text": "France"
+        },
+        {
+          "label": "D",
+          "text": "Singapore"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Sri Lanka"
+      },
+      "explanation": "“The Geoffrey Bawa: It is Essential To be There” Exhibition was inaugurated recently to mark 75 years of bilateral relations between India and Sri Lanka. It highlights the works of famous architect from Sri Lanka, Geoffrey Bawa. Born in 1919, he was one among the most influential Asian architects of his generation."
+    },
+    {
+      "id": 33,
+      "question": "Panchayati Raj Ministry’s Project of Panchayat Clusters aims to create how many Model Gram Panchayat Clusters across India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "100"
+        },
+        {
+          "label": "B",
+          "text": "250"
+        },
+        {
+          "label": "C",
+          "text": "500"
+        },
+        {
+          "label": "D",
+          "text": "1000"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "250"
+      },
+      "explanation": "The progress of the “Project for Creating 250 Model Gram Panchayat Clusters across India” was reviewed recently by Union Rural Development and Panchayati Raj Minister Giriraj Singh. Its purpose is to set up 250 model gram panchayat clusters across the country. The Minister also mentioned the importance of Gram Panchayat Development Plans (GPDPs) and encouraged the YFs to formulate an effective holistic plan using relevant parameters for all-round development of the Panchayats."
+    },
+    {
+      "id": 34,
+      "question": "Matua Maha Mela, which was seen in the news, is organised in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "West Bengal"
+        },
+        {
+          "label": "B",
+          "text": "Odisha"
+        },
+        {
+          "label": "C",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "West Bengal"
+      },
+      "explanation": "Matua Maha Mela is an annual event organized by the All India Matua Mahasangha. It has been estimated to be visited by around 45 lakh people during the week. The mela is being organised to celebrate the 212th birth anniversary of Sri Sri Harichand Thakur ji, the founder of the Matua sect. It will be kicked off in West Bengal to highlight the unique culture of the Matua community."
+    },
+    {
+      "id": 35,
+      "question": "‘Oxford Union Debate’ is a prestigious debating society based in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "USA"
+        },
+        {
+          "label": "B",
+          "text": "UK"
+        },
+        {
+          "label": "C",
+          "text": "India"
+        },
+        {
+          "label": "D",
+          "text": "Australia"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "UK"
+      },
+      "explanation": "The Oxford Union Debate is a debating society known for its tradition of free speech in the city of Oxford, England. BJP MP Varun Gandhi recently turned down an invitation for this debate, which is set to focus on the Narendra Modi-led government’s performance. There are also references made to its tradition of free speech, which is also the theme of its ongoing second centenary celebrations in 2023."
+    },
+    {
+      "id": 36,
+      "question": "Copilot is the AI-powered digital assistant developed by which company?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Microsoft"
+        },
+        {
+          "label": "B",
+          "text": "Google"
+        },
+        {
+          "label": "C",
+          "text": "Amazon"
+        },
+        {
+          "label": "D",
+          "text": "Walmart"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Microsoft"
+      },
+      "explanation": "Copilot is the AI-powered digital assistant developed by Microsoft. It will improve the productivity of the user by integrating data from the user’s Microsoft Graph and Microsoft 365 apps with large language models (LLMs). The AI assistant combines natural language processing, based on OpenAI’s ChatGPT technology."
+    },
+    {
+      "id": 37,
+      "question": "Asia’s largest 4-meter International Liquid Mirror Telescope was launched in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uttarakhand"
+        },
+        {
+          "label": "B",
+          "text": "Arunachal Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Assam"
+        },
+        {
+          "label": "D",
+          "text": "Sikkim"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Uttarakhand"
+      },
+      "explanation": "Asia’s largest 4-meter International Liquid Mirror Telescope (ILMT) was launched recently at Devasthal in Uttarakhand. The ILMT was inaugurated recently in Aryabhatt Research Institute of Observational Sciences. ILMT is the first liquid mirror telescope designed exclusively for astronomical observations and is the first optical survey telescope in India."
+    },
+    {
+      "id": 38,
+      "question": "Which state/UT passed the ‘Mediapersons Protection Bill 2023’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gujarat"
+        },
+        {
+          "label": "B",
+          "text": "Chhattisgarh"
+        },
+        {
+          "label": "C",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "West Bengal"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Chhattisgarh"
+      },
+      "explanation": "The Chhattisgarh Mediapersons Protection Bill 2023 was passed by the state assembly. Its aim is to give protection for media persons and prevent violence against them. The opposition MLAs demanded that the Bill be sent to the Select Committee of the Assembly for examination, which was rejected by Speaker Charandas Mahant."
+    },
+    {
+      "id": 39,
+      "question": "Which country has launched ‘Love Better Campaign’ to help teenagers recover from breakups?",
+      "options": [
+        {
+          "label": "A",
+          "text": "USA"
+        },
+        {
+          "label": "B",
+          "text": "New Zealand"
+        },
+        {
+          "label": "C",
+          "text": "UK"
+        },
+        {
+          "label": "D",
+          "text": "Singapore"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "New Zealand"
+      },
+      "explanation": "The New Zealand Government launched Love Better Campaign to help teenagers recover from breakups. It specifically targets Gen Z. The campaign will receive USD 4 million over three years from the Ministry of Social Development to help teens recover from breakups and minimize harm in their relationships."
+    },
+    {
+      "id": 40,
+      "question": "‘Gooty-Pendekallu Line’ which was seen in the news, is a part of which railway link?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hyderabad-Bengaluru railway link"
+        },
+        {
+          "label": "B",
+          "text": "Mumbai-Bengaluru railway link"
+        },
+        {
+          "label": "C",
+          "text": "Mumbai-Chennai railway link"
+        },
+        {
+          "label": "D",
+          "text": "Delhi-Jaipur railway link"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Hyderabad-Bengaluru railway link"
+      },
+      "explanation": "The Indian government has sanctioned a project for doubling of Gooty-Pendekallu section of the Hyderabad-Bengaluru railway link. This section is a major link for trains operating between the northern and southern parts of India. The estimated cost of the project is Rs 352 crore. The Gooty-Pendekallu section is essential in the Guntakal Division, which has frequent train traffic from Bengaluru to Hyderabad."
+    }
+  ]
+}

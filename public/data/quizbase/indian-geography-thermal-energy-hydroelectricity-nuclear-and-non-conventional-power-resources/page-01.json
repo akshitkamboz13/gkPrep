@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-geography-thermal-energy-hydroelectricity-nuclear-and-non-conventional-power-resources",
+    "title": "Indian Geography - Thermal Energy, Hydroelectricity, Nuclear and Non-conventional Power Resources",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:19:02"
+  },
+  "questions": [
+    {
+      "id": 616,
+      "question": "Almatti Dam is on which of the following rivers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Krishna"
+        },
+        {
+          "label": "B",
+          "text": "Cauvery"
+        },
+        {
+          "label": "C",
+          "text": "Tungabhadra"
+        },
+        {
+          "label": "D",
+          "text": "Malprabha"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Krishna"
+      },
+      "explanation": "The Almatti Dam is a dam project on the Krishna River in North Karnataka, India which was completed in 2005."
+    },
+    {
+      "id": 617,
+      "question": "The planned Bedabahal Ultra Mega Power Project is in which of the following states?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jharkhand"
+        },
+        {
+          "label": "B",
+          "text": "Odisha"
+        },
+        {
+          "label": "C",
+          "text": "West Bengal"
+        },
+        {
+          "label": "D",
+          "text": "Tamil Nadu"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Odisha"
+      },
+      "explanation": "Bedabahal is located in Sundargarh district of Odisha. There is a planned UMPP there which has so far not seen the light of the day due to various problems including those of land, coal etc."
+    },
+    {
+      "id": 4198,
+      "question": "In which of the following states, the Sharavati Project is located?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Karnataka"
+        },
+        {
+          "label": "C",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "D",
+          "text": "Madhya Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Karnataka"
+      },
+      "explanation": "Sharavati is the name of the river that flows entirely in Karnataka. India’s famous Jog falls is created by this river. Other name of Jog falls- Gerosoppa falls."
+    },
+    {
+      "id": 4206,
+      "question": "Polavaram Project is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Madhya Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Gujarat"
+        },
+        {
+          "label": "C",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Andhra Pradesh"
+      },
+      "explanation": "The Polavaram Project is located in Andhra Pradesh. It is a multi-purpose irrigation project on the Godavari River. The project aims to provide irrigation, water supply, and hydroelectric power. It was declared a national project in 2014, ensuring central government funding. The dam's construction has faced delays due to environmental and displacement concerns."
+    },
+    {
+      "id": 4404,
+      "question": "Ranjit Sagar Dam (Thein dam) is a gigantic Multipurpose River valley Project on which among the following rivers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ravi"
+        },
+        {
+          "label": "B",
+          "text": "Sutlej"
+        },
+        {
+          "label": "C",
+          "text": "Jhelum"
+        },
+        {
+          "label": "D",
+          "text": "Indus"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ravi"
+      },
+      "explanation": "Ranjit Sagar Dam or Thein Dam is on Ravi River at border of Punjab and Jammu & Kashmir. It is used for both irrigation and power generation."
+    }
+  ]
+}

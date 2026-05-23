@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "agriculture-irrigation-seeds-fertilizers-and-other-inputs-mcqs-for-ssc-examination",
+    "title": "6. Agriculture, Irrigation, Seeds, Fertilizers and other Inputs",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:55:40"
+  },
+  "questions": [
+    {
+      "id": 497,
+      "question": "Which fertilizer is least likely to affect soil pH?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Urea"
+        },
+        {
+          "label": "B",
+          "text": "Muriate of potash"
+        },
+        {
+          "label": "C",
+          "text": "Rock Phosphate"
+        },
+        {
+          "label": "D",
+          "text": "Ammonia"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Muriate of potash"
+      },
+      "explanation": "Muriate of potash is a common name for potassium chloride. It is chemically neutral and does not significantly alter soil pH. Farmers use it mainly as a source of potassium. Urea and ammonia may acidify soil with repeated use, while rock phosphate tends to make soil slightly acidic over time. Muriate of potash is widely produced and used worldwide."
+    },
+    {
+      "id": 6113,
+      "question": "Which fertilizer contains the highest percentage of nitrogen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Urea"
+        },
+        {
+          "label": "B",
+          "text": "Ammonium nitrate"
+        },
+        {
+          "label": "C",
+          "text": "Calcium nitrate"
+        },
+        {
+          "label": "D",
+          "text": "Calcium ammonium nitrate"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Urea"
+      },
+      "explanation": "Urea is a white crystalline solid containing about 46% nitrogen. Urea is widely used as a fertilizer and animal feed additive in agriculture. No other solid fertilizer has a higher nitrogen content than urea. Ammonium nitrate contains about 34% nitrogen, calcium ammonium nitrate about 26%, and calcium nitrate about 15.5% nitrogen."
+    },
+    {
+      "id": 6245,
+      "question": "Which is the largest source of irrigation in India after rainfall?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Canals"
+        },
+        {
+          "label": "B",
+          "text": "Rivers"
+        },
+        {
+          "label": "C",
+          "text": "Tanks"
+        },
+        {
+          "label": "D",
+          "text": "Tubewells"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Tubewells"
+      },
+      "explanation": "Tubewells provide the highest share of irrigation among artificial sources in India after rainfall. According to the 2015-16 Agricultural Census, tubewells accounted for about 46% of the net irrigated area. Tubewell irrigation is most prevalent in northern Indian states such as Uttar Pradesh and Punjab. Canals, rivers, and tanks contribute comparatively less to the total irrigated area."
+    },
+    {
+      "id": 6930,
+      "question": "Which among the following revolutions is related to ‘fertilizers’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Silver Revolution"
+        },
+        {
+          "label": "B",
+          "text": "Grey Revolution"
+        },
+        {
+          "label": "C",
+          "text": "Golden Revolution"
+        },
+        {
+          "label": "D",
+          "text": "Pink Revolution"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Grey Revolution"
+      },
+      "explanation": "Green Revolution- Food grains, White Revolution Milk, Yellow Revolution-Oil seeds, Blue Revolution-Fisheries Golden Revolution-Fruits; Silver Revolution-Eggs, Round Revolution Potato, Pink Revolution-Meat, Grey Revolution (Fertilizers)"
+    },
+    {
+      "id": 8235,
+      "question": "Which Indian state is the top producer of large cardamom?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kerala"
+        },
+        {
+          "label": "B",
+          "text": "Sikkim"
+        },
+        {
+          "label": "C",
+          "text": "Assam"
+        },
+        {
+          "label": "D",
+          "text": "Gujarat"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Sikkim"
+      },
+      "explanation": "Sikkim produces about 80% of India’s large cardamom. It is grown mainly in the Himalayan region of Sikkim due to the favorable climate and altitude. Sikkim’s production reached approximately 5.591 thousand tonnes in 2025. The government initiative “Mero Alaichi, Mero Dhan” supports cardamom cultivation in Sikkim. Assam, Gujarat, and Kerala do not match Sikkim’s output in this crop."
+    }
+  ]
+}

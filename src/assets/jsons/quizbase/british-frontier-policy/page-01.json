@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "british-frontier-policy",
+    "title": "19. British Frontier Policy",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:00:24"
+  },
+  "questions": [
+    {
+      "id": 4955,
+      "question": "Who among the following was Amir of Afghanistan, when Durand line was demarcated?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dost Mohammad"
+        },
+        {
+          "label": "B",
+          "text": "Akbar Khan"
+        },
+        {
+          "label": "C",
+          "text": "Abdur Rahman"
+        },
+        {
+          "label": "D",
+          "text": "Habibulah"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Abdur Rahman"
+      },
+      "explanation": "The Durand line was demarcated in 1892 by Sir Henry Mortimer Durand during the viceroyship of Lord Lansdowne. Abdur Rahman Khan was Emir of Afghanistan that time."
+    },
+    {
+      "id": 4956,
+      "question": "Which among the following rulers of Afghanistan was a Reformer Ruler and known to have established diplomatic relations of Modern Afghanistan with many countries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Abdur Rahman"
+        },
+        {
+          "label": "B",
+          "text": "Amanullah Khan"
+        },
+        {
+          "label": "C",
+          "text": "Habibullah Kalakani"
+        },
+        {
+          "label": "D",
+          "text": "None of them"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Amanullah Khan"
+      },
+      "explanation": "Amanullah Khan was the sovereign prince of the Kingdom of Afghanistan from 1919 to 1929. After the cessation of the Third Anglo-Afghan War, Afghanistan relinquished from the protected state status to proclaim independence."
+    },
+    {
+      "id": 5638,
+      "question": "Treaty of Yandabu was signed after which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "First Anglo-Burmese War"
+        },
+        {
+          "label": "B",
+          "text": "Second Anglo-Burmese War"
+        },
+        {
+          "label": "C",
+          "text": "Anglo-Bhutanese War"
+        },
+        {
+          "label": "D",
+          "text": "Third Anglo Afghan war"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "First Anglo-Burmese War"
+      },
+      "explanation": "The Treaty of Yandabo was signed by the British (General Sir Archibald Campbell) and the Burmese side on 24 February 1826. The first Anglo-Burmese War came to cessation through this treaty."
+    },
+    {
+      "id": 7938,
+      "question": "Great Game is a term used for the strategic rivalry and conflict between which of the following ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "British Empire and Russian Empire"
+        },
+        {
+          "label": "B",
+          "text": "British Empire and French Empire"
+        },
+        {
+          "label": "C",
+          "text": "British Empire and Portuguese Empire"
+        },
+        {
+          "label": "D",
+          "text": "British Empire and Chinese Empire"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "British Empire and Russian Empire"
+      },
+      "explanation": "\"The Great Game\" refers to the political and diplomatic conflict between UK and Russia during 19th century over Afghanistan and other nearby territories. The basic premise of the British policy was governed by a desire to keep her Indian empire safe and secure from the perceived threat of Russia.The threat was obvious due to her growing influence in Central Asia and Persia. The term Great Game was coined by the British novelist Rudyard Kipling in his novel Kim (1901)."
+    },
+    {
+      "id": 19238,
+      "question": "\"The most unqualified blunder committed in the whole history of the British India\" This comment by JJ McLeod points to which among the following wars?",
+      "options": [
+        {
+          "label": "A",
+          "text": "First Anglo Afghan War"
+        },
+        {
+          "label": "B",
+          "text": "Second Anglo-Afghan War"
+        },
+        {
+          "label": "C",
+          "text": "Third Anglo-Afghan War"
+        },
+        {
+          "label": "D",
+          "text": "First Anglo Sikh War"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "First Anglo Afghan War"
+      },
+      "explanation": "First Anglo-Afghan War (1839 to 1842) is also known as Auckland's Folly. It was a stupe project of Lord Auckland which resulted in the death of thousands of British (Indian) soldiers and waste of Crores of Rupees."
+    }
+  ]
+}

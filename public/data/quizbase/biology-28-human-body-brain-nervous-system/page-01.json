@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-28-human-body-brain-nervous-system",
+    "title": "28. Human Body - Brain & Nervous System",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:58:30"
+  },
+  "questions": [
+    {
+      "id": 5163,
+      "question": "Which part of the Central Nervous System controls “reflex Actions” ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mesencephalon"
+        },
+        {
+          "label": "B",
+          "text": "Rhombencephalon"
+        },
+        {
+          "label": "C",
+          "text": "Medulla oblongata"
+        },
+        {
+          "label": "D",
+          "text": "Spinal Chord"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Spinal Chord"
+      },
+      "explanation": "The nervous system is made of two parts viz. Central Nervous System (CNS) and the Peripheral Nervous System (PNS). CNS is made of Brain [cerebrum, brainstem and cerebellum] and spinal cord. The PNS is made of nerves and neural ganglia. Further, the meninges (three membranes that envelop the brain and spinal cord) are also a part of the nervous system"
+    },
+    {
+      "id": 5453,
+      "question": "What are the two categories of cell which nervous system is made up of__?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Satellite cell and Boettcher cell"
+        },
+        {
+          "label": "B",
+          "text": "neurons and glial cells"
+        },
+        {
+          "label": "C",
+          "text": "Gastric chief cell, Parietal cell"
+        },
+        {
+          "label": "D",
+          "text": "Tendon cell and Macula densa cell"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "neurons and glial cells"
+      },
+      "explanation": "The Nervous system is made up of two types of cells: Glia, which regulate homeostasis, providing support and protection to the function of neurons and Neurons, which transmit signals between them and from one part of the body to another."
+    },
+    {
+      "id": 5912,
+      "question": "Corpus Callosum makes an important part of which among the following organs in Human body?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brain"
+        },
+        {
+          "label": "B",
+          "text": "Liver"
+        },
+        {
+          "label": "C",
+          "text": "Kidney"
+        },
+        {
+          "label": "D",
+          "text": "Spinal Chord"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Brain"
+      },
+      "explanation": "The corpus callosum is a large, C-shaped nerve fiber bundle which is found beneath the cerebral cortex. It stretches across the midline of the brain. IT connects the left and right cerebral hemispheres."
+    },
+    {
+      "id": 8832,
+      "question": "Which among the following is not a function of Sympathetic nerves in Autonomic nervous system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Enhancing the heart beats"
+        },
+        {
+          "label": "B",
+          "text": "constricting the blood vessels"
+        },
+        {
+          "label": "C",
+          "text": "dilate pupils"
+        },
+        {
+          "label": "D",
+          "text": "contract urinary bladder"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "contract urinary bladder"
+      },
+      "explanation": "contract urinary bladder is a function of Parasympathetic nerves. Sympathetic nerves relax urinary bladder."
+    },
+    {
+      "id": 19557,
+      "question": "The foramen of Monro is associated with _?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Central nervous system"
+        },
+        {
+          "label": "B",
+          "text": "Digestive system"
+        },
+        {
+          "label": "C",
+          "text": "Respiratory system"
+        },
+        {
+          "label": "D",
+          "text": "Excretory system"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Central nervous system"
+      },
+      "explanation": "The interventricular foramen is also known as foramen of Monro. It is a part of the ventricular system and the connection between the third ventricle and the lateral ventricles."
+    }
+  ]
+}

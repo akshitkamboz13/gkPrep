@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "general-science-chemistry",
+    "title": "Chemistry MCQs",
+    "page": 5,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:50:39",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:13:06"
+  },
+  "questions": [
+    {
+      "id": 41,
+      "question": "Heavy water is made by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dissolving salts of heavy metals in distilled water"
+        },
+        {
+          "label": "B",
+          "text": "Repeated distillation and condensation of water"
+        },
+        {
+          "label": "C",
+          "text": "Buring deuterium in oxygen"
+        },
+        {
+          "label": "D",
+          "text": "By burning the heavier isotope of oxygen in hydrogen"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Buring deuterium in oxygen"
+      },
+      "explanation": "Heavy water is made of Deuterium Oxide (2H2O). It is a form of water that contains a larger than normal amount of the hydrogen isotope deuterium (2H or D), rather than the common hydrogen-1 isotope (1H or H or protium) that makes up most of the hydrogen in normal water."
+    },
+    {
+      "id": 42,
+      "question": "Which element has maximum presence in the Sun?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hydrogen"
+        },
+        {
+          "label": "B",
+          "text": "Oxygen"
+        },
+        {
+          "label": "C",
+          "text": "Argon"
+        },
+        {
+          "label": "D",
+          "text": "Krypton"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Hydrogen"
+      },
+      "explanation": "The Sun is composed primarily of hydrogen and helium; they account for 74.9% and 23.8% of the mass of the Sun in the photosphere, respectively. All heavier elements, called metals in astronomy, account for less than 2% of the mass, with oxygen (roughly 1% of the Sun’s mass), carbon (0.3%), neon (0.2%), and iron (0.2%) being the most abundant."
+    },
+    {
+      "id": 43,
+      "question": "Which of the following metal is most reactive?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Potassium"
+        },
+        {
+          "label": "B",
+          "text": "Calcium"
+        },
+        {
+          "label": "C",
+          "text": "Sodium"
+        },
+        {
+          "label": "D",
+          "text": "Zinc"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Potassium"
+      },
+      "explanation": "A reactive metal is one that readily reacts with other elements to give up its electrons. The order of intensity of reactivity is known as reactivity series. Potassium is at the top of the series and hence most reactive. Reactivity of some metals are given in descending order: K > Na > Ca > Mg > Al > Zn > Fe > Pb > Cu"
+    },
+    {
+      "id": 44,
+      "question": "Which of the following elements are commonly found in most fertilizers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sodium, Potassium, Phosphorus"
+        },
+        {
+          "label": "B",
+          "text": "Sodium, Potassium, Calcium"
+        },
+        {
+          "label": "C",
+          "text": "Nitrogen, Potassium, Phosphorus"
+        },
+        {
+          "label": "D",
+          "text": "Nitrogen, Potassium, Calcium"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Nitrogen, Potassium, Phosphorus"
+      },
+      "explanation": "Nitrogen, phosphorus and potassium, or NPK, are the “Big 3” primary nutrients in commercial fertilizers. Each of these fundamental nutrients plays a key role in plant nutrition. Nitrogen is considered to be the most important nutrient, and plants absorb more nitrogen than any other element."
+    },
+    {
+      "id": 45,
+      "question": "Which among the following noble gas has highest molar mass?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kr"
+        },
+        {
+          "label": "B",
+          "text": "Ne"
+        },
+        {
+          "label": "C",
+          "text": "Ar"
+        },
+        {
+          "label": "D",
+          "text": "Xe"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Xe"
+      },
+      "explanation": "The molar mass is the mass of a given chemical element or chemical compound (g) divided by the amount of substance (mol). The molar mass of the given noble gases are as follows: Argon (Ar): 39.9480 g/mol; Neon (Ne): 50.1858 g/mol; Krypton (Kr): 83.7980 g/mol; Xenon (Xe): 131.2930 g/mol."
+    },
+    {
+      "id": 46,
+      "question": "Metal oxides are ____ in nature:",
+      "options": [
+        {
+          "label": "A",
+          "text": "acidic"
+        },
+        {
+          "label": "B",
+          "text": "organic"
+        },
+        {
+          "label": "C",
+          "text": "basic"
+        },
+        {
+          "label": "D",
+          "text": "neutral"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "basic"
+      },
+      "explanation": "Metallic oxides are basic in nature because they react with dilute acids to form salt and water. They also react with water to form metal hydroxides which are alkaline in nature. On the other hand, non-metallic oxides react with water to form acidic solutions which liberate H+ ions in solution. Therefore, non-metallic oxides are acidic in nature."
+    },
+    {
+      "id": 47,
+      "question": "The green colour seen in firework displays is due to the chloride salt of :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sodium"
+        },
+        {
+          "label": "B",
+          "text": "Strontium"
+        },
+        {
+          "label": "C",
+          "text": "Barium"
+        },
+        {
+          "label": "D",
+          "text": "Calcium"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Barium"
+      },
+      "explanation": "The red, orange, yellow, green, blue and purple colors exploding in the night sky during a pyrotechnic festival are created by the use of metal salts. Barium chloride provides green colour to firework displays. Metal salts that are commonly used in firework displays include: strontium carbonate (red), calcium chloride (orange), sodium nitrate (yellow), barium chloride (green fireworks) and copper chloride (blue fireworks)."
+    },
+    {
+      "id": 48,
+      "question": "Which of the following is the common name of Phosgene?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbonyl chloride"
+        },
+        {
+          "label": "B",
+          "text": "Phosphine"
+        },
+        {
+          "label": "C",
+          "text": "Carbon tetrachloride"
+        },
+        {
+          "label": "D",
+          "text": "Phosphorus trichloride"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Carbonyl chloride"
+      },
+      "explanation": "Phosgene is the chemical compound with the formula COCl2. It is also known as Carbonyl dichloride. It is formed when chlorinated hydrocarbon compounds are exposed to high temperatures. Phosgene is a major industrial chemical used to make chemicals and Pesticides, but at room temperature it is a poisonous gas."
+    },
+    {
+      "id": 49,
+      "question": "What is the chemical name of the deadly posion ‘cyanide’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sulfuric acid"
+        },
+        {
+          "label": "B",
+          "text": "Hydrochloric acid"
+        },
+        {
+          "label": "C",
+          "text": "Nitric acid"
+        },
+        {
+          "label": "D",
+          "text": "Prussic acid"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Prussic acid"
+      },
+      "explanation": "The salts of hydrogen cyanide (Chemical name of Prussic acid) are known as cyanides.It is a colorless, extremely poisonous and flammable liquid that boils slightly above room tempe-rature, at 25.6°C. It is pro-duced on an industrial scale and is a highly valuable pre-cursor to many chemical com-pounds ranging from polymers to pharmaceuticals."
+    },
+    {
+      "id": 50,
+      "question": "The process by which milk is converted to curd is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pasteurization"
+        },
+        {
+          "label": "B",
+          "text": "Vernalization"
+        },
+        {
+          "label": "C",
+          "text": "Fermentation"
+        },
+        {
+          "label": "D",
+          "text": "Retting"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Fermentation"
+      },
+      "explanation": "Curds are a dairy product obtained by curdling (coagulating) milk with rennet or an edible acidic substance such as lemon juice or vinegar, and then draining off the liquid portion. The increased acidity causes the milk proteins (casein) to tangle into solid masses, or curds. The remaining liquid, which contains only whey proteins, is the whey. In Asia, curds are essentially a vegetarian preparation using yeast to ferment the milk."
+    }
+  ]
+}

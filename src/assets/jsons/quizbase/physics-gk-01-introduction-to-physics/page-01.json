@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physics-gk-01-introduction-to-physics",
+    "title": "Physics GK 01 - Introduction to Physics",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:29:47"
+  },
+  "questions": [
+    {
+      "id": 26016,
+      "question": "Who gave the Theory of Relativity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Isaac Newton"
+        },
+        {
+          "label": "B",
+          "text": "Archimedes"
+        },
+        {
+          "label": "C",
+          "text": "Albert Einstein"
+        },
+        {
+          "label": "D",
+          "text": "Galileo Galilei"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Albert Einstein"
+      },
+      "explanation": "Albert Einstein was the founder of Theory of Relativity. According to Einstein’s theory, mass m is equivalent to energy E given by the relation E = mc^2 where c is speed of light in vacuum. Albert Einstein was awarded the 1921 Nobel Prize in Physics for his contribution to the field of Theoretical Physics."
+    },
+    {
+      "id": 26017,
+      "question": "Who among the following is credited to work for the unification of electricity, magnetism and optics field of Physics?",
+      "options": [
+        {
+          "label": "A",
+          "text": "James Clerk Maxwell"
+        },
+        {
+          "label": "B",
+          "text": "Michael Faraday"
+        },
+        {
+          "label": "C",
+          "text": "Haris Christian Oersted"
+        },
+        {
+          "label": "D",
+          "text": "Isaac Newton"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "James Clerk Maxwell"
+      },
+      "explanation": "James Clerk Maxwell made the efforts for the unification of electricity, magnetism and optics field of Physics. He showed that light is an electromagnetic wave. James Clerk Maxwell was a Scottish mathematician, physicist and is known best for his mathematical work on electromagnetism and on the behaviour of gases."
+    },
+    {
+      "id": 26021,
+      "question": "Which of the following is not a valid conservation law of classical Physics?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Law of conservation of energy"
+        },
+        {
+          "label": "B",
+          "text": "Law of conservation of current"
+        },
+        {
+          "label": "C",
+          "text": "Law of conservation of angular momentum"
+        },
+        {
+          "label": "D",
+          "text": "Law of conservation of charge"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Law of conservation of current"
+      },
+      "explanation": "The following laws are dealt with in the classical physics: 1. Law of conservation of energy 2. Law of conservation of angular momentum 3. Law of conservation of linear momentum 4. Law of conservation of charge"
+    },
+    {
+      "id": 26024,
+      "question": "Who among the following is credited for the Corpuscular theory of light?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Isaac Newton"
+        },
+        {
+          "label": "B",
+          "text": "Christiaan Hyugens"
+        },
+        {
+          "label": "C",
+          "text": "Albert Einstein"
+        },
+        {
+          "label": "D",
+          "text": "James Clerk Maxwell"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Isaac Newton"
+      },
+      "explanation": "The Corpuscular theory of light was given by Isaac Newton. It was replaced by Huygens' wave theory when it failed to adequately explain the diffraction, interference and polarization of light. The Huygens' wave theory was replaced by Planck's quantum theory and finally de-Broglie's Dual-Theory of light replaced all previous ones."
+    },
+    {
+      "id": 26025,
+      "question": "Electron microscope works on which of the following principles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Optical interference"
+        },
+        {
+          "label": "B",
+          "text": "Wave Nature of electrons"
+        },
+        {
+          "label": "C",
+          "text": "Motion of charged particle in electromagnetic fields"
+        },
+        {
+          "label": "D",
+          "text": "Faraday's law of Electromagnetic induction"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Wave Nature of electrons"
+      },
+      "explanation": "Electron microscope works on the principle of Wave Nature of electrons. Electron microscopes use an electron beam instead of visible light and an electron detector instead of our eyes. An electron beam allows us to see at very small scales because electrons can also behave as light due to its wave nature."
+    }
+  ]
+}

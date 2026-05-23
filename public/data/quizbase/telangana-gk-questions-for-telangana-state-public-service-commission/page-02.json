@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "telangana-gk-questions-for-telangana-state-public-service-commission",
+    "title": "States PCS: Telangana GK Questions for Telangana State Public Service Commission",
+    "page": 2,
+    "total_pages": 2,
+    "generated_at": "2026-05-02 07:04:07",
+    "total_questions": 4,
+    "scraped_at": "2026-05-02 12:34:12"
+  },
+  "questions": [
+    {
+      "id": 11,
+      "question": "Who referred to Kandukuri Veeresalingam as the “Iswar Chandra Vidyasagar of the South”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Raja Ram Mohan Roy"
+        },
+        {
+          "label": "B",
+          "text": "Iswar Chandra Vidyasagar"
+        },
+        {
+          "label": "C",
+          "text": "Jyotirao Phule"
+        },
+        {
+          "label": "D",
+          "text": "MG Ranade"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "MG Ranade"
+      },
+      "explanation": "At the 1898 Indian Social Reform Congress in Madras, MG Ranade praised Veeresalingam as the “Iswar Chandra Vidyasagar of the South”."
+    },
+    {
+      "id": 12,
+      "question": "Consider the following statements regarding the Social Purity Association: It was formed in 1891 by Raghupati Venkataratnam Naidu. The main aim of the association was to train people as honest citizens. Which of the above statements is/are correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1"
+        },
+        {
+          "label": "B",
+          "text": "Only 2"
+        },
+        {
+          "label": "C",
+          "text": "Both are correct statements"
+        },
+        {
+          "label": "D",
+          "text": "Both are incorrect statements"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Both are correct statements"
+      },
+      "explanation": "The Social Purity Association was indeed formed in 1891 by Raghupati Venkataratnam Naidu, a noted social reformer from South India. The association aimed to instill honesty and moral discipline among people by training them as honest citizens. Both statements are therefore correct and align with historical accounts of the association's foundation and objectives."
+    },
+    {
+      "id": 13,
+      "question": "The first Dalit speaker of AP legislative assembly:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pratibha Bharati"
+        },
+        {
+          "label": "B",
+          "text": "GMC Balayogi"
+        },
+        {
+          "label": "C",
+          "text": "Kodela Shivaprasad"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Pratibha Bharati"
+      },
+      "explanation": "Pratibha Bharati was the first woman speaker of the Andhra Pradesh legislative assembly and also first dalit to hold the post. She served as speaker of the Andhra Pradesh legislative assembly from 1999 to 2004"
+    },
+    {
+      "id": 14,
+      "question": "After bifurcation of Andhra Pradesh in 2014, Bhadrachalam was merged into:",
+      "options": [
+        {
+          "label": "A",
+          "text": "East Godavari"
+        },
+        {
+          "label": "B",
+          "text": "West Godavari"
+        },
+        {
+          "label": "C",
+          "text": "Khammam"
+        },
+        {
+          "label": "D",
+          "text": "Adilabad"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Khammam"
+      },
+      "explanation": "After bifurcation of Andhra Pradesh in 2014, Bhadrachalam was merged into Khammam district"
+    }
+  ]
+}

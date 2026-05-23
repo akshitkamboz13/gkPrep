@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-november-2023",
+    "title": "Current Affairs Quiz - November, 2023",
+    "page": 5,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:48:07",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:02:42"
+  },
+  "questions": [
+    {
+      "id": 41,
+      "question": "How many Indians feature in the ‘BBC 100 Women List 2023’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Three"
+        },
+        {
+          "label": "B",
+          "text": "Four"
+        },
+        {
+          "label": "C",
+          "text": "Six"
+        },
+        {
+          "label": "D",
+          "text": "Seven"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Three"
+      },
+      "explanation": "The BBC 100 Women List 2023 focuses on women’s rights globally and includes the activists and women leaders like Michelle Obama, Amal Clooney and Timnit Gebru. Three Indian women, including Bollywood actress Dia Mirza and captain of India’s national women’s cricket team Harmanpreet Kaur, National Geographic photographer Arati Kumar-Rao have made it to the BBC 100 Women List 2023."
+    },
+    {
+      "id": 42,
+      "question": "What is the mascot of the maiden Khelo India Para Games 2023?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vikas"
+        },
+        {
+          "label": "B",
+          "text": "Ujjwala"
+        },
+        {
+          "label": "C",
+          "text": "Uday"
+        },
+        {
+          "label": "D",
+          "text": "Udaan"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ujjwala"
+      },
+      "explanation": "First-ever Khelo India Para Games 2023 logo and mascot was launched by Anurag Singh Thakur, Union Minister of Youth Affairs and Sports. ‘Ujjwala’- a sparrow, was unveiled as the official mascot of Khelo India – Para Games 2023. Since 2018, a total of 11 Khelo India Games have been successfully held. Over 1400 participants from across 32 states and union territories are expected to participate in the maiden Khelo India Para Games in 7 categories."
+    },
+    {
+      "id": 43,
+      "question": "Indian firm Merlinhawk signed Italy’s Vega Composites to set up a manufacturing and design facility in which defence corridor?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uttar Pradesh Defence Industrial Corridor"
+        },
+        {
+          "label": "B",
+          "text": "Tamil Nadu Defence Industrial Corridor"
+        },
+        {
+          "label": "C",
+          "text": "Maharashtra Defence Industrial Corridor"
+        },
+        {
+          "label": "D",
+          "text": "Rajasthan Defence Industrial Corridor"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Tamil Nadu Defence Industrial Corridor"
+      },
+      "explanation": "Indian firm Merlinhawk Aerospace signed a joint venture agreement with Italy’s Vega Composites to establish a manufacturing and design facility in the Tamil Nadu defence corridor. The strategic joint venture is aimed at tapping the growing market of India while developing design expertise and transferring manufacturing knowhow to India."
+    },
+    {
+      "id": 44,
+      "question": "Which country announced phased introduction of biogas blending?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Russia"
+        },
+        {
+          "label": "B",
+          "text": "India"
+        },
+        {
+          "label": "C",
+          "text": "China"
+        },
+        {
+          "label": "D",
+          "text": "Sri Lanka"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "India"
+      },
+      "explanation": "The Indian government has announced a phased introduction of blending compressed biogas with natural gas. Starting at 1% from April 2025, this initiative aims to reach a 5% blend by 2028. India, which is one of the world’s largest importers of oil and gas, ships in about half of its overall gas consumption and wants to cut its imports cost."
+    },
+    {
+      "id": 45,
+      "question": "Bondvol lake, which was seen in the news, is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gujarat"
+        },
+        {
+          "label": "B",
+          "text": "Goa"
+        },
+        {
+          "label": "C",
+          "text": "Odisha"
+        },
+        {
+          "label": "D",
+          "text": "Rajasthan"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Goa"
+      },
+      "explanation": "Goa’s Santa Cruz village panchayat has expressed surprise over preparations under way for undertaking cultivation in Bondvol lake’s catchment area. Recently, the panchayat discovered that the water of the lake has been drained by unknown persons. Some forums has alleged that lake water was drained by tampering with a valve that was operated by the water resources department (WRD)."
+    },
+    {
+      "id": 46,
+      "question": "Kambala Race is a traditional event held in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Karnataka"
+        },
+        {
+          "label": "B",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Kerala"
+        },
+        {
+          "label": "D",
+          "text": "Tamil Nadu"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Karnataka"
+      },
+      "explanation": "Kambala is a traditional folk sport predominantly observed in the coastal districts of Karnataka, particularly in areas where Tulu speakers constitute the majority. Kambala races were hosted recently by Bengaluru and lakhs of people visited the venue to watch the event. Kambala has in the past been banned by the Supreme Court, but the Karnataka government amended legislation to allow the races to go on."
+    },
+    {
+      "id": 47,
+      "question": "Which country supplies C295 defence transport aircraft to India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Russia"
+        },
+        {
+          "label": "B",
+          "text": "France"
+        },
+        {
+          "label": "C",
+          "text": "Spain"
+        },
+        {
+          "label": "D",
+          "text": "USA"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Spain"
+      },
+      "explanation": "In 2021, the Indian Air Force signed an agreement with Airbus for 56 C295 military transport aircraft. Around 16 of these aircraft will be acquired from final assembly line in Spain. Spain announced that it is ready to supply more C295 defence transport aircraft to India if it requires. This week ‘Spain-India Forum’ was organised in New Delhi and this was the first time the forum was being held in India. Spain is on board for Indo-Pacific-Mediterranean partnership with India as the key partner."
+    },
+    {
+      "id": 48,
+      "question": "What is the new name of Ayushman Bharat-Health and Wellness Centres?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ayushman Arogya Mandir"
+        },
+        {
+          "label": "B",
+          "text": "NaMO Ayushman Mandir"
+        },
+        {
+          "label": "C",
+          "text": "Bharat Arogya Mandir"
+        },
+        {
+          "label": "D",
+          "text": "Naya Bharat Mandir"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ayushman Arogya Mandir"
+      },
+      "explanation": "The government has decided to rename the Ayushman Bharat-Health and Wellness Centres as ‘Ayushman Arogya Mandir’ and the Union Health Ministry has sent a letter to the states and Union territories to implement the rebranding exercise by end of this year. National Health Mission (NHM) logo is to be retained in the rebranded centres. The rebranded AB-HWCs will also have a new tagline — ‘Arogyam Parmam Dhanam’."
+    },
+    {
+      "id": 49,
+      "question": "A salmonella outbreak linked to cantaloupes has been recorded in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "China"
+        },
+        {
+          "label": "B",
+          "text": "USA"
+        },
+        {
+          "label": "C",
+          "text": "Egypt"
+        },
+        {
+          "label": "D",
+          "text": "South Africa"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "USA"
+      },
+      "explanation": "A salmonella outbreak linked to cantaloupes and pre-cut fruit products has caused at least two fatalities and severe illness in dozens of individuals, in the United States. The outbreak has expanded to 32 states and Canada, with new cases emerging in 17 additional states. Consuming food contaminated with salmonella can lead to food poisoning within 12 to 72 hours, resulting in symptoms including diarrhoea, fever, and abdominal cramps."
+    },
+    {
+      "id": 50,
+      "question": "Which city is the host of the 28th European Union Film Festival (EUFF) of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mumbai"
+        },
+        {
+          "label": "B",
+          "text": "Panaji"
+        },
+        {
+          "label": "C",
+          "text": "New Delhi"
+        },
+        {
+          "label": "D",
+          "text": "Kolkata"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "New Delhi"
+      },
+      "explanation": "The 28th European Union Film Festival (EUFF) of India is set to unfold in New Delhi from December 1 to 10. Celebrating cultural ties between India and the European Union, the festival will screen 28 films in 25 languages from 28 European countries. 18 of the films in this year’s selection are by women directors. The festival aims to highlight and celebrate women in cinema and ‘the art of storytelling from the woman’s perspective’. After its Delhi chapter, the festival will travel to Chennai."
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "general-science-chemistry",
+    "title": "Chemistry MCQs",
+    "page": 1,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:50:39",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:12:52"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which iron ore contains the highest percentage of iron content?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hematite"
+        },
+        {
+          "label": "B",
+          "text": "Siderite"
+        },
+        {
+          "label": "C",
+          "text": "Magnetite"
+        },
+        {
+          "label": "D",
+          "text": "Limonite"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Magnetite"
+      },
+      "explanation": "Magnetite (Fe3O4) typically contains about 70% iron by weight. It is black in color and strongly magnetic. Hematite (Fe2O3) contains about 60–70% iron. Limonite contains 35–50% iron. Siderite (FeCO3) contains about 48% iron. Magnetite is widely mined due to its high iron concentration compared to other ores."
+    },
+    {
+      "id": 2,
+      "question": "Which among the following oxides cause the Acid rain?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbon monoxide and carbon dioxide"
+        },
+        {
+          "label": "B",
+          "text": "Nitrous oxide and sulphur dioxide"
+        },
+        {
+          "label": "C",
+          "text": "Carbon dioxide and nitrous oxide"
+        },
+        {
+          "label": "D",
+          "text": "Sulphur dioxide and carbon monoxide"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Nitrous oxide and sulphur dioxide"
+      },
+      "explanation": "Acid rain is caused by nitrous oxides (NOx) and sulfur dioxide (SO2) emissions, which react with water molecules in the atmosphere to form nitric and sulfuric acids. These acids then fall to the ground in rain, snow, fog, or dust particles."
+    },
+    {
+      "id": 3,
+      "question": "Which among the following is the first man made fibre (silk)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Viscose"
+        },
+        {
+          "label": "B",
+          "text": "Reyon"
+        },
+        {
+          "label": "C",
+          "text": "Nylon"
+        },
+        {
+          "label": "D",
+          "text": "Tericot"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Viscose"
+      },
+      "explanation": "Rayon is the first man-made fiber, also known as “artificial silk”. It was developed in the late 19th century as a substitute for natural silk. Rayon is a semi-synthetic fiber made from wood pulp. It has properties similar to silk and a shiny appearance. Nylon is the first fully synthetic fiber. It is made from coal, water, and air. Nylon is strong, elastic, and easy to wash. It is used to make socks, ropes, tents, and more."
+    },
+    {
+      "id": 4,
+      "question": "Which among the following types of glasses contains Cerium and other rare earths and has a high absorption of ultraviolet rays?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Crookes Glass"
+        },
+        {
+          "label": "B",
+          "text": "Pyrex Glass"
+        },
+        {
+          "label": "C",
+          "text": "Flint Glass"
+        },
+        {
+          "label": "D",
+          "text": "Crown Glass"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Crookes Glass"
+      },
+      "explanation": "Crookes glass comprises Cerium oxide (CiO2) which sharply absorbs the ultraviolet rays from the sunlight. It is used in making lenses of eye glasses."
+    },
+    {
+      "id": 5,
+      "question": "Which among the following is a common salt in Detergents?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sulphate"
+        },
+        {
+          "label": "B",
+          "text": "Nitrate"
+        },
+        {
+          "label": "C",
+          "text": "Sulphonate"
+        },
+        {
+          "label": "D",
+          "text": "Carbonate"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Sulphate"
+      },
+      "explanation": "Sodium sulfate, used as a filler in detergent powder, enables the adjustment of the concentration of the active matter in the detergent, as required."
+    },
+    {
+      "id": 6,
+      "question": "When Sulphur is heated with rubber, the process is commonly known as ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Galvanization"
+        },
+        {
+          "label": "B",
+          "text": "Sulphonation"
+        },
+        {
+          "label": "C",
+          "text": "Vulcanization"
+        },
+        {
+          "label": "D",
+          "text": "Hydrodesulfurization"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Vulcanization"
+      },
+      "explanation": "Natural rubber becomes soft at high temperature (>335 K) and brittle at low temperatures (<283 k) and shows high water absorption capacity. It is soluble in non-polar solvents and is non-resistant to attack by oxidising agents. To improve upon these physical properties, a process of vulcanisation is carried out. This process consists of heating a mixture of raw rubber with sulphur and an appropriate additive at a temperature range between 373 K to 415 K. On vulcanisation, sulphur forms cross links at the reactive sites of double bonds and thus the rubber gets stiffened. In the manufacture of tyre rubber, 5% of sulphur is used as a crosslinking agent"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following type of Coal has maximum carbon content?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Peat"
+        },
+        {
+          "label": "B",
+          "text": "Lignite"
+        },
+        {
+          "label": "C",
+          "text": "Antharacite"
+        },
+        {
+          "label": "D",
+          "text": "Bituminious"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Antharacite"
+      },
+      "explanation": "Anthracite, often referred to as hard coal, is a hard, compact variety of coal that has a submetallic luster. It has the highest carbon content, the fewest impurities, and the highest energy density of all types of coal and is the highest ranking of coals."
+    },
+    {
+      "id": 8,
+      "question": "Which among the following is the most important characteristic of Noble metals?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Luster"
+        },
+        {
+          "label": "B",
+          "text": "Non reactive nature"
+        },
+        {
+          "label": "C",
+          "text": "Preciousness"
+        },
+        {
+          "label": "D",
+          "text": "Rare availability"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Non reactive nature"
+      },
+      "explanation": "Noble metals, such as gold, silver, and platinum, are primarily characterized by their non-reactive nature. This means they resist oxidation and corrosion, making them ideal for use in jewelry and electronics. Unlike base metals, noble metals do not easily form compounds with other elements, which is why they maintain their luster and appearance over time. Their rarity and preciousness are secondary characteristics, but their chemical stability is what truly defines them as noble."
+    },
+    {
+      "id": 9,
+      "question": "Charles Goodyear is known for which of the following ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Experiments on Rubber Plants"
+        },
+        {
+          "label": "B",
+          "text": "Vulcanization of Rubber"
+        },
+        {
+          "label": "C",
+          "text": "Invention of Radial Tyres"
+        },
+        {
+          "label": "D",
+          "text": "Invention of Artificial Rubber"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Vulcanization of Rubber"
+      },
+      "explanation": "Charles Goodyear, American inventor of the vulcanization process that made possible the commercial use of rubber. The Goodyear Tire and Rubber Company was posthumously named after him."
+    },
+    {
+      "id": 10,
+      "question": "Which of these is not considered an ore?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chalcopyrite"
+        },
+        {
+          "label": "B",
+          "text": "Sphalerite"
+        },
+        {
+          "label": "C",
+          "text": "Cinnabar"
+        },
+        {
+          "label": "D",
+          "text": "Andesite"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Andesite"
+      },
+      "explanation": "Andesite is an igneous volcanic rock with intermediate composition and is not used as an ore. Chalcopyrite is a major copper ore, sphalerite is the primary ore of zinc, and cinnabar is the main ore of mercury. Andesite mainly consists of plagioclase, pyroxene, and amphibole minerals and forms in volcanic arcs associated with subduction zones."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-39-comptroller-and-auditor-general-o",
+    "title": "Comptroller and Auditor General of India (CAG)",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:22:03"
+  },
+  "questions": [
+    {
+      "id": 5201,
+      "question": "The accounts of which of the following are not audited by CAG?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Municipal institutions"
+        },
+        {
+          "label": "B",
+          "text": "State Governments"
+        },
+        {
+          "label": "C",
+          "text": "Government Companies"
+        },
+        {
+          "label": "D",
+          "text": "Central Government"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Municipal institutions"
+      },
+      "explanation": "Comptroller and Auditor General of India audits the receipts and expenditure of State Governments, Government Companies and Central Government. The audit of local bodies is not done by CAG."
+    },
+    {
+      "id": 11476,
+      "question": "Who among the following is called the “guardian of the public purse” of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Comptroller & Auditor General"
+        },
+        {
+          "label": "B",
+          "text": "Finance Minister"
+        },
+        {
+          "label": "C",
+          "text": "Chairman of Public Accounts Committee"
+        },
+        {
+          "label": "D",
+          "text": "Prime Minister"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Comptroller & Auditor General"
+      },
+      "explanation": "Article 148 of the Constitution of India provides for an independent office of the Comptroller and Auditor General of India (CAG). He is the head of the Indian Audit and Accounts Department and also the guardian of public purse."
+    },
+    {
+      "id": 16960,
+      "question": "The CAG (Comptroller and Auditor General) is known as friend, philosopher and guide of the__?",
+      "options": [
+        {
+          "label": "A",
+          "text": "President of India"
+        },
+        {
+          "label": "B",
+          "text": "Finance Minister of India"
+        },
+        {
+          "label": "C",
+          "text": "Public Account Committee"
+        },
+        {
+          "label": "D",
+          "text": "Public of India"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Public Account Committee"
+      },
+      "explanation": "The PAC is an august Parliamentary body that enforces the accountability of the executive, and the CAG as the constitutional instrument of accountability has repeatedly been referred to as the friend, philosopher and guide of the PAC."
+    },
+    {
+      "id": 32041,
+      "question": "Comptroller and Auditor General of India is appointed for how many years?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2"
+        },
+        {
+          "label": "B",
+          "text": "6"
+        },
+        {
+          "label": "C",
+          "text": "4"
+        },
+        {
+          "label": "D",
+          "text": "5"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "6"
+      },
+      "explanation": "Comptroller and auditor general (CAG) of India is appointed at the pleasure of the president. In practical terms, it means that he is appointed by the present government. He serves for 6 years or till the age of 65 years, whichever is earlier."
+    },
+    {
+      "id": 45977,
+      "question": "Which article of the Constitution off India provides for an independent office of the Comptroller and Auditor General of India (CAG)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Article 147"
+        },
+        {
+          "label": "B",
+          "text": "Article 148"
+        },
+        {
+          "label": "C",
+          "text": "Article 149"
+        },
+        {
+          "label": "D",
+          "text": "Article 150"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Article 148"
+      },
+      "explanation": "The article 148 of the Constitution off India provides for an independent office of the Comptroller and Auditor General of India (CAG). He is the head of the Indian Audit and Accounts Department."
+    }
+  ]
+}

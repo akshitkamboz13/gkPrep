@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "chemistry-gk-17-important-metals",
+    "title": "Chemistry-17-Important Metals",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:02:19"
+  },
+  "questions": [
+    {
+      "id": 340,
+      "question": "A Gold Ring which is 50% pure. Its purity can be alternatively shown as __:",
+      "options": [
+        {
+          "label": "A",
+          "text": "18 Carat"
+        },
+        {
+          "label": "B",
+          "text": "18 Karat"
+        },
+        {
+          "label": "C",
+          "text": "12 Carat"
+        },
+        {
+          "label": "D",
+          "text": "12 Karat"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "12 Karat"
+      },
+      "explanation": "The carat is the common unit used to describe the mass of a gem. A 1-carat diamond, for example, has a mass of 0.20 g. The karat is the common unit used to describe the purity of a precious metal, such as gold. A 24-karat gold ring is as pure as can be. A gold ring that is 50 % pure is 12 karat."
+    },
+    {
+      "id": 3169,
+      "question": "Which of the following is the poorest conductor of heat in comparison to other options?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Silver"
+        },
+        {
+          "label": "B",
+          "text": "Copper"
+        },
+        {
+          "label": "C",
+          "text": "Lead"
+        },
+        {
+          "label": "D",
+          "text": "Mercury"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Lead"
+      },
+      "explanation": "Silver is best conductor of heat while among metals lead is poorest conductor of heat. Cooper and aluminum are good conductor while mercury is a poor conductor."
+    },
+    {
+      "id": 4978,
+      "question": "Which of the following is an alkaline earth metal?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pottasium"
+        },
+        {
+          "label": "B",
+          "text": "Lead"
+        },
+        {
+          "label": "C",
+          "text": "Copper"
+        },
+        {
+          "label": "D",
+          "text": "Calcium"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Calcium"
+      },
+      "explanation": "The six elements in column 2 of the Periodic table are called Alkaline Earth Metals. These include Beryllium (Be), Magnesium (Mg), Calcium (Ca), Strontium (Sr), Barium (Ba), and Radium (Ra)."
+    },
+    {
+      "id": 4979,
+      "question": "The Alkali metals are called good reducing agents. This implies that__:",
+      "options": [
+        {
+          "label": "A",
+          "text": "They easily capture electrons"
+        },
+        {
+          "label": "B",
+          "text": "They are not stable at room temperature"
+        },
+        {
+          "label": "C",
+          "text": "They easily lose electrons"
+        },
+        {
+          "label": "D",
+          "text": "They don’t act with dilute acids"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "They easily lose electrons"
+      },
+      "explanation": "Alkali metals have one electron in their valence shell and hence they easily lose or donate electron."
+    },
+    {
+      "id": 5004,
+      "question": "Which among the following are constituents of Brass?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zinc and Copper"
+        },
+        {
+          "label": "B",
+          "text": "Iron and Zinc"
+        },
+        {
+          "label": "C",
+          "text": "Copper and Nickel"
+        },
+        {
+          "label": "D",
+          "text": "Iron and Copper"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Zinc and Copper"
+      },
+      "explanation": "Brass is an alloy of Copper and Zinc, in proportions which can be varied to achieve varying mechanical and electrical properties. The proportions of Zinc and Copper can vary to create different types of brass alloys with varying mechanical and electrical properties."
+    }
+  ]
+}

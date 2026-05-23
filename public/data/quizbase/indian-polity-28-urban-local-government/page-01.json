@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-28-urban-local-government",
+    "title": "Urban Local Government",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:20:59"
+  },
+  "questions": [
+    {
+      "id": 4573,
+      "question": "Which among the following is not true about the Notified Area Committee ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is an area which does not necessarily fulfill all the conditions for the constitution of the municipality"
+        },
+        {
+          "label": "B",
+          "text": "It is created in an area which is fast developing and where new industries are set up"
+        },
+        {
+          "label": "C",
+          "text": "All the members are appointed by the state government"
+        },
+        {
+          "label": "D",
+          "text": "Notified Area Committee is constituted by an act of legislatures"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Notified Area Committee is constituted by an act of legislatures"
+      },
+      "explanation": "Notified Area Committee is not constituted by an act of legislatures. It is an area which does not necessarily fulfill all the conditions for the constitution of the municipality. The chairman and all the other members of the committee are appointed by the state government.NAC can be constituted by a notification and no need for an statute"
+    },
+    {
+      "id": 6151,
+      "question": "Town Planning Committees are constituted as per which among the following amendments of Indian Constitution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "73rd"
+        },
+        {
+          "label": "B",
+          "text": "74th"
+        },
+        {
+          "label": "C",
+          "text": "75th"
+        },
+        {
+          "label": "D",
+          "text": "76th"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "74th"
+      },
+      "explanation": "The Town Planning Committees are constituted as per 74th amendment to the Constitution of Indian. Its composition, functions and other matters are governed by the act only."
+    },
+    {
+      "id": 6757,
+      "question": "Which among the following are included in nagar panchayat?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Notified Area Committee only"
+        },
+        {
+          "label": "B",
+          "text": "Town Area Committee only"
+        },
+        {
+          "label": "C",
+          "text": "Both Notified Area Committee & Town Area Committee"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Both Notified Area Committee & Town Area Committee"
+      },
+      "explanation": "Both Notified Area Committee & Town Area Committee are included in the Nagar Panchayat. Nagar Panchayat is an area which is being transformed from a rural area to an urban area."
+    },
+    {
+      "id": 7264,
+      "question": "Which among the following schedules is related to the responsibilities of Municipalities?",
+      "options": [
+        {
+          "label": "A",
+          "text": "9th"
+        },
+        {
+          "label": "B",
+          "text": "10th"
+        },
+        {
+          "label": "C",
+          "text": "11th"
+        },
+        {
+          "label": "D",
+          "text": "12th"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "12th"
+      },
+      "explanation": "Twelfth Schedule was added by 74th amendment and enlists the subjects under Municipalities or urban local government."
+    },
+    {
+      "id": 7406,
+      "question": "Apart from giving constitutional recognition to the Municipalities which amendment lays down that in every state two district Planning Committees shall be constituted ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "71st Amendment"
+        },
+        {
+          "label": "B",
+          "text": "72nd Amendment"
+        },
+        {
+          "label": "C",
+          "text": "73rd Amendment"
+        },
+        {
+          "label": "D",
+          "text": "74th Amendment"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "74th Amendment"
+      },
+      "explanation": "74th Amendment added Part IXA titled “The Municipalities” to the constitution. It provides constitutional recognition to the Municipalities and lays down that in every state two district Planning Committees shall be constituted."
+    }
+  ]
+}

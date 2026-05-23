@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-culture12-fairs-and-festivals",
+    "title": "Indian Culture:12-Fairs and Festivals",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:16:06"
+  },
+  "questions": [
+    {
+      "id": 615,
+      "question": "The Nuakhai festival is predominantly observed in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Odisha"
+        },
+        {
+          "label": "C",
+          "text": "Karnataka"
+        },
+        {
+          "label": "D",
+          "text": "Sikkim"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Odisha"
+      },
+      "explanation": "It is the most important festival of western Odisha and it takes place in the bright half of the month of Bhadrab on an auspicious day fixed by the astrologers. Though the festival is intended for eating new rice of the year, it is observed as a general festival. On this occasion the new rice is cooked with milk and sugar (Kshiri) and then offered as Bhog to Goddess Laxmi."
+    },
+    {
+      "id": 5020,
+      "question": "Chakan Gaan-Ngai, a post-harvest festival is celebrated in __:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Manipur"
+        },
+        {
+          "label": "B",
+          "text": "Sikkim"
+        },
+        {
+          "label": "C",
+          "text": "Meghalaya"
+        },
+        {
+          "label": "D",
+          "text": "Arunachal Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Manipur"
+      },
+      "explanation": "Celebration of the biggest post-harvest festival of the Zeliangrong community, Chakan Gaan-Ngai, also popularly known as Gaan-Ngai was kick-started in Manipur recently with different organizations celebrating the festival in their own manner with traditional gaiety and religious fervour. The State Level celebration of the festival was organized by State Level Gaan Ngai-2013 Committee at Langol Tarung village with Chief Minister O Ibobi Singh as Chief Guest."
+    },
+    {
+      "id": 5021,
+      "question": "Sangai Festival is celebrated in which among the following states of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assam"
+        },
+        {
+          "label": "B",
+          "text": "Manipur"
+        },
+        {
+          "label": "C",
+          "text": "Bihar"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Manipur"
+      },
+      "explanation": "The Manipur Sangai Festival is an annual calendar mega-event of the Government of Manipur spearheaded by the Tourism Department that seeks to showcase and promote the finest of Manipur’s arts & culture, adventure sports, indigenous cuisines, handloom & handicrafts, fine arts, indigenous games & music and various other niche products to a regional, national and global audience."
+    },
+    {
+      "id": 5024,
+      "question": "Rajgir Mahotsav is celebrated in __:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "B",
+          "text": "Bihar"
+        },
+        {
+          "label": "C",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Madhya Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Bihar"
+      },
+      "explanation": "Rajgir, the ancient capital of the Magadhan empire in Bihar is held sacred by both Buddhists and Jains for its association with the Buddha and Mahavir. Department of Tourism, Bihar holds a colourful festival of dance and music, Rajgir Mahotsav or Dance Festival every year in Rajgir."
+    },
+    {
+      "id": 5034,
+      "question": "The festival Baisakhi or Vaisakhi is commemorates which among the following important event of Sikh History?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Establishment of Akal Takht"
+        },
+        {
+          "label": "B",
+          "text": "Establishment of Khalasa Panth"
+        },
+        {
+          "label": "C",
+          "text": "Establishment of Guru Granth Sahib as permanent guru of Sikhs"
+        },
+        {
+          "label": "D",
+          "text": "Foundation of Harmandir Sahib (Golden Temple) in Amritsar"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Establishment of Khalasa Panth"
+      },
+      "explanation": "The festival of Baisakhi is to commemorate Establishment of Khalasa Panth . The term 'Khalsa' means sovereign or free. It was on this day in 1699, when the tenth Guru of Sikhs, Guru Gobind Singh Ji established the Khalsa Panth."
+    }
+  ]
+}

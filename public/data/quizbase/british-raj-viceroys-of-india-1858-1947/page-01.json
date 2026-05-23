@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "british-raj-viceroys-of-india-1858-1947",
+    "title": "12. British Raj - Viceroys of India [1858-1947]",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:00:34"
+  },
+  "questions": [
+    {
+      "id": 2975,
+      "question": "Who was the only Viceroy of India to be murdered in office?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lord Mayo"
+        },
+        {
+          "label": "B",
+          "text": "Lord Auckland"
+        },
+        {
+          "label": "C",
+          "text": "Lord Lawrence"
+        },
+        {
+          "label": "D",
+          "text": "Lord Northbrook"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Lord Mayo"
+      },
+      "explanation": "Lord Mayo was the only Viceroy of India to be murdered in office. While visiting the convict settlement at Port Blair in the Andaman Islands in 1872 for the purpose of inspection, he was assassinated by a Pathan convict."
+    },
+    {
+      "id": 2977,
+      "question": "Which Viceroy passed the famous Indian Coinage and Paper Currency act (1899)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lord Minto"
+        },
+        {
+          "label": "B",
+          "text": "Lord Hardinge"
+        },
+        {
+          "label": "C",
+          "text": "Lord Curzon"
+        },
+        {
+          "label": "D",
+          "text": "Lord Dufferin"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Lord Curzon"
+      },
+      "explanation": "In January 1899, Lord Curzon was appointed Viceroy of India. Passed the Indian Coinage and Paper Currency act (1899) and put India on a gold standard."
+    },
+    {
+      "id": 4452,
+      "question": "Simon Commission had visited India during the times of which among the following Viceroys?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lord Irwin"
+        },
+        {
+          "label": "B",
+          "text": "Lord Chelmsford"
+        },
+        {
+          "label": "C",
+          "text": "Lord Willingdon"
+        },
+        {
+          "label": "D",
+          "text": "Lord Wood"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Lord Irwin"
+      },
+      "explanation": "On April 3, 1926 Lord Irwin was appointed 30th Viceroy and Governor-General of India. In 1927, British government appointed a commission under the chairmanship of Sir John Simon. The Commission was appointed to study the reforms of 1919 and suggest further measures for Constitutional reforms. The Commission had no Indian member in it. The Indians boycotted this all-White commission."
+    },
+    {
+      "id": 4749,
+      "question": "On which among the following dates, the Gandhi-Irwin Pact was signed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5 March 1931"
+        },
+        {
+          "label": "B",
+          "text": "6 March 1931"
+        },
+        {
+          "label": "C",
+          "text": "7 March 1931"
+        },
+        {
+          "label": "D",
+          "text": "8 March 1931"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "5 March 1931"
+      },
+      "explanation": "The Gandhi–Irwin Pact was a political agreement signed by Mahatma Gandhi and the then Viceroy of India, Lord Irwin on 5 March 1931 before the second Round Table Conference in London."
+    },
+    {
+      "id": 4764,
+      "question": "On which among the following dates, Jallianwala Bagh Massacre took place?",
+      "options": [
+        {
+          "label": "A",
+          "text": "April 16,1919"
+        },
+        {
+          "label": "B",
+          "text": "April 13,1919"
+        },
+        {
+          "label": "C",
+          "text": "April 3,1919"
+        },
+        {
+          "label": "D",
+          "text": "April 14,1919"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "April 13,1919"
+      },
+      "explanation": "The Jallianwala Bagh massacre took place on 13 April 1919. The acting Brigadier-General Reginald Harry Dyer ordered his troops of the British Indian Army to fire abruptly into the crowd of unarmed Indian civilians in Jallianwala Bagh, Amritsar, Punjab. At least 379 people were killed. Rabindranath Tagore gave up his Knighthood in protest against the 1919 Jallianwala bagh Massacre."
+    }
+  ]
+}

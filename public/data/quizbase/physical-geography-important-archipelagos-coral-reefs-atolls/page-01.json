@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physical-geography-important-archipelagos-coral-reefs-atolls",
+    "title": "Physical Geography - Important Seas, Archipelagos, Coral Reefs, Atolls",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:28:58"
+  },
+  "questions": [
+    {
+      "id": 5290,
+      "question": "In which among the following oceans, most coral reefs are found?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indian Ocean"
+        },
+        {
+          "label": "B",
+          "text": "Pacific Ocean"
+        },
+        {
+          "label": "C",
+          "text": "Atlantic Ocean"
+        },
+        {
+          "label": "D",
+          "text": "Arctic Ocean"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Pacific Ocean"
+      },
+      "explanation": "Most of the coral reefs are found in Pacific Ocean. Pacific ocean has twice as many coral species as in Atlantic Ocean reefs. About 75% of the total coral reef in United States, is located in the Pacific Ocean."
+    },
+    {
+      "id": 6808,
+      "question": "Which of the following is NOT a closed sea?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aral Sea"
+        },
+        {
+          "label": "B",
+          "text": "Black Sea"
+        },
+        {
+          "label": "C",
+          "text": "Red Sea"
+        },
+        {
+          "label": "D",
+          "text": "All are closed seas"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Red Sea"
+      },
+      "explanation": "The Red Sea is a seawater inlet of the Indian Ocean, lying between Africa and Asia. The connection to the ocean is in the south through the Bab el Mandeb strait and the Gulf of Aden."
+    },
+    {
+      "id": 11162,
+      "question": "Which among the following is the correct location of the Chukchi Sea?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Western Pacific Ocean"
+        },
+        {
+          "label": "B",
+          "text": "North Atlantic Ocean"
+        },
+        {
+          "label": "C",
+          "text": "Southern Pacific Ocean"
+        },
+        {
+          "label": "D",
+          "text": "Arctic Ocean"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Arctic Ocean"
+      },
+      "explanation": "The Chukchi Sea is located in the Arctic Ocean, between Russia and the United States. It is also known as the Chuuk Sea or the Sea of Chukotsk."
+    },
+    {
+      "id": 17947,
+      "question": "On which of the following dates, the amplitude of the tides would be maximum?",
+      "options": [
+        {
+          "label": "A",
+          "text": "January 3, New Moon"
+        },
+        {
+          "label": "B",
+          "text": "January 3, Moon in second quarter"
+        },
+        {
+          "label": "C",
+          "text": "July 6, Full Moon"
+        },
+        {
+          "label": "D",
+          "text": "December 21, New moon"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "January 3, New Moon"
+      },
+      "explanation": "On New Moon or Full moon, the tides will have higher amplitude. In the given dates, on January 3, Earth is at perihelion. This means that Earth on January 2 0r 3 is at closest distance from Sun. So, the tide would be highest in the year on Perihelion-New Moon. This spring tide would be the highest in the entire year."
+    },
+    {
+      "id": 18072,
+      "question": "A tourist in Mumbai observes high tide near Gateway of India at 7.00 AM. At what time, he should expect another high tide on the same day?",
+      "options": [
+        {
+          "label": "A",
+          "text": "7.00 PM"
+        },
+        {
+          "label": "B",
+          "text": "7.25 PM"
+        },
+        {
+          "label": "C",
+          "text": "7.40 PM"
+        },
+        {
+          "label": "D",
+          "text": "8.50 PM"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "7.25 PM"
+      },
+      "explanation": "Most coastal areas experience two high and two low tides per day. One of these high tides is at the point on the earth which is closest to the moon (sub lunar) and other high tide is at the opposite point on the earth (antipodal). One tidal cycle comprises two high tides and two low tides. One tidal cycle completes in 24 hours and 50.4 minutes. This is because of the revolution of Moon around the earth and both earth’s rotation and moon revolution are in same direction. (Moon is not stationary, so there is a difference, if moon were stationary the high tides would have occurred exactly in 12 hours). The high tides occur at an interval of 12 hours and 25.2 minutes. This means that if there is a high tide is at 7.00 am, next high tide would be at 7.25 pm and next would be at 7.50 am, and so on. The time difference between two high tides is called “Tidal Interval”. The tidal cycle in this pattern is called semidiurnal. However, most of the enclosed water bodies or away from the open ocean such as Caribbean Sea or Caspian Sea, there are only one high tide and one low tide. This pattern is called Diurnal tides. At the coast of the oceans, there may be two high tides, of unequal length. This is called Mixed Tides."
+    }
+  ]
+}

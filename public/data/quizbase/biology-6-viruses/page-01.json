@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-6-viruses",
+    "title": "6. Viruses",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:59:52"
+  },
+  "questions": [
+    {
+      "id": 4517,
+      "question": "“Rinderpest” disease, which was recently eliminated was caused by which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bacteria"
+        },
+        {
+          "label": "B",
+          "text": "Virus"
+        },
+        {
+          "label": "C",
+          "text": "Fungi"
+        },
+        {
+          "label": "D",
+          "text": "Nematode"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Virus"
+      },
+      "explanation": "Rinderpest which is also called as cattle plague or steppe murrain was an infectious viral disease of cattle, domestic buffalo, and many other species of even-toed ungulates, including buffaloes. It was recently eliminated."
+    },
+    {
+      "id": 8819,
+      "question": "Which among the following is correct about Viruses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They have DNA only"
+        },
+        {
+          "label": "B",
+          "text": "They have RNA only"
+        },
+        {
+          "label": "C",
+          "text": "They have both DNA & RNA"
+        },
+        {
+          "label": "D",
+          "text": "They have either DNA or RNA"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "They have either DNA or RNA"
+      },
+      "explanation": "Viruses are small infectious agents that can replicate only inside the living cells of an organism. Viruses are classified based on the type of genetic material they contain. Some viruses have DNA as their genetic material, while others have RNA. Some viruses have both DNA and RNA as their genetic material. DNA viruses have double-stranded DNA as their genetic material. They replicate their DNA using the enzymes and machinery of the host cell. Examples of DNA viruses include herpes viruses, pox viruses, and adenoviruses. RNA viruses have single-stranded RNA as their genetic material. They replicate their RNA using the enzymes and machinery of the host cell. Examples of RNA viruses include influenza viruses, HIV, and coronaviruses. Viruses that have both DNA and RNA as their genetic material are known as \"retroviruses.\" These viruses contain a single strand of RNA, but they use an enzyme called reverse transcriptase to convert their RNA into DNA. The DNA is then integrated into the host cell's genome and replicated along with the host cell's DNA. Examples of retroviruses include HIV and the human T-cell leukemia virus."
+    },
+    {
+      "id": 10236,
+      "question": "Which among the following is found in a Bacteriophage?",
+      "options": [
+        {
+          "label": "A",
+          "text": "only RNA"
+        },
+        {
+          "label": "B",
+          "text": "only DNA"
+        },
+        {
+          "label": "C",
+          "text": "Both RNA & DNA"
+        },
+        {
+          "label": "D",
+          "text": "Either RNA or DNA"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Either RNA or DNA"
+      },
+      "explanation": "Either RNA or DNA is found in a Bacteriophage. A bacteriophage which is also informally known as a phage, is a virus that infects and replicates within bacteria and archaea."
+    },
+    {
+      "id": 10729,
+      "question": "Which among the following is correct definition of Bacteriophage?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A Bacteria that destroys Virus"
+        },
+        {
+          "label": "B",
+          "text": "A Virus that destroys Bacteria"
+        },
+        {
+          "label": "C",
+          "text": "A Bacteria that destroys another bacteria"
+        },
+        {
+          "label": "D",
+          "text": "A Bacteria that destroys Fungi"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "A Virus that destroys Bacteria"
+      },
+      "explanation": "Bacteriophage a virus that parasitizes a bacterium by infecting it and reproducing inside it. Bacteriophages are commonly used in genetic research. They are composed of proteins that encapsulate a DNA or RNA genome, and may have structures that are either simple or elaborate."
+    },
+    {
+      "id": 20555,
+      "question": "Which among the following are found in all viruses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "DNA and proteins"
+        },
+        {
+          "label": "B",
+          "text": "Nucleic acid and capsid"
+        },
+        {
+          "label": "C",
+          "text": "DNA and cell membrane"
+        },
+        {
+          "label": "D",
+          "text": "RNA and cell wall"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Nucleic acid and capsid"
+      },
+      "explanation": "Viruses are made up of nucleic acid (either DNA or RNA; but not both) surrounded by a protein coat called a capsid. They do not contain a cell wall, proteins, or cell membrane"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "engineering-and-capital-goods-sector-mcqs-for-ssc-examination",
+    "title": "17. Engineering and Capital Goods Sector",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:12:12"
+  },
+  "questions": [
+    {
+      "id": 57816,
+      "question": "In which year the Engineering Exports Promotion Council set up?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1961"
+        },
+        {
+          "label": "B",
+          "text": "1951"
+        },
+        {
+          "label": "C",
+          "text": "1955"
+        },
+        {
+          "label": "D",
+          "text": "1950"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "1955"
+      },
+      "explanation": "EEPC India is the premier trade and investment promotion organization. It is sponsored by the Ministry of Commerce & Industry, Government of India and caters to the Indian engineering sector. It was set up in 1955."
+    },
+    {
+      "id": 57818,
+      "question": "When did India become a permanent member of the Washington Accord?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2015"
+        },
+        {
+          "label": "B",
+          "text": "2018"
+        },
+        {
+          "label": "C",
+          "text": "2014"
+        },
+        {
+          "label": "D",
+          "text": "2010"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "2014"
+      },
+      "explanation": "The Washington Accord is an is an elite international agreement on engineering studies and the mobility of engineers. There are 20 permanent signatories to the Washington Accord. India became a permanent member of the Washington Accord (WA) in June 2014. The Washington Accord is an international accreditation agreement for undergraduate professional engineering academic degrees between the bodies responsible for accreditation in its signatory countries and regions."
+    },
+    {
+      "id": 57820,
+      "question": "Which country imports the most Engineering goods from India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "USA"
+        },
+        {
+          "label": "B",
+          "text": "Germany"
+        },
+        {
+          "label": "C",
+          "text": "UAE"
+        },
+        {
+          "label": "D",
+          "text": "Japan"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "USA"
+      },
+      "explanation": "The United States is the top importer of engineering goods from India. In April-December 2023, exports to the USA were $14.68 billion. The USA consistently leads among single countries for Indian engineering exports. Exports to the UAE and Germany are significant but lower than the USA's figures for the same period. Major engineering export products include iron and steel, auto components, and machinery."
+    },
+    {
+      "id": 57825,
+      "question": "What is the contribution of capital goods to Indian manufacturing output?",
+      "options": [
+        {
+          "label": "A",
+          "text": "22%"
+        },
+        {
+          "label": "B",
+          "text": "12%"
+        },
+        {
+          "label": "C",
+          "text": "10%"
+        },
+        {
+          "label": "D",
+          "text": "25%"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "12%"
+      },
+      "explanation": "The capital goods sector contributes approximately 12% to India's total manufacturing output and accounts for roughly 1.8% to 2% of the national GDP. As a critical, technology-intensive industry, it supports industrial growth, with production value rising from ₹2.3 lakh crore in 2014-15 to over ₹4.29 lakh crore by 2023-24."
+    },
+    {
+      "id": 57826,
+      "question": "Which industry produces goods used in making other goods?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Industry producing capital goods"
+        },
+        {
+          "label": "B",
+          "text": "Industry providing financial capital"
+        },
+        {
+          "label": "C",
+          "text": "Industry producing consumer goods"
+        },
+        {
+          "label": "D",
+          "text": "Industry serving only service sector"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Industry producing capital goods"
+      },
+      "explanation": "A capital goods industry manufactures products such as machinery, tools, and equipment used in the production of other goods. Capital goods are not intended for direct consumption but are used by industries to produce consumer goods and services. This sector includes items like industrial robots, factory equipment, and machine tools used in manufacturing, construction, and infrastructure projects."
+    }
+  ]
+}

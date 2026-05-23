@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "astronomy-universe-constellations-galaxies-stars",
+    "title": "Astronomy - Universe, Constellations & Galaxies, Stars",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:56:12"
+  },
+  "questions": [
+    {
+      "id": 3020,
+      "question": "Which of the following was the first planet to have its motions plotted across the sky during the second millennium BC?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mars"
+        },
+        {
+          "label": "B",
+          "text": "Venus"
+        },
+        {
+          "label": "C",
+          "text": "Jupiter"
+        },
+        {
+          "label": "D",
+          "text": "Saturn"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Venus"
+      },
+      "explanation": "Venus was the first planet to have its motions plotted across the sky, as early as the second millennium BC."
+    },
+    {
+      "id": 3021,
+      "question": "Which of the following statements is incorrect about the Planet Mars?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It has two permanent polar ice caps"
+        },
+        {
+          "label": "B",
+          "text": "After the Moon, it is the brightest object in our night sky"
+        },
+        {
+          "label": "C",
+          "text": "Liquid water cannot exist on the surface of Mars due to low atmospheric pressure"
+        },
+        {
+          "label": "D",
+          "text": "Mars is less dense than Earth"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "After the Moon, it is the brightest object in our night sky"
+      },
+      "explanation": "Second statement is incorrect because Venus is the second brightest object in our night sky after Moon."
+    },
+    {
+      "id": 4158,
+      "question": "Who among the following proposed Helio-centric model of solar system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Copernicus"
+        },
+        {
+          "label": "B",
+          "text": "Ptolemy"
+        },
+        {
+          "label": "C",
+          "text": "Aristotle"
+        },
+        {
+          "label": "D",
+          "text": "Strabo"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Copernicus"
+      },
+      "explanation": "Copernicus proposed Helio-centric model. According to this model, sun stands at the center of the universe, and Moon, the Earth, and remaining planets revolve around the sun."
+    },
+    {
+      "id": 4159,
+      "question": "Geo centric model of solar system was proposed by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Copernicus"
+        },
+        {
+          "label": "B",
+          "text": "Ptolemy"
+        },
+        {
+          "label": "C",
+          "text": "Aristotle"
+        },
+        {
+          "label": "D",
+          "text": "Strabo"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ptolemy"
+      },
+      "explanation": "Geo-centric theory of solar system was proposed by Ptolemy 2000 years ago. This theory states that all celestial objects, stars, the sun and the planets, all revolved around the earth."
+    },
+    {
+      "id": 4160,
+      "question": "Who among the following proposed Laws of planetary motion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Newton"
+        },
+        {
+          "label": "B",
+          "text": "Kepler"
+        },
+        {
+          "label": "C",
+          "text": "Ptolemy"
+        },
+        {
+          "label": "D",
+          "text": "Copernicus"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Kepler"
+      },
+      "explanation": "Kepler proposed Laws of planetary motion. These three laws describes the behavior of planets in the heliocentric model; The three laws of Kepler can be stated as follows: 1. Law of orbits: All planets move in elliptical orbits with the Sun situated at one of the foci of the ellipse 2. Law of areas: The line that joins any planet to the sun sweeps equal areas in equal intervals of time. 3. Law of periods: The Square of the time period of revolution of a planet is proportional to the cube of the semi-major axis of the ellipse traced out by the planet. The law of areas can be understood as a consequence of conservation of angular momentum which is valid for any central force."
+    }
+  ]
+}

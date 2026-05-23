@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "economic-geography-hunting-pastoral-herding-fishing-aquaculture-forestry",
+    "title": "Economic Geography - Hunting, Pastoral Herding, Fishing, Aquaculture, Forestry",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:11:07"
+  },
+  "questions": [
+    {
+      "id": 60410,
+      "question": "What is the form of agriculture aimed at producing livestock called?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Horticulture"
+        },
+        {
+          "label": "B",
+          "text": "Pastoral Farming"
+        },
+        {
+          "label": "C",
+          "text": "Pisciculture"
+        },
+        {
+          "label": "D",
+          "text": "Mixed Farming"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Pastoral Farming"
+      },
+      "explanation": "Pastoral farming is a form of agriculture aimed at producing livestock, rather than growing crops. Activities included in Pastoral farming are dairy farming, raising beef cattle, and raising sheep for wool."
+    },
+    {
+      "id": 60414,
+      "question": "In which among the following regions does hunting as an activity largely survives?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Europe"
+        },
+        {
+          "label": "B",
+          "text": "Arctic"
+        },
+        {
+          "label": "C",
+          "text": "Asia"
+        },
+        {
+          "label": "D",
+          "text": "Australia"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Arctic"
+      },
+      "explanation": "Although hunting was much more widespread in the past, today this activity survives largely in the high latitude zones particularly in the Arctic region."
+    },
+    {
+      "id": 60415,
+      "question": "Which among the following tribes is/are predominantly known for their hunting skills? Bushmen North American Eskimos Select the correct code from the options given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1"
+        },
+        {
+          "label": "B",
+          "text": "Only 2"
+        },
+        {
+          "label": "C",
+          "text": "Both 1 & 2"
+        },
+        {
+          "label": "D",
+          "text": "Neither 1 & 2"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Both 1 & 2"
+      },
+      "explanation": "Bushmen hunters of South Africa are known for their excellent tracking and stalking skills. These people are today confined to the barren and inhospitable desert of Kalahari. North American Eskimos can be considered the typical people living by hunting. These people have developed hunting beyond the traditional low technology occupation to a refined art."
+    },
+    {
+      "id": 60416,
+      "question": "The Yukaghirs, a hunting group, belongs to which among the following regions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Siberia"
+        },
+        {
+          "label": "B",
+          "text": "Africa"
+        },
+        {
+          "label": "C",
+          "text": "Australia"
+        },
+        {
+          "label": "D",
+          "text": "North America"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Siberia"
+      },
+      "explanation": "Although hunting was much more widespread in the past, today this activity survives largely in the high latitude zones particularly in the Arctic region.Yukaghirs of Siberia are a group of high latitude people living mainly on hunting of wild animals."
+    },
+    {
+      "id": 60421,
+      "question": "Which among the following areas is/are occupied by Migratory Herders? Dry steppe region of Russia Tropical grasslands south of Sahara Semi-deserts of South-western and Central Asia Select the correct code from the options given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1 & 2"
+        },
+        {
+          "label": "B",
+          "text": "Only 2 & 3"
+        },
+        {
+          "label": "C",
+          "text": "Only 1 & 3"
+        },
+        {
+          "label": "D",
+          "text": "1, 2 & 3"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1, 2 & 3"
+      },
+      "explanation": "Pastoral herding is the simplest form of pastoral activity. Migratory people travelling with their flocks or herds occupy three great areas in the Eastern Hemisphere which include the semi-deserts of South-western and Central Asia, together with the dry steppe region of Russia, the tropical grasslands south of Sahara in Africa, and sub-Arctic forests of Eurasia."
+    }
+  ]
+}

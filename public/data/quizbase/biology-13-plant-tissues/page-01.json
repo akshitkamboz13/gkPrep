@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-13-plant-tissues",
+    "title": "13. Plant Tissues",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:57:16"
+  },
+  "questions": [
+    {
+      "id": 6609,
+      "question": "The hard part of a stem of a plant is because of ________?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sclerenchyma"
+        },
+        {
+          "label": "B",
+          "text": "Xylem"
+        },
+        {
+          "label": "C",
+          "text": "Pholem"
+        },
+        {
+          "label": "D",
+          "text": "Stomata"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Xylem"
+      },
+      "explanation": "The hard part of a stem of a plant is because of Xylem. Stem supports leaves, flowers and fruits. It also transports fluids between the roots and the shoots in the xylem and phloem, stores nutrients, and produces new living tissue."
+    },
+    {
+      "id": 6746,
+      "question": "Which among the following is a main structural axes of a vascular plant?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thallus"
+        },
+        {
+          "label": "B",
+          "text": "Leaves"
+        },
+        {
+          "label": "C",
+          "text": "Stem"
+        },
+        {
+          "label": "D",
+          "text": "Flower"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Stem"
+      },
+      "explanation": "Stem is a main structural axes of a vascular plant. The stem transports water, minerals, and food to other parts of the plant; it may also store food, and green stems themselves produce food."
+    },
+    {
+      "id": 6752,
+      "question": "The cork cells are impervious to water. Which among the following is responsible to give this quality to Cork?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cellulose"
+        },
+        {
+          "label": "B",
+          "text": "Cutin"
+        },
+        {
+          "label": "C",
+          "text": "Suberin"
+        },
+        {
+          "label": "D",
+          "text": "Glucose"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Suberin"
+      },
+      "explanation": "The cork cells are impervious to water. Suberin is responsible to give this quality to Cork. Suberin, cutin and lignins are complex, higher plant epidermis and periderm cell-wall macromolecules, forming a protective barrier."
+    },
+    {
+      "id": 29403,
+      "question": "Root hair in plants are produced from which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "cortex"
+        },
+        {
+          "label": "B",
+          "text": "pericycle"
+        },
+        {
+          "label": "C",
+          "text": "epidermis"
+        },
+        {
+          "label": "D",
+          "text": "endodermis"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "epidermis"
+      },
+      "explanation": "Cells of the epidermis produce root hairs near the root apex. These cells are generally thin-walled, in contrast to the cells of the cortex, lying below the surface, which ultimately may become very thick-walled. The root hairs have fundamental importance in absorption of water and nutrients."
+    },
+    {
+      "id": 31234,
+      "question": "Which of the following cells are closely associated and interacting with guard cells?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Transfusion tissue"
+        },
+        {
+          "label": "B",
+          "text": "Complementary cells"
+        },
+        {
+          "label": "C",
+          "text": "Subsidiary cells"
+        },
+        {
+          "label": "D",
+          "text": "Hypodermal cells"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Subsidiary cells"
+      },
+      "explanation": "Subsidiary cells are the accessory cells to guard cells in the epidermis of plants. Two or four subsidiary cells are found surrounding the pair of guard cells. Subsidiary cells do not consist of chloroplasts. They provide support for the functioning of guard cells in the epidermis."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "human-geography-population-demography-migration-settlements-urbanization",
+    "title": "Human Geography: Population, Demography, Migration, Settlements, Urbanization",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:14:30"
+  },
+  "questions": [
+    {
+      "id": 9994,
+      "question": "Which is the least densely populated country of Asia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maldives"
+        },
+        {
+          "label": "B",
+          "text": "Mauritius"
+        },
+        {
+          "label": "C",
+          "text": "Bhutan"
+        },
+        {
+          "label": "D",
+          "text": "Mongolia"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Mongolia"
+      },
+      "explanation": "Mongolia is the least densely populated country in Asia, with only two people per square kilometer. The average population density in Asia in 2020 was 1,018 people per square kilometer. Mongolia is also the world's most sparsely populated country. The country has a cold climate due to its high altitudes and latitudes. Large parts of Mongolia are covered by mountains and deserts, leaving little arable land. As of 2016, Mongolia's population was estimated to be 3,068,243. The least densely populated country in Southeast Asia is Laos, with 32 people per square kilometer. The most densely populated country in Southeast Asia is Singapore, with 7,919 people per square kilometer."
+    },
+    {
+      "id": 18618,
+      "question": "A chain of roughly adjacent metropolitan areas is called _?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Megalopolis"
+        },
+        {
+          "label": "B",
+          "text": "Metropolis"
+        },
+        {
+          "label": "C",
+          "text": "Smart City"
+        },
+        {
+          "label": "D",
+          "text": "Mega City"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Megalopolis"
+      },
+      "explanation": "A chain of roughly adjacent metropolitan areas is called a megalopolis. The term was first used in the early 20th century to describe a cluster of well-networked cities. Megalopolises can occur for a variety of reasons, such as certain areas attracting more growth than others. A megalopolis is typically the center of a region's economic, political, and cultural activity. The term was originally used by Patrick Geddes in his 1915 book, “Cities in Evolution”. In the early 1960s, French geographer Jean Gottman used the term to describe the belt on the east coast of the United States."
+    },
+    {
+      "id": 29277,
+      "question": "Which of the following counties has the world's largest Muslim population?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pakistan"
+        },
+        {
+          "label": "B",
+          "text": "India"
+        },
+        {
+          "label": "C",
+          "text": "Indonesia"
+        },
+        {
+          "label": "D",
+          "text": "Saudi Arabia"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Indonesia"
+      },
+      "explanation": "The country with the single largest population of Muslims is Indonesia in Southeast Asia, which on its own hosts 13% of the world's Muslims. Together, the Muslims in the countries of Southeast Asia constitute the world's third-largest population of Muslims."
+    },
+    {
+      "id": 34021,
+      "question": "Which of the following names is given to the seasonal migration of men and animals from lower to higher altitudes during the summer? (UPSC Prelims 1988)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nomadism"
+        },
+        {
+          "label": "B",
+          "text": "Migration"
+        },
+        {
+          "label": "C",
+          "text": "Transhumance"
+        },
+        {
+          "label": "D",
+          "text": "Pastoralism"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Transhumance"
+      },
+      "explanation": "Transhumance is a type of pastoralism or nomadism, a seasonal movement of livestock between fixed summer and winter pastures. In montane regions, it implies movement between higher pastures in summer and lower valleys in winter."
+    },
+    {
+      "id": 34426,
+      "question": "The people of Hong Kong have come mostly from which of the following countries? (UPSC Prelims 1990)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vietnam"
+        },
+        {
+          "label": "B",
+          "text": "China"
+        },
+        {
+          "label": "C",
+          "text": "Cambodia"
+        },
+        {
+          "label": "D",
+          "text": "Thailand"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "China"
+      },
+      "explanation": "Hong Kong is officially the Hong Kong Special Administrative Region of the People's Republic of China. Today the territory has become one of the world's most significant financial centres and commercial ports."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: April 30, 2026",
+    "date": "2026-04-30",
+    "year": "2026",
+    "month": "04-april",
+    "day": 30,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 02:24:09",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:50:43"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Pompeii city, that was recently seen in news, is located in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Italy"
+        },
+        {
+          "label": "B",
+          "text": "Greece"
+        },
+        {
+          "label": "C",
+          "text": "Spain"
+        },
+        {
+          "label": "D",
+          "text": "Turkey"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Italy"
+      },
+      "explanation": "Pompeii is a preserved Roman city near Naples, Italy, at the base of Mount Vesuvius. It was founded around the 6th century BCE by the Samnites and later became part of the Roman Empire. The city was destroyed and buried in 79 CE due to the eruption of Mount Vesuvius. The eruption preserved the city under ash, providing a unique snapshot of Roman life. Pompeii was rediscovered in 1748, revealing buildings, artifacts, and human remains. It offers one of the most complete archaeological records of an ancient city. It is designated as a UNESCO World Heritage Site. Recently, AI has helped reconstruct the face and final moments of a victim of the eruption."
+    },
+    {
+      "id": 2,
+      "question": "The SACHET (Integrated Alert System) has been developed by which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Centre for Development of Telematics (C-DOT)"
+        },
+        {
+          "label": "B",
+          "text": "Indian Space Research Organization (ISRO)"
+        },
+        {
+          "label": "C",
+          "text": "Defence Research and Development Organisation (DRDO)"
+        },
+        {
+          "label": "D",
+          "text": "Council of Scientific and Industrial Research (CSIR)"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Centre for Development of Telematics (C-DOT)"
+      },
+      "explanation": "The Department of Telecommunications and National Disaster Management Authority are strengthening mobile-based disaster communication systems. The Integrated Alert System SACHET (System for Advanced Communication for Hazard Early-warning and Emergency Transmission) is operational across all States and Union Territories. It was developed by Centre for Development of Telematics and is based on the Common Alerting Protocol (CAP) recommended by the International Telecommunication Union. The system sends geo-targeted SMS alerts in multiple languages during disasters."
+    },
+    {
+      "id": 3,
+      "question": "Where was 10th National Summit on Innovation and Inclusivity held?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chandigarh"
+        },
+        {
+          "label": "B",
+          "text": "Hyderabad"
+        },
+        {
+          "label": "C",
+          "text": "Chennai"
+        },
+        {
+          "label": "D",
+          "text": "Bengaluru"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Chandigarh"
+      },
+      "explanation": "The Ministry of Health and Family Welfare organised the 10th National Summit on Innovation and Inclusivity – Best Practices Shaping India’s Health Future in Chandigarh from April 30 to May 1, 2026. It is a flagship initiative to showcase innovative and impactful public health practices by States and Union Territories. The summit promotes cross-learning and replication of successful healthcare models."
+    },
+    {
+      "id": 4,
+      "question": "Panchayat Advancement Index (PAI) 2.0 was released by which ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Rural Development"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Panchayati Raj"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Home Affairs"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Finance"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ministry of Panchayati Raj"
+      },
+      "explanation": "The Ministry of Panchayati Raj released the Panchayat Advancement Index (PAI) 2.0 Report (FY 2023–24) on National Panchayati Raj Day. PAI 2.0 acts as a performance report card for Gram Panchayats, evaluating grassroots governance. Around 3,635 Gram Panchayats were classified as Front Runners, while 1,18,824 (≈45.7%) were Performers. Participation reached 97.3%, covering over 2.59 lakh Gram Panchayats across 33 States/UTs. The index uses 150 indicators and 230 data points aligned with Localization of Sustainable Development Goals (LSDGs)."
+    },
+    {
+      "id": 5,
+      "question": "The Noyyal River, that was recently seen in news, is a tributary of which river?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Narmada River"
+        },
+        {
+          "label": "B",
+          "text": "Yamuna River"
+        },
+        {
+          "label": "C",
+          "text": "Krishna River"
+        },
+        {
+          "label": "D",
+          "text": "Kaveri River"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Kaveri River"
+      },
+      "explanation": "The Noyyal River is a tributary of the Kaveri River flowing through Tamil Nadu. It originates from small streams in the Vellingiri Hills. The river flows through Coimbatore, Tirupur, and Erode districts and joins the Cauvery in Karur district. It is a seasonal river, with significant flow during the monsoon. Earlier, it served as a major source of drinking water for the region. Currently, concerns over pollution have led farmers to demand river restoration and remediation efforts."
+    }
+  ]
+}

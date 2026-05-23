@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-geography-climate-climatic-regions-rains-monsoon-winds",
+    "title": "7. Climate, Climatic Regions, Rains, Monsoon, Winds in India",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:17:51"
+  },
+  "questions": [
+    {
+      "id": 499,
+      "question": "The north-east trade winds cause which of the following in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Winter rains in northwestern India"
+        },
+        {
+          "label": "B",
+          "text": "Winter Rains in Chennai"
+        },
+        {
+          "label": "C",
+          "text": "Dust storm in the Thar Desert"
+        },
+        {
+          "label": "D",
+          "text": "Inclement conditions in the Indian Himalayas"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Winter Rains in Chennai"
+      },
+      "explanation": "The northeast trade winds cause winter rains in Chennai, Tamil Nadu. These winds blow from the sea to the land, bringing moisture from the Bay of Bengal to the Tamil Nadu coast. The winds cause rainfall in the southern parts of Tamil Nadu, Kerala, Karnataka, Telangana, and Andhra Pradesh."
+    },
+    {
+      "id": 3150,
+      "question": "The concept of differential heating was primarily given to explain which of the following geographical phenomena in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Monsoon"
+        },
+        {
+          "label": "B",
+          "text": "Jet streams"
+        },
+        {
+          "label": "C",
+          "text": "Cyclones"
+        },
+        {
+          "label": "D",
+          "text": "Desert storms"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Monsoon"
+      },
+      "explanation": "The concept of differential heating about the origin of Indian Monsoon was given by Halley."
+    },
+    {
+      "id": 3178,
+      "question": "Which of the following crop types are affected generally positively by western disturbances in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rabi Crop"
+        },
+        {
+          "label": "B",
+          "text": "Kharif Crop"
+        },
+        {
+          "label": "C",
+          "text": "Zaid Crop"
+        },
+        {
+          "label": "D",
+          "text": "None of them"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Rabi Crop"
+      },
+      "explanation": "Western Disturbances are important to the development of the Rabi crop in the northern subcontinent, which includes the locally important staple wheat."
+    },
+    {
+      "id": 6192,
+      "question": "Which among the following cities of India does not fall in Torrid Zone?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chennai"
+        },
+        {
+          "label": "B",
+          "text": "Mumbai"
+        },
+        {
+          "label": "C",
+          "text": "Bangalore"
+        },
+        {
+          "label": "D",
+          "text": "Jaipur"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Jaipur"
+      },
+      "explanation": "The torrid zone is located between the tropic of Cancer 23.5 degrees north and the tropic of Capricorn 23.5 degrees south. Out of the given options in this question, Jaipur is located at the latitude of 26.9°N, so it is in the temperate zone."
+    },
+    {
+      "id": 6801,
+      "question": "What natural phenomenon is the Indian Ocean characterized by a greater frequency of?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tornados"
+        },
+        {
+          "label": "B",
+          "text": "Cyclones"
+        },
+        {
+          "label": "C",
+          "text": "Tsunamis"
+        },
+        {
+          "label": "D",
+          "text": "Hurricanes"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Cyclones"
+      },
+      "explanation": "The Indian Ocean is primarily characterized by a higher frequency of cyclones. These are large scale air mass that rotates around a strong center of low atmospheric pressure. This region is particularly prone to cyclones during the period of late summer and early fall. These cyclones cause significant damage and loss of life in coastal communities especially in the Bay of Bengal and Arabian Sea."
+    }
+  ]
+}

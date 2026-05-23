@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "33-political-dynasties-of-south-india-in-early-med",
+    "title": "31. Early Medieval South India",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:53:24"
+  },
+  "questions": [
+    {
+      "id": 1980,
+      "question": "Which among the following was the capital of Chera Kingdom?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tondi"
+        },
+        {
+          "label": "B",
+          "text": "Musiri"
+        },
+        {
+          "label": "C",
+          "text": "Vanji"
+        },
+        {
+          "label": "D",
+          "text": "Uraiyaur"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Vanji"
+      },
+      "explanation": "The capital of Chera Kingdom was Vanji. Tondi and Musiri were the important sea ports of Cheras."
+    },
+    {
+      "id": 2099,
+      "question": "Which among the following kings was also known as Mamallan (great wrestler)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pulakesi II"
+        },
+        {
+          "label": "B",
+          "text": "Mahendravarman I"
+        },
+        {
+          "label": "C",
+          "text": "Narasimhavarman I"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Narasimhavarman I"
+      },
+      "explanation": "Narasimhavarman I was a Tamil king of the Pallava dynasty who ruled South India from 630–668 AD. He was also known as Mamallan, which means \"great wrestler\". Mamallapuram (Mahabalipuram) was named after him. Narasimhavarman wanted to avenge his father's defeat at the hands of Chalukyan ruler Pulakesin II. He defeated Pulakesin II in the Battle of Manimangalam near Kanchi."
+    },
+    {
+      "id": 6781,
+      "question": "The ancient places of Badami, Dwarasamudra and Warangal are related to which of the following dynasties?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chalukyas, Hoysalas, Kaktiyas"
+        },
+        {
+          "label": "B",
+          "text": "Cholas, Hoysalas, Kaktiyas"
+        },
+        {
+          "label": "C",
+          "text": "Pallavas, Hoysalas, Kaktiyas"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Chalukyas, Hoysalas, Kaktiyas"
+      },
+      "explanation": "Badami belonged to Chalukyas, Dwarasamudra belonged to Hoyasala and Warangal was ruled by the Kakatiya dynasty rulers."
+    },
+    {
+      "id": 6794,
+      "question": "Mahabalipuram was a port city of which of the following dynasties?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chola"
+        },
+        {
+          "label": "B",
+          "text": "Pallava"
+        },
+        {
+          "label": "C",
+          "text": "Chalukya"
+        },
+        {
+          "label": "D",
+          "text": "Kakatiya"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Pallava"
+      },
+      "explanation": "Mahabalipuram was one of the major port cities by the 7th century within the Pallava kingdom. The town was named after Pallava king Narasimhavarman I, who was also known as Mahabali. Mahabalipuram is a UNESCO world heritage site."
+    },
+    {
+      "id": 7219,
+      "question": "Vasucharita is a work of which of the following ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ram raja"
+        },
+        {
+          "label": "B",
+          "text": "Krishndev rai"
+        },
+        {
+          "label": "C",
+          "text": "Vitthalantha"
+        },
+        {
+          "label": "D",
+          "text": "Kalidasa"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ram raja"
+      },
+      "explanation": "Ramraja or Ramarajabhushanudu who was a Telugu poet and a notable musician was one of the Astadiggajas (a collective title for Telugu poets in the court of Krishnadevaraya of Vijayanagara Empire)."
+    }
+  ]
+}

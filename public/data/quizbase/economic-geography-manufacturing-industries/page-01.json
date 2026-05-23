@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "economic-geography-manufacturing-industries",
+    "title": "Economic Geography - Manufacturing Industries",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:11:11"
+  },
+  "questions": [
+    {
+      "id": 61346,
+      "question": "Which among the following factor/factors affect the industrial location? Government Policy Relief Climate Raw Materials Select the correct code from the options given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1, 3 & 4"
+        },
+        {
+          "label": "B",
+          "text": "Only 3 & 4"
+        },
+        {
+          "label": "C",
+          "text": "Only 1 & 4"
+        },
+        {
+          "label": "D",
+          "text": "1, 2, 3 & 4"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1, 2, 3 & 4"
+      },
+      "explanation": "The factors affecting industrial location can be grouped as:- The physical factors, e.g. relief, climate, raw materials, etc.- The human and economic factors or the institutional factors like the government policy and the other human factors such as the demand for particular type of goods"
+    },
+    {
+      "id": 61348,
+      "question": "Which among the following statements is/are correct about the location of Coal industries? Generally a strong correlation is found between the location of heavy industrial plants and the availability of coal. Coal being a bulky and cheap industrial input, industrial plants are in close proximity of sources of coal supply. Select the correct code from the options given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1"
+        },
+        {
+          "label": "B",
+          "text": "Only 2"
+        },
+        {
+          "label": "C",
+          "text": "Both 1 & 2"
+        },
+        {
+          "label": "D",
+          "text": "Neither 1 & 2"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Both 1 & 2"
+      },
+      "explanation": "Since all industries need raw materials, the distance from which they have to be obtained is an important consideration. Generally a strong correlation is found between the location of heavy industrial plants and the availability of coal. Coal being a bulky and cheap industrial input, an effort is made to establish industrial plants in close proximity of sources of coal supply."
+    },
+    {
+      "id": 61349,
+      "question": "Which among the following statements is/are correct about labor as an important factor of manufacturing? The mobility of labour is a factor contributing to dispersal of industry. For the manufacturing activity, both cost and availability of labour are important. Select the correct code from the options given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1"
+        },
+        {
+          "label": "B",
+          "text": "Only 2"
+        },
+        {
+          "label": "C",
+          "text": "Both 1 & 2"
+        },
+        {
+          "label": "D",
+          "text": "Neither 1 & 2"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Both 1 & 2"
+      },
+      "explanation": "Manpower is also an important factor of production in the manufacturing activity.For the manufacturing activity, both cost and availability of labour are important. It is felt that a skilled and cheap labour force is capable of attracting manufacturing activity in a particular region. The mobility of labour is a factor contributing to dispersal of industry while a labour force with no mobility and a high degree of specialisation may cause a particular type of industry to concentrate in a particular region."
+    },
+    {
+      "id": 61353,
+      "question": "Which among the following factors influence the market factor of the location of industries? Development of transportation Mobility of labour Easy transmission of energy Select the correct code from the options given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1"
+        },
+        {
+          "label": "B",
+          "text": "Only 2 & 3"
+        },
+        {
+          "label": "C",
+          "text": "Only 1 & 2"
+        },
+        {
+          "label": "D",
+          "text": "1, 2 & 3"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1, 2 & 3"
+      },
+      "explanation": "The location of consumers or the market is an important factor affecting the location of manufacturing activities. Market factor has greater importance in the modern times due to the development of transportation and communication facilities, mobility of labour and easy transmission of energy."
+    },
+    {
+      "id": 61354,
+      "question": "Which among the following factors influence the location of manufacturing industries? Grants and financial services Power Supply Access to market Raw materials Select the correct code from the options given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1 & 4"
+        },
+        {
+          "label": "B",
+          "text": "Only 2, 3 & 4"
+        },
+        {
+          "label": "C",
+          "text": "Only 1, 2 & 3"
+        },
+        {
+          "label": "D",
+          "text": "1, 2, 3 & 4"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1, 2, 3 & 4"
+      },
+      "explanation": "Factors influencing the location of manufacturing industries are:- Power supply- Communications - including transport, telecommunications- Labour supply - including workers with the right skills- Access to market - where the goods are sold- Grants and financial incentives - usually from governments- Raw materials"
+    }
+  ]
+}

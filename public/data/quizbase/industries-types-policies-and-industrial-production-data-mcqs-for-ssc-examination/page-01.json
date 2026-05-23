@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "industries-types-policies-and-industrial-production-data-mcqs-for-ssc-examination",
+    "title": "12. Industries: Types, Policies and Industrial Production Data",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:24:59"
+  },
+  "questions": [
+    {
+      "id": 3047,
+      "question": "Which industry is not part of the Index of Eight Core Industries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Electricity"
+        },
+        {
+          "label": "B",
+          "text": "Crude Oil"
+        },
+        {
+          "label": "C",
+          "text": "Natural Gas"
+        },
+        {
+          "label": "D",
+          "text": "Pharmaceuticals"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Pharmaceuticals"
+      },
+      "explanation": "The Index of Eight Core Industries includes Coal, Crude Oil, Natural Gas, Refinery Products, Fertilizers, Steel, Cement, and Electricity. Pharmaceuticals are not included in this index. The Index serves as an indicator for measuring the industrial performance in India, and is released monthly by the Ministry of Commerce and Industry since 2004."
+    },
+    {
+      "id": 7986,
+      "question": "Who among the following declared the First Industrial Policy in the Post Independence Period?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jawahar lal Nehru"
+        },
+        {
+          "label": "B",
+          "text": "Syama Prasad Mookerjee"
+        },
+        {
+          "label": "C",
+          "text": "Bayya Suryanarayana Murthy"
+        },
+        {
+          "label": "D",
+          "text": "Rafi Ahmed Kidwai"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Syama Prasad Mookerjee"
+      },
+      "explanation": "In the year 1948, India’s first Industrial Policy Resolution was adopted. This resolution defined the roles of government in development of industries in independent India. This policy determined that India would follow a mixed economy model having both public and private enterprises."
+    },
+    {
+      "id": 8081,
+      "question": "Trombay, Nangal & Sindri are famous for which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iron"
+        },
+        {
+          "label": "B",
+          "text": "Coal"
+        },
+        {
+          "label": "C",
+          "text": "Fertillizers"
+        },
+        {
+          "label": "D",
+          "text": "seeds"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Fertillizers"
+      },
+      "explanation": "Trombay, Nangal, and Sindri are famous for fertilizers. The first fertilizer plant was established in Sindri, Jharkhand. Fertilizers are materials that are applied to soil or plant tissue to provide nutrients for plant growth. They can be natural or synthetic in origin. Trombay is located in Maharashtra. Nangal is a town in Punjab, India. Sindri is a neighborhood in Dhanbad, Jharkhand."
+    },
+    {
+      "id": 10613,
+      "question": "Which has the highest weightage in the Index of Industrial Production (IIP)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Electricity"
+        },
+        {
+          "label": "B",
+          "text": "Steel Industry"
+        },
+        {
+          "label": "C",
+          "text": "Refinery Products"
+        },
+        {
+          "label": "D",
+          "text": "Coal"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Refinery Products"
+      },
+      "explanation": "Refinery products have the highest weightage of 28.04% in the Index of Industrial Production as per the IIP series with base year 2011-12. The Index of Industrial Production was first published in 1937. The IIP is calculated and released by the National Statistical Office, Ministry of Statistics and Programme Implementation, Government of India."
+    },
+    {
+      "id": 10799,
+      "question": "The term \"cartelization\" is mainly linked with which of the following groups?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Small traders in local markets"
+        },
+        {
+          "label": "B",
+          "text": "Independent firms formally agreeing to cooperate"
+        },
+        {
+          "label": "C",
+          "text": "Individual investors in competitive markets"
+        },
+        {
+          "label": "D",
+          "text": "Government-regulated monopolies"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Independent firms formally agreeing to cooperate"
+      },
+      "explanation": "Cartelization describes independent firms entering formal agreements to control prices, limit supply, or divide markets. It typically involves actions such as price fixing or market-sharing. Cartelization is prohibited under the Competition Act, 2002 in India. In 2022, India's Competition Commission imposed penalties on cement companies for cartelization. Cartels are illegal in many countries and are monitored by regulatory bodies to ensure market competition."
+    }
+  ]
+}

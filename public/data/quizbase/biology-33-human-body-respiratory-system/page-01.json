@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-33-human-body-respiratory-system",
+    "title": "33. Human Body - Respiratory System",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:59:03"
+  },
+  "questions": [
+    {
+      "id": 8988,
+      "question": "In which part of the human body “Pleura” is found?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lungs"
+        },
+        {
+          "label": "B",
+          "text": "Brain"
+        },
+        {
+          "label": "C",
+          "text": "Liver"
+        },
+        {
+          "label": "D",
+          "text": "Heart"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Lungs"
+      },
+      "explanation": "A pleura is a serous membrane which folds back onto itself to form a two-layered membranous pleural sac. It surrounds each lung and attach to the internal surface of the thoracic cavity."
+    },
+    {
+      "id": 10969,
+      "question": "For respiration in deep sea, divers use mixture of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oxygen and helium"
+        },
+        {
+          "label": "B",
+          "text": "Oxygen and hydrogen"
+        },
+        {
+          "label": "C",
+          "text": "Oxygen and carbon dioxide"
+        },
+        {
+          "label": "D",
+          "text": "Oxygen, Helium & nitrogen"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Oxygen, Helium & nitrogen"
+      },
+      "explanation": ""
+    },
+    {
+      "id": 11706,
+      "question": "Gargling with a solution of table salt is known to provide relief for a sore throat because ____ ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It kills bacteria"
+        },
+        {
+          "label": "B",
+          "text": "It works as analgesic"
+        },
+        {
+          "label": "C",
+          "text": "It dehydrates water from inflammatory tissues by Osmosis"
+        },
+        {
+          "label": "D",
+          "text": "Placebo effect"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "It dehydrates water from inflammatory tissues by Osmosis"
+      },
+      "explanation": "Gargling with salt water provides relief for a sore throat primarily because it dehydrates water from inflammatory tissues through osmosis. This process reduces swelling and discomfort. Saltwater creates a hypertonic solution, drawing excess fluid out of swollen tissues, which can alleviate pain and irritation. Additionally, salt has mild antibacterial properties, but its primary benefit in this context is osmotic dehydration."
+    },
+    {
+      "id": 19807,
+      "question": "Mammalian lungs have an enormous number of minute alveoli (air sacs). This provides:",
+      "options": [
+        {
+          "label": "A",
+          "text": "more surface area for diffusion of gases"
+        },
+        {
+          "label": "B",
+          "text": "more space for increasing the volume of inspired air"
+        },
+        {
+          "label": "C",
+          "text": "more nerve supply to keep the lungs working"
+        },
+        {
+          "label": "D",
+          "text": "more spongy texture for keeping lung in proper shape"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "more surface area for diffusion of gases"
+      },
+      "explanation": "In mammals and the more complex life forms, the two lungs are located near the backbone on either side of the heart.Mammalian lungs have an enormous number of minute alveoli (air sacs)."
+    },
+    {
+      "id": 20301,
+      "question": "Which of the following is responsible for exchange of carbon dioxide for oxygen in the lungs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alveoli"
+        },
+        {
+          "label": "B",
+          "text": "Pharynx"
+        },
+        {
+          "label": "C",
+          "text": "Tendons"
+        },
+        {
+          "label": "D",
+          "text": "Duodenum"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Alveoli"
+      },
+      "explanation": "Alveoli are tiny sacs in our lungs. The main function of the alveoli is the exchange of carbon dioxide for oxygen in the lungs."
+    }
+  ]
+}

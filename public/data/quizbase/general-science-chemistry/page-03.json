@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "general-science-chemistry",
+    "title": "Chemistry MCQs",
+    "page": 3,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:50:39",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:12:58"
+  },
+  "questions": [
+    {
+      "id": 21,
+      "question": "What is the shape of XeF4 molecule?",
+      "options": [
+        {
+          "label": "A",
+          "text": "T-shaped"
+        },
+        {
+          "label": "B",
+          "text": "Bent"
+        },
+        {
+          "label": "C",
+          "text": "See-saw"
+        },
+        {
+          "label": "D",
+          "text": "Square planar"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Square planar"
+      },
+      "explanation": "The shape of XeF4 molecule is Square planar. As per VSEPR theory, there is repulsion between lone pair electrons and bond pair electrons as a result the Xenon tetrafluoride becomes square planar to achieve the stable state."
+    },
+    {
+      "id": 22,
+      "question": "What is the shape of SF4 molecule?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bent"
+        },
+        {
+          "label": "B",
+          "text": "See-saw"
+        },
+        {
+          "label": "C",
+          "text": "Trigonol Pyramidal"
+        },
+        {
+          "label": "D",
+          "text": "T-shape"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "See-saw"
+      },
+      "explanation": "SF4 molecule is see-saw in shape. It has 4-bonding pairs of electrons and one lone pair of electrons."
+    },
+    {
+      "id": 23,
+      "question": "What are the products of the reaction when metal carbonate reacts with an acid?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Salt and Hydrogen"
+        },
+        {
+          "label": "B",
+          "text": "Carbon dioxide"
+        },
+        {
+          "label": "C",
+          "text": "Salt, Carbon dioxide and water"
+        },
+        {
+          "label": "D",
+          "text": "Salt, Carbon dioxide and Hydrogen"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Salt, Carbon dioxide and water"
+      },
+      "explanation": "All metal carbonates and hydrogen carbonates react with acids to give a corresponding salt, carbon dioxide and water. Limestone, chalk and marble are different forms of calcium carbonate."
+    },
+    {
+      "id": 24,
+      "question": "Which of the following factors affect the electronic conductance of a metal?",
+      "options": [
+        {
+          "label": "A",
+          "text": "the nature and structure of the metal"
+        },
+        {
+          "label": "B",
+          "text": "the number of valence electrons per atom"
+        },
+        {
+          "label": "C",
+          "text": "temperature"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "All of the above"
+      },
+      "explanation": "Electrical conductance through metals is called metallic or electronic conductance and is due to the movement of electrons. The electronic conductance depends on (i) the nature and structure of the metal (ii) the number of valence electrons per atom (iii) temperature (it decreases with increase of temperature)."
+    },
+    {
+      "id": 25,
+      "question": "What is the reason for the presence of the vast number of organic compounds in nature?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbon exists in free state"
+        },
+        {
+          "label": "B",
+          "text": "Catenation property of carbon"
+        },
+        {
+          "label": "C",
+          "text": "Low atomic mass of carbon"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Catenation property of carbon"
+      },
+      "explanation": "Because of the catenation property of carbon, vast number of organic compounds are present in nature. Catenation refers to the linkage of atoms of the same element into longer chains."
+    },
+    {
+      "id": 26,
+      "question": "Which of the following metals is involved in the anodisation process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aluminium"
+        },
+        {
+          "label": "B",
+          "text": "Copper"
+        },
+        {
+          "label": "C",
+          "text": "Bismuth"
+        },
+        {
+          "label": "D",
+          "text": "Calcium"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Aluminium"
+      },
+      "explanation": "Anodising is a process of forming a thick oxide layer of aluminium. Aluminium develops a thin oxide layer when exposed to air. This layer of aluminium oxide makes aluminium resistant to further corrosion."
+    },
+    {
+      "id": 27,
+      "question": "Which of these two gases are mainly involved in the Haber-Bosch process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oxygen, Sulphur"
+        },
+        {
+          "label": "B",
+          "text": "Carbon, Nitrogen"
+        },
+        {
+          "label": "C",
+          "text": "Nitrogen, Hydrogen"
+        },
+        {
+          "label": "D",
+          "text": "Sulphur, Hydrogen"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Nitrogen, Hydrogen"
+      },
+      "explanation": "The Haber–Bosch process is the main industrial procedure for the production of ammonia. The process converts atmospheric nitrogen to ammonia by a reaction with hydrogen gas using a metal catalyst under high temperatures and pressures."
+    },
+    {
+      "id": 28,
+      "question": "Which of the following non-metals is used to make antiseptic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sulphur"
+        },
+        {
+          "label": "B",
+          "text": "Bromine"
+        },
+        {
+          "label": "C",
+          "text": "Chlorine"
+        },
+        {
+          "label": "D",
+          "text": "Iodine"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Iodine"
+      },
+      "explanation": "Tincture of iodine is used as an antiseptic. Tincture of iodine is a purple coloured solution which is applied on cuts and wounds as an antiseptic."
+    },
+    {
+      "id": 29,
+      "question": "What is the use of iodoform?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It helps in reducing fever"
+        },
+        {
+          "label": "B",
+          "text": "It is used to induce sleep"
+        },
+        {
+          "label": "C",
+          "text": "It is used as an antiseptic for wounds"
+        },
+        {
+          "label": "D",
+          "text": "It is used to reduce acidity"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "It is used as an antiseptic for wounds"
+      },
+      "explanation": "Iodoform is used as an antiseptic for wounds. Iodoform is also known as tri-iodomethane, carbon triiodide, and methyl triiodide. It is also used as a disinfectant."
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is the main ingredient that is used to make cement?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Calcium"
+        },
+        {
+          "label": "B",
+          "text": "Silicon"
+        },
+        {
+          "label": "C",
+          "text": "Aluminum"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "All of the above"
+      },
+      "explanation": "Cement is manufactured through a closely controlled chemical combination of calcium, silicon, aluminum, iron and other ingredients. Common materials used to manufacture cement include limestone, shells, and chalk or marl combined with shale, clay, slate, blast furnace slag, silica sand, and iron ore."
+    }
+  ]
+}

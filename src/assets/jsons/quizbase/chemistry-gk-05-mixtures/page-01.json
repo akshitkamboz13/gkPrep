@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "chemistry-gk-05-mixtures",
+    "title": "Chemistry-5-Mixtures",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:01:16"
+  },
+  "questions": [
+    {
+      "id": 6841,
+      "question": "Which of the following processes commonly use the method of adsorption?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Scrubbers manufacturing"
+        },
+        {
+          "label": "B",
+          "text": "Purification of solid substances"
+        },
+        {
+          "label": "C",
+          "text": "Chromatography"
+        },
+        {
+          "label": "D",
+          "text": "Purification of liquid substances"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Chromatography"
+      },
+      "explanation": "Adsorption, the binding of gas or liquid particles to a solid surface, is often used in chromatography - a laboratory technique for the separation of a mixture. This process is critical as it allows the separation of the compounds in the mixture, thereby enabling further analysis or purification. Apart from chromatography, adsorption is also used in scrubbers and purification of solids and liquids."
+    },
+    {
+      "id": 21249,
+      "question": "Which of the following laws states that the partial vapour pressure of each component of an ideal mixture of liquids is equal to the vapour pressure of the pure component multiplied by its mole fraction in the mixture?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Raoult's law"
+        },
+        {
+          "label": "B",
+          "text": "Henry's law"
+        },
+        {
+          "label": "C",
+          "text": "Graham's law"
+        },
+        {
+          "label": "D",
+          "text": "Sievert's law"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Raoult's law"
+      },
+      "explanation": "Raoult’s law states that the partial vapour pressure of each component of an ideal mixture of liquids is equal to the vapour pressure of the pure component multiplied by its mole fraction in the mixture."
+    },
+    {
+      "id": 21373,
+      "question": "Which of the following chemicals is used as a molecular sieve to filter common salts from seawater to produce potable water?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Graphene oxide"
+        },
+        {
+          "label": "B",
+          "text": "Phosgene"
+        },
+        {
+          "label": "C",
+          "text": "Sodium hypochlorite"
+        },
+        {
+          "label": "D",
+          "text": "Calcium carbonate"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Graphene oxide"
+      },
+      "explanation": "Graphene oxide is used as a molecular sieve to filter common salts from seawater to produce potable water."
+    },
+    {
+      "id": 27528,
+      "question": "Which of the following metal is alloyed with pure gold to make gold ornaments?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Silver"
+        },
+        {
+          "label": "B",
+          "text": "Copper"
+        },
+        {
+          "label": "C",
+          "text": "Zinc"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "All of the above"
+      },
+      "explanation": "24 carat gold is considered to be the purest form of gold but it is too soft to be made into jewellery. It is alloyed with metals like zinc, cadmium, silver or copper to make it hard."
+    },
+    {
+      "id": 27529,
+      "question": "Which of the following is incorrect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alloying helps in improving the properties of a metal"
+        },
+        {
+          "label": "B",
+          "text": "An alloy is a heterogeneous mixture of two or more metals"
+        },
+        {
+          "label": "C",
+          "text": "The melting point of an alloy is less than that of pure metals"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "An alloy is a heterogeneous mixture of two or more metals"
+      },
+      "explanation": "An alloy is a homogeneous mixture of two or more metals, or a metal and a nonmetal. Alloying helps in improving the properties of a metal. The melting point of an alloy is less than that of pure metals."
+    }
+  ]
+}

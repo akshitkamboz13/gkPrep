@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-38-information-commissions",
+    "title": "RTI and Information Commissions",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:21:59"
+  },
+  "questions": [
+    {
+      "id": 45965,
+      "question": "In which year Central Information Commission was established?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2000"
+        },
+        {
+          "label": "B",
+          "text": "2002"
+        },
+        {
+          "label": "C",
+          "text": "2005"
+        },
+        {
+          "label": "D",
+          "text": "2007"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "2005"
+      },
+      "explanation": "The Central Information Commission was established by the Central Government in India in the year 2005. It was constituted through anOfficial Gazette Notification under the provisions of the Right to Information Act of 2005."
+    },
+    {
+      "id": 45966,
+      "question": "The Central Information Commission can consist of how many Information Commissioners apart from a Chief Information Commissioner?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5"
+        },
+        {
+          "label": "B",
+          "text": "7"
+        },
+        {
+          "label": "C",
+          "text": "9"
+        },
+        {
+          "label": "D",
+          "text": "10"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "10"
+      },
+      "explanation": "The Central Information Commission consists of a Chief Information Commissioner and not more than ten Information Commissioners. However the Commission initially had five commissioners on constitution including the Chief Information Commissioner."
+    },
+    {
+      "id": 45967,
+      "question": "Who appoints the Chief Information Commissioner of the Central Information Commission?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajya Sabha"
+        },
+        {
+          "label": "B",
+          "text": "A committee of Lok Sabha"
+        },
+        {
+          "label": "C",
+          "text": "President"
+        },
+        {
+          "label": "D",
+          "text": "Prime Minister"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "President"
+      },
+      "explanation": "Chief Information Commissioner & other members of the Central Information Commission are appointed by the President of India on the recommendation of a committee consisting of the Prime Minister as Chairperson, the Leader of Opposition in the Lok Sabha and a Union Cabinet Minister."
+    },
+    {
+      "id": 45968,
+      "question": "What is the maximum age till which Chief Information Commissioner and an Information Commissioner can hold office?",
+      "options": [
+        {
+          "label": "A",
+          "text": "60 years"
+        },
+        {
+          "label": "B",
+          "text": "62 years"
+        },
+        {
+          "label": "C",
+          "text": "65 years"
+        },
+        {
+          "label": "D",
+          "text": "70 years"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "65 years"
+      },
+      "explanation": "The Chief Information Commissioner and an Information Commissioner of the Central Information Commission can hold office for such term as prescribed by the Central Government or until they attain the age of 65 years, whichever is earlier."
+    },
+    {
+      "id": 45969,
+      "question": "Who is authorized to remove the Chief Information Commissioner or any Information Commissioner from the office?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Supreme Court"
+        },
+        {
+          "label": "B",
+          "text": "President"
+        },
+        {
+          "label": "C",
+          "text": "Parliament"
+        },
+        {
+          "label": "D",
+          "text": "Cabinet"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "President"
+      },
+      "explanation": "The President is authorized to remove the Chief Information Commissioner or any Information Commissioner from the office on grounds such as if he is adjudged an insolvent; or if he has been convicted of an offence which (in the opinion of the President) involves a moral turpitude etc."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-culture02-paintings",
+    "title": "Indian Culture: 02-Indian Paintings",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:15:08"
+  },
+  "questions": [
+    {
+      "id": 3085,
+      "question": "In which of the following paintings, a paste made of Zinc Oxide and Arabic Gum called \"gesso paste\" is used?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tanjore painting"
+        },
+        {
+          "label": "B",
+          "text": "Madhubani painting"
+        },
+        {
+          "label": "C",
+          "text": "Pattachitra"
+        },
+        {
+          "label": "D",
+          "text": "Mysore painting"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Mysore painting"
+      },
+      "explanation": "Mysore painting is an important form of classical South Indian painting that originated in the town of Mysore in Karnataka. These paintings are known for their elegance, muted colours and attention to detail."
+    },
+    {
+      "id": 3088,
+      "question": "The Bhimbetka rock shelters are an archaeological site of the Palaeolithic period. It is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gujarat"
+        },
+        {
+          "label": "B",
+          "text": "Madhya Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "D",
+          "text": "Jharkhand"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Madhya Pradesh"
+      },
+      "explanation": "The Bhimbetka rock shelters are an archaeological site of the Palaeolithic, exhibiting the earliest traces of human life on the Indian Subcontinent. It is located in the Raisen District in the Indian state of Madhya Pradesh, near Abdullaganj town and inside the Ratapani Wildlife Sanctuary."
+    },
+    {
+      "id": 5043,
+      "question": "Which among the following Hindu Painters was sent by Jahangir to portrait Shah Abbas-I of Persia ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Basawan"
+        },
+        {
+          "label": "B",
+          "text": "Bishan Das"
+        },
+        {
+          "label": "C",
+          "text": "Dasarath"
+        },
+        {
+          "label": "D",
+          "text": "Manohar"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Bishan Das"
+      },
+      "explanation": "Bishandas was a 17th-century portrait painter at the court of the Mughal emperor Jahangir. Jahangir praised him as “unrivalled in the art of portraiture”. Though little is known of Bishandas’ life, his name can indicate that he was a Hindu. In 1613 he was sent on a diplomatic mission to Persia, to paint the Shah’s portrait. Here he was so successful that he remained until 1620, when he returned with the gift of an elephant."
+    },
+    {
+      "id": 5586,
+      "question": "The famous painting “Bani Thani” is from which among the following styles of Painting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kishangarh Painting"
+        },
+        {
+          "label": "B",
+          "text": "Phad Painting"
+        },
+        {
+          "label": "C",
+          "text": "Rajput painting"
+        },
+        {
+          "label": "D",
+          "text": "None of them"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Kishangarh Painting"
+      },
+      "explanation": "Bani Thani is a famous painting from Kishangarh style."
+    },
+    {
+      "id": 7491,
+      "question": "Which School of Art is also recognized as the \"mature\" school?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kushana School"
+        },
+        {
+          "label": "B",
+          "text": "Andhra School"
+        },
+        {
+          "label": "C",
+          "text": "Arafat School"
+        },
+        {
+          "label": "D",
+          "text": "Mathura School"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Kushana School"
+      },
+      "explanation": "The Kushana School of Art, also known as the mature school, has a unique amalgamation of Indian and Greek artistry. The school flourished during the Kushana Empire and was greatly influenced by the cultural confluence with the Romans. While the Gandhara and Mathura schools predominantly shaped the Kushana Art, the amalgamation formed a mature phase in the evolution of Indian art, hence earning the moniker."
+    }
+  ]
+}

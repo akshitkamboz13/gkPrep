@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-geography-demography-population-census-races-tribes-languages-settlements",
+    "title": "Indian Geography - Demography, Population, Census, Races, Tribes, Languages, Settlements",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:17:57"
+  },
+  "questions": [
+    {
+      "id": 4332,
+      "question": "In which of the following only decade, India’s Population had shown negative growth?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1901-11"
+        },
+        {
+          "label": "B",
+          "text": "1911-1921"
+        },
+        {
+          "label": "C",
+          "text": "1921-1931"
+        },
+        {
+          "label": "D",
+          "text": "1931-1941"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "1911-1921"
+      },
+      "explanation": "The period from 1901-1921 is referred to as a period of stagnant or stationary phase of growth of India’s population, since in this period growth rate was very low, even recording a negative growth rate during 1911-1921"
+    },
+    {
+      "id": 5739,
+      "question": "Which among the following states of India is also known as Dev Bhoomi?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Uttarakhand"
+        },
+        {
+          "label": "C",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "D",
+          "text": "Kerala"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Uttarakhand"
+      },
+      "explanation": "Uttarakhand is known as the \"dev bhoomi\" or \"land of the gods\" because of the many Hindu temples and pilgrimage sites that are located there. The state is home to several important religious destinations, including the Char Dham, Haridwar, Rishikesh etc. and the source of the River Ganges."
+    },
+    {
+      "id": 6381,
+      "question": "Which among the following state / Union Territory of India has lowest population density as per the provisional data of Census 2011?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sikkim"
+        },
+        {
+          "label": "B",
+          "text": "Arunachal Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Lakshadweep"
+        },
+        {
+          "label": "D",
+          "text": "Andaman & Nicobar Islands"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Arunachal Pradesh"
+      },
+      "explanation": "As per the provisional data of Census 2011, population density of India stands at 382, which is 17.5% more than 325 in Census 2001. NCT of Delhi with 11297 is has highest density in India, followed by Chandigarh where population density stands at 9252. Population density of Arunachal Pradesh is 17. Lowest among all states and Uts in India. Lowest Population density among Uts is of Andaman & Nicobar Islands (46)."
+    },
+    {
+      "id": 8017,
+      "question": "Which state has the highest population of Indian ethnic group of Black African descent called Siddi?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maharastra"
+        },
+        {
+          "label": "B",
+          "text": "Gujarat"
+        },
+        {
+          "label": "C",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Karnataka"
+      },
+      "explanation": "Siddi or Habeshi community is an ethnic community descended from Bantu peoples of Southeast Africa. At present population of Siddi people in India is 850,000 individuals with highest population in Karnataka, Gujarat and Hyderabad."
+    },
+    {
+      "id": 8079,
+      "question": "In which of the following areas Kanikkaran and Yurva tribes are found in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "North India"
+        },
+        {
+          "label": "B",
+          "text": "North East India"
+        },
+        {
+          "label": "C",
+          "text": "Central India"
+        },
+        {
+          "label": "D",
+          "text": "South India"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "South India"
+      },
+      "explanation": "Kanikkaran are a tribal community found in the southern parts of Kerala and Tamil Nadu. Yurva is also found in Tamil Nadu."
+    }
+  ]
+}

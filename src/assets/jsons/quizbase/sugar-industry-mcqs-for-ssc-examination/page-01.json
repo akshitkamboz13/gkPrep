@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "sugar-industry-mcqs-for-ssc-examination",
+    "title": "25. Sugar Industry",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:34:22"
+  },
+  "questions": [
+    {
+      "id": 53539,
+      "question": "Which is the largest sugar-producing country in the world?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India"
+        },
+        {
+          "label": "B",
+          "text": "Brazil"
+        },
+        {
+          "label": "C",
+          "text": "China"
+        },
+        {
+          "label": "D",
+          "text": "Thailand"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Brazil"
+      },
+      "explanation": "Brazil produced 43.7 million metric tons of sugar in 2023/24. Brazil is the top sugar exporter, shipping over 36 million metric tons in 2023/24. India is the second-largest producer with about 32.8 million metric tons forecasted in 2025/26. Brazil's main sugar-producing region is the Center-South. Thailand and China rank below both Brazil and India in sugar production."
+    },
+    {
+      "id": 58079,
+      "question": "Which is the largest agro-based industry in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sugar Industry"
+        },
+        {
+          "label": "B",
+          "text": "Food Processing Industry"
+        },
+        {
+          "label": "C",
+          "text": "Textile Industry"
+        },
+        {
+          "label": "D",
+          "text": "Dairy Industry"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Textile Industry"
+      },
+      "explanation": "The textile industry constitutes about 20% of India’s total industrial production. It is India’s second-largest employment sector after agriculture, providing jobs to over 20 million people. The textile segment covers cotton, wool, silk, synthetic fibers, and jute. It contributes nearly 33% to India’s total exports as of recent years and is self-sufficient from raw material to value-added products."
+    },
+    {
+      "id": 58080,
+      "question": "What is the total area under sugarcane cultivation in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3.5 million hectares"
+        },
+        {
+          "label": "B",
+          "text": "4.2 million hectares"
+        },
+        {
+          "label": "C",
+          "text": "5.9 million hectares"
+        },
+        {
+          "label": "D",
+          "text": "7.1 million hectares"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "5.9 million hectares"
+      },
+      "explanation": "India is the world’s second-largest sugarcane producer. The latest data shows about 5.9 million hectares of land are under sugarcane cultivation annually. Uttar Pradesh, Maharashtra, and Karnataka are the top producing states. Sugarcane supports around 50 million farmers nationwide. Sugarcane contributes about 7% to the total value of India’s agricultural production every year."
+    },
+    {
+      "id": 58087,
+      "question": "Which country has the highest per capita sugar consumption?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India"
+        },
+        {
+          "label": "B",
+          "text": "China"
+        },
+        {
+          "label": "C",
+          "text": "USA"
+        },
+        {
+          "label": "D",
+          "text": "Brazil"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "USA"
+      },
+      "explanation": "The United States records the highest per capita sugar consumption worldwide, approximately 126.4 grams per person per day. India leads in total sugar consumption by volume due to its large population, not per capita rate. Other countries with high per capita rates include Sri Lanka, Vietnam, and the UAE, but not as high as the USA."
+    },
+    {
+      "id": 58088,
+      "question": "Which country produces the most sugarcane globally?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India"
+        },
+        {
+          "label": "B",
+          "text": "Brazil"
+        },
+        {
+          "label": "C",
+          "text": "Thailand"
+        },
+        {
+          "label": "D",
+          "text": "China"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Brazil"
+      },
+      "explanation": "Brazil produced approximately 752 million tons of sugarcane in 2022, making it the largest producer worldwide. The south-central region of Brazil accounts for more than 90% of national production. India, the second-largest producer, harvested about 405 million tons. Brazil is the leading exporter of sugar, exporting over 36 million metric tons in the 2023/24 marketing year."
+    }
+  ]
+}

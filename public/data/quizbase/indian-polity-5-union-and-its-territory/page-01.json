@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-5-union-and-its-territory",
+    "title": "Union and its Territory",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:23:03"
+  },
+  "questions": [
+    {
+      "id": 4588,
+      "question": "Via which among the following amendments of the Constitution, the territories of Goa, Daman & Diu were incorporated in the Indian Constitution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Constitution (10th) Amendment Act 1961"
+        },
+        {
+          "label": "B",
+          "text": "Constitution (12th) Amendment Act 1962"
+        },
+        {
+          "label": "C",
+          "text": "Constitution (14th) Amendment Act 1962"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Constitution (12th) Amendment Act 1962"
+      },
+      "explanation": "The Twelfth Amendment incorporated Goa, Daman and Diu as a new Union Territory by amending the First Schedule. India had acquired these territories from Portugal in December 1961. It also enabled the President to make regulations for the administration of the new territory. The Amendment retroactively came into effect on 20 December 1961, after Portugal surrendered. In 1987, Goa became India's 25th state while Daman and Diu remained a Union Territory."
+    },
+    {
+      "id": 5666,
+      "question": "The makers of Constitution of India chose the scheme of federation of India, as prevalent in which among the following countries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "United states"
+        },
+        {
+          "label": "B",
+          "text": "United kingdom"
+        },
+        {
+          "label": "C",
+          "text": "Australia"
+        },
+        {
+          "label": "D",
+          "text": "Canada"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Canada"
+      },
+      "explanation": "The makers of the Constitution of India chose the scheme of federation from the model prevalent in Canada. The Indian federal structure is often described as \"quasi-federal\" because it has a strong central government, much like the Canadian model, which combines elements of both federalism and unitary governance."
+    },
+    {
+      "id": 5863,
+      "question": "The ultimate sovereignty in the Indian Polity rests with which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Parliament"
+        },
+        {
+          "label": "B",
+          "text": "Council of Ministers"
+        },
+        {
+          "label": "C",
+          "text": "Higher Judiciary"
+        },
+        {
+          "label": "D",
+          "text": "People of India"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "People of India"
+      },
+      "explanation": "While British system is based on doctrine of the sovereignty of Parliament, Indian Parliament is not supreme and enjoys limited and restricted powers due to a written Constitution, federal system, judicial review and fundamental rights. However, the phrase \"We The People of India\" in the preamble signifies that the ultimate sovereignty resides with the people in India."
+    },
+    {
+      "id": 6055,
+      "question": "What is the correct chronological order of creation of Assam, Nagaland, Goa & Mizoram?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assam, Nagaland, Goa , Mizoram"
+        },
+        {
+          "label": "B",
+          "text": "Assam, Mizoram, Nagaland,. Goa"
+        },
+        {
+          "label": "C",
+          "text": "Assam, Nagaland, Mizoram, Goa"
+        },
+        {
+          "label": "D",
+          "text": "Assam, Goa, Mizoram, Nagaland"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Assam, Nagaland, Mizoram, Goa"
+      },
+      "explanation": "Nagaland was formed in 1963 Mizoram was formed in 20th Feb1987 Goa as a state was formed in 30th May 1987"
+    },
+    {
+      "id": 6149,
+      "question": "Which among the following state / union territory got birth with the Punjab Reorganization Act of 1966?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Haryana"
+        },
+        {
+          "label": "B",
+          "text": "Hiamchal Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Chandigarh"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Haryana"
+      },
+      "explanation": "State of Punjab was bifurcated to create Haryana in the year 1966. It formed that seventeenth state of Indian Union. The Union Territory of Chandigarh was also carved out from the same."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "economy-of-delhi-sultanate",
+    "title": "14. Delhi Sultanate: Architecture, Arts and Culture",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:11:58"
+  },
+  "questions": [
+    {
+      "id": 2864,
+      "question": "Which was the first monument in India constructed using Islamic architectural elements including horseshoe-shaped arches?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Taj Mahal"
+        },
+        {
+          "label": "B",
+          "text": "Humayun Tomb"
+        },
+        {
+          "label": "C",
+          "text": "Alai Darwaza"
+        },
+        {
+          "label": "D",
+          "text": "Qutub Minar"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Alai Darwaza"
+      },
+      "explanation": "The Alai Darwaza, located in Delhi, was the first monument in India built following Islamic architecture principles, including the use of horseshoe-shaped arches. It was constructed in the 14th century by Delhi Sultanate ruler Alauddin Khilji. The Darwaza stands as an entrance to the Qutub complex, a UNESCO World Heritage Site, featuring distinct decorations of inlaid marble and latticed stone screens."
+    },
+    {
+      "id": 5402,
+      "question": "\"Hasan Nizami\" and “Fakh-e-Mudabbir\" were the court poets of which ruler of Mamluk Sultanate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Qutb-ud-din Aybak"
+        },
+        {
+          "label": "B",
+          "text": "Iltutmish"
+        },
+        {
+          "label": "C",
+          "text": "Balban"
+        },
+        {
+          "label": "D",
+          "text": "Razia"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Qutb-ud-din Aybak"
+      },
+      "explanation": "\"Hasan Nizami\" and “Fakh-e-Mudabbir\" were the court poets of Qutb-ud-din Aybak. Hasan Nizami was a Persian language poet and historian. Fakh-e-Mudabbir was a Persian author and courtier under successive Ghaznavid, Ghūrid, and Shamsī sultans in South Asia."
+    },
+    {
+      "id": 5715,
+      "question": "Who wrote famous Hindi work “Padmavat”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Malik Muhammad Jayasi"
+        },
+        {
+          "label": "B",
+          "text": "Abdul Rahim Khan-I-Khana"
+        },
+        {
+          "label": "C",
+          "text": "Amir Khusro"
+        },
+        {
+          "label": "D",
+          "text": "Bulleh Shah"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Malik Muhammad Jayasi"
+      },
+      "explanation": "Padmavat of Malik Muhammad Jayasi is a poem about the beauty and Jauhar of Padmani."
+    },
+    {
+      "id": 9633,
+      "question": "Which of the following rulers built the Gujri Mahal in Hissar , Haryana?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Muhammad Bin Tughlaq"
+        },
+        {
+          "label": "B",
+          "text": "Feroz Shah Tughlaq"
+        },
+        {
+          "label": "C",
+          "text": "Ala ud din Khilji"
+        },
+        {
+          "label": "D",
+          "text": "Qutub ud din Mubarak Shah"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Feroz Shah Tughlaq"
+      },
+      "explanation": "The Gujjari Mahal was built by Firoz Shah Tughlaq for his beloved Gujri Rani, a native of Hisar with whom he fell in love."
+    },
+    {
+      "id": 10620,
+      "question": "Who among the following is the Persian mathematician and poet composer of the world famous Rubbayat?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Omar Khayyám"
+        },
+        {
+          "label": "B",
+          "text": "Muhammad Iqbal"
+        },
+        {
+          "label": "C",
+          "text": "Sultan Bahu"
+        },
+        {
+          "label": "D",
+          "text": "Mirza Ghalib"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Omar Khayyám"
+      },
+      "explanation": "Rubbayat is written by Omar Khayyam. It is collection ruba i.e .persian poems."
+    }
+  ]
+}

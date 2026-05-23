@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "13-sustainability",
+    "title": "13. Sustainability",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:51:11"
+  },
+  "questions": [
+    {
+      "id": 4345,
+      "question": "Which among the following plants is used as Green Manure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wheat"
+        },
+        {
+          "label": "B",
+          "text": "Sunhemp"
+        },
+        {
+          "label": "C",
+          "text": "Cotton"
+        },
+        {
+          "label": "D",
+          "text": "Rice"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Sunhemp"
+      },
+      "explanation": "Sunhemp is used as Green Manure. Sunhemp as a green manure is needed be ploughed in 2 months after sowing when the plants begin to flower as it decomposes more rapidly and it will have a positive N balance at this stage."
+    },
+    {
+      "id": 4612,
+      "question": "Every year, a monthlong ecologically important campaign/festival is held during which certain communities/ tribes plant saplings of fruit-bearing trees. Which of the following are such communities/ tribes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bhutia and Lepcha"
+        },
+        {
+          "label": "B",
+          "text": "Gond and Korku"
+        },
+        {
+          "label": "C",
+          "text": "lrula and Toda"
+        },
+        {
+          "label": "D",
+          "text": "Sahariya and Agariya"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Gond and Korku"
+      },
+      "explanation": "This question is based upon recent trends in Gond and Korku tribes in Madhya Pradesh of planting fruit tree saplings conciding with Hari jiroti festival."
+    },
+    {
+      "id": 5439,
+      "question": "Which among the following country is considered to have the world’s first sustainable biofuels economy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mexico"
+        },
+        {
+          "label": "B",
+          "text": "Indonesia"
+        },
+        {
+          "label": "C",
+          "text": "Brazil"
+        },
+        {
+          "label": "D",
+          "text": "China"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Brazil"
+      },
+      "explanation": "Brazil is known as the leader of the biofuel industry and the world's first sustainable biofuels economy. In the year 2009, Brazil adopted new sustainability policies for sugarcane ethanol."
+    },
+    {
+      "id": 8925,
+      "question": "In which of the following countries Slow Food Movement took place to combat fast food?",
+      "options": [
+        {
+          "label": "A",
+          "text": "United States"
+        },
+        {
+          "label": "B",
+          "text": "France"
+        },
+        {
+          "label": "C",
+          "text": "Italy"
+        },
+        {
+          "label": "D",
+          "text": "England"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Italy"
+      },
+      "explanation": "The Slow Food movement was initiated in 1989, in Italy as a response to the growth of fast food and other changes in the world food system. It warns people to the harmful consequences of a fast-paced lifestyle and reintroduces people's love for the food they eat."
+    },
+    {
+      "id": 9367,
+      "question": "In which of the following universities “National Centre for Sustainable Coastal Zone Management” under the World Bank assisted Integrated Coastal Zone Management project is set up?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pondicherry University, Pondicherry"
+        },
+        {
+          "label": "B",
+          "text": "Anna University, Chennai"
+        },
+        {
+          "label": "C",
+          "text": "Utkal University, Bhubaneswa"
+        },
+        {
+          "label": "D",
+          "text": "Andhra University, Visakhapatnam"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Anna University, Chennai"
+      },
+      "explanation": "The National Centre for Sustainable Coastal Management is a research institute which is located in Chennai. It is under the Ministry of Environment, Forest and Climate Change, Government of India. The objective of theorganization is to manage the Indian coast in a sustainable manner."
+    }
+  ]
+}

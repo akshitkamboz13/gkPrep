@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "12-various-topics-on-climate-change",
+    "title": "12. Various Topics on Climate Change",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:51:01"
+  },
+  "questions": [
+    {
+      "id": 2936,
+      "question": "Which of the following is not a primary greenhouse gas found in earth’s atmosphere?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbon dioxide"
+        },
+        {
+          "label": "B",
+          "text": "Methane"
+        },
+        {
+          "label": "C",
+          "text": "Water vapour"
+        },
+        {
+          "label": "D",
+          "text": "Nitrogen oxides (NOx)"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Nitrogen oxides (NOx)"
+      },
+      "explanation": "A greenhouse gas is a gas in an atmosphere that absorbs and emits radiation within the thermal infrared range. The primary greenhouse gases in Earth's atmosphere are water vapour, carbon dioxide, methane, nitrous oxide, and ozone. Nitrogen oxides (NOx) act as indirect greenhouse gases by producing the tropospheric greenhouse gas 'ozone' via photochemical reactions in the atmosphere."
+    },
+    {
+      "id": 4615,
+      "question": "The most potent greenhouse gas among the following is __?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbon dioxide"
+        },
+        {
+          "label": "B",
+          "text": "Methane"
+        },
+        {
+          "label": "C",
+          "text": "Water Vapor"
+        },
+        {
+          "label": "D",
+          "text": "Ozone"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Water Vapor"
+      },
+      "explanation": "The most potent greenhouse gas is water vapour, which causes about 36-70% of the greenhouse effect. Carbon dioxide (9-26%), methane (4- 9%) and Ozone (3-7%) are other major greenhouse gases."
+    },
+    {
+      "id": 7373,
+      "question": "Which of the following panel was established in 1988 by the World Meteorological Organization (WMO) and the United Nations Environment Programme (UNEP) to evaluate the risk of climate change caused by human activity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intergovernmental Panel on Climate Change"
+        },
+        {
+          "label": "B",
+          "text": "Major Economies Forum on Energy and Climate Change"
+        },
+        {
+          "label": "C",
+          "text": "Global Environment Facility"
+        },
+        {
+          "label": "D",
+          "text": "UNEP"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Intergovernmental Panel on Climate Change"
+      },
+      "explanation": "The Intergovernmental Panel which is an intergovernmental body of the United Nations, was founded in the year 1988 by Bert Bolin. Its headquarter is located in Geneva, Switzerland. Its objective is to provide scientific information that is relevant to understanding the scientific basis of the risk associated with climate change and its natural, political, economic impacts and possible remedies."
+    },
+    {
+      "id": 7765,
+      "question": "To Catalyze a Transition to a Low Carbon World, Climate Neutral Network (CN Net) was launched in 2008 by which of the following ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Green Building Council"
+        },
+        {
+          "label": "B",
+          "text": "United Nations Environment Programme"
+        },
+        {
+          "label": "C",
+          "text": "Global Environment Facility"
+        },
+        {
+          "label": "D",
+          "text": "Intergovernmental Panel on Climate Change"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "United Nations Environment Programme"
+      },
+      "explanation": "Climate Neutral Network was launched in 2008 during the meeting of United Nations Environment Programme Governing Council in Monaco. 4 countries, 4 cities and 5 companies were present in the meeting."
+    },
+    {
+      "id": 8092,
+      "question": "In which of the following state in India established the country’s first carbon dioxide measurement exchange tower ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maharastra"
+        },
+        {
+          "label": "B",
+          "text": "Gujarath"
+        },
+        {
+          "label": "C",
+          "text": "Kerala"
+        },
+        {
+          "label": "D",
+          "text": "Uttarakhand"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Uttarakhand"
+      },
+      "explanation": "India's first carbon dioxide measurement exchange tower was set up in Uttarakhand (Lamachaur). It has been installed by the Indian Institute of Remote Sensing. It will help to analyse issues related to global warming and climate change."
+    }
+  ]
+}

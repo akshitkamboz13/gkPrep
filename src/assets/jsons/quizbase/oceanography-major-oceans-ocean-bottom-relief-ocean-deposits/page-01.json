@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "oceanography-major-oceans-ocean-bottom-relief-ocean-deposits",
+    "title": "Oceanography - Major Oceans, Ocean Bottom Relief, Ocean Deposits",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:28:14"
+  },
+  "questions": [
+    {
+      "id": 4327,
+      "question": "In which of the following Oceans/ seas, lies the Sunda Trench?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indian Ocean"
+        },
+        {
+          "label": "B",
+          "text": "Pacific Ocean"
+        },
+        {
+          "label": "C",
+          "text": "Atlantic Ocean"
+        },
+        {
+          "label": "D",
+          "text": "Arabian Sea"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Indian Ocean"
+      },
+      "explanation": "Indian ocean lies in the Sunda Trench. The Sunda Trench ,also known as the Java Trench, is an oceanic trench located in the Indian Ocean near Sumatra. It is formed where the Australian-Capricorn plates subduct under the Eurasian Plate. It is 3,200 kilometres long with a maximum depth of 23,920 feet."
+    },
+    {
+      "id": 4521,
+      "question": "“Chukchi Sea” is the part of which among the following Oceans?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pacific"
+        },
+        {
+          "label": "B",
+          "text": "Indian"
+        },
+        {
+          "label": "C",
+          "text": "Atlantic"
+        },
+        {
+          "label": "D",
+          "text": "Arctic"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Arctic"
+      },
+      "explanation": "Chukchi Sea is a marginal sea of the Arctic Ocean. It is bounded on the west by the Long Strait, off Wrangel Island, and in the east by Point Barrow, Alaska, beyond which lies the Beaufort Sea."
+    },
+    {
+      "id": 5650,
+      "question": "Which ocean is called “Herring Pond”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pacific Ocean"
+        },
+        {
+          "label": "B",
+          "text": "Atlantic Ocean"
+        },
+        {
+          "label": "C",
+          "text": "Arctic Ocean"
+        },
+        {
+          "label": "D",
+          "text": "Indian Ocean"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Atlantic Ocean"
+      },
+      "explanation": "Great Herring Pond is a 376-acre warm water pond mostly located in Plymouth, Massachusetts, with the southern portion extending into Bourne. It is in Atlantic ocean."
+    },
+    {
+      "id": 6098,
+      "question": "Which among the following is busiest ocean trade route?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Suez Canal"
+        },
+        {
+          "label": "B",
+          "text": "North Atlantic route"
+        },
+        {
+          "label": "C",
+          "text": "Panama Canal"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "North Atlantic route"
+      },
+      "explanation": "The north atlantic route is the busiest ocean trade. It connects the South America to North America(Panama Canal), Africa to Europe and Europe to Asia (through Gibraltar Strait connecting Mediterranean Sea )."
+    },
+    {
+      "id": 6200,
+      "question": "The Helsinki Commission or HELCOM aims to call for international coordination to protect the marine environment of ____?",
+      "options": [
+        {
+          "label": "A",
+          "text": "North Sea"
+        },
+        {
+          "label": "B",
+          "text": "Baltic Sea"
+        },
+        {
+          "label": "C",
+          "text": "Arctic sea"
+        },
+        {
+          "label": "D",
+          "text": "Caspian sea"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Baltic Sea"
+      },
+      "explanation": "The Helsinki Commission, or HELCOM, specifically focuses on the protection of the marine environment of the Baltic Sea. Established in 1974, HELCOM aims to reduce pollution and promote sustainable management of the Baltic Sea, which is one of the most polluted seas in the world due to heavy maritime traffic and industrial activities. The Baltic Sea is unique as it is a brackish body of water, with a lower salinity than oceanic waters, affecting its ecosystem."
+    }
+  ]
+}

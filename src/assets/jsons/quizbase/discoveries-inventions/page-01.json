@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "discoveries-inventions",
+    "title": "Discoveries & Inventions",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:10:52"
+  },
+  "questions": [
+    {
+      "id": 46172,
+      "question": "Who discovered electron?",
+      "options": [
+        {
+          "label": "A",
+          "text": "John Dalton"
+        },
+        {
+          "label": "B",
+          "text": "James Chadwik"
+        },
+        {
+          "label": "C",
+          "text": "Ernest Rutherford"
+        },
+        {
+          "label": "D",
+          "text": "J J Thomson"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "J J Thomson"
+      },
+      "explanation": "Electron was discovered by an Irish scientist J J Thomson and electron is the first subatomic particle to be discovered. J J Thomson is notable for proposing the water melon model which is also called as plum pudding model."
+    },
+    {
+      "id": 46314,
+      "question": "Who discovered X-rays?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paul Villard"
+        },
+        {
+          "label": "B",
+          "text": "Albert Einstein"
+        },
+        {
+          "label": "C",
+          "text": "Wilhelm Conrad Roentgen"
+        },
+        {
+          "label": "D",
+          "text": "Johann Riter"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Wilhelm Conrad Roentgen"
+      },
+      "explanation": "Roentgen discovered X-rays in 1895. X rays are part of high energy electromagnetic radiation with a wavelength ranging from 10 picometers to 10 nanometers."
+    },
+    {
+      "id": 46782,
+      "question": "Which instrument is used to measure blood pressure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Manometer"
+        },
+        {
+          "label": "B",
+          "text": "Barometer"
+        },
+        {
+          "label": "C",
+          "text": "Sphygmomanometer"
+        },
+        {
+          "label": "D",
+          "text": "Anemometer"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Sphygmomanometer"
+      },
+      "explanation": "Blood pressure is measured using sphygmomanometer. Blood pressure is the ratio of systolic pressure to diastolic pressure and the normal blood pressure rate is 120/80."
+    },
+    {
+      "id": 115138,
+      "question": "Who is the father of cellular phone?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Linus Torvalds"
+        },
+        {
+          "label": "B",
+          "text": "Percy Lebaron Spencer"
+        },
+        {
+          "label": "C",
+          "text": "Fred Morrison"
+        },
+        {
+          "label": "D",
+          "text": "Martin Cooper"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Martin Cooper"
+      },
+      "explanation": "Martin Cooper (born December 26, 1928 in Chicago, Illinois, USA) is an American former Motorola vice president and division manager who in the 1970s led the team that developed the handheld mobile phone (as distinct from the car phone). Cooper was also the CEO and founder of ArrayComm, a company that works on smart antenna technology and wireless networks, and was the corporate director of Research and Development for Motorola. In 1973, when Motorola installed a base station to handle the first public demonstration of a phone call over the cellular network, the company was trying to persuade the Federal Communications Commission to allocate frequency space to private companies for use in the emerging technology of cellular communications. After some initial testing in Washington for the F.C.C., John F. Mitchell and his team, which included Martin Cooper, took the cellular phone technology to New York to demonstrate it to reporters and the public."
+    },
+    {
+      "id": 115139,
+      "question": "Postage Meter was invented by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fyodor Pirotsky"
+        },
+        {
+          "label": "B",
+          "text": "Arthur Pitney"
+        },
+        {
+          "label": "C",
+          "text": "Fritz Pfleumer"
+        },
+        {
+          "label": "D",
+          "text": "Stephen Perry"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Arthur Pitney"
+      },
+      "explanation": "The first postal meter to be commercially produced and distributed was invented by Arthur Pitney, assisted by a businessman named Walter Bowes and Bowes’ stepson, Walter Wheeler. Pitney filed a patent application, in Stamford, Connecticut for the world’s first postage meter on December 9, 1901."
+    }
+  ]
+}

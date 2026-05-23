@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-2-important-biologists",
+    "title": "2. Important Biologists",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:57:50"
+  },
+  "questions": [
+    {
+      "id": 5602,
+      "question": "Who among the following is considered to be the father of antiseptic surgery?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dr. Lineus Pauling"
+        },
+        {
+          "label": "B",
+          "text": "Dr. Joseph Lister"
+        },
+        {
+          "label": "C",
+          "text": "Robert Koch"
+        },
+        {
+          "label": "D",
+          "text": "Louis pasteur"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Dr. Joseph Lister"
+      },
+      "explanation": "Dr. Joseph Lister was a British surgeon and a pioneer of the antiseptic surgery. His research into bacteriology and infection in wounds, raised his skillful operative technique, that was similar to his peers."
+    },
+    {
+      "id": 5619,
+      "question": "Who is the father of Botany?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adam Smith"
+        },
+        {
+          "label": "B",
+          "text": "Greco-Roman"
+        },
+        {
+          "label": "C",
+          "text": "Theophrastus"
+        },
+        {
+          "label": "D",
+          "text": "Carl Linnaeur"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Theophrastus"
+      },
+      "explanation": "Botany is the study of plants. Theophrastus (370-287 B.C.) is known as the father of Botany"
+    },
+    {
+      "id": 5690,
+      "question": "Which ancient Indian physician is known as the ‘Father of Surgery’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Charaka"
+        },
+        {
+          "label": "B",
+          "text": "Sushruta"
+        },
+        {
+          "label": "C",
+          "text": "Nagarjuna"
+        },
+        {
+          "label": "D",
+          "text": "Vagbhatta"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Sushruta"
+      },
+      "explanation": "Sushruta practiced during the 5th century B.C. many of his contributions to medicine and surgery preceded similar discoveries in the Western world. He is known as the ‘Father of Surgery’."
+    },
+    {
+      "id": 6611,
+      "question": "The name of Karl Landsteiner is associated with the discovery of which of the following ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Human Endocrine System"
+        },
+        {
+          "label": "B",
+          "text": "Human Blood Groups"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin B Group"
+        },
+        {
+          "label": "D",
+          "text": "Proteins"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Human Blood Groups"
+      },
+      "explanation": "The name of Karl Landsteiner is associated with the discovery of Human Blood Groups. He was given the Nobel Prize for Physiology or Medicine in 1930 for his discovery in 1901 of, and outstanding work on, the blood groups."
+    },
+    {
+      "id": 6612,
+      "question": "Theory of natural selection was proposed by ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mendel"
+        },
+        {
+          "label": "B",
+          "text": "Darwin"
+        },
+        {
+          "label": "C",
+          "text": "Lamarck"
+        },
+        {
+          "label": "D",
+          "text": "Karl Landsteiner"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Darwin"
+      },
+      "explanation": "Theory of natural selection was proposed by Darwin.The theory is an explanation for adaptation and speciation. He defined natural selection as the \"principle by which each slight variation [of a trait], if useful, is preserved\"."
+    }
+  ]
+}

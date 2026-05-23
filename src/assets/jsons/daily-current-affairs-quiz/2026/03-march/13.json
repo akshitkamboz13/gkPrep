@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: March 13, 2026",
+    "date": "2026-03-13",
+    "year": "2026",
+    "month": "03-march",
+    "day": 13,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 03:06:49",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:52:59"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What are “Caulocera hollowayi and Asura buxa” that were recently mentioned in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Newly discovered moth species"
+        },
+        {
+          "label": "B",
+          "text": "Traditional medicinal plants"
+        },
+        {
+          "label": "C",
+          "text": "Coral species"
+        },
+        {
+          "label": "D",
+          "text": "None of the Above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Newly discovered moth species"
+      },
+      "explanation": "Scientists from Zoological Survey of India (ZSI) discovered two new lichen moth species: Caulocera hollowayi and Asura buxa in the eastern Himalayas. Caulocera hollowayi was found near Golitar, Sikkim and identified through unique wing patterns, colour bands, and microscopic body structures. Asura buxa was discovered at Panijhora, West Bengal, recognised by distinct wing colours and unique internal anatomical features. Lichen moth caterpillars feed on lichens, organisms extremely sensitive to air pollution. Since lichens react quickly to polluted air, the presence or absence of these moths helps scientists monitor air quality and ecosystem health."
+    },
+    {
+      "id": 2,
+      "question": "Asteroid 2024 YR4 was discovered by which telescope?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hubble Space Telescope"
+        },
+        {
+          "label": "B",
+          "text": "Asteroid Terrestrial-impact Last Alert System (ATLAS)"
+        },
+        {
+          "label": "C",
+          "text": "James Webb Space Telescope"
+        },
+        {
+          "label": "D",
+          "text": "Giant Magellan Telescope (GMT)"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Asteroid Terrestrial-impact Last Alert System (ATLAS)"
+      },
+      "explanation": "Asteroid 2024 YR4 was recently confirmed by NASA to not collide with the Moon in 2032. It is an Apollo-type asteroid, meaning its orbit crosses Earth’s orbit but remains mostly outside it. It was discovered in 2024 by the Asteroid Terrestrial-impact Last Alert System (ATLAS) telescope in Chile. In its name, Y indicates discovery in the second half of December, while R4 shows it was the 117th asteroid identified in that period. It is a Near-Earth Object (NEO) with size about 174–220 feet (53–67 metres). It likely originated from the central Main Asteroid Belt between Mars and Jupiter."
+    },
+    {
+      "id": 3,
+      "question": "According to the US Department of Agriculture (USDA), which country became the largest supplier of cotton products to the US in 2025?",
+      "options": [
+        {
+          "label": "A",
+          "text": "China"
+        },
+        {
+          "label": "B",
+          "text": "Vietnam"
+        },
+        {
+          "label": "C",
+          "text": "India"
+        },
+        {
+          "label": "D",
+          "text": "Bangladesh"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "India"
+      },
+      "explanation": "India became the largest supplier of cotton products (apparel and home textiles) to the United States in 2025, replacing China, according to the United States Department of Agriculture (USDA). US imports of cotton products remained stable at 3.3 million tonnes, close to the 15-year average. Imports from China fell to about 0.5 million tonnes, while India exported around 0.6 million tonnes to the US. High US tariffs on China (10–125%) and diversification of supply chains reduced dependence on China. India benefits from vertically integrated textile supply chains, helping meet traceability standards. The Uyghur Forced Labor Prevention Act (UFLPA) and geopolitical risks also reduced US sourcing from China."
+    },
+    {
+      "id": 4,
+      "question": "Which state government has approved the draft of the Freedom of Religion Bill in March 2026?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Odisha"
+        },
+        {
+          "label": "B",
+          "text": "Jharkhand"
+        },
+        {
+          "label": "C",
+          "text": "Bihar"
+        },
+        {
+          "label": "D",
+          "text": "Chhattisgarh"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Chhattisgarh"
+      },
+      "explanation": "Chhattisgarh government approved the draft Freedom of Religion Bill, 2026 in a Cabinet meeting at Raipur. The Bill aims to prevent religious conversions through force, inducement, fraud, undue influence, or misrepresentation. It focuses on regulating conversion from one religion to another within the state. The proposed law will be introduced in the ongoing Budget Session of the Chhattisgarh Legislative Assembly. The objective is to strengthen legal measures against unlawful religious conversions in the state."
+    },
+    {
+      "id": 5,
+      "question": "Shailesh Kumar won which medal in men’s high jump T63 at the World Para Athletics Grand Prix 2026?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gold"
+        },
+        {
+          "label": "B",
+          "text": "Bronze"
+        },
+        {
+          "label": "C",
+          "text": "Silver"
+        },
+        {
+          "label": "D",
+          "text": "None of the Above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Gold"
+      },
+      "explanation": "Shailesh Kumar won gold medal in men’s high jump T63 at the World Para Athletics Grand Prix, New Delhi. He achieved a best jump of 1.84 m, below his personal best of 1.91 m, but was satisfied as it was the season opener. Shailesh hails from Bihar and targets the Asian Para Games, focusing his training program on that event. At the 2025 World Championships, Shailesh attempted 1.94 m thrice, exceeding the championship record but missing the world record."
+    }
+  ]
+}

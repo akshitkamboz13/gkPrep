@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-june-2021",
+    "title": "Current Affairs Quiz - June, 2021",
+    "page": 3,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:47:16",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:57:11"
+  },
+  "questions": [
+    {
+      "id": 21,
+      "question": "Which is the first country to formally adopt ‘Bitcoin’ as legal tender?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Switzerland"
+        },
+        {
+          "label": "B",
+          "text": "El Salvador"
+        },
+        {
+          "label": "C",
+          "text": "Venezuela"
+        },
+        {
+          "label": "D",
+          "text": "Italy"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "El Salvador"
+      },
+      "explanation": "El Salvador has become the first country in the world to formally adopt ‘Bitcoin’ as legal tender after the Congress approved President Nayib Bukele’s proposal to adopt the cryptocurrency. The use of Bitcoin as legal tender will go into law in 90 days. The government will guarantee the convertibility to the exact value in dollars at the moment of each transaction."
+    },
+    {
+      "id": 22,
+      "question": "As per the QS World Rankings 2022, which Indian institution is ranked as the world’s top research university?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IIT Mumbai"
+        },
+        {
+          "label": "B",
+          "text": "IIM Ahmedabad"
+        },
+        {
+          "label": "C",
+          "text": "IISc Bengaluru"
+        },
+        {
+          "label": "D",
+          "text": "NIT Trichy"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "IISc Bengaluru"
+      },
+      "explanation": "The Quacquarelli Symonds (QS) World Rankings 2022, which is an annual publication of university rankings has been recently published. As per the release, the Indian Institute of Science (IISc), Bengaluru has secured the position of the “world’s top research university”. This institution has achieved a score of 100/100 under the metric Citations Per Faculty (CPF) assessment."
+    },
+    {
+      "id": 23,
+      "question": "Ganymede, the biggest moon in the solar system, is the satellite of which planet?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Saturn"
+        },
+        {
+          "label": "B",
+          "text": "Jupiter"
+        },
+        {
+          "label": "C",
+          "text": "Mercury"
+        },
+        {
+          "label": "D",
+          "text": "Venus"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Jupiter"
+      },
+      "explanation": "NASA’s Juno spacecraft visited the biggest moon in the solar system — Ganymede. It is the satellite of Jupiter and the ninth-largest object in the Solar System. The probe has also sent back high-resolution images of the moon, after it has hovered as close as 1,000 km to the surface of Ganymede. The new pictures could help in identification of surface features including craters and tectonic faults."
+    },
+    {
+      "id": 24,
+      "question": "Digital India Corporation is an institution under which Ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Home Affairs"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Electronics and Information Technology"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Finance"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Corporate Affairs"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ministry of Electronics and Information Technology"
+      },
+      "explanation": "The Digital India Corporation is a Not-for-profit company, working under the Union Ministry of Electronics and Information Technology. Recently, the company has entered into an MoU with Indian Council for Agricultural Research (ICAR) for providing ‘Demand Based Tele Agriculture Advisories’ to farmers. Under the MoU, “Interactive Information Dissemination System (IIDS) of DIC and KisanSarathi Platform” of ICAR will be collaborated to provide better extension services."
+    },
+    {
+      "id": 25,
+      "question": "The report titled ‘Child Labour: Global estimates 2020, trends and the road forward’ has been released by ILO in association with which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "UNICEF"
+        },
+        {
+          "label": "B",
+          "text": "WHO"
+        },
+        {
+          "label": "C",
+          "text": "IMF"
+        },
+        {
+          "label": "D",
+          "text": "World Bank"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "UNICEF"
+      },
+      "explanation": "The International Labour Organization (ILO) and the UNICEF have released a report titled ‘Child Labour: Global estimates 2020, trends and the road forward’. This has been released ahead of the World Day Against Child Labour in June 12th. As per the report, the number of child labour has risen to an alarming number of 16 crore across the world."
+    },
+    {
+      "id": 26,
+      "question": "How many free transactions are allowed to the customers every month from their own ATMs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Three"
+        },
+        {
+          "label": "B",
+          "text": "Five"
+        },
+        {
+          "label": "C",
+          "text": "Ten"
+        },
+        {
+          "label": "D",
+          "text": "Fifteen"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Five"
+      },
+      "explanation": "The Reserve Bank of India (RBI) has recently raised the interchange fee on each transaction at an Automated Teller Machine (ATM). This shall be effective from August 1, 2021. The RBI has decided to allow increase in interchange fee per transaction from Rs 15 to Rs 17 for financial transactions and from Rs 5 to Rs 6 for non-financial transactions in all centres. Customers are eligible for five free transactions every month from their own bank ATMs."
+    },
+    {
+      "id": 27,
+      "question": "RBI has extended RBIA system for housing finance companies. What does RBIA stand for?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reserve Bank of India Assessment"
+        },
+        {
+          "label": "B",
+          "text": "Risk-based Internal Audit"
+        },
+        {
+          "label": "C",
+          "text": "Reserve Bank of India Audit"
+        },
+        {
+          "label": "D",
+          "text": "Reserve Bank of India Affiliation"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Risk-based Internal Audit"
+      },
+      "explanation": "The Reserve Bank of India (RBI) extended risk-based internal audit (RBIA) system for housing finance companies to improve quality of their internal audit system. The system will apply to all deposit-taking housing finance companies irrespective of their size, and those non-deposit-taking housing finance companies with asset size of 5,000 crore and above."
+    },
+    {
+      "id": 28,
+      "question": "As per ICAN’s recent report, which country spent the highest amount on nuclear weapons?",
+      "options": [
+        {
+          "label": "A",
+          "text": "China"
+        },
+        {
+          "label": "B",
+          "text": "Russia"
+        },
+        {
+          "label": "C",
+          "text": "USA"
+        },
+        {
+          "label": "D",
+          "text": "UK"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "USA"
+      },
+      "explanation": "Geneva-based International Campaign to Abolish Nuclear Weapons (ICAN) has released a report titled “Complicit: 2020 Global Nuclear Weapons Spending”. The report details the spending of nine countries on their weapons, the companies that profited, among others. The amount had an increase of 1.4 billion from last year. USA tops the list with an expenditure of 37.4 billion, followed by China at $ 10.1 billion. Russia, UK and France are in the next places."
+    },
+    {
+      "id": 29,
+      "question": "Which Indian state produces GI certified Jardalu mangoes, which were recently exported to the UK?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bihar"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Uttar Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Bihar"
+      },
+      "explanation": "The first commercial consignment of GI-certified Jardalu mangoes from Bhagalpur, Bihar was exported to the United Kingdom. APEDA, in collaboration with Bihar government, Indian High Commission & Invest India, exported the mangoes that were packed and treated at APEDA packhouse, Lucknow. Jardalu mangoes from Bhagalpur district of Bihar received GI certification in 2018, due to their distinct aroma and taste."
+    },
+    {
+      "id": 30,
+      "question": "Which institution has been granted powers to supervise the ‘Registered investment advisers (RIAs)’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "BSE Administration and Supervision Ltd"
+        },
+        {
+          "label": "B",
+          "text": "Reserve Bank of India"
+        },
+        {
+          "label": "C",
+          "text": "IFSCA"
+        },
+        {
+          "label": "D",
+          "text": "AMFI"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "BSE Administration and Supervision Ltd"
+      },
+      "explanation": "BSE Administration and Supervision Ltd (BASL) is a subsidiary of BSE (Bombay Stock Exchange) Ltd The Securities and Exchange Board of India (SEBI) has appointed BASL to grant recognition to registered investment advisers (RIAs) and supervise them. At present, these functions are discharged directly by SEBI."
+    }
+  ]
+}

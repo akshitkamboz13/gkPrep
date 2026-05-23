@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-20-lower-animals-invertebrates",
+    "title": "20. Lower animals & Invertebrates",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:57:54"
+  },
+  "questions": [
+    {
+      "id": 436,
+      "question": "Which of the following correctly defines “Mother-of-pearl”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "An oyster which yields the pearl"
+        },
+        {
+          "label": "B",
+          "text": "A special large sized pearl found in Japan"
+        },
+        {
+          "label": "C",
+          "text": "A hard iridescent substance forming the inner layer of certain shells"
+        },
+        {
+          "label": "D",
+          "text": "Female individuals of certain species of shelled mollusk"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "A hard iridescent substance forming the inner layer of certain shells"
+      },
+      "explanation": "Nacre also known as mother of pearl, is an organic-inorganic composite material produced by some mollusks as an inner shell layer; it is also what makes up the outer coating of pearls. It is strong, resilient, and iridescent."
+    },
+    {
+      "id": 4356,
+      "question": "The web of the spider is made up of which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbohydrate Polymers"
+        },
+        {
+          "label": "B",
+          "text": "Proteins"
+        },
+        {
+          "label": "C",
+          "text": "Lipids"
+        },
+        {
+          "label": "D",
+          "text": "Polysaccharides"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Proteins"
+      },
+      "explanation": "Spiders use their silk to make web. Spider silk is made out of protein."
+    },
+    {
+      "id": 5331,
+      "question": "Maximum number of animals species belong to which among the following groups?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mammalia"
+        },
+        {
+          "label": "B",
+          "text": "Aves"
+        },
+        {
+          "label": "C",
+          "text": "Pisces"
+        },
+        {
+          "label": "D",
+          "text": "Arthropoda"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Arthropoda"
+      },
+      "explanation": "Arthropoda is the largest phylum of animal kingdom because around 2/3rd of all the named species on Earth belong to this phylum. Ants, mosquitoes, flies, cockroaches, shrimp, crabs, spiders, scorpions etc. are examples of arthropods. There are three main classes of arthropods as follows: Insects: This includes mosquitoes, cockroaches, ants, flies, bees, moths, grasshoppers, beetles and butterflies Crustaceans: This includes crabs, lobsters, shrimp and barnacles Arachnids: This includes scorpions, spiders and mites Further, a few other classes are onychophorans (velvet worms), diplopods (millipedes) and chilopods (centipedes)."
+    },
+    {
+      "id": 6065,
+      "question": "Which one of the following does not belong with the others?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fish"
+        },
+        {
+          "label": "B",
+          "text": "Crab"
+        },
+        {
+          "label": "C",
+          "text": "Prawn"
+        },
+        {
+          "label": "D",
+          "text": "Snail"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Fish"
+      },
+      "explanation": "All the species listed are water-dwelling creatures. However, a fundamental difference is that fish belong to the group of vertebrates, meaning their body possesses a spinal column. In contrast, crabs, prawns, and snails are invertebrates, denoting that they lack a backbone. Specifically, crabs and prawns are crustaceans, within the larger class of invertebrates, characterised by their exoskeleton and segmented bodies. Snails are grouped as molluscs, also a class of invertebrates, known for their soft unsegmented body. Hence, in this context, fish are different from the others."
+    },
+    {
+      "id": 6601,
+      "question": "Which among the following clearly describes a Silver Fish?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A Fish"
+        },
+        {
+          "label": "B",
+          "text": "A wingless Insect"
+        },
+        {
+          "label": "C",
+          "text": "An Anthropod"
+        },
+        {
+          "label": "D",
+          "text": "A frog"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "A wingless Insect"
+      },
+      "explanation": "A silverfish known as Lepisma saccharina, is a small, primitive, wingless insect in the order Zygentoma. It is silvery light grey in colour, and fish-like appearance of its movements."
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-december-2024",
+    "title": "Current Affairs Quiz - December, 2024",
+    "page": 3,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:46:25",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:51:20"
+  },
+  "questions": [
+    {
+      "id": 21,
+      "question": "Yuva Sahakar Scheme has been implemented by which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "National Bank for Agriculture and Rural Development (NABARD)"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Agriculture"
+        },
+        {
+          "label": "C",
+          "text": "Small Industries Development Bank of India (SIDBI)"
+        },
+        {
+          "label": "D",
+          "text": "National Cooperative Development Corporation (NCDC)"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "National Cooperative Development Corporation (NCDC)"
+      },
+      "explanation": "The Yuva Sahakar Scheme was recently discussed in the Lok Sabha by the Minister of Cooperation. The Yuva Sahakar Scheme aims to support innovative cooperative societies, particularly those formed by young entrepreneurs. It targets cooperatives in operation for at least 3 months, offering long-term loans (up to 5 years) with a 2% interest subvention from National Cooperative Development Corporation (NCDC). The loan can be combined with other government subsidies. National Cooperative Development Corporation (NCDC) implements the scheme nationwide, with a dedicated fund linked to Rs. 1000 crores for cooperative start-ups and innovation. The scheme offers additional incentives for cooperatives in the Northeast and aspirational districts, as well as benefits for women, SC/ST candidates. It is part of the Sahakar 22 Mission to double farmers’ income by 2022."
+    },
+    {
+      "id": 22,
+      "question": "Which organization has launched a quantum computing chip called Willow?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Meta"
+        },
+        {
+          "label": "B",
+          "text": "Google"
+        },
+        {
+          "label": "C",
+          "text": "Microsoft"
+        },
+        {
+          "label": "D",
+          "text": "Amazon"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Google"
+      },
+      "explanation": "Google recently unveiled its next-generation quantum computing chip called ‘Willow’. Willow includes advanced components like single and two-qubit gates, qubit reset, and readout, all integrated to ensure seamless performance. The chip solved a complex problem in five minutes, a task that would take classical computers longer than the history of the universe. Willow completed a benchmark computation in under five minutes, which would take today’s fastest supercomputers 10 septillion years. It uses superconducting transmon qubits, which behave like artificial atoms at low temperatures. Quantum chips use qubits instead of bits, enabling faster and more complex calculations."
+    },
+    {
+      "id": 23,
+      "question": "What is the name of the chatbot launched by the Prime Minister to assist devotees during Mahakumbh Mela 2025?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prayagraj Bot"
+        },
+        {
+          "label": "B",
+          "text": "Kumbh Sahayak"
+        },
+        {
+          "label": "C",
+          "text": "MelaBot"
+        },
+        {
+          "label": "D",
+          "text": "Sangam"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Kumbh Sahayak"
+      },
+      "explanation": "The Prime Minister launched the Kumbh Sah’AI’yak chatbot for Mahakumbh Mela 2025. Mahakumbh Mela 2025 will be held in Prayagraj from January 13th to February 26th, 2025. The chatbot blends culture and technology to enhance devotees’ experience. It offers text and voice interactions for a smooth and engaging experience. It aims to guide and update millions of attendees during the mega event."
+    },
+    {
+      "id": 24,
+      "question": "Which country has launched the world’s first Taxonomy of Green Steel?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Russia"
+        },
+        {
+          "label": "B",
+          "text": "India"
+        },
+        {
+          "label": "C",
+          "text": "China"
+        },
+        {
+          "label": "D",
+          "text": "Israel"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "India"
+      },
+      "explanation": "India has launched the world’s first Taxonomy of Green Steel to decarbonize the steel industry. It was introduced by the Union Ministry of Steel as part of efforts to transition to a low-carbon economy. The taxonomy defines “Green Steel” based on CO2 emissions per tonne of finished steel (tfs). Steel is classified as green if its emission intensity is below 2.2 tonnes of CO2 equivalent per tonne of finished steel. The greenness of steel is expressed as a percentage, showing how much emissions are reduced below the 2.2 t-CO2e/tfs threshold. This initiative supports the National Mission on Green Steel."
+    },
+    {
+      "id": 25,
+      "question": "Mehrauli Archaeological Park, which was seen in the news, is located in which city?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Delhi"
+        },
+        {
+          "label": "B",
+          "text": "Bhopal"
+        },
+        {
+          "label": "C",
+          "text": "Jaisalmer"
+        },
+        {
+          "label": "D",
+          "text": "Hyderabad"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Delhi"
+      },
+      "explanation": "The Archeological Survey of India (ASI) will submit a survey report to the Supreme Court on religious structures in Delhi’s Mehrauli Archaeological Park. Mehrauli Archaeological Park spans over 200 acres near the Qutb Complex and reflects India’s heritage from Pre-Islamic to Colonial periods. It contains 440+ monuments, including remains of Delhi’s first city, the Tomar rulers’ capital from the 11th century."
+    },
+    {
+      "id": 26,
+      "question": "Mikheil Kavelashvili was elected as the new President of which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Estonia"
+        },
+        {
+          "label": "B",
+          "text": "Georgia"
+        },
+        {
+          "label": "C",
+          "text": "Bulgaria"
+        },
+        {
+          "label": "D",
+          "text": "Croatia"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Georgia"
+      },
+      "explanation": "Mikheil Kavelashvili, a former Georgian national footballer, was elected unopposed as the President of Georgia on December 14, 2024, amid an opposition boycott. He is pro-Russian and anti-Western, replacing the pro-Western President Salome Zourabichvili, who condemned his election. The President’s role in Georgia is mostly ceremonial, with real power held by the Prime Minister. Kavelashvili, founder of the People’s Power Party, was supported by the ruling Georgian Dream Party and won 224 of 225 votes in the electoral college. The opposition boycotted the election, alleging rigging in the October 2024 parliamentary elections. He will take office on December 29, 2024."
+    },
+    {
+      "id": 27,
+      "question": "SLINEX is a bilateral maritime exercise between India and which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sri Lanka"
+        },
+        {
+          "label": "B",
+          "text": "Myanmar"
+        },
+        {
+          "label": "C",
+          "text": "Bangladesh"
+        },
+        {
+          "label": "D",
+          "text": "Russia"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Sri Lanka"
+      },
+      "explanation": "The bilateral naval exercise SLINEX 2024 was held from December 17 to 20, 2024, in Visakhapatnam. SLINEX, launched in 2005, aims to enhance maritime cooperation between India and Sri Lanka. The exercise includes two phases: a Harbour Phase for professional exchanges and a Sea Phase for joint operations. Sea Phase activities involve Special Forces exercises and navigation drills. This annual event strengthens ties between the two nations and promotes a secure maritime environment in the region."
+    },
+    {
+      "id": 28,
+      "question": "Which Indian temple won ‘Sword of Honour’ award for safety excellence?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ram Temple, Ayodhya"
+        },
+        {
+          "label": "B",
+          "text": "Kashi Vishwanath Temple, Varanasi"
+        },
+        {
+          "label": "C",
+          "text": "Krishna Janmabhoomi Temple, Mathura"
+        },
+        {
+          "label": "D",
+          "text": "Maa Vindhyavasini Temple, Mirzapur"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ram Temple, Ayodhya"
+      },
+      "explanation": "The Ram Temple in Ayodhya won the prestigious ‘Sword of Honour’ award from the British Safety Council for excellence in safety management. This award requires a five-star safety audit and on-site assessment by the British Safety Council. Larsen & Toubro, the temple’s construction firm, earlier received the ‘Golden Trophy’ from the National Safety Council for safety measures. The temple’s construction, including its Shikhar and key statues, is in the final phase, set to finish by June 2025. Statues of Shri Ram Darbar and various sages will be completed by January 2025, using 15 lakh cubic feet of Bansi Paharpur stone."
+    },
+    {
+      "id": 29,
+      "question": "Wroughton’s free-tailed bat is primarily found in which region of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eastern Ghats"
+        },
+        {
+          "label": "B",
+          "text": "Ladakh"
+        },
+        {
+          "label": "C",
+          "text": "Northeastern"
+        },
+        {
+          "label": "D",
+          "text": "Western Ghats"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Western Ghats"
+      },
+      "explanation": "Wroughton’s free-tailed bat, a rare molossus bat, was recently spotted at Delhi’s Yamuna Biodiversity Park. It has large size, big ears, bicoloured velvet fur, and is a strong flier. It roosts in caves or dark, damp places in moderate colonies. It is mainly found in the Western Ghats, with small colonies in Meghalaya and a single sighting in Cambodia. It is listed under Schedule I of the Wildlife Protection Act. It plays a crucial role in insect regulation and pollination."
+    },
+    {
+      "id": 30,
+      "question": "Who has been awarded the Sahitya Akademi Award 2024 for Hindi?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vaishali Sinha"
+        },
+        {
+          "label": "B",
+          "text": "Daya Prakash Sinha"
+        },
+        {
+          "label": "C",
+          "text": "Gagan Gill"
+        },
+        {
+          "label": "D",
+          "text": "Gaurav Pandey"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Gagan Gill"
+      },
+      "explanation": "Gagan Gill (Hindi) and Easterine Kire (English) are among 21 winners of the Sahitya Akademi Awards 2024. Easterine Kire from Nagaland won the Sahitya Akademi Award 2024 for her novel Spirit Nights. Hindi poet Gagan Gill received the award for her poetry book Main Jab Tak Aai Bahar. The award honors outstanding books in 24 Indian languages, initiated in 1954, with the first awards given in 1955. Recipients receive a copper plaque (designed by Satyajit Ray), a shawl, and a cash prize. Sahitya Akademi, India’s national academy of letters, was established in 1954 under the Ministry of Culture. Based in New Delhi, it promotes Indian literature, preserves literary heritage, and encourages literary activities across languages."
+    }
+  ]
+}

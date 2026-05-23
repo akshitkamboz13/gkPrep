@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physical-geography-weathering-mass-wasting-and-erosion",
+    "title": "Physical Geography - Weathering, Mass wasting and Erosion",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:29:38"
+  },
+  "questions": [
+    {
+      "id": 5465,
+      "question": "Moraines are the deposits of which among the following kinds?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tidal Deposits"
+        },
+        {
+          "label": "B",
+          "text": "Glacial Deposits"
+        },
+        {
+          "label": "C",
+          "text": "Wind Deposits"
+        },
+        {
+          "label": "D",
+          "text": "None of Them"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Glacial Deposits"
+      },
+      "explanation": "Moraine is the name for raw glacial debris. They are the rocks that are loosened and carried by glacial ice, then deposited where the ice melts. So Moraine is a type of glacial deposit."
+    },
+    {
+      "id": 6645,
+      "question": "Mushroom rocks, also called Rock pedestals, are one of the most striking manifestations of the processes of ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Water Erosion"
+        },
+        {
+          "label": "B",
+          "text": "Wind Erosion"
+        },
+        {
+          "label": "C",
+          "text": "Gravity Erosion"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Wind Erosion"
+      },
+      "explanation": "Mushroom rocks, also called Rock pedestals, are one of the most striking manifestations of the wind erosion. The term wind erosion refers to the damage of land as a result of wind removing soil from an area."
+    },
+    {
+      "id": 6650,
+      "question": "Pebble transport by rivers, sand drift over desert surfaces, soil blowing over fields are examples of which of the following phenomena?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Deposition"
+        },
+        {
+          "label": "B",
+          "text": "Saltation"
+        },
+        {
+          "label": "C",
+          "text": "Attrition"
+        },
+        {
+          "label": "D",
+          "text": "Weathering"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Saltation"
+      },
+      "explanation": "Pebble transport by rivers, sand drift over desert surfaces, soil blowing over fields are examples of saltation. Saltation is a type of particle transport by fluids such as wind or water."
+    },
+    {
+      "id": 7169,
+      "question": "When some forces cause two rock surfaces to come together , causing mechanical wearing or grinding of their surfaces is called ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Abrasion"
+        },
+        {
+          "label": "B",
+          "text": "Erosion"
+        },
+        {
+          "label": "C",
+          "text": "Insolation"
+        },
+        {
+          "label": "D",
+          "text": "Isolation"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Abrasion"
+      },
+      "explanation": "Abrasion is the process of scraping or wearing something away. The forces causing two rock surfaces to come together , causing mechanical wearing or grinding is nothing but abrasion."
+    },
+    {
+      "id": 35901,
+      "question": "Identify the correct order of the processes of soil-erosion from the following: (UPSC Prelims 2001)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Splash erosion, Sheet erosion, Rill erosion, Gully erosion"
+        },
+        {
+          "label": "B",
+          "text": "Sheet erosion, Splash erosion, Gully erosion, Rill erosion"
+        },
+        {
+          "label": "C",
+          "text": "Rill erosion, Gully erosion, Sheet erosion, Splash erosion"
+        },
+        {
+          "label": "D",
+          "text": "Gully erosion, Rill erosion, Sheet erosion, Splash erosion"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Splash erosion, Sheet erosion, Rill erosion, Gully erosion"
+      },
+      "explanation": "The correct order of soil erosion process is splash erosion, sheet erosion, rill erosion and gully erosion. Splash occurs when the raindrop hits the surface; explosive impact soil into individual particles. Sheet erosion is the detachment of soil particles by rain drop and their removal down slope by water flowing overland as a sheet in definite channels. Rill erosion refers to the development of small ephemeral concentrated flow paths which function as both sedimentary source and sediment delivery systems for erosion on hill slopes. Sheet erosion removes the this top layer by raindrop kill or orion occurs in lines which are less than 30 cm deep when these rills are deeper than 30 forming channels are called as gully erosion. Gully erosion occurs when water flows in narrow channels after heavy rain and melting snow."
+    }
+  ]
+}

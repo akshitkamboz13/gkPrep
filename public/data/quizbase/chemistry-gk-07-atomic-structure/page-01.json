@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "chemistry-gk-07-atomic-structure",
+    "title": "Chemistry-7-Atomic Structure",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:01:25"
+  },
+  "questions": [
+    {
+      "id": 5013,
+      "question": "“Atoms can neither be created nor destroyed.” This principle was given by __?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Avogadro"
+        },
+        {
+          "label": "B",
+          "text": "Dalton"
+        },
+        {
+          "label": "C",
+          "text": "Rutherford"
+        },
+        {
+          "label": "D",
+          "text": "Niels Bohr"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Dalton"
+      },
+      "explanation": "The given principle is one of the postulates of the Dalton’s atomic theory given in 1803 by John Dalton. The postulates of Dalton’s atomic theory are as follows: 1. Elements consist of indivisible small particles (atoms). 2. All atoms of the same element are identical; different elements have different types of atom. 3. Atoms can neither be created nor destroyed. 4. ‘Compound elements’ (i.e. Compounds) are formed when atoms of different elements join in simple ratios to form ‘compound atoms’ (i.e. Molecules)."
+    },
+    {
+      "id": 21234,
+      "question": "Which of the following is not an isotope of Hydrogen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Protium"
+        },
+        {
+          "label": "B",
+          "text": "Para hydrogen"
+        },
+        {
+          "label": "C",
+          "text": "Deuterium"
+        },
+        {
+          "label": "D",
+          "text": "Tritium"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Para hydrogen"
+      },
+      "explanation": "The three most stable isotopes of hydrogen: Protium, Deuterium and Tritium. Para hydrogen is not an isotope of hydrogen. Molecules of hydrogen in which the spins of both the nuclei are in the opposite direction are called Para hydrogen."
+    },
+    {
+      "id": 27320,
+      "question": "What do we call the energy required to remove loosely bound electron from an atom?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Excitation energy"
+        },
+        {
+          "label": "B",
+          "text": "Atom energy"
+        },
+        {
+          "label": "C",
+          "text": "Ionization energy"
+        },
+        {
+          "label": "D",
+          "text": "Shell energy"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Ionization energy"
+      },
+      "explanation": "Ionization energy is the quantity of energy required to remove loosely bound electron from an atom."
+    },
+    {
+      "id": 27588,
+      "question": "What is the relation between mass and wavelength of any matter, as per de Broglie's relation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both are directly proportional"
+        },
+        {
+          "label": "B",
+          "text": "Both are inversely proportional"
+        },
+        {
+          "label": "C",
+          "text": "Both are independent of each other"
+        },
+        {
+          "label": "D",
+          "text": "wavelength is twice the square of the mass"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Both are inversely proportional"
+      },
+      "explanation": "According to de Broglie, every object in motion has a wave character. As per de Broglie's relation, mass and wavelength are inversely proportional to each other."
+    },
+    {
+      "id": 27589,
+      "question": "What do we call the region of space around the nucleus where the probability of finding an electron is maximum?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shell"
+        },
+        {
+          "label": "B",
+          "text": "sub-shell"
+        },
+        {
+          "label": "C",
+          "text": "Orbital"
+        },
+        {
+          "label": "D",
+          "text": "electron cloud"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Orbital"
+      },
+      "explanation": "The region of space around the nucleus where the probability of finding an electron is maximum is called an orbital. The electron cloud is a visual model that represents all the orbitals in an atom"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: April 22, 2026",
+    "date": "2026-04-22",
+    "year": "2026",
+    "month": "04-april",
+    "day": 22,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 03:47:30",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:51:08"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "R-37M Missile was developed by which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Israel"
+        },
+        {
+          "label": "B",
+          "text": "Australia"
+        },
+        {
+          "label": "C",
+          "text": "Russia"
+        },
+        {
+          "label": "D",
+          "text": "North Korea"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Russia"
+      },
+      "explanation": "Russia has approved the sale of the R-37M (Russian long-range air-to-air missile), also known as AA-13 Axehead (North Atlantic Treaty Organization reporting name), to India to enhance its air combat capability. The missile is designed for BVR (Beyond Visual Range) combat, allowing it to strike targets at very long distances without direct visual contact. It is developed to destroy enemy fighter jets, drones, and other aerial threats effectively. The missile is nicknamed an “AWACS (Airborne Warning and Control System) Killer” because it can target high-value aircraft like radar planes, refuelling tankers, and jamming systems."
+    },
+    {
+      "id": 2,
+      "question": "The Salween River, that was recently seen in news, originates from which region?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Karakoram Range"
+        },
+        {
+          "label": "B",
+          "text": "Tibetan Plateau (Eastern Himalayas)"
+        },
+        {
+          "label": "C",
+          "text": "Arakan Yoma"
+        },
+        {
+          "label": "D",
+          "text": "Western Ghats"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Tibetan Plateau (Eastern Himalayas)"
+      },
+      "explanation": "The Salween River, also called the Nu River in China and Thanlwin in Myanmar, is a transboundary river shared by China, Myanmar, and Thailand, recently facing arsenic pollution from mining in Myanmar. It is about 2400 km long and is the longest free-flowing (undammed) river in mainland Southeast Asia. The river originates in the Tibetan region of the eastern Himalayas at around 4,000 meters and flows through Yunnan, Myanmar, and along the Myanmar–Thailand border before draining into the Gulf of Martaban in the Andaman Sea. Its upper course runs parallel to the Mekong and Yangtze rivers, forming the Three Parallel Rivers of Yunnan."
+    },
+    {
+      "id": 3,
+      "question": "The Market Intervention Scheme (MIS) is a component of which initiative?",
+      "options": [
+        {
+          "label": "A",
+          "text": "PM-KISAN"
+        },
+        {
+          "label": "B",
+          "text": "PM-AASHA"
+        },
+        {
+          "label": "C",
+          "text": "e-NAM"
+        },
+        {
+          "label": "D",
+          "text": "National Food Security Mission"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "PM-AASHA"
+      },
+      "explanation": "The Market Intervention Scheme is a component of Pradhan Mantri Annadata Aay Sanrakshan Abhiyan (PM-AASHA), under which the government recently approved procurement of 20 lakh metric tonnes of potatoes. The scheme is implemented at the request of State or Union Territory governments to procure perishable crops like tomato, onion, and potato that do not have a Minimum Support Price. Its objective is to protect farmers from distress sales during bumper production when market prices fall below the cost of production. It is implemented by the Department of Agriculture and Farmers Welfare."
+    },
+    {
+      "id": 4,
+      "question": "SMILE scheme (Support for Marginalised Individuals for Livelihood and Enterprise) was launched by which ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Social Justice and Empowerment"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Rural Development"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Finance"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Health and Family Welfare"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ministry of Social Justice and Empowerment"
+      },
+      "explanation": "The SMILE Scheme (Support for Marginalised Individuals for Livelihood and Enterprise) has been allocated ₹390 crore by the Government of India for the period 2021–2026 to support marginalized groups. It was launched in 2022 by the Union Ministry of Social Justice and Empowerment. It focuses on addressing beggary mainly in religious, tourist, and historical cities. The scheme also includes a sub-scheme for the empowerment of transgender persons."
+    },
+    {
+      "id": 5,
+      "question": "Umiam Lake, that was recently seen in news, is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Arunachal Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Assam"
+        },
+        {
+          "label": "C",
+          "text": "Sikkim"
+        },
+        {
+          "label": "D",
+          "text": "Meghalaya"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Meghalaya"
+      },
+      "explanation": "The government of Meghalaya has decided to exclude Lumpongdeng Island located in Umiam Lake from the proposed luxury resort project after protests by local communities and stakeholders. The Umiam Lake, also known as Barapani Lake, is a man-made reservoir located about 15 km north of Shillong and surrounded by the East Khasi Hills. The lake is formed by a dam built across the Umiam River, a tributary of the Brahmaputra River, with a capacity to generate about 60 MW of electricity."
+    }
+  ]
+}

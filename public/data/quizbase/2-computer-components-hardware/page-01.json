@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "2-computer-components-hardware",
+    "title": "2. Computer Components: Hardware",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:52:03"
+  },
+  "questions": [
+    {
+      "id": 4641,
+      "question": "The performance of a hard drive or other storage device, meaning how long it takes to locate a file is called ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Response Time"
+        },
+        {
+          "label": "B",
+          "text": "Access Time"
+        },
+        {
+          "label": "C",
+          "text": "Quick Time"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Access Time"
+      },
+      "explanation": "Access time (or Hard Disk Access Time) is the total elapsed time between the initiation of a particular request for data and receipt of the first bit of that data."
+    },
+    {
+      "id": 4644,
+      "question": "A unit of data storage that equals 2 to the 70th power is called?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zebibyte"
+        },
+        {
+          "label": "B",
+          "text": "Yottabite"
+        },
+        {
+          "label": "C",
+          "text": "Yobibite"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Zebibyte"
+      },
+      "explanation": "A zebibyte is a unit of data storage. It is equal to 2 to the 70th power, or 1,180,591,620,717,411,303,424 bytes. While a zettabyte can be estimated as 10^21 or 1,000,000,000,000,000,000,000 bytes, a zebibyte is exactly 1,180,591,620,717,411,303,424 bytes."
+    },
+    {
+      "id": 4646,
+      "question": "A generic name for Intel processors released after the original 8086 processor is ______?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pentium"
+        },
+        {
+          "label": "B",
+          "text": "x86"
+        },
+        {
+          "label": "C",
+          "text": "Pentium 286"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "x86"
+      },
+      "explanation": "x86 refers to the instruction set architectures developed by Intel based on the Intel 8086 microprocessor. As of now, most of the personal computers and laptops sold are based on the x86 architecture."
+    },
+    {
+      "id": 4648,
+      "question": "V-RAM is used for access of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Video & Graphics"
+        },
+        {
+          "label": "B",
+          "text": "Text & Images"
+        },
+        {
+          "label": "C",
+          "text": "programs"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Video & Graphics"
+      },
+      "explanation": "V-Ram is also known as video Ram. It is a dual ported variant of dynamic RAM. VRAM is basically RAM integrated in a card for using it for storing graphical textures, 3D models temporary. It is used for video access and graphics."
+    },
+    {
+      "id": 4657,
+      "question": "Any piece of data can be returned in a constant time, regardless of its physical location and whether or not it is related to the previous piece of data using which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "RAM"
+        },
+        {
+          "label": "B",
+          "text": "ROM"
+        },
+        {
+          "label": "C",
+          "text": "CPU"
+        },
+        {
+          "label": "D",
+          "text": "Network interface card"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "RAM"
+      },
+      "explanation": "Random-access memory or RAM is a form of computer memory which is used to store the working data and machine code. The RAM make sure the data is returned instantly when asked for."
+    }
+  ]
+}

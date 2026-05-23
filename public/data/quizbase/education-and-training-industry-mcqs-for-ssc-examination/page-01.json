@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "education-and-training-industry-mcqs-for-ssc-examination",
+    "title": "27. Education and Training Industry",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:12:03"
+  },
+  "questions": [
+    {
+      "id": 60285,
+      "question": "When did the Union Cabinet approve the National Education Policy 2020?",
+      "options": [
+        {
+          "label": "A",
+          "text": "29th July 2020"
+        },
+        {
+          "label": "B",
+          "text": "28th September 2020"
+        },
+        {
+          "label": "C",
+          "text": "31st October 2020"
+        },
+        {
+          "label": "D",
+          "text": "January 2015"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "29th July 2020"
+      },
+      "explanation": "The Union Cabinet of India approved the National Education Policy 2020 on 29th July 2020. The policy replaced the previous National Policy on Education, 1986. The Union Cabinet was chaired by the Prime Minister during this approval. Public consultations for the new policy started in 2015 with a committee formed in June 2017. The NEP 2020 aimed to make key reforms in India's education sector."
+    },
+    {
+      "id": 60287,
+      "question": "How many universities exist in India as of June 2025?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1,338"
+        },
+        {
+          "label": "B",
+          "text": "1,200"
+        },
+        {
+          "label": "C",
+          "text": "1,056"
+        },
+        {
+          "label": "D",
+          "text": "947"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "1,338"
+      },
+      "explanation": "As of June 2025, India has 1,338 universities. These include Central, State, Deemed, and Private Universities. The Press Information Bureau reported this updated university count. The figure increased from 1,056 universities recorded in October 2022. University Grants Commission oversees Indian universities' recognition and regulation. The higher education system in India is among the world's largest by number of institutions."
+    },
+    {
+      "id": 60297,
+      "question": "Why was the PM e-VIDYA initiative launched by the Government of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To provide tests for competitive examinations"
+        },
+        {
+          "label": "B",
+          "text": "To bridge the digital divide and enable inclusive quality education"
+        },
+        {
+          "label": "C",
+          "text": "To provide only online courses via a digital platform"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "To bridge the digital divide and enable inclusive quality education"
+      },
+      "explanation": "PM e-VIDYA was launched by the Ministry of Education on May 17, 2020. It aims to bridge the digital divide by ensuring inclusive, equitable, and quality education through multiple platforms. The initiative offers digital education via TV, radio, internet, and mobile devices for learners across India. It includes platforms like SWAYAM, SWAYAM PRABHA, and DIKSHA to reach students lacking internet connectivity."
+    },
+    {
+      "id": 60299,
+      "question": "What is the full form of RISE scheme in Indian higher education?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Revitalising Indian Systems of Education"
+        },
+        {
+          "label": "B",
+          "text": "Revitalising Infrastructure and Systems in Education"
+        },
+        {
+          "label": "C",
+          "text": "Revitalising Infrastructure and Schools in Education"
+        },
+        {
+          "label": "D",
+          "text": "Reconstruction Indian School Education"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Revitalising Infrastructure and Systems in Education"
+      },
+      "explanation": "RISE stands for Revitalising Infrastructure and Systems in Education. The Government of India launched this scheme in the Union Budget 2018-19. RISE provides financial support for infrastructure development in higher educational institutions. Funding is channeled through the Higher Education Financing Agency (HEFA). Institutions like IITs, NITs, and central universities benefit from this initiative."
+    },
+    {
+      "id": 60301,
+      "question": "Which ministry implements PMGDISHA scheme?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Minsitry of Tribal Affairs"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Electronics and Information technology"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of rural development"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of MSME"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ministry of Electronics and Information technology"
+      },
+      "explanation": "PMGDISHA is the scheme initiated under Digital India Programme. It is to make six crore persons in rural areas, across States/UTs, digitally literate. The Ministry of Electronics and IT implements the Scheme."
+    }
+  ]
+}

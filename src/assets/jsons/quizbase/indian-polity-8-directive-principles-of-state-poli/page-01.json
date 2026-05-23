@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-8-directive-principles-of-state-poli",
+    "title": "Directive Principles and Fundamental Duties",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:24:30"
+  },
+  "questions": [
+    {
+      "id": 5661,
+      "question": "In which among the following parts of Constitution of India are enshrined the Fundamental Duties?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Part III"
+        },
+        {
+          "label": "B",
+          "text": "Part IIIA"
+        },
+        {
+          "label": "C",
+          "text": "Part IVA"
+        },
+        {
+          "label": "D",
+          "text": "Part IV"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Part IVA"
+      },
+      "explanation": "The 42nd amendment Act 1976 added a new part in the constitution part IVA. It incorporated fundamental duties by inserting a new article 51A below article 51. The objective of incorporating the fundamental duties is to place before the country a code of conduct, which the citizens are expected to follow."
+    },
+    {
+      "id": 6522,
+      "question": "Article 36-51 of our constitution are related to which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fundamental Rights"
+        },
+        {
+          "label": "B",
+          "text": "DPSP"
+        },
+        {
+          "label": "C",
+          "text": "Fundamental duities"
+        },
+        {
+          "label": "D",
+          "text": "Union Executive"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "DPSP"
+      },
+      "explanation": "DPSP or Directive Principles of State Policy are 15 principles enshrined in the constitution for states to keep in view while framing the policies. These provisions enshrined in Part IV (Articles 36 to 51) are not enforceable by courts."
+    },
+    {
+      "id": 6687,
+      "question": "In case of a conflict between directive principles and fundamental rights, which shall prevail?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fundamental rights"
+        },
+        {
+          "label": "B",
+          "text": "DPSP"
+        },
+        {
+          "label": "C",
+          "text": "supreme court will decide"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Fundamental rights"
+      },
+      "explanation": "In case of a conflict between the Directive Principles of State Policy and fundamental rights the later is to prevail. DPSPs are not enforceable by law. They are just directives to the state."
+    },
+    {
+      "id": 6696,
+      "question": "Safeguarding the public Property , developing scientific temper and promoting communal harmony come under which of the following ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fundamental rights"
+        },
+        {
+          "label": "B",
+          "text": "DPSP"
+        },
+        {
+          "label": "C",
+          "text": "Fundamental duties"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Fundamental duties"
+      },
+      "explanation": "Safeguarding the public Property [Article 51A (i)]; developing scientific temper [Article 51A (h)] and promoting communal harmony [Article 51A (e)]."
+    },
+    {
+      "id": 7403,
+      "question": "Which among the following is correct regarding Directive Principles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Positive Injunctions"
+        },
+        {
+          "label": "B",
+          "text": "Negative Injunctions"
+        },
+        {
+          "label": "C",
+          "text": "Justifiable Injunctions"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Positive Injunctions"
+      },
+      "explanation": "While fundamental rights are in effect negative injunctions to state in certain matters, Directive Principles are positive injunctions / instructions to the state to work for attainment of objective of a welfare state."
+    }
+  ]
+}

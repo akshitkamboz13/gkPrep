@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "4-rig-vedic-literature",
+    "title": "4. Rig-Vedic Literature",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:54:10"
+  },
+  "questions": [
+    {
+      "id": 1761,
+      "question": "Which among the following is an extant Shaka of the Rigveda Samhita?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Saunaka"
+        },
+        {
+          "label": "B",
+          "text": "Ashvalayan"
+        },
+        {
+          "label": "C",
+          "text": "Shakala"
+        },
+        {
+          "label": "D",
+          "text": "Sankhayana"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Shakala"
+      },
+      "explanation": "Rigveda is the oldest Veda .In it,only two shakas of the Rig-Veda, Shakala sakha and Baskala shaka, remain alive out of the 21 which existed at one time."
+    },
+    {
+      "id": 1786,
+      "question": "The Aryans dedicated whole of a separate Mandala in Rig-Veda for the hymns dedicated to __?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Agni"
+        },
+        {
+          "label": "B",
+          "text": "Varuna"
+        },
+        {
+          "label": "C",
+          "text": "Indra"
+        },
+        {
+          "label": "D",
+          "text": "Soma"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Soma"
+      },
+      "explanation": "The IX Mandala of the Rigveda also known a Soma Mandala is dedicated to Soma Pavamana (purifying Soma) i.e. the sacred potion Somaras. It is made from the plant of the same name. Basically the Rigveda refers to the drink, the plant and the God with the same name Soma. It was believed to be the drink of Gods."
+    },
+    {
+      "id": 1841,
+      "question": "Which of the following Jain Tirthankara have been mentioned in Rigveda?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rishabha and Aristanemi"
+        },
+        {
+          "label": "B",
+          "text": "Mahavira and Parsvanath"
+        },
+        {
+          "label": "C",
+          "text": "Rishabha and Malinath"
+        },
+        {
+          "label": "D",
+          "text": "Parsvanath and Rishabha"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Rishabha and Aristanemi"
+      },
+      "explanation": "The Jain Tirthankaras, Lord Aristanemi (22nd Tirthankar) and Lord Rishabh Nath (1st Tirthankar) has been mentioned in Rigveda."
+    },
+    {
+      "id": 1984,
+      "question": "Which among the following is considered to be the oldest Veda?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sam Veda"
+        },
+        {
+          "label": "B",
+          "text": "Yajur Veda"
+        },
+        {
+          "label": "C",
+          "text": "Rig Veda"
+        },
+        {
+          "label": "D",
+          "text": "Atharva Veda"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Rig Veda"
+      },
+      "explanation": "There are four Vedas composed by Aryans – Rig Veda, Sam Veda, Yajur Veda and Atharva Veda. Of the four Vedas, the Rig veda (collection of lyrics) is the oldest text in the world and is also known as the first testament of mankind. It contains 1028 hymns, divided into 10 mandals."
+    },
+    {
+      "id": 1986,
+      "question": "Purusha sukta is a part of which among the following vedas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sam Veda"
+        },
+        {
+          "label": "B",
+          "text": "Rig Veda"
+        },
+        {
+          "label": "C",
+          "text": "Atharva Veda"
+        },
+        {
+          "label": "D",
+          "text": "Yajur Veda"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Rig Veda"
+      },
+      "explanation": "Rig Veda Purusha sukta is the Xth mandal of the Rig Veda that explains the origin of four varnas viz. Brahmana, Kshatriya, Vaishya and Shudra."
+    }
+  ]
+}

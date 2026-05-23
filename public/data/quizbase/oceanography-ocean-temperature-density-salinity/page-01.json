@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "oceanography-ocean-temperature-density-salinity",
+    "title": "Oceanography - Ocean Temperature, Density, Salinity",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:28:29"
+  },
+  "questions": [
+    {
+      "id": 5952,
+      "question": "Which among the following seas is known for highest salinity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Red sea"
+        },
+        {
+          "label": "B",
+          "text": "Dead sea"
+        },
+        {
+          "label": "C",
+          "text": "Caspian sea"
+        },
+        {
+          "label": "D",
+          "text": "Sargasso Sea"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Dead sea"
+      },
+      "explanation": "The dead sea is the sea with highest salinity. It has a salinity of 342 g/kg, or 34.2% it is one of the world's saltiest bodies of water. The average salt concentration of of Dead Sea around 34% is much higher compared to an average of 3.5% for the world's oceans. This high level of salinity is due to the fact that the Dead Sea is a saltwater lake that has no outlet, so the water is unable to flow out and dissipate its salt content. Instead, the salt remains in the water, leading to a very high concentration of minerals and other dissolved substances. The high salinity of the Dead Sea also makes it extremely buoyant, allowing people to float easily on its surface."
+    },
+    {
+      "id": 23921,
+      "question": "With reference to the temperature of the oceans, it has been noted that there is a very low decrease of temperature with increasing latitudes towards north in comparison to the southern Atlantic. What could be the possible reason for this?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gulf stream, a cold current brings down the temperature of southern Atlantic"
+        },
+        {
+          "label": "B",
+          "text": "Gulf stream, a warm current brings up the temperature of northern Atlantic"
+        },
+        {
+          "label": "C",
+          "text": "North Atlantic has more underwater volcanoes"
+        },
+        {
+          "label": "D",
+          "text": "The mid Oceanic ridge is more prominent in north Atlantic"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Gulf stream, a warm current brings up the temperature of northern Atlantic"
+      },
+      "explanation": "In Northern Atlantic, there is a very low decrease of temperature with increasing latitudes towards north. This is because of the Gulf Stream currents which are warm currents. However, in southern Atlantic, the decrease of temperature with increasing latitude is more pronounced."
+    },
+    {
+      "id": 58798,
+      "question": "Which among the following is not a major determinant of Ocean temperature?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Latitude"
+        },
+        {
+          "label": "B",
+          "text": "Revolution of earth"
+        },
+        {
+          "label": "C",
+          "text": "Density of water"
+        },
+        {
+          "label": "D",
+          "text": "Ocean currents"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Revolution of earth"
+      },
+      "explanation": "The uppermost 10 percent of the oceans contain more heat than the entire atmosphere. The temperature of the oceans is not uniform. The major determinants of ocean temperature are: Latitude Prevailing Winds Unequal distribution of Land and Water Evaporation rate Density of water Ocean Currents Local factors"
+    },
+    {
+      "id": 58799,
+      "question": "Which among the following statements is/are correct about Ocean Temperature? The surface temperature of the oceans declines from the equator towards the poles. The oceans of the Southern are warmer than that of the Northern Oceans. Select the correct code from the options given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1"
+        },
+        {
+          "label": "B",
+          "text": "Only 2"
+        },
+        {
+          "label": "C",
+          "text": "Both 1 & 2"
+        },
+        {
+          "label": "D",
+          "text": "Neither 1 & 2"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Only 1"
+      },
+      "explanation": "The uppermost 10 percent of the oceans contain more heat than the entire atmosphere. The temperature of the oceans is not uniform.The surface temperature of the oceans declines from the equator towards the poles as the Sun's rays are vertical on the equator and become slanting as one move towards the poles.The Northern Hemisphere has more land area than that of the Southern Hemisphere. Therefore, the oceans of the Northern are warmer than that of the Southern Oceans."
+    },
+    {
+      "id": 58800,
+      "question": "Which among the following statements is/are correct about Ocean Temperature? The density of waters varies from latitude to latitude. In the areas of high salinity, the ocean waters are of a relatively lower temperature and vice versa. Select the correct code from the options given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1"
+        },
+        {
+          "label": "B",
+          "text": "Only 2"
+        },
+        {
+          "label": "C",
+          "text": "Both 1 & 2"
+        },
+        {
+          "label": "D",
+          "text": "Neither 1 & 2"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Only 1"
+      },
+      "explanation": "The density of ocean water is mostly a function of its temperature and salinity. The density of waters varies from latitude to latitude. In the areas of high salinity, the ocean waters are of a relatively higher temperature and vice versa."
+    }
+  ]
+}

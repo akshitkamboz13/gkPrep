@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: March 21, 2026",
+    "date": "2026-03-21",
+    "year": "2026",
+    "month": "03-march",
+    "day": 21,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 05:22:37",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:52:37"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to recent report, which country accounted for the highest number of top methane-emitting oil and gas sites in 2025?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iran"
+        },
+        {
+          "label": "B",
+          "text": "Russia"
+        },
+        {
+          "label": "C",
+          "text": "Turkmenistan"
+        },
+        {
+          "label": "D",
+          "text": "Venezuela"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Turkmenistan"
+      },
+      "explanation": "New research by University of California Los Angeles (UCLA) Stop Methane Project (SPM) using satellite data from Carbon Mapper found Turkmenistan has 15 of the top 25 methane-emitting oil and gas sites (2025), with 4,400+ methane plumes across 2,489 sites globally. Other major emission hotspots include Iran, Venezuela, Texas (USA) and Sindh (Pakistan), with emission rates ranging 3.7–10.5 tonnes/hour. In India, Ghazipur landfill in Delhi is a major super-emitter, with a peak leak of 400 tonnes/hour (2022) due to anaerobic decomposition of organic waste."
+    },
+    {
+      "id": 2,
+      "question": "South Shetland Island, that was recently seen in news, is located in which region?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Antarctica"
+        },
+        {
+          "label": "B",
+          "text": "Europe"
+        },
+        {
+          "label": "C",
+          "text": "North America"
+        },
+        {
+          "label": "D",
+          "text": "South America"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Antarctica"
+      },
+      "explanation": "A magnitude 6.7 earthquake struck the South Shetland Islands in Antarctica, as reported by the German Research Centre for Geosciences (GFZ). The islands are a remote archipelago about 120 km north of the Antarctic Peninsula, discovered in 1819 by William Smith and often called the “jewel of Antarctica.” They were formed by volcanic activity, with some islands still active, especially Deception Island, known for its flooded caldera. More than 80% area is covered with permanent ice, and there are no permanent residents, though countries maintain seasonal research stations."
+    },
+    {
+      "id": 3,
+      "question": "Which ministry is the nodal authority for Approved List of Models and Manufacturers Order (ALMM) Framework?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Power"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Commerce"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Heavy Industries"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of New and Renewable Energy"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Ministry of New and Renewable Energy"
+      },
+      "explanation": "Ministry of New and Renewable Energy (MNRE) introduced ALMM List-III (for ingots and wafers), effective from 1 June 2028, under the Approved List of Models and Manufacturers Order 2019 (ALMM). ALMM is a quality and reliability framework ensuring solar equipment used in India meets domestic manufacturing standards. Ministry of New and Renewable Energy is the nodal authority for Approved List of Models and Manufacturers Order (ALMM) Framework. It has a tier structure: List-I (Solar PV Modules), List-II (Solar PV Cells) and List-III (Ingots and Wafers). Only approved models and manufacturers in ALMM can be used in government projects, schemes, net-metering and power sale to government."
+    },
+    {
+      "id": 4,
+      "question": "Irul tribe is primarily found in which states?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bihar and Jharkhand"
+        },
+        {
+          "label": "B",
+          "text": "Madhya Pradesh and Uttar Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Rajasthan and Gujarat"
+        },
+        {
+          "label": "D",
+          "text": "Tamil Nadu and Kerala"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Tamil Nadu and Kerala"
+      },
+      "explanation": "Masi Magam is an important festival in the Tamil calendar, holding deep cultural and identity significance for the Irular community. The Irulars are a Dravidian ethnic group, mainly living in the Nilgiri Mountains of the Western Ghats across Tamil Nadu and Kerala. They are considered one of India’s oldest indigenous communities and are classified as a Particularly Vulnerable Tribal Group (PVTG) in Tamil Nadu. They also identify as Erlar or Poosari, while others call them Irulas, Shikari, Pujari or Eralollu."
+    },
+    {
+      "id": 5,
+      "question": "Legionnaires’ disease, that was recently seen in news, is caused by which agent?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bacteria"
+        },
+        {
+          "label": "B",
+          "text": "Virus"
+        },
+        {
+          "label": "C",
+          "text": "Fungus"
+        },
+        {
+          "label": "D",
+          "text": "Protozoa"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Bacteria"
+      },
+      "explanation": "Recent Legionnaires’ disease cases in London and New York have raised global concern. Public health experts warn that densely populated cities, including those in India, could face similar outbreaks if preventive measures are not strengthened. Legionnaires’ disease (LD) is a severe pneumonia caused by the bacterium Legionella, first identified in 1976 at an American Legion convention. Transmission occurs when people breathe in water or soil containing Legionella; it is not contagious and generally cannot spread through drinking water unless aspirated. High-risk groups include older adults, smokers, and people with weakened immune systems."
+    }
+  ]
+}

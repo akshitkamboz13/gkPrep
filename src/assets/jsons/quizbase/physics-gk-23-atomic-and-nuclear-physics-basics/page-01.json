@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physics-gk-23-atomic-and-nuclear-physics-basics",
+    "title": "Physics GK 23 - Atomic and Nuclear Physics Basics",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:31:57"
+  },
+  "questions": [
+    {
+      "id": 5334,
+      "question": "Which among the following is a source of Atomic Energy ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iron"
+        },
+        {
+          "label": "B",
+          "text": "Uranium"
+        },
+        {
+          "label": "C",
+          "text": "Silver"
+        },
+        {
+          "label": "D",
+          "text": "Platinum"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Uranium"
+      },
+      "explanation": "Uranium is the most common fuel used to produce nuclear energy. Uranium is a nonrenewable energy source that is found in rocks all over the world. However, the specific type of uranium used to produce nuclear energy, called U-235, is rare."
+    },
+    {
+      "id": 5545,
+      "question": "Zero point energy is the lowest possible energy that a quantum mechanical physical system may have. “Who among the following proposed this concept?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Max Planck"
+        },
+        {
+          "label": "B",
+          "text": "Albert Einstein and Otto Stern"
+        },
+        {
+          "label": "C",
+          "text": "Hendrik B. G. Casimir"
+        },
+        {
+          "label": "D",
+          "text": "Gribbin, John"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Albert Einstein and Otto Stern"
+      },
+      "explanation": "Albert Einstein and Otto Stern proposed the concept of Zeropoint energy. It is the lowest possible energy that a quantum mechanical physical system may have."
+    },
+    {
+      "id": 7704,
+      "question": "Which among the following provides the centripetal force to an electron circulating around the nucleus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "electrostatic forces of repulsion"
+        },
+        {
+          "label": "B",
+          "text": "electrostatic force of attraction"
+        },
+        {
+          "label": "C",
+          "text": "speed of the electron"
+        },
+        {
+          "label": "D",
+          "text": "nuclear charge"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "electrostatic force of attraction"
+      },
+      "explanation": "The correct answer is \"electrostatic force of attraction.\" In an atom, electrons are negatively charged and are attracted to the positively charged nucleus due to Coulomb's law. This attraction provides the necessary centripetal force to keep the electron in a stable orbit around the nucleus. The balance between this electrostatic force and the electron's inertia allows for stable atomic structures."
+    },
+    {
+      "id": 8970,
+      "question": "Who among the following is known to manufacture first Cyclotron?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ernest Lawrence"
+        },
+        {
+          "label": "B",
+          "text": "Niels Bohr"
+        },
+        {
+          "label": "C",
+          "text": "Rutherford"
+        },
+        {
+          "label": "D",
+          "text": "Max Born"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ernest Lawrence"
+      },
+      "explanation": "A cyclotron is a type of particle accelerator invented by Ernest O. Lawrence in 1929–1930 at the University of California, Berkeley, and patented in 1932. A cyclotron accelerates charged particles outwards from the center along a spiral path."
+    },
+    {
+      "id": 8974,
+      "question": "Fermi-Kurie plot is used for the study of which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alpha Decay"
+        },
+        {
+          "label": "B",
+          "text": "Beta Decay"
+        },
+        {
+          "label": "C",
+          "text": "Internal Conversion"
+        },
+        {
+          "label": "D",
+          "text": "Cluster Decay"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Beta Decay"
+      },
+      "explanation": "Fermi–Kurie plot is a graph developed by Franz N. D. Kurie and is used in studying beta decay. In this graph square root of the number of beta particles whose energy lie within a specific range, divided by the Fermi function, is plotted against beta-particle energy."
+    }
+  ]
+}

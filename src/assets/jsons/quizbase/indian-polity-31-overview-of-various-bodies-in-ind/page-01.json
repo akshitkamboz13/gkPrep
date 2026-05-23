@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-31-overview-of-various-bodies-in-ind",
+    "title": "Overview of Various Bodies in India",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:21:23"
+  },
+  "questions": [
+    {
+      "id": 9276,
+      "question": "Law Commission of India is a _____?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Constitutional Body"
+        },
+        {
+          "label": "B",
+          "text": "Advisory Body"
+        },
+        {
+          "label": "C",
+          "text": "Departmental committee"
+        },
+        {
+          "label": "D",
+          "text": "Non statutory Body"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Non statutory Body"
+      },
+      "explanation": "Law Commission of India is an executive body established by an order of the Government of India. It is a Non-statutory body established in 1834."
+    },
+    {
+      "id": 10960,
+      "question": "Which one of the following is not a constitutional body?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Election Commission"
+        },
+        {
+          "label": "B",
+          "text": "Union Public Service Commission"
+        },
+        {
+          "label": "C",
+          "text": "NITI Aayog"
+        },
+        {
+          "label": "D",
+          "text": "Finance Commission"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "NITI Aayog"
+      },
+      "explanation": "NITI Aayog is a policy think tank of the Government of India. It was established on 1st January 2015 with the aim to achieve sustainable development goals. It is a non-constitutional body."
+    },
+    {
+      "id": 45463,
+      "question": "In which year was the National Human Rights Commission established?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1992"
+        },
+        {
+          "label": "B",
+          "text": "1993"
+        },
+        {
+          "label": "C",
+          "text": "1994"
+        },
+        {
+          "label": "D",
+          "text": "1995"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "1993"
+      },
+      "explanation": "The National Human Rights Commission in India is a statutory body. It was established in the year 1993 under a legislation enacted by the Parliament (Protection of Human Rights Act, 1993)."
+    },
+    {
+      "id": 45464,
+      "question": "National Commission for Women was established in which year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1991"
+        },
+        {
+          "label": "B",
+          "text": "1992"
+        },
+        {
+          "label": "C",
+          "text": "1993"
+        },
+        {
+          "label": "D",
+          "text": "1994"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "1992"
+      },
+      "explanation": "The National Commission for Women is a statutory body. It was established by the government of India in January 1992 under the National Commission for Women Act, 1990."
+    },
+    {
+      "id": 45465,
+      "question": "When was the National Commission for Minorities established?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1992"
+        },
+        {
+          "label": "B",
+          "text": "1993"
+        },
+        {
+          "label": "C",
+          "text": "1994"
+        },
+        {
+          "label": "D",
+          "text": "1995"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "1992"
+      },
+      "explanation": "The National Commission for Minorities was set up under the National Commission for Minorities Act, 1992. Initially five religious communities, viz., Muslims, Christians, Sikhs, Buddhists and Zoroastrians were notified as minority communities by the Union Government."
+    }
+  ]
+}

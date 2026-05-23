@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "research-development-sector-mcqs-for-ssc-examination",
+    "title": "34. Research & Development Sector",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:33:04"
+  },
+  "questions": [
+    {
+      "id": 62819,
+      "question": "What percentage of GDP does India spend on Research and Development?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.64%"
+        },
+        {
+          "label": "B",
+          "text": "0.65%"
+        },
+        {
+          "label": "C",
+          "text": "0.7%"
+        },
+        {
+          "label": "D",
+          "text": "0.8%"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "0.65%"
+      },
+      "explanation": "India's Gross Expenditure on R&D as a percentage of GDP was 0.65% in 2020. This figure was reported by World Bank and UN data. The value had decreased from 0.66% in 2019. Indian government data also stated the GERD remained close to 0.64-0.66% during 2020-21. No significant change has been publicly reported since then."
+    },
+    {
+      "id": 62820,
+      "question": "What is India’s approximate per capita R&D spending in USD?",
+      "options": [
+        {
+          "label": "A",
+          "text": "47 USD"
+        },
+        {
+          "label": "B",
+          "text": "35 USD"
+        },
+        {
+          "label": "C",
+          "text": "51 USD"
+        },
+        {
+          "label": "D",
+          "text": "89 USD"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "35 USD"
+      },
+      "explanation": "India’s Gross Expenditure on Research and Development (GERD) is about 0.64% of GDP according to the 2025-26 Economic Survey. India’s GDP is approximately $4.3 trillion USD in FY2025-26. Total GERD is around $27.5 billion USD. With a population of approximately 1.45 billion, per capita R&D spending is about 35 USD."
+    },
+    {
+      "id": 62824,
+      "question": "Which agency received the highest research funding in Union Budget 2026-27?",
+      "options": [
+        {
+          "label": "A",
+          "text": "DRDO"
+        },
+        {
+          "label": "B",
+          "text": "CSIR"
+        },
+        {
+          "label": "C",
+          "text": "ICMR"
+        },
+        {
+          "label": "D",
+          "text": "DAE"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "DRDO"
+      },
+      "explanation": "In the Union Budget 2026-27, DRDO received ₹29,100.25 crore for research and development. This allocation is higher than CSIR, ICMR, and DAE. DRDO’s allocation increased from ₹26,816.82 crore in FY 2025-26. DRDO operates under the Ministry of Defence. It covers defence research and next-generation technology projects. No other agency listed surpassed this allocation in the 2026-27 budget."
+    },
+    {
+      "id": 62827,
+      "question": "Which industry had the highest R&D expenditure in 2025?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pharmaceuticals"
+        },
+        {
+          "label": "B",
+          "text": "Automobile"
+        },
+        {
+          "label": "C",
+          "text": "Transportation"
+        },
+        {
+          "label": "D",
+          "text": "Chemicals"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Pharmaceuticals"
+      },
+      "explanation": "The pharmaceutical industry spent the most on global R&D in 2025. Pharmaceutical R&D spending reached around $301 billion in 2023, sustained by major companies such as Bristol Myers Squibb ($14.8 billion), Johnson & Johnson ($13.6 billion), and AstraZeneca ($13.5 billion) in 2024. Drug development costs average $2.23 billion per asset, with continuous investment in clinical trials and new technologies."
+    },
+    {
+      "id": 62831,
+      "question": "Which department gave maximum extramural R&D support in India in 2019-20?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Department of Science and Technology"
+        },
+        {
+          "label": "B",
+          "text": "Department of Biotechnology"
+        },
+        {
+          "label": "C",
+          "text": "Department of Space"
+        },
+        {
+          "label": "D",
+          "text": "Indian Council of Agricultural Research"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Department of Science and Technology"
+      },
+      "explanation": "In 2019-20, the Department of Science and Technology contributed 55% of India’s total extramural R&D support. DST-funded projects accounted for Rs. 1,402.8 crore out of Rs. 2,529.42 crore approved. The academic sector received 70% of this extramural R&D support. DST and DBT were the two highest contributing departments to R&D support that year."
+    }
+  ]
+}

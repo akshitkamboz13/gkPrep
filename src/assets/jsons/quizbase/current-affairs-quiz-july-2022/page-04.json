@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-july-2022",
+    "title": "Current Affairs Quiz - July 2022",
+    "page": 4,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:47:05",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:55:47"
+  },
+  "questions": [
+    {
+      "id": 31,
+      "question": "Where is the Central Institute of Fisheries Technology (ICAR CIFT) located?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kochi"
+        },
+        {
+          "label": "B",
+          "text": "Chennai"
+        },
+        {
+          "label": "C",
+          "text": "Mumbai"
+        },
+        {
+          "label": "D",
+          "text": "Vishakhapatnam"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Kochi"
+      },
+      "explanation": "Central Institute of Fisheries Technology (ICAR CIFT) recently launched a national campaign on ‘Fish for Health and Prosperity’. ICAR-CIFT is located in Kochi, Kerala. The campaign highlighted the importance of fish as a nutritious food for humans and alleviating malnutrition in society. It was launched as a mark of commemorating the 75th year of Indian independence as ‘Azadi Ka Amrit Mahotsav’."
+    },
+    {
+      "id": 32,
+      "question": "Which PSU signed pacts to develop green hydrogen technology in Leh and Kargil?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NTPC"
+        },
+        {
+          "label": "B",
+          "text": "GAIL"
+        },
+        {
+          "label": "C",
+          "text": "BHEL"
+        },
+        {
+          "label": "D",
+          "text": "NHPC"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "NHPC"
+      },
+      "explanation": "NHPC has recently signed two agreements to develop green hydrogen technology in Leh, Kargil districts. As per the agreement signed for Leh district, NHPC will develop a Pilot Green Hydrogen fuel cell-based Microgrid, including hydrogen production, to meet its power requirement. The hydrogen generated in Kargil will be used in fuel cells, to run buses in the local area."
+    },
+    {
+      "id": 33,
+      "question": "NTPC has partnered with which company for a new a joint venture company in Renewable Energy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "SAIL"
+        },
+        {
+          "label": "B",
+          "text": "GAIL"
+        },
+        {
+          "label": "C",
+          "text": "ONGC"
+        },
+        {
+          "label": "D",
+          "text": "IOC"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "IOC"
+      },
+      "explanation": "NTPC and Indian Oil Corporation (IOC) have signed an agreement to set up a joint venture company for meeting the power requirements of projects of IOC refineries. NTPC Green Energy (NGEL), a wholly owned subsidiary of NTPC, will form the JV Company for supplying RE-RTC power to Indian Oil Corporation."
+    },
+    {
+      "id": 34,
+      "question": "Which country was the top choice of Indian nationals, who renounced their Indian citizenship in 2021?",
+      "options": [
+        {
+          "label": "A",
+          "text": "UK"
+        },
+        {
+          "label": "B",
+          "text": "USA"
+        },
+        {
+          "label": "C",
+          "text": "UAE"
+        },
+        {
+          "label": "D",
+          "text": "Germany"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "USA"
+      },
+      "explanation": "As per the data provided by the Ministry of Home Affairs, over 1.63 lakh Indian nationals renounced their Indian citizenship during 2021. This is the highest during the last three years. The US was the top choice with almost half of Indians preferring to become US citizens. After the US, Indians preferred to get citizenship in Australia, Canada and the UK."
+    },
+    {
+      "id": 35,
+      "question": "Which Indian public sector bank has launched the ‘WhatsApp banking service’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Canara Bank"
+        },
+        {
+          "label": "B",
+          "text": "Indian Bank"
+        },
+        {
+          "label": "C",
+          "text": "State Bank of India"
+        },
+        {
+          "label": "D",
+          "text": "Punjab National Bank"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "State Bank of India"
+      },
+      "explanation": "India’s largest public sector lender, State Bank of India (SBI), announced the launch of its WhatsApp Banking services Customers of SBI may use WhatsApp to access banking services from the lender. Users can check your account balance and get Mini Statement. Through the platform, the State Bank of India also offers WhatsApp-based services to customers with credit cards."
+    },
+    {
+      "id": 36,
+      "question": "Who has been elected as the Sri Lanka’s new President after Gotabaya Rajapaksa?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dullus Alahapperuma"
+        },
+        {
+          "label": "B",
+          "text": "Ranil Wickremesinghe"
+        },
+        {
+          "label": "C",
+          "text": "Maithripala Sirisena"
+        },
+        {
+          "label": "D",
+          "text": "Basil Rajapaksa"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ranil Wickremesinghe"
+      },
+      "explanation": "Sri Lankan MPs have elected the Prime Minister Ranil Wickremesinghe as the country’s new President. He defeated his main rival for the job, Dullus Alahapperuma in a parliamentary vote. Sri Lanka’s ex-president Gotabaya Rajapaksa fled the country last week, after thousands of protesters stormed his presidential residences calling for his resignation. They had also called for the resignation of Wickremesinghe."
+    },
+    {
+      "id": 37,
+      "question": "As per the report ‘Basic Road Statistics in India-2018-19’, which state has the largest network of National Highways, State highways as well as Rural Roads?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Gujarat"
+        },
+        {
+          "label": "D",
+          "text": "Rajasthan"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Maharashtra"
+      },
+      "explanation": "‘Basic Road Statistics in India-2018-19’ was released by the Transport Research Wing of Ministry of Road Transport & Highways. It covers information relating to road length, surfaced road length, major initiatives of Ministry of Road Transport and Highways. India has a network of over 63,31,757 kilometres of roads on 31.03.2019, which is the second largest in the world. Maharashtra has the largest network of National Highways, State highways as well as Rural Roads."
+    },
+    {
+      "id": 38,
+      "question": "Which Indian state/ UT launched the ‘Swanirbhar Naari’ initiative?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Punjab"
+        },
+        {
+          "label": "B",
+          "text": "Gujarat"
+        },
+        {
+          "label": "C",
+          "text": "Assam"
+        },
+        {
+          "label": "D",
+          "text": "West Bengal"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Assam"
+      },
+      "explanation": "Assam Chief Minister Himanta Biswa Sarma launched ‘Swanirbhar Naari’, an initiative of the Handloom and Textiles Department. The scheme aims to empower the indigenous weavers of the State and to provide financial support to their families. Under the scheme, the government has decided to procure handloom items directly from the indigenous weavers without involving any middle men through Swanirbhar Naari web portal."
+    },
+    {
+      "id": 39,
+      "question": "Which developed country has reported its first case of polio in nearly a decade?",
+      "options": [
+        {
+          "label": "A",
+          "text": "USA"
+        },
+        {
+          "label": "B",
+          "text": "Germany"
+        },
+        {
+          "label": "C",
+          "text": "France"
+        },
+        {
+          "label": "D",
+          "text": "Canada"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "USA"
+      },
+      "explanation": "The United States has reported its first case of polio in nearly a decade after a patient had tested positive for the disease in the state of New York. As per studies, the case of the highly contagious polio virus may have originated outside of the US. Healthcare providers are asked to be on alert for more cases and people in the area are asked to get vaccinated."
+    },
+    {
+      "id": 40,
+      "question": "IUCN has listed which species of butterfly in the ‘Endangered species list’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Monarch butterfly"
+        },
+        {
+          "label": "B",
+          "text": "Peacock butterfly"
+        },
+        {
+          "label": "C",
+          "text": "Red Admiral butterfly"
+        },
+        {
+          "label": "D",
+          "text": "Gossamer-winged butterfly"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Monarch butterfly"
+      },
+      "explanation": "The migratory ‘Monarch butterfly’ has been listed in the endangered species category by the International Union for Conservation of Nature. IUCN listed the butterfly, a subspecies of monarch (Danaus plexippus) as endangered, which indicates that the subspecies is facing a high risk of extinction in the wild. The main threats to the butterfly are habitat loss, pesticide and herbicide use and climate change."
+    }
+  ]
+}

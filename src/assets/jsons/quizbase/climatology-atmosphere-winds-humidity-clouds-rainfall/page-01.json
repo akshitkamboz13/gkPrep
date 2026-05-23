@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "climatology-atmosphere-winds-humidity-clouds-rainfall",
+    "title": "Climatology - Atmosphere, Winds, Humidity, Clouds, Rainfall",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:02:39"
+  },
+  "questions": [
+    {
+      "id": 2808,
+      "question": "The Buran wind blows across:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eastern Asia"
+        },
+        {
+          "label": "B",
+          "text": "Western Europe"
+        },
+        {
+          "label": "C",
+          "text": "Southern Africa"
+        },
+        {
+          "label": "D",
+          "text": "Eastern Australia"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Eastern Asia"
+      },
+      "explanation": "The buran wind blows across eastern Asia, specifically Xinjiang, Siberia, and Kazakhstan. The buran takes two forms: in summer, it is a hot, dry wind, whipping up sandstorms; in winter, it is bitterly cold and often accompanied by blizzards."
+    },
+    {
+      "id": 3171,
+      "question": "Which of the following regions can be safely called the belt of Doldrums?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Polar region"
+        },
+        {
+          "label": "B",
+          "text": "Sub-tropical region"
+        },
+        {
+          "label": "C",
+          "text": "Temperate region"
+        },
+        {
+          "label": "D",
+          "text": "Equatorial region"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Equatorial region"
+      },
+      "explanation": "Equatorial region - Doldrums or equatorial belt of calms, area around the earth centered slightly north of the equator between the two belts of trade winds. The large amount of solar radiation that arrives at the earth in this area causes intense heating of the land and ocean. This heating results in the rising of warm, moist air; low air pressure; cloudiness; high humidity; light, variable winds; and various forms of severe weather, such as thunderstorms and squalls. Hurricanes originate in this region. The doldrums are also noted for calms, periods when the winds disappear, trapping sailing vessels for days or weeks."
+    },
+    {
+      "id": 4497,
+      "question": "Which among the following is correct about Sirocco?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It’s a warm & dry wind"
+        },
+        {
+          "label": "B",
+          "text": "It’s a warm & moist wind"
+        },
+        {
+          "label": "C",
+          "text": "It’s a cold & moist wind"
+        },
+        {
+          "label": "D",
+          "text": "It’s a winter wind that blows in pacific ocean"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "It’s a warm & dry wind"
+      },
+      "explanation": "Sirocco is a warm, dry and dusty laden local wind which blows in northerly direction from Sahara desert over North Africa as a dry wind and picks up moisture as it crosses the Mediterranean. Since they carry red dust over Sahara, the rainfall which they cause is called blood rain sometimes."
+    },
+    {
+      "id": 5458,
+      "question": "The lines on a map connecting regions of equal rainfalls are called as which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Isobars"
+        },
+        {
+          "label": "B",
+          "text": "Isohytes"
+        },
+        {
+          "label": "C",
+          "text": "Isocons"
+        },
+        {
+          "label": "D",
+          "text": "Isotherms"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Isohytes"
+      },
+      "explanation": "An isohyet or an isohyetal line is a line that joins places of same rainfall on a map within a given time period. A map of isohyets is also known as an isohyetal map."
+    },
+    {
+      "id": 5553,
+      "question": "How many parts Earth atmosphere has been divided?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2"
+        },
+        {
+          "label": "B",
+          "text": "3"
+        },
+        {
+          "label": "C",
+          "text": "4"
+        },
+        {
+          "label": "D",
+          "text": "5"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "5"
+      },
+      "explanation": "The five layers of atmosphere are: Troposphere, Stratosphere, Mesosphere, Ionosphere and Exosphere"
+    }
+  ]
+}

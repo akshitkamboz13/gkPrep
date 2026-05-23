@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "business-economy-banking-current-affairs",
+    "title": "Business, Economy & Banking Current Affairs MCQs",
+    "page": 4,
+    "total_pages": 8,
+    "generated_at": "2026-05-02 05:43:42",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:40:11"
+  },
+  "questions": [
+    {
+      "id": 31,
+      "question": "Periodic Labour Force Survey (PLFS) was conducted by which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reserve Bank of India (RBI)"
+        },
+        {
+          "label": "B",
+          "text": "National Sample Survey Office (NSO)"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Labour and Employment"
+        },
+        {
+          "label": "D",
+          "text": "NITI Aayog"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "National Sample Survey Office (NSO)"
+      },
+      "explanation": "According to the Monthly Bulletin of Periodic Labour Force Survey (PLFS), India’s unemployment rate fell to 5.2% in July 2025 from 5.6% in June 2025. PLFS gives estimates of Labour Force Participation Rate (LFPR), Worker Population Ratio (WPR), and Unemployment Rate (UR). The survey is conducted by the National Sample Survey (NSO) under the Ministry of Statistics and Programme Implementation (MoSPI)."
+    },
+    {
+      "id": 32,
+      "question": "Globally Important Agricultural Heritage Systems (GIAHS) is an initiative of which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "United Nations Environment Programme (UNEP)"
+        },
+        {
+          "label": "B",
+          "text": "United Nations Development Programme (UNDP)"
+        },
+        {
+          "label": "C",
+          "text": "World Bank"
+        },
+        {
+          "label": "D",
+          "text": "Food and Agriculture Organization (FAO)"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Food and Agriculture Organization (FAO)"
+      },
+      "explanation": "The Globally Important Agricultural Heritage Systems (GIAHS) is a programme of the Food and Agriculture Organization (FAO) launched in 2002 at the World Summit for Sustainable Development. It was created to address threats to family farming and traditional agriculture such as climate change, displacement and biodiversity loss. Recently, the Minister of State for Agriculture informed the Lok Sabha that India has three GIAHS sites. Koraput in Odisha is known for paddy diversity, medicinal plants and tribal knowledge systems. Kuttanad in Kerala is a unique below-sea-level farming area with paddy, coconut, fishing and shell collection. Saffron Park in Kashmir is rich in saffron cultivation."
+    },
+    {
+      "id": 33,
+      "question": "Where has the State Bank of India (SBI) set up its Centre of Excellence (CoE) for MSMEs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mumbai"
+        },
+        {
+          "label": "B",
+          "text": "Gurugram"
+        },
+        {
+          "label": "C",
+          "text": "New Delhi"
+        },
+        {
+          "label": "D",
+          "text": "Bengaluru"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Gurugram"
+      },
+      "explanation": "State Bank of India (SBI) has launched a Centre of Excellence (CoE) for Micro, Small and Medium Enterprises (MSMEs) at the State Bank Academy (SBA), Gurugram. The Centre of Excellence (CoE) aims to strengthen the MSME ecosystem through capacity building, research, and industry collaboration, supporting India’s vision of becoming a developed nation. State Bank Academy (SBA) provides specialised training in Credit, International Banking, Risk & Compliance, and conducts Research & Development (R&D) in banking. Centre of Excellence (CoE) will develop case studies, research, and online knowledge repositories for MSMEs, including remote areas."
+    },
+    {
+      "id": 34,
+      "question": "Which two entities jointly launched India’s first EMI-driven credit card?",
+      "options": [
+        {
+          "label": "A",
+          "text": "State Bank of India and Paytm"
+        },
+        {
+          "label": "B",
+          "text": "HDFC Bank and PhonePe"
+        },
+        {
+          "label": "C",
+          "text": "Unity Small Finance Bank (Unity Bank) and BharatPe"
+        },
+        {
+          "label": "D",
+          "text": "ICICI Bank and Google Pay"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Unity Small Finance Bank (Unity Bank) and BharatPe"
+      },
+      "explanation": "Unity Small Finance Bank (Unity Bank) and BharatPe launched Unity Bank BharatPe Credit Card, India’s first Equated Monthly Instalment (EMI)-driven credit card on the RuPay network. The card allows customers to pay in full or convert spends into EMIs up to 12 months. It has been developed in partnership with National Payments Corporation of India (NPCI). It can be linked to Unified Payments Interface (UPI) for payments at merchants nationwide. It marks a major innovation in India’s digital credit and payments ecosystem."
+    },
+    {
+      "id": 35,
+      "question": "Which ministry has launched Logistics Data Bank (LDB) 2.0?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Micro, Small and Medium Enterprises"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Science and Technology"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Commerce and Industry"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Finance"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Ministry of Commerce and Industry"
+      },
+      "explanation": "Union Minister of Commerce & Industry, Shri Piyush Goyal, launched Logistics Data Bank (LDB) 2.0 in New Delhi on the decade-long celebrations of Make in India. LDB 2.0 provides critical insights into logistics facilities and infrastructure, enabling real-time tracking and performance assessment. It is developed by National Industrial Corridor Development Corporation (NICDC) Logistics Data Services – NLDSL, it supports exporters, Micro, Small & Medium Enterprises (MSMEs), and government planning. It integrates with Unified Logistics Interface Platform (ULIP) APIs for tracking via container, truck, trailer numbers, and railway Freight Note Receipts (FNRs)."
+    },
+    {
+      "id": 36,
+      "question": "Which country has become the eighth to join India’s instant payment system network UPI (Unified Payments Interface)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Myanmar"
+        },
+        {
+          "label": "B",
+          "text": "Indonesia"
+        },
+        {
+          "label": "C",
+          "text": "Qatar"
+        },
+        {
+          "label": "D",
+          "text": "Vietnam"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Qatar"
+      },
+      "explanation": "Indian travelers can now use Unified Payments Interface (UPI) apps to make purchases in Qatar, the eighth country to adopt UPI for international payments. Qatar Duty Free is the first merchant to accept QR code-based UPI transactions. NPCI International Payments Ltd (NIPL), Qatar National Bank (QNB), and Japanese gateway NETSTARS enabled UPI at select point-of-sale (POS) terminals. Other countries with UPI access include Bhutan, France, Mauritius, Nepal, Singapore, Sri Lanka, and United Arab Emirates. The move promotes a globally interoperable payment network and cross-border digital transactions."
+    },
+    {
+      "id": 37,
+      "question": "Which state government launched the E-Bond system for import and export businesses, replacing traditional stamp paper bonds in October 2025?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bihar"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Odisha"
+        },
+        {
+          "label": "D",
+          "text": "Assam"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Maharashtra"
+      },
+      "explanation": "The Maharashtra government launched the E-Bond system for import and export businesses, replacing traditional stamp paper bonds in October 2025. Revenue Minister Chandrashekhar Bawankule announced the system in Mumbai. The system aims to simplify trade procedures, speed up transactions, and enhance transparency in commercial operations. Maharashtra becomes the 16th state in India to adopt digital bonds. The move represents a major step in modernising trade administration. E-Bonds reduce paperwork and make processes faster, secure, and more efficient. The initiative supports ease of doing business and promotes digital adoption in trade."
+    },
+    {
+      "id": 38,
+      "question": "The Authorised Economic Operator (AEO) programme in India operates under which international framework?",
+      "options": [
+        {
+          "label": "A",
+          "text": "WTO Trade Facilitation Agreement"
+        },
+        {
+          "label": "B",
+          "text": "World Customs Organization (WCO) SAFE Framework of Standards"
+        },
+        {
+          "label": "C",
+          "text": "International Monetary Fund (IMF) Compliance Charter"
+        },
+        {
+          "label": "D",
+          "text": "United Nations Global Trade Framework"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "World Customs Organization (WCO) SAFE Framework of Standards"
+      },
+      "explanation": "The World Trade Organization (WTO) recently praised India’s liberalised Authorised Economic Operator (AEO) programme for boosting participation of Micro, Small, and Medium Enterprises (MSMEs) in international trade. The AEO programme operates under the World Customs Organisation (WCO) SAFE Framework of Standards to secure and facilitate global trade. WCO adopted the SAFE Framework in June 2005 to strengthen international supply chain security. AEO is one of the three pillars of the SAFE Framework and promotes customs–trade partnership. It was launched by the Central Board of Indirect Taxes and Customs (CBIC) as a pilot in 2011 and revised in 2016. It is implemented by the Directorate of International Customs under CBIC."
+    },
+    {
+      "id": 39,
+      "question": "The Sevilla Forum on Debt was launched in which city?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paris"
+        },
+        {
+          "label": "B",
+          "text": "Rome"
+        },
+        {
+          "label": "C",
+          "text": "Geneva"
+        },
+        {
+          "label": "D",
+          "text": "London"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Geneva"
+      },
+      "explanation": "The Sevilla Forum on Debt was launched on October 22, 2025, at the 16th United Nations Conference on Trade and Development (UNCTAD16) in Geneva. It is a Spanish-led initiative supported by UNCTAD and the UN Department of Economic and Social Affairs (DESA). The Forum provides an open, inclusive platform for dialogue and action on sovereign debt reform. The Forum stems from the Fourth International Conference on Financing for Development (FfD4) and aligns with the Sevilla Platform for Action and Sevilla Commitment. Spain will host the Forum as a bridge between borrowers and creditors, tracking implementation of debt initiatives. Global debt reached 102 trillion in 2024; developing countries owe 31 trillion and pay $921 billion in interest"
+    },
+    {
+      "id": 40,
+      "question": "Special Window for Affordable and Mid-Income Housing (SWAMIH) Investment Fund is sponsored by which ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Housing and Urban Affairs"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Rural Development"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Corporate Affairs"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Finance"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Ministry of Finance"
+      },
+      "explanation": "The Reserve Bank of India (RBI) will exempt the government-backed SWAMIH Fund from tightened rules for Alternate Investment Funds (AIFs). SWAMIH stands for Special Window for Affordable and Mid-Income Housing and was set up in 2019 to rescue stressed real estate projects. The fund provides debt financing for stalled housing projects and is managed by SBICAP Ventures Ltd, a State Bank of India (SBI) Group company. The fund is sponsored by the Ministry of Finance, Government of India."
+    }
+  ]
+}

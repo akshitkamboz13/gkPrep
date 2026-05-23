@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "telecommunications-sector-mcqs-for-ssc-examination",
+    "title": "32. Telecommunications Sector",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:34:33"
+  },
+  "questions": [
+    {
+      "id": 61500,
+      "question": "What is India's rank in the global 5G subscriber base?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1st"
+        },
+        {
+          "label": "B",
+          "text": "3rd"
+        },
+        {
+          "label": "C",
+          "text": "4th"
+        },
+        {
+          "label": "D",
+          "text": "2nd"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "2nd"
+      },
+      "explanation": "India has the second-largest 5G subscriber base globally after China. By 2024, the number of users has crossed 400 million. 767 out of 778 Indian districts have 5G coverage. India overtook countries like the US and South Korea in 5G subscriptions. India's 5G user base is projected to reach 420 million by 2026 and almost 1 billion by 2030."
+    },
+    {
+      "id": 61503,
+      "question": "What is India’s current overall tele-density as of December 2025?",
+      "options": [
+        {
+          "label": "A",
+          "text": "88.41%"
+        },
+        {
+          "label": "B",
+          "text": "86.76%"
+        },
+        {
+          "label": "C",
+          "text": "84.01%"
+        },
+        {
+          "label": "D",
+          "text": "80.74%"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "88.41%"
+      },
+      "explanation": "India's overall tele-density reached 88.41% in December 2025. Teledensity includes all wireline, wireless, and M2M connections. January 2020 teledensity was 87.45%. Wireless teledensity reached 87.38% in December 2025. Urban tele-density stands at 140.66%, and rural tele-density at 59.07%. 5G services are available in 99.9% of districts nationwide as of 2025."
+    },
+    {
+      "id": 61509,
+      "question": "Which country has the highest website traffic on Google Play Store?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India"
+        },
+        {
+          "label": "B",
+          "text": "China"
+        },
+        {
+          "label": "C",
+          "text": "USA"
+        },
+        {
+          "label": "D",
+          "text": "Brazil"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "USA"
+      },
+      "explanation": "The United States accounted for 19.96% of global Google Play Store website traffic in 2023. US traffic totaled approximately 35.49 billion visits. India ranked second with 7.62% share and 13.56 billion visits. Over 77% of the overall traffic from the United States accessed the Play Store via mobile phones. China does not have official Google Play Store access."
+    },
+    {
+      "id": 61515,
+      "question": "What is the cable TV digitization status in India as of 2026?",
+      "options": [
+        {
+          "label": "A",
+          "text": "89% digitization completed across all regions"
+        },
+        {
+          "label": "B",
+          "text": "100% digitization in urban areas; rural digitization ongoing"
+        },
+        {
+          "label": "C",
+          "text": "60% digitization with limited expansion plans"
+        },
+        {
+          "label": "D",
+          "text": "74% digitization in urban centers only"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "100% digitization in urban areas; rural digitization ongoing"
+      },
+      "explanation": "India completed 100% cable TV digitization in all urban areas by 2017 under the Digital Addressable System (DAS). Phases I and II targeted metro and major cities, and Phase III covered all other urban areas. Rural digitization is still ongoing. TV penetration in rural India is 61% of rural households as of latest government data."
+    },
+    {
+      "id": 61517,
+      "question": "Which country’s users spend the most daily time on smartphones?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India"
+        },
+        {
+          "label": "B",
+          "text": "China"
+        },
+        {
+          "label": "C",
+          "text": "Indonesia"
+        },
+        {
+          "label": "D",
+          "text": "USA"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Indonesia"
+      },
+      "explanation": "In 2026, Indonesia’s smartphone users spend an average of 6 hours and 3 minutes daily on their smartphones. Global average daily smartphone usage is approximately 3 hours and 45 minutes. USA users average 5 hours 16 minutes daily, while China’s average is 3.72 hours. Indonesia has consistently ranked highest in daily smartphone usage time according to recent digital reports."
+    }
+  ]
+}

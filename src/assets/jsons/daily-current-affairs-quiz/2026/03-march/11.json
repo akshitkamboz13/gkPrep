@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: March 11, 2026",
+    "date": "2026-03-11",
+    "year": "2026",
+    "month": "03-march",
+    "day": 11,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 03:26:59",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:53:04"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "The Anavaran Deforestation Alert System is operated by which organisation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indian Space Research Organisation"
+        },
+        {
+          "label": "B",
+          "text": "Forest Survey of India"
+        },
+        {
+          "label": "C",
+          "text": "National Remote Sensing Centre"
+        },
+        {
+          "label": "D",
+          "text": "Wildlife Institute of India"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Forest Survey of India"
+      },
+      "explanation": "Recently, the Forest Survey of India (FSI) stopped sharing alerts from the Anavaran Deforestation Alert System with states regarding forest loss. The Anavaran Deforestation Alert System is operated by Forest Survey of India (FSI). The Anavaran portal started in 2024 to monitor deforestation using satellite technology. It used satellite data and Machine Learning (ML) to detect forest cover loss and send location-based alerts every 15 days for field inspection. The system runs on Google Earth Engine (GEE) for large-scale geospatial data analysis. It uses Sentinel‑2 images and integrates Sentinel‑1 Synthetic Aperture Radar (SAR) for monitoring during cloudy or monsoon periods."
+    },
+    {
+      "id": 2,
+      "question": "Sheshnaag-150 is developed by which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Defence Research and Development Organisation (DRDO)"
+        },
+        {
+          "label": "B",
+          "text": "Hindustan Aeronautics Limited (HAL)"
+        },
+        {
+          "label": "C",
+          "text": "NewSpace Research and Technologies (NRT)"
+        },
+        {
+          "label": "D",
+          "text": "Bharat Electronics Limited (BEL)"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "NewSpace Research and Technologies (NRT)"
+      },
+      "explanation": "Sheshnaag-150 is a long-range swarm attack drone being developed in India for deep-strike military missions. It is being developed by NewSpace Research and Technologies (NRT), which focuses on Artificial Intelligence (AI)-based unmanned systems and swarm robotics. It is a collaborative swarm drone, meaning multiple drones can coordinate autonomously to carry out saturation attacks on targets. The drone weighs around 150 kg and can carry 25–40 kg payload, including explosive warheads capable of damaging infrastructure or military vehicles."
+    },
+    {
+      "id": 3,
+      "question": "Sinhagad Fort, that was recently seen in news, is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "B",
+          "text": "Karnataka"
+        },
+        {
+          "label": "C",
+          "text": "Kerala"
+        },
+        {
+          "label": "D",
+          "text": "Tamil Nadu"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Maharashtra"
+      },
+      "explanation": "Recently, about 25 visitors were injured after a swarm of bees attacked tourists at Sinhagad Fort, bringing the historic site into news. Sinhagad, earlier known as Kondhana, is an ancient hill fortress located near Pune, Maharashtra, in the Sahyadri range and is believed to be around 2,000 years old. The fort was captured in 1340 CE by Muhammad bin Tughlaq and later controlled by the Nizam Shahi dynasty. Shivaji captured the fort in 1647, but it was handed to the Mughals under the Treaty of Purandar. It was recaptured in 1670 by Tanaji Malusare during the Battle of Sinhagad, where he sacrificed his life. After this victory, the fort was renamed Sinhagad (Lion’s Fort)."
+    },
+    {
+      "id": 4,
+      "question": "The DART (Double Asteroid Redirection Test) mission was launched by which organisation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "National Aeronautics and Space Administration (NASA)"
+        },
+        {
+          "label": "B",
+          "text": "China National Space Administration (CNSA)"
+        },
+        {
+          "label": "C",
+          "text": "European Space Agency (ESA)"
+        },
+        {
+          "label": "D",
+          "text": "Indian Space Research Organisation (ISRO)"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "National Aeronautics and Space Administration (NASA)"
+      },
+      "explanation": "A new study found that Double Asteroid Redirection Test (DART) not only changed the motion of an asteroid but also slightly altered the orbit of the asteroid pair around the Sun. DART was launched in 2021 by National Aeronautics and Space Administration (NASA) to test asteroid deflection technology. It was the first planetary defence mission to change an asteroid’s path using the kinetic impact method. The spacecraft targeted a binary asteroid system of Didymos and its moonlet Dimorphos. In 2022, the spacecraft intentionally crashed into Dimorphos to alter its orbit around Didymos. The impact successfully changed the asteroid’s motion, proving humans can potentially deflect hazardous near-Earth objects in space."
+    },
+    {
+      "id": 5,
+      "question": "Which state secured the top rank in the national implementation of the Inter-Operable Criminal Justice System (ICJS) 2.0?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Haryana"
+        },
+        {
+          "label": "B",
+          "text": "Uttarakhand"
+        },
+        {
+          "label": "C",
+          "text": "Assam"
+        },
+        {
+          "label": "D",
+          "text": "Uttar Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Uttarakhand"
+      },
+      "explanation": "Uttarakhand ranked 1st in implementing the Inter-Operable Criminal Justice System (ICJS) 2.0, scoring 93.46 on the progress dashboard. The ranking is released by National Crime Records Bureau (NCRB) based on the Crime and Criminal Tracking Network and Systems (CCTNS) performance. Haryana, Assam, Sikkim, and Madhya Pradesh followed in the rankings. ICJS 2.0 connects Police (CCTNS), e-Courts, e-Prisons, e-Prosecution and e-Forensics through a “one data, one entry” system for seamless data sharing. It supports the implementation of new criminal laws—Bharatiya Nyaya Sanhita (BNS), Bharatiya Nagarik Suraksha Sanhita (BNSS) and Bharatiya Sakshya Adhiniyam (BSA)."
+    }
+  ]
+}

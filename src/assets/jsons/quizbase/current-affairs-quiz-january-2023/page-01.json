@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-january-2023",
+    "title": "Current Affairs Quiz - January, 2023",
+    "page": 1,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:46:50",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:54:05"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the name of the fund to be launched by the Government of India for catalysing deep tech start-ups?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Digital India Innovation Fund"
+        },
+        {
+          "label": "B",
+          "text": "Start Up Integration Fund"
+        },
+        {
+          "label": "C",
+          "text": "Deeptech Innovation Fund"
+        },
+        {
+          "label": "D",
+          "text": "Bharat Innovation Fund"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Digital India Innovation Fund"
+      },
+      "explanation": "The Minister of State for Electronics & Information Technology and Skill Development & Entrepreneurship, Rajeev Chandrasekhar announced Government of India is going to launch a Digital India Innovation Fund. The Fund aims to catalyse Deep-tech Startups. He announced this during his address in the event of ‘New India for Young India: Techade of Opportunities’ program at the Catholic Bishop House Campus in Kerala."
+    },
+    {
+      "id": 2,
+      "question": "Aung Suu Kyi is the former leader of which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thailand"
+        },
+        {
+          "label": "B",
+          "text": "Myanmar"
+        },
+        {
+          "label": "C",
+          "text": "Bangladesh"
+        },
+        {
+          "label": "D",
+          "text": "Nepal"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Myanmar"
+      },
+      "explanation": "A military court in Myanmar sentenced the country’s ousted leader Aung San Suu Kyi to a further seven years in prison on charges of corruption. This has increased her total jail term to 33 years. The court ruling found Suu Kyi guilty of corruption in relation to purchase, repair and rental of a helicopter for use during natural disasters and state affairs"
+    },
+    {
+      "id": 3,
+      "question": "Which institution launched its Medium-term Strategy Framework named ‘Utkarsh 2.0’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ISRO"
+        },
+        {
+          "label": "B",
+          "text": "RBI"
+        },
+        {
+          "label": "C",
+          "text": "DRDO"
+        },
+        {
+          "label": "D",
+          "text": "NITI Aayog"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "RBI"
+      },
+      "explanation": "The Reserve Bank of India’s Medium-term Strategy Framework for the period 2023-2025 named ‘Utkarsh 2.0’ was launched by RBI Governor Shaktikanta Das. The first strategy framework (Utkarsh 2022) covering the period 2019-2022 was launched in July 2019. Utkarsh 2.0 retains the six Vision statements as well as Core Purpose, Values, and Mission statement of the 2022 version."
+    },
+    {
+      "id": 4,
+      "question": "India recently signed a ‘Comprehensive Migration and Mobility Partnership Agreement’ in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sri Lanka"
+        },
+        {
+          "label": "B",
+          "text": "Austria"
+        },
+        {
+          "label": "C",
+          "text": "UAE"
+        },
+        {
+          "label": "D",
+          "text": "Bangladesh"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Austria"
+      },
+      "explanation": "India signed a ‘Comprehensive Migration and Mobility Partnership Agreement’ (MMPA) with Austria for migration and mobility of Indian students and professionals. External Affairs Minister S Jai Shankar is the first visit of an Indian foreign minister to Austria in 27 years. India had earlier signed mobility agreements with the UK, France, Germany and Finland."
+    },
+    {
+      "id": 5,
+      "question": "What is the total volume of Unified Payments Interface (UPI) transactions in December 2022?",
+      "options": [
+        {
+          "label": "A",
+          "text": "282 lakh"
+        },
+        {
+          "label": "B",
+          "text": "282 crore"
+        },
+        {
+          "label": "C",
+          "text": "782 lakh"
+        },
+        {
+          "label": "D",
+          "text": "782 crore"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "782 crore"
+      },
+      "explanation": "In December, 782 crore transactions in volume terms were done on the Unified Payments Interface (UPI) platform, as per the Department of Financial Services. UPI payments have touched record high of ₹12.82 lakh crore in December. The platform was launched in 2016. In November, as many as 730 crore transactions worth ₹11.90 lakh crore took place via UPI."
+    },
+    {
+      "id": 6,
+      "question": "Luiz Inácio Lula da Silva recently took charge as the President of which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brazil"
+        },
+        {
+          "label": "B",
+          "text": "France"
+        },
+        {
+          "label": "C",
+          "text": "Italy"
+        },
+        {
+          "label": "D",
+          "text": "Argentina"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Brazil"
+      },
+      "explanation": "Luiz Inácio Lula da Silva took office for a third term as Brazil’s President, after the divisive election in October. The outgoing leader of the Latin America’s biggest economy is Jair Bolsonaro. The 77-year-old ex-metalworker Lula da Silva previously led Brazil from 2003 to 2010."
+    },
+    {
+      "id": 7,
+      "question": "As per the CMIE’s latest report, which state had recorded the highest unemployment rate among states in December 2022?",
+      "options": [
+        {
+          "label": "A",
+          "text": "New Delhi"
+        },
+        {
+          "label": "B",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Haryana"
+        },
+        {
+          "label": "D",
+          "text": "Andhra Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Haryana"
+      },
+      "explanation": "India’s unemployment rate reached a 16-month high of 8.3 percent in December 2022 according to a report by the Centre for Monitoring Indian Economy (CMIE). CMIE added that the increase was partly due to the increase in labour participation rate. The urban unemployment rate increased to 10.09 percent in December while the rural unemployment rate was marginally lower at 7.44 percent. At 37.4 percent, Haryana reported the highest unemployment rate among states, followed by Rajasthan at 28.5 percent and Delhi at 20.8 percent."
+    },
+    {
+      "id": 8,
+      "question": "Who is the first woman officer to be operationally deployed at Kumar Post, Siachen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Captain Shiva Chouhan"
+        },
+        {
+          "label": "B",
+          "text": "Captain Bhawana Kanth"
+        },
+        {
+          "label": "C",
+          "text": "Captain Avani Chaturvedi"
+        },
+        {
+          "label": "D",
+          "text": "Captain Mohana Singh Jitarwal"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Captain Shiva Chouhan"
+      },
+      "explanation": "Captain Shiva Chouhan, an officer from the Corps of Electronics and Mechanical Engineers, became the first woman officer to be operationally deployed at Kumar Post in the Siachen Glacier. The post is located at an altitude of 15,632 feet. Kumar Post is named after late Colonel Narinder Kumar, who was instrumental in the Indian Army launching ‘Operation Meghdoot’ and securing the Siachen Glacier in 1984."
+    },
+    {
+      "id": 9,
+      "question": "Which High Court has directed the city government to ensure free food and medical treatment to HIV-positive persons?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Delhi High Court"
+        },
+        {
+          "label": "B",
+          "text": "Bombay High Court"
+        },
+        {
+          "label": "C",
+          "text": "Chennai High Court"
+        },
+        {
+          "label": "D",
+          "text": "Allahabad High Court"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Delhi High Court"
+      },
+      "explanation": "Delhi High Court has directed the city government to ensure free food and medical treatment to HIV-positive persons living below the poverty line. It also directed the government to strictly comply with the law dealing with the grievances of affected patients."
+    },
+    {
+      "id": 10,
+      "question": "How many new members have been recently added to the U.N. Security Council in 2023, for a two-year tenure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Three"
+        },
+        {
+          "label": "B",
+          "text": "Four"
+        },
+        {
+          "label": "C",
+          "text": "Five"
+        },
+        {
+          "label": "D",
+          "text": "Seven"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Five"
+      },
+      "explanation": "Ecuador, Japan, Malta, Mozambique and Switzerland were made the new members of the U.N. Security Council for the two-year seats they won unopposed in June. The five countries would replace India, Ireland, Kenya, Mexico and Norway in the Council. The ambassadors of the five countries installed their national flags alongside those of other members outside the council chambers."
+    }
+  ]
+}

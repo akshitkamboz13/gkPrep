@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "21-the-shakas-rulers-satrap-system",
+    "title": "21. The Shakas Rulers & Satrap System",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:52:18"
+  },
+  "questions": [
+    {
+      "id": 1757,
+      "question": "Who was the first Saka king in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Moga"
+        },
+        {
+          "label": "B",
+          "text": "Rudradaman"
+        },
+        {
+          "label": "C",
+          "text": "Azes"
+        },
+        {
+          "label": "D",
+          "text": "Ghatotkacha"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Moga"
+      },
+      "explanation": "An Indo-Scythian king, Moga (or Maues) was the first Saka king in India who established Saka power in Gandhara and extended supremacy over north-western India."
+    },
+    {
+      "id": 1760,
+      "question": "In the Junagarh inscription, which among the following Saka ruler achievements are highlighted?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Moga"
+        },
+        {
+          "label": "B",
+          "text": "Azes"
+        },
+        {
+          "label": "C",
+          "text": "Rudraraman"
+        },
+        {
+          "label": "D",
+          "text": "Nahapana"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Rudraraman"
+      },
+      "explanation": "The military achievements, territories and many personal qualities of Rudraraman are highlighted in the famous Junagadh inscription, written in 150 AD. It is the first major inscription to be written in sanskrit."
+    },
+    {
+      "id": 2056,
+      "question": "Who overthrew Saka rulers from India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gautami putra Satakarni"
+        },
+        {
+          "label": "B",
+          "text": "Kanishka"
+        },
+        {
+          "label": "C",
+          "text": "Rudraraman"
+        },
+        {
+          "label": "D",
+          "text": "Demetrius"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Gautami putra Satakarni"
+      },
+      "explanation": "The sakas were finally overthrown by Gautamiputra Satakarni, the ruler of Satavahana dynasty. He killed Saka ruler Nahapana and his governor Rishavadatta and restored his territories."
+    },
+    {
+      "id": 2057,
+      "question": "Which of the following passes was used by Sakas to come to India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bolan Pass"
+        },
+        {
+          "label": "B",
+          "text": "Nathu La Pass"
+        },
+        {
+          "label": "C",
+          "text": "Shipki La Pass"
+        },
+        {
+          "label": "D",
+          "text": "Bara-lacha la Pass"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Bolan Pass"
+      },
+      "explanation": "The Sakas came to India through the Bolan Pass. They were a Scythian tribe or group of tribes of Iranian origin."
+    },
+    {
+      "id": 2058,
+      "question": "Which Saka ruler was responsible for important irrigation works in Saurashtra?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rudraraman"
+        },
+        {
+          "label": "B",
+          "text": "Moga"
+        },
+        {
+          "label": "C",
+          "text": "Azes"
+        },
+        {
+          "label": "D",
+          "text": "Nahapana"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Rudraraman"
+      },
+      "explanation": "The Saka ruler, Rudradraman was responsible for important irrigation works in Saurashtra. His military achievements, his territories and his many personal qualities are highlighted in the famous Junagadh inscription, written in 150 AD. It is the first major inscription to be written in sanskrit."
+    }
+  ]
+}

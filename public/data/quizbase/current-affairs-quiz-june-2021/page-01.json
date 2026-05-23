@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-june-2021",
+    "title": "Current Affairs Quiz - June, 2021",
+    "page": 1,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:47:16",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:57:04"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "When is the “World No Tobacco Day” observed by WHO every year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "May 31"
+        },
+        {
+          "label": "B",
+          "text": "June 1"
+        },
+        {
+          "label": "C",
+          "text": "June 10"
+        },
+        {
+          "label": "D",
+          "text": "June 20"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "May 31"
+      },
+      "explanation": "Every year, 31st May is observed by the World Health Organisation (WHO) as the “World No Tobacco Day”. The theme for this year is “Commit to quit”. This day was created by the WHO members in the year 1987 to draw global attention to the tobacco epidemic and the deaths associated with using tobacco. A resolution was passed in 1988 to observe 31st May as the No Tobacco Day."
+    },
+    {
+      "id": 2,
+      "question": "With reference to Covid, what are ‘Kappa’ and ‘Delta’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "New Measure of Covid spread rate"
+        },
+        {
+          "label": "B",
+          "text": "New Labels for Covid variants"
+        },
+        {
+          "label": "C",
+          "text": "New category in Covid positivity rate"
+        },
+        {
+          "label": "D",
+          "text": "New Global vaccine initiatives"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "New Labels for Covid variants"
+      },
+      "explanation": "The World Health Organization (WHO) has announced new labels, using Greek alphabets, for various variants of the coronavirus disease (Covid-19). As per the WHO, Covid variant first found in India (B1.617.2) will be referred to as Delta, while earlier found variant in the country (B.1.617.1) will be known as Kappa."
+    },
+    {
+      "id": 3,
+      "question": "‘Positive Indigenisation List’, which was making news recently, is associated with which Ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Agriculture Ministry"
+        },
+        {
+          "label": "B",
+          "text": "Defence Ministry"
+        },
+        {
+          "label": "C",
+          "text": "External Affairs Ministry"
+        },
+        {
+          "label": "D",
+          "text": "Commerce and Industry Ministry"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Defence Ministry"
+      },
+      "explanation": "Defence Minister Rajnath Singh approved a proposal to notify the Second Positive Indigenisation List of 108 items. With this, all the 108 items will be procured from indigenous sources, as per provisions given in Defence Acquisition Procedure 2020. The Second list, which comprises of complex systems and weapons, is to be implemented progressively with effect from December this year to December 2025."
+    },
+    {
+      "id": 4,
+      "question": "What is the profession of Mahesh Jethmalani, who has been nominated to Rajya Sabha by the Union Government?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Doctor"
+        },
+        {
+          "label": "B",
+          "text": "Advocate"
+        },
+        {
+          "label": "C",
+          "text": "Scientist"
+        },
+        {
+          "label": "D",
+          "text": "Banker"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Advocate"
+      },
+      "explanation": "Mahesh Jethmalani, who is a noted advocate has been recently nominated by the Union Government to the Rajya Sabha. Additionally, former journalist Swapan Dasgupta has also been nominated to the upper house. Mahesh Jethmalani has been nominated to Rajya Sabha to fill the vacancy of seat due to the demise of Raghunath Mohapatra."
+    },
+    {
+      "id": 5,
+      "question": "The Covid 19 vaccine – Sinovac, which has been granted approval by WHO, is developed by which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Japan"
+        },
+        {
+          "label": "B",
+          "text": "UK"
+        },
+        {
+          "label": "C",
+          "text": "USA"
+        },
+        {
+          "label": "D",
+          "text": "China"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "China"
+      },
+      "explanation": "Sinovac vaccine developed by China’s Sinovac Biotech Ltd has been granted emergency use approval by the World Health Organisation. WHO has recommended the vaccine to be used by people who are 18 years and above. The vaccine needs to be administered in two doses with a gap of two to four weeks."
+    },
+    {
+      "id": 6,
+      "question": "Fengyun-4B, the New-Gen Meteorological Satellite, has been recently launched by which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Japan"
+        },
+        {
+          "label": "B",
+          "text": "China"
+        },
+        {
+          "label": "C",
+          "text": "Israel"
+        },
+        {
+          "label": "D",
+          "text": "UAE"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "China"
+      },
+      "explanation": "China recently launched into orbit a new-generation weather satellite named Fengyun-4B (FY- 4B) successfully. The Fengyun-4B satellite was launched aboard a Long March 3B rocket into the geostationary orbit, to join the network of Fengyun satellites. The first of the Fengyun series, a low-Earth orbit satellite testing machine – FY-1A, was launched in 1988."
+    },
+    {
+      "id": 7,
+      "question": "SAGE (Senior-care Aging Growth Engine) is the initiative of which Union Ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Women and Child Development"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Social Justice and Empowerment"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Law and Justice"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Minority Affairs"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ministry of Social Justice and Empowerment"
+      },
+      "explanation": "Minister of Social Justice and Empowerment, Thaawarchand Gehlot virtually launched the SAGE (Senior-care Aging Growth Engine) initiative. He also launched the SAGE portal, which can be accessed by the elderly persons for elderly care products and services by select start-ups. The start-ups will be selected on the basis of innovative products and services."
+    },
+    {
+      "id": 8,
+      "question": "AmB, is the nano-fibre based tablets, developed by IIT-H, for curing which disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kala Azar"
+        },
+        {
+          "label": "B",
+          "text": "Malaria"
+        },
+        {
+          "label": "C",
+          "text": "Dengue"
+        },
+        {
+          "label": "D",
+          "text": "Japanese Encephalitis"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Kala Azar"
+      },
+      "explanation": "Researchers from the Indian Institute of Technology (IIT), Hyderabad has developed nano-fibre based oral tablets of Amphotericin B, called as AmB. This was the first-ever attempt to fabricate nanofibrous oral tablets of Amphotericin B for curing Kala Azar. As Kala-Azar treatment is being currently used as a treatment for Mucormycosis, this can be used to treat fungal infections post COVID treatment."
+    },
+    {
+      "id": 9,
+      "question": "The African Union has suspended the membership of which country, after a military coup in that nation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "South Africa"
+        },
+        {
+          "label": "B",
+          "text": "Mali"
+        },
+        {
+          "label": "C",
+          "text": "Somalia"
+        },
+        {
+          "label": "D",
+          "text": "Zimbabwe"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Mali"
+      },
+      "explanation": "The membership of Mali has been suspended by the African Union in response to the recent military coup in the country. African Union has pressed for a civilian led democratic government in Mali. The military of Mali has arrested its interim President Bah Ndaw and Prime Minister Moctar Ouane and has pressured them to resign."
+    },
+    {
+      "id": 10,
+      "question": "The Merapi volcano, which is one of the most active volcanoes, is located in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indonesia"
+        },
+        {
+          "label": "B",
+          "text": "Australia"
+        },
+        {
+          "label": "C",
+          "text": "Canada"
+        },
+        {
+          "label": "D",
+          "text": "Kenya"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Indonesia"
+      },
+      "explanation": "Mount Merapi, is an active stratovolcano which is located in Indonesia, between the province of Central Java and the Special Region of Yogyakarta – Indonesia. This is considered to be the most volatile volcanoes and has been erupting regularly since 1548. Presently, the volcano has started to erupt again."
+    }
+  ]
+}

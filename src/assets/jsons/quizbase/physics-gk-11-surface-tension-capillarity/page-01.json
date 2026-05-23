@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physics-gk-11-surface-tension-capillarity",
+    "title": "Physics GK 11 - Surface Tension & Capillarity",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:30:48"
+  },
+  "questions": [
+    {
+      "id": 7694,
+      "question": "Which of the following causes the drop of water to be in spherical shape?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Viscosity"
+        },
+        {
+          "label": "B",
+          "text": "Air resistance"
+        },
+        {
+          "label": "C",
+          "text": "Surface tension"
+        },
+        {
+          "label": "D",
+          "text": "Temperature"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Surface tension"
+      },
+      "explanation": "Surface tension is the tendency of liquid surfaces to shrink into the minimum surface area possible. Surface tension allows insects, usually denser than water, to float and slide on a water surface. It is the reason for the water droplet’s round shape."
+    },
+    {
+      "id": 7696,
+      "question": "When two mercury drops are brought into contact they form a single bigger drop to get which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Minimum volume"
+        },
+        {
+          "label": "B",
+          "text": "Minimum surface area"
+        },
+        {
+          "label": "C",
+          "text": "Maximum size"
+        },
+        {
+          "label": "D",
+          "text": "Maximum surface area"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Minimum surface area"
+      },
+      "explanation": "When two drops of mercury come into contact, they will tend to merge together and form a single drop with a minimum surface area. This is because of the properties of mercury, which is a liquid metal with a high surface tension. The surface tension of a liquid is a measure of its elasticity, and it is determined by the cohesive forces between the molecules of the liquid. In the case of mercury, the high surface tension causes the molecules at the surface of the liquid to be strongly attracted to each other, which results in the formation of a relatively smooth and spherical surface. When two drops of mercury are brought together, the surface tension causes them to merge and form a single drop with the smallest possible surface area. This phenomenon is known as the \"minimization of surface area\" and it is a common feature of liquids with high surface tension."
+    },
+    {
+      "id": 7698,
+      "question": "Which among the following works while we wipe with a towel.?",
+      "options": [
+        {
+          "label": "A",
+          "text": "evaporation"
+        },
+        {
+          "label": "B",
+          "text": "osmosis"
+        },
+        {
+          "label": "C",
+          "text": "capillary action"
+        },
+        {
+          "label": "D",
+          "text": "surface tension"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "capillary action"
+      },
+      "explanation": "Capillary action is the ability of a liquid to flow in narrow spaces without the assistance of, or even in opposition to, external forces like gravity. The capillary action is among the following works while we wipe with a towel."
+    },
+    {
+      "id": 26436,
+      "question": "What is the property of a liquid due to which its free surface tries to have minimum surface area?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Viscosity"
+        },
+        {
+          "label": "B",
+          "text": "Buoyancy"
+        },
+        {
+          "label": "C",
+          "text": "Surface Tension"
+        },
+        {
+          "label": "D",
+          "text": "Rigidity"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Surface Tension"
+      },
+      "explanation": "The property of a liquid due to which its free surface tries to have minimum surface area and behaves as if it were under tension somewhat like a stretched elastic membrane is called surface tension."
+    },
+    {
+      "id": 26437,
+      "question": "Which of the following is correct about Surface Tension?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is a scalar quantity"
+        },
+        {
+          "label": "B",
+          "text": "It is a molecular phenomenon"
+        },
+        {
+          "label": "C",
+          "text": "Its root cause is the electromagnetic forces"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "All of the above"
+      },
+      "explanation": "Properties of Surface Tension: 1. it is a scalar quantity 2. it is a molecular phenomenon 3. its root cause is the electromagnetic forces"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: March 25, 2026",
+    "date": "2026-03-25",
+    "year": "2026",
+    "month": "03-march",
+    "day": 25,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 02:46:38",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:52:25"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "The GARBH-Ini initiative is implemented under which department?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Department of Health Research"
+        },
+        {
+          "label": "B",
+          "text": "Department of Biotechnology"
+        },
+        {
+          "label": "C",
+          "text": "Indian Council of Medical Research"
+        },
+        {
+          "label": "D",
+          "text": "NITI Aayog"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Department of Biotechnology"
+      },
+      "explanation": "India’s largest pregnancy study under GARBH-INi (Group for Advanced Research in BirtH outcomes – Department of Biotechnology India Initiative) tracks 12,000 women. It was started in May 2015 to understand pregnancy outcomes in Indian women. The study focuses on preterm birth (PTB) and fetal growth restriction (FGR). It aims to develop Artificial Intelligence (AI)-based tools to predict preterm births early. The initiative promotes Maternal and Child Health (MCH) across the country. It is implemented under the Department of Biotechnology (DBT), Ministry of Science and Technology."
+    },
+    {
+      "id": 2,
+      "question": "The Panama Canal, that was recently seen in news, connects which two oceans?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atlantic Ocean and Indian Ocean"
+        },
+        {
+          "label": "B",
+          "text": "Pacific Ocean and Indian Ocean"
+        },
+        {
+          "label": "C",
+          "text": "Atlantic Ocean and Pacific Ocean"
+        },
+        {
+          "label": "D",
+          "text": "Arctic Ocean and Pacific Ocean"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Atlantic Ocean and Pacific Ocean"
+      },
+      "explanation": "The Panama Canal is currently operating at full capacity (about 36–38 ships daily) due to rising global energy demand. The Panama Canal is a man-made waterway connecting the Atlantic Ocean and Pacific Ocean across the Isthmus of Panama. It is a highly strategic global trade route and is about 40 miles long. It was built by the United States and completed in August 1914. The United States controlled it until 1979, after which joint control began with Panama. Full control was transferred to Panama on December 31, 1999. The canal is now owned and managed by Panama."
+    },
+    {
+      "id": 3,
+      "question": "The Minor Planet Center (MPC) operates under which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NASA (National Aeronautics and Space Administration)"
+        },
+        {
+          "label": "B",
+          "text": "ESA (European Space Agency)"
+        },
+        {
+          "label": "C",
+          "text": "IAU (International Astronomical Union)"
+        },
+        {
+          "label": "D",
+          "text": "ISRO (Indian Space Research Organisation)"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "IAU (International Astronomical Union)"
+      },
+      "explanation": "The Minor Planet Centre (MPC) recently announced discovery of 15 new moons, 4 around Jupiter and 11 around Saturn. It is the global centre for collecting and storing data on small solar system bodies. It operates under the International Astronomical Union (IAU) at the Smithsonian Astrophysical Observatory in Cambridge, Massachusetts, United States. Astronomers send new findings to MPC, where data is verified and orbits are calculated. It assigns official names or designations to newly discovered objects. It tracks asteroids, comets, and outer planet moons."
+    },
+    {
+      "id": 4,
+      "question": "What is “Akasha300” that was recently seen in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "High-temperature 3D printer"
+        },
+        {
+          "label": "B",
+          "text": "Satellite communication device"
+        },
+        {
+          "label": "C",
+          "text": "Laser cutting machine"
+        },
+        {
+          "label": "D",
+          "text": "CNC (Computer Numerical Control) milling machine"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "High-temperature 3D printer"
+      },
+      "explanation": "A Kerala start-up has delivered the Akasha300 3D printer to Indian Space Research Organisation (ISRO), boosting India’s self-reliance in advanced manufacturing. It is a high-temperature, multi-material extrusion 3D printer designed for industrial and research use. It is supported by the Space Technology Innovation and Incubation Centre at Indian Institute of Space Science and Technology (IIST) and Kerala Startup Mission. It uses dual-extrusion technology and can operate up to 350°C, with future upgrades to 500°C. It has a modular design allowing multiple extrusion systems and hybrid manufacturing."
+    },
+    {
+      "id": 5,
+      "question": "Which bank received the National Award for Outstanding Performance in Self-Help Group (SHG) Bank Linkage 2024–25?",
+      "options": [
+        {
+          "label": "A",
+          "text": "State Bank of India (SBI)"
+        },
+        {
+          "label": "B",
+          "text": "Karnataka Grameena Bank (KGB)"
+        },
+        {
+          "label": "C",
+          "text": "Canara Bank"
+        },
+        {
+          "label": "D",
+          "text": "Punjab National Bank (PNB)"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Karnataka Grameena Bank (KGB)"
+      },
+      "explanation": "Karnataka Grameena Bank received the National Award for Outstanding Performance in Self-Help Group (SHG) Bank Linkage 2024-25 from the Union Ministry of Rural Development. The award recognises the bank’s role in rural economic empowerment through SHGs. It was presented at the National Conference on Financial Literacy and Capacity Building and the 25th Central Level Coordination Committee meeting in Hyderabad. The merger under the ‘One State – One Rural Bank’ policy strengthened the bank’s capacity for regional development. The bank aligns with Deendayal Antyodaya Yojana – National Rural Livelihoods Mission (DAY-NRLM) to empower rural women through SHGs."
+    }
+  ]
+}

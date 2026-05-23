@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: February 20, 2026",
+    "date": "2026-02-20",
+    "year": "2026",
+    "month": "02-february",
+    "day": 20,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 05:24:02",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:54:03"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "India’s first government-supported National Biobank for Lysosomal Storage Disorders (LSDs) was launched in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gujarat"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Haryana"
+        },
+        {
+          "label": "D",
+          "text": "Rajasthan"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Gujarat"
+      },
+      "explanation": "India’s first government-supported National Biobank for Lysosomal Storage Disorders (LSDs) was launched in February 2026 at the Foundation for Research in Genetics and Endocrinology (FRIGE) in Ahmedabad, Gujarat. It is funded by the Department of Biotechnology (DBT). This facility stores biological samples and data from 530 patients across 15 states to advance research, develop affordable diagnostic tools, and improve treatment for rare metabolic disorders."
+    },
+    {
+      "id": 2,
+      "question": "Which State/UT has become the 29th in India to implement the ULPIN (Bhu-Aadhaar) system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Manipur"
+        },
+        {
+          "label": "B",
+          "text": "Telangana"
+        },
+        {
+          "label": "C",
+          "text": "Andaman and Nicobar"
+        },
+        {
+          "label": "D",
+          "text": "Delhi"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Delhi"
+      },
+      "explanation": "Delhi has become the 29th State/Union Territory to implement Unique Land Parcel Identification Number (ULPIN), also known as Bhu-Aadhaar. The aim is to ensure clear land ownership records and reduce land disputes. ULPIN was started in 2021 under Digital India Land Records Modernisation Programme (DILRMP). DILRMP means Digital India Land Records Modernisation Programme of the Central Government. New digital land maps will be created using drone surveys and high-resolution imaging."
+    },
+    {
+      "id": 3,
+      "question": "The ‘Lakhpati Didi’ initiative is associated with which ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Rural Development"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Agriculture"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Finance"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Women and Child Development"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ministry of Rural Development"
+      },
+      "explanation": "Union Minister for Rural Development and Agriculture & Farmers’ Welfare directed fast action to achieve revised target of 6 crore Lakhpati Didis by March 2029. A Lakhpati Didi is a Self-Help Group member earning annual household income of Rs. 1,00,000 or more. Income must be sustained for at least four agricultural seasons or business cycles, with average monthly income above Rs. 10,000. It was launched under Deendayal Antyodaya Yojana – National Rural Livelihoods Mission (DAY-NRLM). The nodal Ministry is Ministry of Rural Development."
+    },
+    {
+      "id": 4,
+      "question": "What is ‘Galathea balasubramaniani’ that was recently seen in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A new species of Crab"
+        },
+        {
+          "label": "B",
+          "text": "Invasive weed"
+        },
+        {
+          "label": "C",
+          "text": "Newly discovered species of Fish"
+        },
+        {
+          "label": "D",
+          "text": "Traditional medicine"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "A new species of Crab"
+      },
+      "explanation": "Researchers discovered a new tiny crab species named Galathea balasubramaniani from coral reefs of Agatti in Lakshadweep Islands. It belongs to genus Galathea, a group of small reef-dwelling anomuran crabs called squat lobsters. These crabs look like tiny lobsters and hide in coral and rocky crevices. It measures only about 3 millimetres, making it one of the smallest reef crabs in the region. It plays a key ecological role by recycling organic matter and serving as food for fish and other marine life."
+    },
+    {
+      "id": 5,
+      "question": "CHaracterising ExOPlanet Satellite (CHEOPS) is a mission of which space agency?",
+      "options": [
+        {
+          "label": "A",
+          "text": "National Aeronautics and Space Administration (NASA)"
+        },
+        {
+          "label": "B",
+          "text": "Indian Space Research Organisation (ISRO)"
+        },
+        {
+          "label": "C",
+          "text": "European Space Agency (ESA)"
+        },
+        {
+          "label": "D",
+          "text": "Japan Aerospace Exploration Agency (JAXA)"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "European Space Agency (ESA)"
+      },
+      "explanation": "The CHaracterising ExOPlanet Satellite (CHEOPS) of the European Space Agency has discovered a four-planet system around a nearby star. The observation showed that the outermost planet in this system is small and rocky in nature. The CHaracterising ExOPlanet Satellite (CHEOPS) is a space mission developed and operated by the European Space Agency to study exoplanets orbiting bright, nearby stars. It is the first mission specifically designed to observe stars that are already known to host exoplanets and to measure their sizes with very high precision as the planets transit across their host stars."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-6-citizenship-citizenship-laws",
+    "title": "Citizenship & Citizenship Laws",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:23:53"
+  },
+  "questions": [
+    {
+      "id": 5416,
+      "question": "In which year, parliament passed the Citizenship Act?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1950"
+        },
+        {
+          "label": "B",
+          "text": "1955"
+        },
+        {
+          "label": "C",
+          "text": "1960"
+        },
+        {
+          "label": "D",
+          "text": "1965"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "1955"
+      },
+      "explanation": "Constitution of India did not codify permanent laws for citizenship and put this onus on parliament. Using the powers of article 10 and 11, the parliament enacted Citizenship Act 1955 which has been amended from time to time. This act mentions four ways in which a person may be Indian citizen viz. by birth, by descent, by registration and by naturalization. Citizenship by birth and descent are called natural citizens."
+    },
+    {
+      "id": 7075,
+      "question": "Single citizenship in india has been taken from which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Britan"
+        },
+        {
+          "label": "B",
+          "text": "Canada"
+        },
+        {
+          "label": "C",
+          "text": "Both 1 & 2"
+        },
+        {
+          "label": "D",
+          "text": "USA"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Both 1 & 2"
+      },
+      "explanation": "The Constitution of India has established a single and uniform citizenship for the whole of the country. This feature appears to have been borrowed from UK but today, UK itself has Dual citizenship."
+    },
+    {
+      "id": 7270,
+      "question": "For how many years, a person of Indian origin must have been an ordinary resident of India before making application towards getting citizenship by registration?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3 years"
+        },
+        {
+          "label": "B",
+          "text": "5 years"
+        },
+        {
+          "label": "C",
+          "text": "7 years"
+        },
+        {
+          "label": "D",
+          "text": "10 years"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "7 years"
+      },
+      "explanation": "If the person is of Indian origin, then he / she has to be ordinary resident of India for seven years before making application towards getting citizenship by registration."
+    },
+    {
+      "id": 7272,
+      "question": "Which of the following are the conditions for acquiring Indian Citizenship?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Domicile and Descent"
+        },
+        {
+          "label": "B",
+          "text": "Domicile, Descent & Registration"
+        },
+        {
+          "label": "C",
+          "text": "Domicile, Decent , Registration and Holding property"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Domicile, Descent & Registration"
+      },
+      "explanation": "Constitution of India did not codify permanent laws for citizenship and put this onus on parliament. Using the powers of article 10 and 11, the parliament enacted Citizenship Act 1955 which has been amended from time to time. This act mentions four ways in which a person may be Indian citizen viz. by birth, by descent, by registration and by naturalization. Citizenship by birth and descent are called natural citizens."
+    },
+    {
+      "id": 7584,
+      "question": "Which among the following Article deals with the rights of citizenships of certain persons of Indian origin residing outside of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Article 6"
+        },
+        {
+          "label": "B",
+          "text": "Article 7"
+        },
+        {
+          "label": "C",
+          "text": "Article 8"
+        },
+        {
+          "label": "D",
+          "text": "Article 9"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Article 8"
+      },
+      "explanation": "Article 8 deals with the rights of citizenship of certain persons of India origin residing outside India at the time of enactment of the constitution."
+    }
+  ]
+}

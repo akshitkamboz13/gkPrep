@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: February 28, 2026",
+    "date": "2026-02-28",
+    "year": "2026",
+    "month": "02-february",
+    "day": 28,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 05:23:34",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:53:35"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Sky Sting is a 6th-generation Beyond-Visual-Range Air-to-Air Missile (BVRAAM) developed by which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Russia"
+        },
+        {
+          "label": "B",
+          "text": "Israel"
+        },
+        {
+          "label": "C",
+          "text": "Germany"
+        },
+        {
+          "label": "D",
+          "text": "China"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Israel"
+      },
+      "explanation": "Prime Minister’s second state visit to Israel focuses on defence cooperation and acquiring Sky Sting missile for Indian Air Force (IAF). Sky Sting is a 6th-generation Beyond-Visual-Range Air-to-Air Missile (BVRAAM). It is developed by Rafael Advanced Defense Systems Limited, an Israeli defence technology company. It is lightweight and can be fitted on Tejas Mk1A and Sukhoi-30MKI fighter jets. It has a strike range of about 250 kilometres. It uses a three-pulse solid-fuel rocket motor and can reach speeds above Mach 5."
+    },
+    {
+      "id": 2,
+      "question": "Indravati River, that was recently seen in news, is tributary of which river?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Narmada"
+        },
+        {
+          "label": "B",
+          "text": "Cauvery"
+        },
+        {
+          "label": "C",
+          "text": "Krishna"
+        },
+        {
+          "label": "D",
+          "text": "Godavari"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Godavari"
+      },
+      "explanation": "Two Maoists were killed in an encounter in Bijapur district of Chhattisgarh during an anti-Naxal operation along the Indravati river belt. Indravati River is a major tributary of the Godavari River. It rises from Kalahandi district of Odisha on the western slopes of the Eastern Ghats. It flows westwards and joins the Godavari River, forming boundary between Maharashtra and Chhattisgarh at some places. Most of its 535 kilometre course flows through dense forests of Bastar district in Chhattisgarh. It is called the lifeline of Bastar, one of the greenest districts of India."
+    },
+    {
+      "id": 3,
+      "question": "Vikko Sat-1 is a mini satellite developed by students of which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "B",
+          "text": "Kerala"
+        },
+        {
+          "label": "C",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Tamil Nadu"
+      },
+      "explanation": "Class Eleven students of Ariyakudi Government Higher Secondary School in Sivagangai district of Tamil Nadu launched a 600 gram mini satellite named Vikko Sat-1. Vikko Sat-1 is designed to detect fungal spores in the stratosphere using five specialised sensors. Fungal spores affect agricultural health and environmental cycles, and can damage crops if they descend. The mini satellite was sent into the stratosphere using a helium balloon to collect real-time data beyond ground observation. Students developed it in six months with adhesive surfaces to capture air samples. It reached 22 kilometre height in the stratosphere, the second atmospheric layer. Sensors studied spore behaviour in thin air and low temperature."
+    },
+    {
+      "id": 4,
+      "question": "The e–Railway Claims Tribunal (e-RCT) system was launched under which initiative of Indian Railways?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Digital India Rail Mission"
+        },
+        {
+          "label": "B",
+          "text": "Mission Raftaar"
+        },
+        {
+          "label": "C",
+          "text": "52 Reforms in 52 Weeks"
+        },
+        {
+          "label": "D",
+          "text": "Rail Suraksha Abhiyan"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "52 Reforms in 52 Weeks"
+      },
+      "explanation": "Union Minister for Railways launched e-Railway Claims Tribunal as reform number four under Indian Railways initiative “52 Reforms in 52 Weeks”. It ensures full computerisation and digitisation of Railway Claims Tribunal functioning. Objective is to make claim filing, processing and judgement faster, transparent and accessible across India. Passengers can file claims online from any location, even during travel or after reaching destination. Entire system from electronic filing to case tracking is digitised and Artificial Intelligence-enabled. E-Filing allows 24×7 online submission of claims, petitions, affidavits and supporting documents. Case Information System is centralised database for auto-allocation and real-time case tracking."
+    },
+    {
+      "id": 5,
+      "question": "Where was India’s first State Innovation Mission (SIM) launched?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assam"
+        },
+        {
+          "label": "B",
+          "text": "Manipur"
+        },
+        {
+          "label": "C",
+          "text": "Tripura"
+        },
+        {
+          "label": "D",
+          "text": "Sikkim"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Tripura"
+      },
+      "explanation": "Atal Innovation Mission under NITI Aayog launched India’s first State Innovation Mission in Tripura. It is part of Atal Innovation Mission 2.0 under State Support Mission framework. It is a long-term institutional system to help States and Union Territories build strong, inclusive and region-specific innovation ecosystems. It aligns national priorities with local strengths and development needs. It will design long-term innovation strategy and improve policy and regulatory support. It promotes partnerships among government, academia, industry and civil society."
+    }
+  ]
+}

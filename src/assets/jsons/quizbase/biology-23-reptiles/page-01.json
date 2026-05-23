@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-23-reptiles",
+    "title": "23. Reptiles",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:58:09"
+  },
+  "questions": [
+    {
+      "id": 11458,
+      "question": "Beta-Keratin is found in which among the following in abundance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fishes"
+        },
+        {
+          "label": "B",
+          "text": "Reptiles"
+        },
+        {
+          "label": "C",
+          "text": "Mammalians"
+        },
+        {
+          "label": "D",
+          "text": "Amphibians"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Reptiles"
+      },
+      "explanation": "Beta-Keratin is found in reptiles in abundance. β-keratin also known as beta-keratin is a member of a structural protein family and is found in the epidermis of reptiles and birds."
+    },
+    {
+      "id": 12375,
+      "question": "Which among the following have a ‘mixed heart’ ,that is the heart in which the oxygenated and the deoxygenated blood is mixed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Birds"
+        },
+        {
+          "label": "B",
+          "text": "Fishes"
+        },
+        {
+          "label": "C",
+          "text": "Reptiles"
+        },
+        {
+          "label": "D",
+          "text": "Nematodes"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Reptiles"
+      },
+      "explanation": "Reptiles and Amphibians have a mixed heart."
+    },
+    {
+      "id": 30062,
+      "question": "Which of the following is a non-poisonous snake?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Python"
+        },
+        {
+          "label": "B",
+          "text": "Hognose snake"
+        },
+        {
+          "label": "C",
+          "text": "Garter snake"
+        },
+        {
+          "label": "D",
+          "text": "Ribbon snake"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Python"
+      },
+      "explanation": "Python is a non-poisonous snake. Pythons are large muscular snakes which grow up to 35 feet and weigh as much as 300 pounds. Pythons are well known for the way they kill their preys by squeezing then to death and then swallowing them all at once."
+    },
+    {
+      "id": 31393,
+      "question": "Snakes, turtle, lizards and crocodiles falls under which category of animals?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amphibian"
+        },
+        {
+          "label": "B",
+          "text": "Pisces"
+        },
+        {
+          "label": "C",
+          "text": "Reptiles"
+        },
+        {
+          "label": "D",
+          "text": "Aves"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Reptiles"
+      },
+      "explanation": "Reptiles are tetrapod animals in the class Reptilia, comprising today's turtles, crocodilians, snakes, amphisbaenians, lizards, tuatara, and their extinct relatives. The study of these traditional reptile orders, historically combined with that of modern amphibians, is called herpetology"
+    },
+    {
+      "id": 34139,
+      "question": "Which of the following represent Dinosaurs? (UPSC Prelims 1989)",
+      "options": [
+        {
+          "label": "A",
+          "text": "A reptile"
+        },
+        {
+          "label": "B",
+          "text": "An amphibian"
+        },
+        {
+          "label": "C",
+          "text": "A mammal"
+        },
+        {
+          "label": "D",
+          "text": "A bird"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "A reptile"
+      },
+      "explanation": "Dinosaurs were warm-blooded reptiles. Mammal bone study sheds light on dinosaur physiology."
+    }
+  ]
+}

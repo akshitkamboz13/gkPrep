@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "banking-finance-and-insurance-sectors-mcqs-for-ssc-examination",
+    "title": "37. Banking, Finance and Insurance Sectors",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:56:26"
+  },
+  "questions": [
+    {
+      "id": 3043,
+      "question": "Who is the ex-officio Chairperson of the Monetary Policy Committee (MPC)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Finance Minister of India"
+        },
+        {
+          "label": "B",
+          "text": "The Deputy Governor of RBI"
+        },
+        {
+          "label": "C",
+          "text": "Secretary, Department of Economic Affairs"
+        },
+        {
+          "label": "D",
+          "text": "Governor of Reserve Bank of India"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Governor of Reserve Bank of India"
+      },
+      "explanation": "The Monetary Policy Committee was formed in 2016 after an amendment to the RBI Act, 1934. The Committee consists of six members: three from the Reserve Bank of India and three nominated by the Central Government. The Governor of the Reserve Bank of India is designated as the ex-officio Chairperson of the Monetary Policy Committee."
+    },
+    {
+      "id": 5267,
+      "question": "Where do banks keep liquid assets for Statutory Liquidity Ratio (SLR)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "With themselves"
+        },
+        {
+          "label": "B",
+          "text": "With the RBI"
+        },
+        {
+          "label": "C",
+          "text": "With other banks"
+        },
+        {
+          "label": "D",
+          "text": "In the market"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "With themselves"
+      },
+      "explanation": "Under the Statutory Liquidity Ratio (SLR), banks must maintain liquid assets such as cash, gold, or approved securities with themselves. SLR is mandated by the Reserve Bank of India under the Banking Regulation Act, 1949. The current SLR requirement is 18% of Net Demand and Time Liabilities (NDTL) as per RBI policy. These assets are not kept with the RBI."
+    },
+    {
+      "id": 5268,
+      "question": "The terms such as ‘placement, layering, integration of funds’ are related to which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fiscal Management"
+        },
+        {
+          "label": "B",
+          "text": "Financial Stability"
+        },
+        {
+          "label": "C",
+          "text": "Money Laundering"
+        },
+        {
+          "label": "D",
+          "text": "Capital Market Trading"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Money Laundering"
+      },
+      "explanation": "The process of laundering money generally involves three steps: placement, layering, and integration. Placement refers to injecting the “dirty money” into the legitimate financial system. Layering conceals the source of the money through a series of transactions and bookkeeping tricks. in Integration, the now-laundered money is withdrawn from the legitimate account to be used for desired purposes."
+    },
+    {
+      "id": 7672,
+      "question": "Which among the following correctly denotes Reserve Money?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Currency in circulation"
+        },
+        {
+          "label": "B",
+          "text": "Currency in Circulation + Other deposits of the General Public with RBI"
+        },
+        {
+          "label": "C",
+          "text": "Currency in circulation + Other deposits of the general Public with RBI + Cash held with the banks"
+        },
+        {
+          "label": "D",
+          "text": "Currency in circulation + Other deposits of the general Public with RBI + Cash held with the banks + Banker’s Deposits with RBI"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Currency in circulation + Other deposits of the general Public with RBI + Cash held with the banks + Banker’s Deposits with RBI"
+      },
+      "explanation": "Reserve money is also called High Powered Money / central bank money. It is the Currency in Circulation plus Deposits of Commercial Banks with RBI."
+    },
+    {
+      "id": 7754,
+      "question": "Rs. 100 notes are printed at which locations in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only Nashik and Dewas"
+        },
+        {
+          "label": "B",
+          "text": "Mysore and Salboni only"
+        },
+        {
+          "label": "C",
+          "text": "Noida and Hoshangabad"
+        },
+        {
+          "label": "D",
+          "text": "All of the above locations"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "All of the above locations"
+      },
+      "explanation": "Currency notes of Rs. 100 are printed at four locations in India: Currency Note Press in Nashik (Maharashtra), Bank Note Press in Dewas (Madhya Pradesh), and Bharatiya Reserve Bank Note Mudran Ltd. presses in Mysore (Karnataka) and Salboni (West Bengal). Nashik and Dewas presses are operated by Security Printing and Minting Corporation of India Ltd. Mysore and Salboni presses are managed by BRBNMPL."
+    }
+  ]
+}

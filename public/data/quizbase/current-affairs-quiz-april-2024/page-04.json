@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-april-2024",
+    "title": "Current Affairs Quiz - April, 2024",
+    "page": 4,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:45:57",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:47:52"
+  },
+  "questions": [
+    {
+      "id": 31,
+      "question": "Recently, where was an International humanitarian conference for Sudan held?",
+      "options": [
+        {
+          "label": "A",
+          "text": "London"
+        },
+        {
+          "label": "B",
+          "text": "Paris"
+        },
+        {
+          "label": "C",
+          "text": "Moscow"
+        },
+        {
+          "label": "D",
+          "text": "Beijing"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Paris"
+      },
+      "explanation": "An International Humanitarian Conference convened in Paris on April 15, 2024, aimed to aid Sudan amidst conflict between its army and rebel paramilitary groups. Organized by France, Germany, and the EU, in response to a UN appeal, it drew representatives from 58 states, regional organizations like the African Union, and NGOs. The event sought funds to assist Sudan and neighboring nations. Notable attendees included UN agencies, the World Bank, IMF, and Arab Development Bank."
+    },
+    {
+      "id": 32,
+      "question": "Bhandasar Jain Temple, recently seen in news, is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "B",
+          "text": "Gujarat"
+        },
+        {
+          "label": "C",
+          "text": "Odisha"
+        },
+        {
+          "label": "D",
+          "text": "Bihar"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Rajasthan"
+      },
+      "explanation": "The Bhandasar Jain Temple, a ghee-made marvel in Bikaner, Rajasthan, was built by Jain merchant Bhandasa Oswal. Dedicated to the 5th Tirthankara, Sumatinatha, it’s under Archaeological Survey of India protection. During a drought, 40,000 kilograms of ghee substituted water in its construction. Its red sandstone structure, adorned with intricate yellow-stone carvings, stands three stories tall. The sanctum is crowned with a shikhara, while ornate paintings and frescoes depict Tirthankaras’ lives."
+    },
+    {
+      "id": 33,
+      "question": "Recently, which state holds the top position among Indian states for economic complexity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gujarat"
+        },
+        {
+          "label": "B",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "C",
+          "text": "Kerala"
+        },
+        {
+          "label": "D",
+          "text": "Telangana"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Tamil Nadu"
+      },
+      "explanation": "Tamil Nadu leads Indian states in economic complexity, gauged by GDP and employment diversity. Its farm sector’s contribution to GVA and labor force is below the national average, compensated by higher shares of industry, services, and construction. This balanced economy reflects a lower dependency on agriculture compared to the national average, positioning Tamil Nadu as a robust economic entity."
+    },
+    {
+      "id": 34,
+      "question": "What is GPS spoofing, recently seen in the news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Enhancing GPS accuracy"
+        },
+        {
+          "label": "B",
+          "text": "Broadcasting exact location"
+        },
+        {
+          "label": "C",
+          "text": "Manipulating GPS receivers with false signals"
+        },
+        {
+          "label": "D",
+          "text": "Enhancing privacy of individual"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Manipulating GPS receivers with false signals"
+      },
+      "explanation": "Israel reportedly utilized GPS spoofing to disrupt Iran’s missile targeting by interfering with GPS navigation signals. This cyberattack involves broadcasting false GPS signals, misleading receivers into providing inaccurate location data. GPS spoofing exploits weaknesses in satellite signals, posing significant threats to navigation and various industries like logistics, telecommunications, and defense. Unlike jamming, spoofing is more sophisticated and potentially catastrophic, highlighting the critical importance of safeguarding GPS systems."
+    },
+    {
+      "id": 35,
+      "question": "Recently, which country became the 38th country to join Artemis Accords?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Austria"
+        },
+        {
+          "label": "B",
+          "text": "Egypt"
+        },
+        {
+          "label": "C",
+          "text": "Sweden"
+        },
+        {
+          "label": "D",
+          "text": "Vietnam"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Sweden"
+      },
+      "explanation": "Sweden, the 38th nation, joins the Artemis Accords initiated by NASA in 2020, along with seven other founding members. The accords, based on the Outer Space Treaty of 1967, aims to govern civil space exploration in the 21st century. It emphasizes peaceful space cooperation and signifies a multilateral approach to space diplomacy. India is also a signatory to the accords, highlighting global participation in the endeavor."
+    },
+    {
+      "id": 36,
+      "question": "According to the 2024 report from the New Lancet Commission, what is the projected number of annual deaths from breast cancer by 2040?",
+      "options": [
+        {
+          "label": "A",
+          "text": "One million"
+        },
+        {
+          "label": "B",
+          "text": "Two million"
+        },
+        {
+          "label": "C",
+          "text": "Three million"
+        },
+        {
+          "label": "D",
+          "text": "Five million"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "One million"
+      },
+      "explanation": "According to a 2024 report from the New Lancet Commission, breast cancer is projected to cause one million deaths a year by 2040, an increase of more than 50% from 2020. The report states that, from 2020 to 2020, 7.8 million women were diagnosed with breast cancer, and 685,000 of those women died from the disease that same year. The report also predicts that global breast cancer diagnoses will exceed three million annually by 2040."
+    },
+    {
+      "id": 37,
+      "question": "Recently, which country has tested the Pyoljji-1-2 anti-aircraft missile?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ukraine"
+        },
+        {
+          "label": "B",
+          "text": "Iran"
+        },
+        {
+          "label": "C",
+          "text": "North Korea"
+        },
+        {
+          "label": "D",
+          "text": "Egypt"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "North Korea"
+      },
+      "explanation": "On April 20, 2024, North Korea announced testing of Pyoljji-1-2 anti-aircraft and Hwasal-1 Ra-3 super large strategic cruise missiles in the West Sea of Korea. Conducted a day earlier, this test escalated tensions with South Korea and the USA. The Hwasal-1 Ra-3, capable of carrying nuclear warheads, underwent a power test. This follows a February 2024 test, and adds to recent missile tests, including a solid-fuel hypersonic missile, heightening regional tensions."
+    },
+    {
+      "id": 38,
+      "question": "Global Financial Stability Report, recently released by which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "International Monetary Fund"
+        },
+        {
+          "label": "B",
+          "text": "World Bank"
+        },
+        {
+          "label": "C",
+          "text": "World Trade Organization"
+        },
+        {
+          "label": "D",
+          "text": "World Health Organization"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "International Monetary Fund"
+      },
+      "explanation": "The International Monetary Fund (IMF) released its latest Global Financial Stability Report, a biannual assessment evaluating the stability of global financial markets and emerging-market financing. Published in April and October, the report scrutinizes current financial conditions, highlighting potential risks such as imbalances in the financial and structural realms. It aims to address threats to global financial stability and assess access to financing for emerging-market nations."
+    },
+    {
+      "id": 39,
+      "question": "Recently, who won the prestigious 2024 World Press Photo of the Year award?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ronald Schemidt"
+        },
+        {
+          "label": "B",
+          "text": "Mohammed Salem"
+        },
+        {
+          "label": "C",
+          "text": "Kayin Luys"
+        },
+        {
+          "label": "D",
+          "text": "Ruben Soto"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Mohammed Salem"
+      },
+      "explanation": "Mohammed Salem received the 2024 World Press Photo of the Year award for his poignant image capturing a Palestinian woman holding her five-year-old niece’s body in the Gaza Strip. Taken on Oct. 17, 2023, at Nasser Hospital in Khan Younis during Israeli bombings, the photograph reflects the human toll of conflict. Salem’s work highlights the ongoing struggles faced by Palestinians in Gaza, earning him international recognition for his powerful storytelling through photography."
+    },
+    {
+      "id": 40,
+      "question": "Recently, which organization released a report, ‘Ensuring Safety and Health at Work in a Changing Climate’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "International Labour Organization"
+        },
+        {
+          "label": "B",
+          "text": "World Bank"
+        },
+        {
+          "label": "C",
+          "text": "World Health Organization"
+        },
+        {
+          "label": "D",
+          "text": "United Nations Development Programme"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "International Labour Organization"
+      },
+      "explanation": "The ILO’s report, “Ensuring Safety and Health at Work in a Changing Climate,” highlights alarming trends. Over 70% of global workers face rising temperatures, leading to 22.85 million annual occupational injuries and 18,970 deaths, primarily due to excessive heat. Chronic kidney disease is rising among manual laborers in hot regions like India. Excessive UV radiation increases cancer risk. Subsistence agriculture, pesticide exposure, and workplace pollution pose further threats, urging the need for updated legislation."
+    }
+  ]
+}

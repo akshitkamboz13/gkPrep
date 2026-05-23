@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-31-human-body-blood-circulation-and-immune",
+    "title": "31. Human Body - Blood, Circulation and Immune System",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:58:53"
+  },
+  "questions": [
+    {
+      "id": 3062,
+      "question": "Hemoglobin in humans has the highest affinity for which of the following gases?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Methane"
+        },
+        {
+          "label": "B",
+          "text": "Carbon Monoxide"
+        },
+        {
+          "label": "C",
+          "text": "Nitrous oxide"
+        },
+        {
+          "label": "D",
+          "text": "Carbon dioxide"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Carbon Monoxide"
+      },
+      "explanation": "Hemoglobin in humans has a very high affinity for carbon monoxide, forming carboxyhemoglobin which is a very bright red in color. Carbon monoxide is thus problematic for humans because it has affinity higher than that of oxygen."
+    },
+    {
+      "id": 4365,
+      "question": "A doctor, while using the Sphygmomanometer to measure the blood pressure of a patient, also uses the Stethoscope to listen a whooshing sound of blood, in which among the following arteries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Radial Artery"
+        },
+        {
+          "label": "B",
+          "text": "Brachial Artery"
+        },
+        {
+          "label": "C",
+          "text": "Auxiliary Artery"
+        },
+        {
+          "label": "D",
+          "text": "Median Artery"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Brachial Artery"
+      },
+      "explanation": "A doctor, while using the Sphygmomanometer to measure the blood pressure of a patient, also uses the Stethoscope to listen a whooshing sound of blood in the Brachial Artery."
+    },
+    {
+      "id": 4367,
+      "question": "Which among the following Vitamins helps in clotting of Blood?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vitamin C"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin D"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin E"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin K"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Vitamin K"
+      },
+      "explanation": "Vitamin K is naturally produced by the bacteria in the intestines, and plays an essential role in normal blood clotting, promoting bone health, and helping to produce proteins for blood, bones, and kidneys."
+    },
+    {
+      "id": 4470,
+      "question": "What is the main function of Lymphocytes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Production of Antibodies"
+        },
+        {
+          "label": "B",
+          "text": "Production of Antigens"
+        },
+        {
+          "label": "C",
+          "text": "Production of White Blood Cells"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Production of Antibodies"
+      },
+      "explanation": "Lymphocytes are a type of white blood cell that are part of the immune system. Their main function is to produce antibodies that protect the body from foreign invaders, such as viruses, bacteria, and toxins. These antibodies help the body respond to and eliminate foreign invaders, which provides protection against infectious diseases. Lymphocytes also help the body's immune system remember every antigen it comes in contact with. After an encounter, some lymphocytes turn into memory cells. There are two main types of lymphocytes: B cells and T cells. B cells produce antibodies that attack invading bacteria, viruses, and toxins. T cells destroy the body's own cells that have been taken over. If you have low numbers of lymphocytes (lymphopenia), you are at higher risk of infection. Symptoms can range from mild to serious and are correlated to the severity of the lymphopenia as well as its duration. Some people have no symptoms."
+    },
+    {
+      "id": 5452,
+      "question": "Normal Human blood pressure is",
+      "options": [
+        {
+          "label": "A",
+          "text": "110/110"
+        },
+        {
+          "label": "B",
+          "text": "120/70"
+        },
+        {
+          "label": "C",
+          "text": "120/80"
+        },
+        {
+          "label": "D",
+          "text": "140/60"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "120/80"
+      },
+      "explanation": "Blood Pressure is expressed in two numbers. The higher number is known as Systolic Pressure, or the amount of force (as measured in millimetres of mercury) that is exerted against the artery walls during a heartbeat (contraction). The lower number in the Diastolic pressure, which does the force exist while the heart is resting between beats."
+    }
+  ]
+}

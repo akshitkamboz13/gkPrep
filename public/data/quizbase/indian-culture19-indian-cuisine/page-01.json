@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-culture19-indian-cuisine",
+    "title": "Indian Culture:19-Indian Cuisine",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:16:44"
+  },
+  "questions": [
+    {
+      "id": 94768,
+      "question": "Chepa Pulusu is the famous food of which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Karnataka"
+        },
+        {
+          "label": "B",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "C",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Kerala"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Andhra Pradesh"
+      },
+      "explanation": "Chepa Pulusu is a famous food in the state of Andhra Pradesh. It is a type of non-vegetarian food. The cuisine of Hyderabad, the capital of Andhra Pradesh, has its own specialty which is quite different from other Andhra cuisines. The Nizams gave much favor to Hyderabadi cuisine"
+    },
+    {
+      "id": 94769,
+      "question": "Pulihora is the famous food of where?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "C",
+          "text": "Karanataka"
+        },
+        {
+          "label": "D",
+          "text": "Odisha"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Andhra Pradesh"
+      },
+      "explanation": "Poolihora or Poolihara is a type of tamarind rice. It is the famous food in Andhra Pradesh. Pulihora is prepared with kokum, tamarind, lemon or green mango as the main sour ingredients, along with spices, lentils, groundnut, and jaggery cooked in oil and mixed with rice cooked with fried curry leaves goes."
+    },
+    {
+      "id": 94770,
+      "question": "Kolatha Dali is a famous food of __",
+      "options": [
+        {
+          "label": "A",
+          "text": "Odisha"
+        },
+        {
+          "label": "B",
+          "text": "Chattisghar"
+        },
+        {
+          "label": "C",
+          "text": "Jharkhand"
+        },
+        {
+          "label": "D",
+          "text": "Bihar"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Odisha"
+      },
+      "explanation": "Kolatha Dali is a famous food in Odisha. Aris Pitha, Jhanni Rai, Kancha Kadali Bada, Tomato, Khajoor Khatta, Dalma, etc. are also famous food in Odisha."
+    },
+    {
+      "id": 94771,
+      "question": "Which of the following sweets is related to Bengal?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gaja"
+        },
+        {
+          "label": "B",
+          "text": "Sondesh"
+        },
+        {
+          "label": "C",
+          "text": "Modak"
+        },
+        {
+          "label": "D",
+          "text": "Anarsa"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Sondesh"
+      },
+      "explanation": "Sandesh is a type of Indian dish, which is made from chhena and sugar. Sandesh is a Bengali sweet, made in the Bengal region in the eastern part of the Indian subcontinent, made with milk-derived chenna and sugar."
+    },
+    {
+      "id": 94772,
+      "question": "Which is a type of sweet Bihari dish made from rice flour, sesame seeds, and sugar?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anarsa"
+        },
+        {
+          "label": "B",
+          "text": "Balushahi"
+        },
+        {
+          "label": "C",
+          "text": "Basundi"
+        },
+        {
+          "label": "D",
+          "text": "Gajak"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Anarsa"
+      },
+      "explanation": "Anarsa is a type of sweet Bihari dish made from rice flour, sesame seeds and sugar. It is a special dish of Diwali and is generally more popular in North India. Two types of anarsa are made. In the shape of round tablets or flat tablets. While eating around anarsa, it becomes crunchy as well as soft from the inside."
+    }
+  ]
+}

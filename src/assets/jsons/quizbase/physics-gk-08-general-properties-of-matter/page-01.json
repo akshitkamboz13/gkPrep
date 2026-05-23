@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physics-gk-08-general-properties-of-matter",
+    "title": "Physics GK 08 - General Properties of Matter",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:30:35"
+  },
+  "questions": [
+    {
+      "id": 3273,
+      "question": "Which of the following is responsible for the fact that Tennis ball bounces higher at high altitudes than in plains?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Low Gravity"
+        },
+        {
+          "label": "B",
+          "text": "High Gravity"
+        },
+        {
+          "label": "C",
+          "text": "Less dense air"
+        },
+        {
+          "label": "D",
+          "text": "Low atmospheric temperature"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Less dense air"
+      },
+      "explanation": "The rarified air at high altitudes gives less resistance to ball."
+    },
+    {
+      "id": 6432,
+      "question": "Which of the following term denotes the internal reaction force per unit area developed as a result of applied external force ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stress"
+        },
+        {
+          "label": "B",
+          "text": "Friction"
+        },
+        {
+          "label": "C",
+          "text": "Moment of Inertia"
+        },
+        {
+          "label": "D",
+          "text": "tension"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Stress"
+      },
+      "explanation": "Stress is the force acting per unit area. It is the internal force reaction per unit area developed as a result of external force."
+    },
+    {
+      "id": 6433,
+      "question": "Which among the following defines cohesive force?",
+      "options": [
+        {
+          "label": "A",
+          "text": "the force of attraction acting between the molecules of same material"
+        },
+        {
+          "label": "B",
+          "text": "the force of attraction acting between the molecules of different material"
+        },
+        {
+          "label": "C",
+          "text": "the force of attraction acting between the atoms of same material"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "the force of attraction acting between the molecules of same material"
+      },
+      "explanation": "The force of attraction acting between the molecules of same material is known as cohesive force. Cohesive force is the action or property of like molecules sticking together, being mutually attractive."
+    },
+    {
+      "id": 6434,
+      "question": "The ideal fluid which is a hypothetical fluid should contain _______?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zero Viscosity Only"
+        },
+        {
+          "label": "B",
+          "text": "Zero Compressibility Only"
+        },
+        {
+          "label": "C",
+          "text": "Zero Viscosity & Zero Compressibility"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Zero Viscosity & Zero Compressibility"
+      },
+      "explanation": "An ideal fluid hypothetical fluid should contain Zero Viscosity & Zero Compressibility. Almost all fluids will not have zero viscosity and zero compressibility."
+    },
+    {
+      "id": 7699,
+      "question": "A transition from the solid to gas phase with no intermediate liquid stage is called?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Evaporation"
+        },
+        {
+          "label": "B",
+          "text": "Sublimation"
+        },
+        {
+          "label": "C",
+          "text": "Adsorption"
+        },
+        {
+          "label": "D",
+          "text": "Solid Phase extraction"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Sublimation"
+      },
+      "explanation": "Sublimation is the process by which a substance transitions from a solid to a gas without passing through a liquid phase. This typically occurs when a substance is heated to a temperature at which its solid form becomes a gas, such as when dry ice (solid carbon dioxide) sublimates and turns into gas. Sublimation can also occur when a substance is exposed to a vacuum, which can cause gases to be drawn out of the substance and turn into a solid. Sublimation is an important process in many scientific and industrial fields, including meteorology, chemistry, and materials science. Camphor is also an example of Sublimation."
+    }
+  ]
+}

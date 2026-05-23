@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "11-sixteen-mahajanapadas",
+    "title": "11. Sixteen Mahajanapadas",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:50:52"
+  },
+  "questions": [
+    {
+      "id": 1896,
+      "question": "Ujjaini located in the Malwa region, came under which Mahajanapada?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anga"
+        },
+        {
+          "label": "B",
+          "text": "Kasi"
+        },
+        {
+          "label": "C",
+          "text": "Kosal"
+        },
+        {
+          "label": "D",
+          "text": "Avanti"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Avanti"
+      },
+      "explanation": "Ujjaini was located in the Malwa region came under Avanti Mahajanapada."
+    },
+    {
+      "id": 1897,
+      "question": "Taxila was the capital of which ancient Mahajanpada ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gandhara"
+        },
+        {
+          "label": "B",
+          "text": "Anga"
+        },
+        {
+          "label": "C",
+          "text": "Magadha"
+        },
+        {
+          "label": "D",
+          "text": "Kasi"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Gandhara"
+      },
+      "explanation": "\"Gandhara\" was one of the 16 mahajanapadas, located in the northwest region of ancient India, roughly corresponding to present-day eastern Afghanistan and northern Pakistan. Its capitals were Kapisi (Bagram), Puṣkalavati (Charsadda), Puruṣapura (Peshawer), Takshashila (Taxila) and Udabhandapura (Hund)"
+    },
+    {
+      "id": 1899,
+      "question": "Mathura, the famous city was the capital of which ancient Mahajanapada?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Panchal"
+        },
+        {
+          "label": "B",
+          "text": "Kasi"
+        },
+        {
+          "label": "C",
+          "text": "Kuru"
+        },
+        {
+          "label": "D",
+          "text": "Sursena"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Sursena"
+      },
+      "explanation": "Mathura, the famous city was the capital of Surasena Mahajanapada."
+    },
+    {
+      "id": 2014,
+      "question": "What was the capital of Surasena Mahajanapada?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Viratnagar"
+        },
+        {
+          "label": "B",
+          "text": "Mathura"
+        },
+        {
+          "label": "C",
+          "text": "Taxila"
+        },
+        {
+          "label": "D",
+          "text": "Kashi"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Mathura"
+      },
+      "explanation": "Surasena Mahajanapada was located in the region corresponding to the present-day Braj region in Uttar Pradesh and Rajasthan. Its capital was Mathura."
+    },
+    {
+      "id": 5520,
+      "question": "Which among the following text of Buddhism speaks about the sixteen Mahajanapadas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Digh Nikaya"
+        },
+        {
+          "label": "B",
+          "text": "Anguttar Nikaya"
+        },
+        {
+          "label": "C",
+          "text": "Maha Parinibbana Sutta"
+        },
+        {
+          "label": "D",
+          "text": "Majjhima Nikaya"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Anguttar Nikaya"
+      },
+      "explanation": "16 Mahajanapadas have been listed by several Buddhist and Jainsm texts. For example Anguttara Nikaya gives a list of sixteen great nations, which is slightly diffrent from Digha Nikaya which mentions only twelve Mahajanapadas. Similarly, Jain text Vyākhyāprajñapti (or Bhagavati Sutra) gives a different list of sixteen Mahajanapadas."
+    }
+  ]
+}

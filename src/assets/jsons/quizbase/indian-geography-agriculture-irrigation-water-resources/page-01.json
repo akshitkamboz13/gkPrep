@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-geography-agriculture-irrigation-water-resources",
+    "title": "Indian Geography - Agriculture, Irrigation, Water Resources",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:17:46"
+  },
+  "questions": [
+    {
+      "id": 4221,
+      "question": "Which among the following states is largest producer of Coffee in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamilnadu"
+        },
+        {
+          "label": "B",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Karnataka"
+        },
+        {
+          "label": "D",
+          "text": "Kerala"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Karnataka"
+      },
+      "explanation": "Karnataka is the largest producer of coffee in India, followed by Kerala and Tamil Nadu. Karnataka accounts for around 70% of India's total coffee production, primarily growing both Arabica and Robusta varieties. Coffee cultivation in Karnataka is concentrated in the hilly regions of Kodagu (Coorg), Chikmagalur, and Hassan districts, which offer ideal climatic conditions for coffee growth."
+    },
+    {
+      "id": 4508,
+      "question": "Tungabhadra Multipurpose project is an interstate project between which among the following states?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Karnataka & Andhra Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Karnataka & Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Karnataka, Maharashtra and Andhra Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka & Goa"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Karnataka & Andhra Pradesh"
+      },
+      "explanation": "Tungabhadra Multipurpose project is a joint project between the states of Andhra Pradesh and Karnataka. The project includes a dam across the Tungabhadra River, a tributary of the Krishna River. The dam was completed in 1953 and was built to promote power and irrigation for large areas of both states. The dam serves multiple purposes, including irrigation, electricity generation, and flood control."
+    },
+    {
+      "id": 4540,
+      "question": "Which among the following state produces maximum raw silk in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bihar"
+        },
+        {
+          "label": "B",
+          "text": "Assam"
+        },
+        {
+          "label": "C",
+          "text": "West Bengal"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Karnataka"
+      },
+      "explanation": "Karnataka accounted for as much as 60% of the country’s raw silk output"
+    },
+    {
+      "id": 4544,
+      "question": "Coir Industry is maximum concentrated in which among the following states of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Karnataka"
+        },
+        {
+          "label": "B",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "C",
+          "text": "Kerala"
+        },
+        {
+          "label": "D",
+          "text": "Andhra Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Kerala"
+      },
+      "explanation": "The Coir Industry is predominantly concentrated in Kerala, which is known as the \"Land of Coconut.\" Kerala produces about 60% of India's coir fiber and is home to numerous coir processing units. The state has a rich tradition of coir production, dating back to the 19th century, and it plays a important role in the local economy, providing employment to thousands."
+    },
+    {
+      "id": 5795,
+      "question": "Which among the following state of India is best known for Saffron Cultivation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sikkim"
+        },
+        {
+          "label": "B",
+          "text": "Assam"
+        },
+        {
+          "label": "C",
+          "text": "Jammu & Kashmir"
+        },
+        {
+          "label": "D",
+          "text": "Meghalaya"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Jammu & Kashmir"
+      },
+      "explanation": "Kashmir saffron is a high value, low volume crop and the quality of saffron is among the best in the world particularly because of its rich color and flavour. A small area in the valley, Pampore has the virtual monopoly of saffron cultivation in the country."
+    }
+  ]
+}

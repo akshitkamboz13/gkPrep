@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-21-state-legislature-assemblies-legi",
+    "title": "State Legislature: Assemblies & Legislative Councils",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:20:21"
+  },
+  "questions": [
+    {
+      "id": 4314,
+      "question": "What is the maximum strength of a legislative assembly in India as prescribed by Constitution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "300"
+        },
+        {
+          "label": "B",
+          "text": "400"
+        },
+        {
+          "label": "C",
+          "text": "500"
+        },
+        {
+          "label": "D",
+          "text": "600"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "500"
+      },
+      "explanation": "The constitution has fixed the maximum strength of a legislative assembly at 500 and minimum strength at 60. It means that its strength varies from 60 to 500 depending on the population size of the state. However, in case of Arunachal Pradesh, Sikkim and Goa, the minimum number is fixed at 30 and in case of Mizoram and Nagaland, it is 40 and 46 respectively."
+    },
+    {
+      "id": 4411,
+      "question": "What can be the maximum number of members in a legislative assembly of a state in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "400"
+        },
+        {
+          "label": "B",
+          "text": "500"
+        },
+        {
+          "label": "C",
+          "text": "450"
+        },
+        {
+          "label": "D",
+          "text": "550"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "500"
+      },
+      "explanation": "The Legislative assembly of each state cannot have number of members more than 500 and less than 60. However, there are three exceptions to this viz. Sikkim (32), Goa (40) and Mizoram (40)"
+    },
+    {
+      "id": 4536,
+      "question": "What is the minimum age prescribed by the Constitution of India for a candidate seeking elections to a state Legislative Assembly?",
+      "options": [
+        {
+          "label": "A",
+          "text": "21 years"
+        },
+        {
+          "label": "B",
+          "text": "25 years"
+        },
+        {
+          "label": "C",
+          "text": "30 years"
+        },
+        {
+          "label": "D",
+          "text": "35 years"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "25 years"
+      },
+      "explanation": "inimum age for a candidate to be elected as President of India- 35 years Minimum age for a candidate to be elected as Vice President of India- 35 years Minimum age for a candidate to be elected as MLA- 25 years Minimum age for a candidate to be elected as member of Lok Sabha-25 years Minimum age for a candidate to be elected as member of Rajya Sabha-30 years Minimum age for a candidate to be elected as MLC- 30 years"
+    },
+    {
+      "id": 6278,
+      "question": "What is the upper limit of election expense in a parliamentary constituency?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10 lakhs"
+        },
+        {
+          "label": "B",
+          "text": "25 lakhs"
+        },
+        {
+          "label": "C",
+          "text": "70 lakhs"
+        },
+        {
+          "label": "D",
+          "text": "1 cr"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "70 lakhs"
+      },
+      "explanation": "As per the current norms, the maximum limit of election expenses per candidate is as follows: Lok Sabha Constituencies 70 Lakh for all States except Arunachal Pradesh, Goa and Sikkim. 54 Lakh for Arunachal Pradesh, Goa and Sikkim = 54.00 Lakhs 70 Lakh for NCT of Delhi 54 Lakh for other Union Territories. Assembly Constituencies 28 Lakh for bigger states and NCT of Delhi 20 Lakh for smaller states and UTs."
+    },
+    {
+      "id": 6448,
+      "question": "Which among the following is not true about State Legislative Council in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Council is a Permanent House & one-third of the members retire in two years."
+        },
+        {
+          "label": "B",
+          "text": "Members of local bodies elect one-third of the total number of members of the legislative council"
+        },
+        {
+          "label": "C",
+          "text": "If a state legislative council is to be created or abolished , a resolution to that effect is to be first passed by the State legislature by a two-third majority"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "The Council is a Permanent House & one-third of the members retire in two years."
+      },
+      "explanation": "The Council is permanent House & TWO-THIRD of the members retire in two years."
+    }
+  ]
+}

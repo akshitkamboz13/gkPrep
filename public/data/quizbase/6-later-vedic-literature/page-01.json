@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "6-later-vedic-literature",
+    "title": "6. Later Vedic Literature",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:54:51"
+  },
+  "questions": [
+    {
+      "id": 1740,
+      "question": "The Satapatha Brahmana and Taitriya Brahmana are the Brahmana texts of ___:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rigveda"
+        },
+        {
+          "label": "B",
+          "text": "Yajurveda"
+        },
+        {
+          "label": "C",
+          "text": "Samaveda"
+        },
+        {
+          "label": "D",
+          "text": "Atharavaveda"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Yajurveda"
+      },
+      "explanation": "Satapatha Brahmana and Taitriya Brahmana are the Brahmana texts of Yajurveda."
+    },
+    {
+      "id": 1763,
+      "question": "Which of the following Upanishads is composed in prose form?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Isa Upanishad"
+        },
+        {
+          "label": "B",
+          "text": "Katha Upanishad"
+        },
+        {
+          "label": "C",
+          "text": "Brihadaranyaka Upanishad"
+        },
+        {
+          "label": "D",
+          "text": "Svetasvatara Upanishad"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Brihadaranyaka Upanishad"
+      },
+      "explanation": "The Brihadaranyaka Upanishad is one of the oldest Upanishads and is estimated to have been composed about 700 BCE. It is written in prose and forms part of the Shatapatha Brahmana of the Yajur Veda. It is considered as a source of philosophical doctrines, metaphorical speculative thoughts and mystical symbolism in Hinduism."
+    },
+    {
+      "id": 1788,
+      "question": "Which one is the longest epic of the world?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ramayana"
+        },
+        {
+          "label": "B",
+          "text": "Ramcharitmanas"
+        },
+        {
+          "label": "C",
+          "text": "Mahabharata"
+        },
+        {
+          "label": "D",
+          "text": "Hanuman Chalisa"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Mahabharata"
+      },
+      "explanation": "The Mahabharata by Ved vyas is the longest epic of the world consists of 1,00,000 shlokas."
+    },
+    {
+      "id": 1819,
+      "question": "One of the writers of the Dharmashashtra disapproved the practice of Sati declaring it as an act of suicide. Identify him from the given options:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Angiras"
+        },
+        {
+          "label": "B",
+          "text": "Medhatithi"
+        },
+        {
+          "label": "C",
+          "text": "Usana"
+        },
+        {
+          "label": "D",
+          "text": "Visnu"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Medhatithi"
+      },
+      "explanation": "Medhatithi is one of the oldest and most famous commentators on the Manusmriti. He considered sati system identical to suicide, which was forbidden by the Vedas. One shall not die before the span of one’s life is run out."
+    },
+    {
+      "id": 1922,
+      "question": "Vidhushaka, a common character in Sanskrit drama is ___?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brahmana"
+        },
+        {
+          "label": "B",
+          "text": "Kshatriya"
+        },
+        {
+          "label": "C",
+          "text": "Vaishya"
+        },
+        {
+          "label": "D",
+          "text": "Shudra"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Brahmana"
+      },
+      "explanation": "In classical Sanskrit drama, Vidushaka (Bufoon) is essentially a Brahmin and is a confident / attendent of the Hero. Despite being educated in Sanskrit, he speaks in Prakrit, the vernacular language of the time. Bharata mentions him along with the principal characters in his Natyasastra."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-14-prime-minister-union-council-of-m",
+    "title": "Prime Minister & Union Council of Ministers",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:19:37"
+  },
+  "questions": [
+    {
+      "id": 3216,
+      "question": "In which of the following circumstances, the prime minister of India cannot participate in voting on a no-confidence motion against his / her government?",
+      "options": [
+        {
+          "label": "A",
+          "text": "He / She leads a coalition government"
+        },
+        {
+          "label": "B",
+          "text": "He / she has minority in Rajya Sabha"
+        },
+        {
+          "label": "C",
+          "text": "He / she is a member of Rajya Sabha"
+        },
+        {
+          "label": "D",
+          "text": "He / she is forbidden by speaker of Lok Sabha"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "He / she is a member of Rajya Sabha"
+      },
+      "explanation": "If PM is a member of Rajya Sabha, he can participate in procedures of both houses but can vote only in Rajya Sabha. Vote of No Confidence can be moved only in Lok Sabha so PM will not vote in it."
+    },
+    {
+      "id": 5352,
+      "question": "Who among the following heads the Central government in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prime Minister"
+        },
+        {
+          "label": "B",
+          "text": "Chief Minister"
+        },
+        {
+          "label": "C",
+          "text": "President"
+        },
+        {
+          "label": "D",
+          "text": "Vice-President"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Prime Minister"
+      },
+      "explanation": "Prime Minister of India heads the central government / Central Council of Ministers in India. He is also the chief of the central government, chief advisor of the President and leader of majority party / coalition in Parliament of India. He is also leader of the executive branch of the government of India. On the other hand, President is the \"head of the state\" in India under whose name, all the business of the government is transacted."
+    },
+    {
+      "id": 5353,
+      "question": "First Indian Prime Minister to resign from Office?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atal Bihari Vajpayee"
+        },
+        {
+          "label": "B",
+          "text": "Morarji Desai"
+        },
+        {
+          "label": "C",
+          "text": "H.D.Deve Gowda"
+        },
+        {
+          "label": "D",
+          "text": "P.V.Narasimha Rao"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Morarji Desai"
+      },
+      "explanation": "Morarji Desai had become the first non-congress PM of India in 1977 leading the Janata Party led coalition government. He resigned in 1979 when Charan Singh pulled out of the Janta Party. Thus, he became the first Prime Minister of India to resign from office."
+    },
+    {
+      "id": 5672,
+      "question": "An individual Minister can be removed by ______?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prime Minister"
+        },
+        {
+          "label": "B",
+          "text": "Council of Ministers"
+        },
+        {
+          "label": "C",
+          "text": "Parliament"
+        },
+        {
+          "label": "D",
+          "text": "President"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "President"
+      },
+      "explanation": "Article 75(2) of the constitution of India specifically provides that the ministers shall hold office during the pleasure of the President of India. However, President can do so only on advice of the Prime Minister."
+    },
+    {
+      "id": 6544,
+      "question": "A government has to resign if the no confidence motion is passed in __________?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only Lok Sabha"
+        },
+        {
+          "label": "B",
+          "text": "Only Rajya Sabha"
+        },
+        {
+          "label": "C",
+          "text": "Either Lok Sabha or Rajya Sabha"
+        },
+        {
+          "label": "D",
+          "text": "Both Lok Sabha & Rajya Sabha"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Only Lok Sabha"
+      },
+      "explanation": "If a no confidence motion is passed in the Lok Sabha or the Lower House of Parliament of India, the government has to resign."
+    }
+  ]
+}

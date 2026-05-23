@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "general-science-chemistry",
+    "title": "Chemistry MCQs",
+    "page": 4,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:50:39",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:13:02"
+  },
+  "questions": [
+    {
+      "id": 31,
+      "question": "Nucleus of an atom consists of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Proton"
+        },
+        {
+          "label": "B",
+          "text": "Neutron"
+        },
+        {
+          "label": "C",
+          "text": "Proton and Neutron"
+        },
+        {
+          "label": "D",
+          "text": "Electron, Proton and Neutron"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Proton and Neutron"
+      },
+      "explanation": "The nucleus is the very dense region consisting of protons and neutrons at the center of an atom. It was discovered in 1911, as a result of Ernest Rutherford’s interpretation of the famous 1909 Rutherford experiment performed by Hans Geiger and Ernest Marsden, under the direction of Rutherford. The proton–neutron model of nucleus was proposed by Dmitry Ivanenko in 1932. Almost all of the mass of an atom is located in the nucleus, with a very small contribution from the orbiting electrons."
+    },
+    {
+      "id": 32,
+      "question": "The nuclear particle having no mass and no charge, but only spin is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "proton"
+        },
+        {
+          "label": "B",
+          "text": "neutrino"
+        },
+        {
+          "label": "C",
+          "text": "meson"
+        },
+        {
+          "label": "D",
+          "text": "electron"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "neutrino"
+      },
+      "explanation": "Neutrinos do not carry electric charge, and have mass quite small, though non-zero. Their mass is tiny even by the standards of subatomic particles. They are electrically neutral, weakly interacting elementary subatomic particles with half-integer spin."
+    },
+    {
+      "id": 33,
+      "question": "The relation between bond length and bond energy is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "lower the bond energy, shorter the bond length"
+        },
+        {
+          "label": "B",
+          "text": "they are not related"
+        },
+        {
+          "label": "C",
+          "text": "higher the bond energy, shorter the bond length"
+        },
+        {
+          "label": "D",
+          "text": "higher the bond energy, longer the bond length"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "higher the bond energy, shorter the bond length"
+      },
+      "explanation": "Generally, the shorter the bond, the stronger the bond and the higher the dissociation energy (i.e., the energy required to break the bond).Bond energy is a measure of the strength in a chemical bond. Short bonds, such as those found in double and triple bonds, have more bond energy than long bonds, such as those found in single bonds."
+    },
+    {
+      "id": 34,
+      "question": "Which of the following metals causes Itai-Itai disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cadmium"
+        },
+        {
+          "label": "B",
+          "text": "Chromium"
+        },
+        {
+          "label": "C",
+          "text": "Cobalt"
+        },
+        {
+          "label": "D",
+          "text": "Copper"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Cadmium"
+      },
+      "explanation": "Itai-itai disease was the documented case of mass cadmium poisoning in Toyama Prefecture, Japan, starting around 1912. The cadmium poisoning caused softening of the bones and kidney failure. The disease is named for the severe pains caused in the joints and spine. The cadmium was released into rivers by mining companies in the mountains."
+    },
+    {
+      "id": 35,
+      "question": "Electric fuse is an alloy of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "tin and lead"
+        },
+        {
+          "label": "B",
+          "text": "zinc and lead"
+        },
+        {
+          "label": "C",
+          "text": "copper and iron"
+        },
+        {
+          "label": "D",
+          "text": "carbon and tin"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "tin and lead"
+      },
+      "explanation": "Electric fuse is an alloy of tin and lead in ratio of 1:1."
+    },
+    {
+      "id": 36,
+      "question": "Brown stains in vessels and clothes indicate the presence of high quantities of ____ in water:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Magnesium"
+        },
+        {
+          "label": "B",
+          "text": "Calcium"
+        },
+        {
+          "label": "C",
+          "text": "Manganese"
+        },
+        {
+          "label": "D",
+          "text": "Chromium"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Manganese"
+      },
+      "explanation": "Brown stains in vessels and clothes generally indicate the presence of high quantities of iron. It causes reddish-brown staining of laundry, porcelain, dishes, utensils and even glassware. Manganese acts in a similar way but causes a brownish-black stain. Soaps and detergents do not remove these stains."
+    },
+    {
+      "id": 37,
+      "question": "In which of the following silicon is not used?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Solar Panels"
+        },
+        {
+          "label": "B",
+          "text": "IC manufacturing"
+        },
+        {
+          "label": "C",
+          "text": "Optical glass"
+        },
+        {
+          "label": "D",
+          "text": "Ink pen"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Ink pen"
+      },
+      "explanation": "Silica, or more correctly silicon dioxide (SiO2), is one of the most abundant compounds on the surface of the Earth. Silica has a multitude of uses depending on the degree of purity. Grades up to 99.5% SiO2 are used in the manufacture of glass, optical fibres and ceramics. It is also used in solar panels and integrated circuits used in computers."
+    },
+    {
+      "id": 38,
+      "question": "Which of the following is an ore of Aluminium?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Galena"
+        },
+        {
+          "label": "B",
+          "text": "Cryollite"
+        },
+        {
+          "label": "C",
+          "text": "Cinnabar"
+        },
+        {
+          "label": "D",
+          "text": "Epsom Salt"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Cryollite"
+      },
+      "explanation": "Cryolite (Na2NaAlF6) is a double fluoride of sodium and aluminium which in terms of chemical composition is referred to as sodium hexafluoroaluminate. It was historically used as an aluminium ore and later in the electrolytic processing of the aluminium ore bauxite. It is also used in the glass and enamel industries."
+    },
+    {
+      "id": 39,
+      "question": "In 1817, who attempted to sort elements with similar properties in a logical order into groups?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Emmy Noether"
+        },
+        {
+          "label": "B",
+          "text": "Henry Moseley"
+        },
+        {
+          "label": "C",
+          "text": "Dobereiner"
+        },
+        {
+          "label": "D",
+          "text": "Mendeleev"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Dobereiner"
+      },
+      "explanation": "In the history of the periodic table, Dobereiner’s triads were an early attempt to sort the elements into some logical order by their physical properties. He identified elements with similar properties and grouped them into groups of three, called “triads”. He also noted that some properties of elements in a triad followed a trend whereby the value of the middle element would be predicted by taking the arithmetic mean of values for that property of the other two elements."
+    },
+    {
+      "id": 40,
+      "question": "Which mineral is popularly known as ‘buried sunshine’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iron"
+        },
+        {
+          "label": "B",
+          "text": "Bauxite"
+        },
+        {
+          "label": "C",
+          "text": "Mica"
+        },
+        {
+          "label": "D",
+          "text": "Coal"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Coal"
+      },
+      "explanation": "Coal is often called the “buried sunshine” because it developed from the remains of plants and greens that existed as long as 400 million years ago. Most of coal was formed 300 million years ago, when much of Earth was covered in “steamy swamps.” As these greens died, they fell to the bottom of the floor, forming peat. The coalification process (transformation into coal) begins when the peat is physically and chemically altered."
+    }
+  ]
+}

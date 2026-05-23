@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "ancient-world-history",
+    "title": "Ancient World History",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:55:56"
+  },
+  "questions": [
+    {
+      "id": 59885,
+      "question": "Egyptian Civilization flourished around which of the following rivers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Congo river"
+        },
+        {
+          "label": "B",
+          "text": "Nile river"
+        },
+        {
+          "label": "C",
+          "text": "Niger river"
+        },
+        {
+          "label": "D",
+          "text": "Zambezi river"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Nile river"
+      },
+      "explanation": "The Egyptian Civilization began to flourish almost about 10,000 B.C. around the fertile valley of river Nile. The Nile river acted as the principal source of life and prosperity of the civilization."
+    },
+    {
+      "id": 59886,
+      "question": "\"The Pharaoh was all\" was the official title of the king of which of the following civilizations?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chinese Civilization"
+        },
+        {
+          "label": "B",
+          "text": "Mesopotamian Civilization"
+        },
+        {
+          "label": "C",
+          "text": "Egyptian Civilization"
+        },
+        {
+          "label": "D",
+          "text": "Indus-Valley Civilization"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Egyptian Civilization"
+      },
+      "explanation": "\"The Pharaoh was all\" was the official title of the king of Egyptian Civilization. His position was so much above the common people and the nobbles, that he was regarded as the son of the chief of their Gods."
+    },
+    {
+      "id": 59888,
+      "question": "Which of the following civilizations flourished between the rivers, the Tigris and the Euphrates?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mesopotamian Civilization"
+        },
+        {
+          "label": "B",
+          "text": "Harrapan Civilization"
+        },
+        {
+          "label": "C",
+          "text": "Chinese Civilization"
+        },
+        {
+          "label": "D",
+          "text": "Egyptian Civilization"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Mesopotamian Civilization"
+      },
+      "explanation": "The ancient Mesopotamian points to the land between the rivers, the Tigris and the Euphrates. Its modern name is Iraq. The civilization flourished here almost at the same time with the Egyptian civilization."
+    },
+    {
+      "id": 59889,
+      "question": "Great Pyramid of Giza's is located in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iraq"
+        },
+        {
+          "label": "B",
+          "text": "Egypt"
+        },
+        {
+          "label": "C",
+          "text": "Lebanon"
+        },
+        {
+          "label": "D",
+          "text": "Israel"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Egypt"
+      },
+      "explanation": "The religious beliefs and inspirations held by Egyptians made them the first and foremost builders in the world. Their belief in life after death, led them to build tombs and these royal tombs were the Pyramids. The Great Pyramid of Giza is the largest Egyptian pyramid and the tomb of Fourth Dynasty pharaoh Khufu. It was built in 26th century BC and is the oldest of the Seven Wonders of the Ancient World. It is located in Greater Cairo, Egypt."
+    },
+    {
+      "id": 59890,
+      "question": "Which of the following is the oldest civilization of the world?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indus Valley Civilization"
+        },
+        {
+          "label": "B",
+          "text": "Mesopotamian Civilization"
+        },
+        {
+          "label": "C",
+          "text": "Nile Valley Civilization"
+        },
+        {
+          "label": "D",
+          "text": "Chinese Civilization"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Mesopotamian Civilization"
+      },
+      "explanation": "Mesopotamian Civilization flourished around 4000 BC to 6th Cen. BC, Egyptain Civilization 3400 BC -to 1000 BC, Harappan Civilization 2500 BC - 1750 BC and Chinese Civilization 1765 BC to 250 BC."
+    }
+  ]
+}

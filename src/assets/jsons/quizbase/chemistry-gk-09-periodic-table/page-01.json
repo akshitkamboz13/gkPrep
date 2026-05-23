@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "chemistry-gk-09-periodic-table",
+    "title": "Chemistry-9-Periodic Table",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:01:34"
+  },
+  "questions": [
+    {
+      "id": 3067,
+      "question": "Which of the following are the most and the least electronegative elements in the periodic table?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fluorine and Caesium"
+        },
+        {
+          "label": "B",
+          "text": "Hydrogen and Helium"
+        },
+        {
+          "label": "C",
+          "text": "Carbon and Oxygen"
+        },
+        {
+          "label": "D",
+          "text": "Chlorine and Fluorine"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Fluorine and Caesium"
+      },
+      "explanation": "Caesium is the least electronegative element in the periodic table and Fluorine is the most electronegative. Electronegativity is a measure of the tendency of an atom to attract a bonding pair of electrons."
+    },
+    {
+      "id": 4980,
+      "question": "Which of the following does not increase when we move from left to right along a period in the periodic table?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oxidising Power of elements"
+        },
+        {
+          "label": "B",
+          "text": "Electronegativity"
+        },
+        {
+          "label": "C",
+          "text": "Non-metallic Character"
+        },
+        {
+          "label": "D",
+          "text": "Reducing power"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Reducing power"
+      },
+      "explanation": "The oxidizing power of elements increases on moving left to right along a period in the periodic table. This is because electronegativity and the non-metallic character increases from left to right."
+    },
+    {
+      "id": 4993,
+      "question": "Which among the following elements are generally find in free state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Group 11 elements"
+        },
+        {
+          "label": "B",
+          "text": "Group 12 elements"
+        },
+        {
+          "label": "C",
+          "text": "Group 13 elements"
+        },
+        {
+          "label": "D",
+          "text": "Group 14 elements"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Group 11 elements"
+      },
+      "explanation": "Group 11 is also known as the coinage metals, due to their former usage. They were most likely the first three elements discovered. Copper, silver, and gold all occur naturally in elemental form."
+    },
+    {
+      "id": 6110,
+      "question": "Identify the Noble Gas from the following options:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nitrogen"
+        },
+        {
+          "label": "B",
+          "text": "Hydrogen"
+        },
+        {
+          "label": "C",
+          "text": "Oxygen"
+        },
+        {
+          "label": "D",
+          "text": "Helium"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Helium"
+      },
+      "explanation": "Helium, a noble gas, is the second most abundant element in the universe after Hydrogen. It is colorless, odorless, tasteless, non-toxic, and non-reactive because its outermost electron shell is full with two electrons. This complete outer shell gives it the stability that defines the Noble Gases. Despite its abundance in the universe, Helium is relatively rare on Earth, primarily obtained from natural gas wells."
+    },
+    {
+      "id": 7321,
+      "question": "Which of the following elements is the most electronegative?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chlorine"
+        },
+        {
+          "label": "B",
+          "text": "Fluorine"
+        },
+        {
+          "label": "C",
+          "text": "Bromine"
+        },
+        {
+          "label": "D",
+          "text": "All of them have the same electronegativity"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Fluorine"
+      },
+      "explanation": "Electronegativity is defined as an atom's ability to attract an electron pair when forming a covalent bond. This property increases as you move left to right across the periodic table due to an increase in the nuclear charge's attractive forces. It decreases as you move top to bottom, owing to the shielding effect of sub-levels and increased atomic radius, which makes electrons easier to remove. This culminates in Fluorine, being the highest and furthest to the right on the periodic table, hence it is the most electronegative."
+    }
+  ]
+}

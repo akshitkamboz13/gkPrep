@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physics-gk-02-units",
+    "title": "Physics GK 02 - Units",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:29:53"
+  },
+  "questions": [
+    {
+      "id": 5982,
+      "question": "Which among the following is measured using a Vernier Caliper?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dimensions"
+        },
+        {
+          "label": "B",
+          "text": "Time"
+        },
+        {
+          "label": "C",
+          "text": "Sound"
+        },
+        {
+          "label": "D",
+          "text": "Temperature"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Dimensions"
+      },
+      "explanation": "The Vernier caliper has a main scale and a sliding vernier scale which can measure nearest to 0.02 mm. It can be used to measure internal and the external dimensions of an object by using the smaller jaws at the top and the main jaws respectively. By using stems depth can be measured."
+    },
+    {
+      "id": 6161,
+      "question": "Knot is a unit of _________?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Speed"
+        },
+        {
+          "label": "B",
+          "text": "Distance"
+        },
+        {
+          "label": "C",
+          "text": "Deapth"
+        },
+        {
+          "label": "D",
+          "text": "Accelration"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Speed"
+      },
+      "explanation": "Knot is a unit of speed equal to one nautical mile per hour. 1 knot is equivalent to 1.852 km/h. \"kn\" is the ISO standard symbol of knot. It is used in the field of meteorology, maritime and air navigation."
+    },
+    {
+      "id": 6444,
+      "question": "Ohm is a unit of measuring _________?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Resistance"
+        },
+        {
+          "label": "B",
+          "text": "Voltage"
+        },
+        {
+          "label": "C",
+          "text": "Current"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Resistance"
+      },
+      "explanation": "The ohm is the SI unit of electrical resistance. Electrical resistance of an object is the measure of its obstruction to the flow of electric current. It mainly depends on the material it is made of, cross sectional area of a conductor, length and temperature. The resistance of a conductor of unit cross-sectional area and unit length is known as Resistivity. The unit of resistivity is ohm-metre."
+    },
+    {
+      "id": 9134,
+      "question": "Which among the following temperature scale is based upon absolute zero?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Celsius"
+        },
+        {
+          "label": "B",
+          "text": "Fahrenheit"
+        },
+        {
+          "label": "C",
+          "text": "Kelvin"
+        },
+        {
+          "label": "D",
+          "text": "Rankine"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Kelvin"
+      },
+      "explanation": "Kelvin is the base unit of temperature (SI unit), having the unit symbol K. The Kelvin temperature scale has an absolute zero (0°K) below which temperatures do not exist. It is the lowest possible temperature. At this temperature there is no motion and no heat. It is equivalent to 0°K, or -273.15° C, or at -460° F."
+    },
+    {
+      "id": 9142,
+      "question": "What is the normal temperature of human being on Kelvin scale?",
+      "options": [
+        {
+          "label": "A",
+          "text": "290"
+        },
+        {
+          "label": "B",
+          "text": "300"
+        },
+        {
+          "label": "C",
+          "text": "310"
+        },
+        {
+          "label": "D",
+          "text": "320"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "310"
+      },
+      "explanation": "The normal temperature for a human body is 310 kelvins is 36.85 degrees Celsius. The average normal body temperature is generally accepted as 98.6°F."
+    }
+  ]
+}

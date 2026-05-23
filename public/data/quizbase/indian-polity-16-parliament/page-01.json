@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-16-parliament",
+    "title": "Parliament",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:19:43"
+  },
+  "questions": [
+    {
+      "id": 2949,
+      "question": "Which of the following statements is incorrect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Members of Lok Sabha are directly elected by the eligible voters"
+        },
+        {
+          "label": "B",
+          "text": "Money Bills can only be introduced in Lok Sabha"
+        },
+        {
+          "label": "C",
+          "text": "The Vice-President of India is the ex-officio Chairman of Rajya Sabha"
+        },
+        {
+          "label": "D",
+          "text": "President nominates four members of Anglo-Indian Community to Lok Sabha"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "President nominates four members of Anglo-Indian Community to Lok Sabha"
+      },
+      "explanation": "Fourth statement is incorrect. President used to nominate two members of Anglo-Indian Community to Lok Sabha till 2020. As of now, nomination of members of Anglo-Indian community to Lok Sabha has been abolished."
+    },
+    {
+      "id": 2950,
+      "question": "Which of the following statements is not correct about the Rajya Sabha?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajya Sabha is a permanent body"
+        },
+        {
+          "label": "B",
+          "text": "It was duly constituted for the first time on April 3, 1952"
+        },
+        {
+          "label": "C",
+          "text": "Twelve of Rajya Sabha members are nominated by the President"
+        },
+        {
+          "label": "D",
+          "text": "One-third of its members retire every year"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "One-third of its members retire every year"
+      },
+      "explanation": "Fourth statement is incorrect because one-third of its members retire every two years. Rajya Sabha is a permanent body. It was duly constituted for the first time on April 3, 1952. Twelve of Rajya Sabha members are nominated by the President."
+    },
+    {
+      "id": 4244,
+      "question": "For how long, a joint sitting of both the houses of Parliament may be convened to consider a bill which was passed by one house and pending in another house?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3 Months"
+        },
+        {
+          "label": "B",
+          "text": "6 Months"
+        },
+        {
+          "label": "C",
+          "text": "9 Months"
+        },
+        {
+          "label": "D",
+          "text": "12 Months"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "6 Months"
+      },
+      "explanation": "If an ordinary bill has been rejected by any house of the parliament and if more than six months have elapsed, the President may summon a joint session for purpose of passing the bill. The bill is passed by a simple majority of a joint sitting."
+    },
+    {
+      "id": 4463,
+      "question": "A no-confidence motion against the Union Government can be initiated in which among the following ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ONLY Lok Sabha"
+        },
+        {
+          "label": "B",
+          "text": "ONLY Rajya Sabha"
+        },
+        {
+          "label": "C",
+          "text": "Either Lok Sabha or Rajya Sabha"
+        },
+        {
+          "label": "D",
+          "text": "ONLY Lok Sabha with prior consent of President"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "ONLY Lok Sabha"
+      },
+      "explanation": "Council of Ministers is collectively responsible to Lok Sabha and it remains in office till it enjoys confidence of majority of the members in Lok Sabha. Thus, a motion of no-confidence is moved to remove the council of ministers and thus oust the government from office. Following are conditions of No-confidence motion: No-confidence motion can be moved only in Lok Sabha {or state assembly as the case may be}. It is not allowed in Rajya Sabha {or state legislative council} It is moved against the entire Council of Ministers and not individual ministers or private members. It needs support of at least 50 members when introduced in Lok Sabha."
+    },
+    {
+      "id": 4526,
+      "question": "In terms of Parliamentary terminology, What do we call a rule of legislative procedure under which a further debate on a motion can be stopped?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Closure"
+        },
+        {
+          "label": "B",
+          "text": "Gullitone"
+        },
+        {
+          "label": "C",
+          "text": "Expunction"
+        },
+        {
+          "label": "D",
+          "text": "Recess"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Closure"
+      },
+      "explanation": "Closure is one of the means by which a debate may be brought to an end by a majority decision of the House, even though all Members wishing to speak have not done so. Guillotine refers to putting by the Speaker of outstanding question or questions relating to the business in hand on expiry of the time allotted for its discussion. While closure is preceded by a motion, guillotine is not preceded by any motion. On the last of the allotted days at the appointed time, the Speaker puts every question necessary to dispose of all the outstanding matters in connection with the demands for grants. During budget, guillotine concludes the discussion on demands for grants."
+    }
+  ]
+}

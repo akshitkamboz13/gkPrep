@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-36-public-services-in-india",
+    "title": "Public Services in India",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:21:51"
+  },
+  "questions": [
+    {
+      "id": 4571,
+      "question": "According to the provisions of which article of the Indian Constitution, Parliament can create a new all India service, if a resolution is passed by Rajya Sabha?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Article 315"
+        },
+        {
+          "label": "B",
+          "text": "Article 312"
+        },
+        {
+          "label": "C",
+          "text": "Article 320"
+        },
+        {
+          "label": "D",
+          "text": "Article 345"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Article 312"
+      },
+      "explanation": "According to the provisions of article 312, the Parliament can create a new all India service, if resolution to that effect in national interest is passed by the council of states."
+    },
+    {
+      "id": 4604,
+      "question": "Which among the following are the three types of services envisaged in the Constitution of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Navy Service, Air force Service and Army Service"
+        },
+        {
+          "label": "B",
+          "text": "Civil Service, Military Service and Paramilitary Service"
+        },
+        {
+          "label": "C",
+          "text": "All-India services, Central services and State services"
+        },
+        {
+          "label": "D",
+          "text": "First Grade Service, Second Grade Service and Third Grade Services"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "All-India services, Central services and State services"
+      },
+      "explanation": "The three types of services envisaged in the Constitution of India are All-India services, Central services and State services."
+    },
+    {
+      "id": 5326,
+      "question": "In which year, First Public Service Commission was set up in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1922"
+        },
+        {
+          "label": "B",
+          "text": "1924"
+        },
+        {
+          "label": "C",
+          "text": "1926"
+        },
+        {
+          "label": "D",
+          "text": "1928"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "1926"
+      },
+      "explanation": "The first Public Service Commission in India was established on October 1, 1926. The commission was established after the Lee Commission recommended its creation in 1924. The commission was chaired by Sir Ross Barker. The commission was established under the Government of India Act of 1919. The act created a new office for the High Commissioner for India in London. The commission was established to recruit civil servants. The commission was later renamed the Federal Public Service Commission by the Government of India Act of 1935. After India's independence, the commission was renamed the Union Public Service Commission."
+    },
+    {
+      "id": 5735,
+      "question": "Who among the following was the first chairman of UPSC?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sir Ross Barker"
+        },
+        {
+          "label": "B",
+          "text": "Sir David Petrie"
+        },
+        {
+          "label": "C",
+          "text": "Sir Eyre Gorden"
+        },
+        {
+          "label": "D",
+          "text": "Sir F.W. Robertson"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Sir Ross Barker"
+      },
+      "explanation": "First Public Service Commission was established on October 1, 1926 under the Chairmanship of Sir Ross Barker. UPSC is constitutional body which conducts the prestigious civil services examination to select IAS, IFS and IPS officers among others. It has been established under Article 315 of the Constitution and consists of a Chairman and ten Members; appointed and removed by President. The chairman and members of the Commission hold office for a term if six years or until they attain the age of 65 years, whichever is earlier"
+    },
+    {
+      "id": 6039,
+      "question": "Who appoints Chairman of UPSC?",
+      "options": [
+        {
+          "label": "A",
+          "text": "President"
+        },
+        {
+          "label": "B",
+          "text": "Vice president"
+        },
+        {
+          "label": "C",
+          "text": "Parliament"
+        },
+        {
+          "label": "D",
+          "text": "Cabinet Committee on Appointments"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "President"
+      },
+      "explanation": "UPSC is constitutional body that conducts the prestigious civil services examination to select IAS, IFS and IPS officers among others. It has been established under Article 315 of the Constitution and consists of a Chairman and ten Members; appointed and removed by President. The chairman and members of the Commission hold office for a term if six years or until they attain the age of 65 years, whichever is earlier"
+    }
+  ]
+}

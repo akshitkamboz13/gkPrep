@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "goa-gk-questions-for-goa-public-service-commission-exams",
+    "title": "States PCS: Goa GK Questions for Goa Public Service Commission Exams",
+    "page": 2,
+    "total_pages": 2,
+    "generated_at": "2026-05-02 05:51:00",
+    "total_questions": 4,
+    "scraped_at": "2026-05-02 12:14:06"
+  },
+  "questions": [
+    {
+      "id": 11,
+      "question": "Which traditional Goan festival is deeply rooted in pre-Portuguese, ancient tribal and Hindu customs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Feast of St. Francis Xavier"
+        },
+        {
+          "label": "B",
+          "text": "Bonderam"
+        },
+        {
+          "label": "C",
+          "text": "Carnival"
+        },
+        {
+          "label": "D",
+          "text": "Shigmo"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Shigmo"
+      },
+      "explanation": "Shigmo is Goa’s ancient spring festival with tribal and Hindu origins, predating Portuguese rule and reflecting agrarian traditions."
+    },
+    {
+      "id": 12,
+      "question": "Which ancient cave complex in Goa is known for its early religious activity and Buddhist influence?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lama Caves"
+        },
+        {
+          "label": "B",
+          "text": "Rivona Caves"
+        },
+        {
+          "label": "C",
+          "text": "Khandepur Caves"
+        },
+        {
+          "label": "D",
+          "text": "Arvalem Caves"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Arvalem Caves"
+      },
+      "explanation": "Arvalem Caves, dating to the 6th century, are among Goa’s earliest rock-cut sanctuaries and display Buddhist influence."
+    },
+    {
+      "id": 13,
+      "question": "Which prominent Indian emperor’s southern expansion likely brought his influence to Goa?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Samudragupta"
+        },
+        {
+          "label": "B",
+          "text": "Ashoka"
+        },
+        {
+          "label": "C",
+          "text": "Harsha"
+        },
+        {
+          "label": "D",
+          "text": "Krishnadevaraya"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Harsha"
+      },
+      "explanation": "Harsha’s empire extended into the Deccan; inscriptions and texts indicate indirect contact or cultural impact on Goa."
+    },
+    {
+      "id": 14,
+      "question": "Which ancient land grant system was prevalent in Goa during the rule of the Kadamba dynasty?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jagir"
+        },
+        {
+          "label": "B",
+          "text": "Inam"
+        },
+        {
+          "label": "C",
+          "text": "Agrahara"
+        },
+        {
+          "label": "D",
+          "text": "Watan"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Agrahara"
+      },
+      "explanation": "The agrahara system, involving land grants to Brahmins for settlement and religious practices, was common in Goa under the Kadambas."
+    }
+  ]
+}

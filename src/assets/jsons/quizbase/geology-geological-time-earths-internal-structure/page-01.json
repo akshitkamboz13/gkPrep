@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "geology-geological-time-earths-internal-structure",
+    "title": "Geology Geological Time Earths Internal Structure",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:13:27"
+  },
+  "questions": [
+    {
+      "id": 4174,
+      "question": "Approximately what is the age of the earth?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3.5 billion years"
+        },
+        {
+          "label": "B",
+          "text": "4.5 billion years"
+        },
+        {
+          "label": "C",
+          "text": "4 billion years"
+        },
+        {
+          "label": "D",
+          "text": "2.5 billion years"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "4.5 billion years"
+      },
+      "explanation": "Earth is the third planet of the solar system as counted from the sun. The Earth also came into existence almost the same time as the other members of the solar system, i.e. around 4.5 billion years ago."
+    },
+    {
+      "id": 4179,
+      "question": "Which of the following is an example of direct source to study interior of the earth?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gravitation"
+        },
+        {
+          "label": "B",
+          "text": "Sesimic activity"
+        },
+        {
+          "label": "C",
+          "text": "Magnetic field"
+        },
+        {
+          "label": "D",
+          "text": "Volcanic Eruption"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Volcanic Eruption"
+      },
+      "explanation": "Temperature increases when we go deep into the earth. Therefore scientist depends on some sources to study interior of the earth. Based on the nature of source they are divided into two types: Direct sources- Surface rocks, volcanic eruption forms etc. Indirect sources- Magnetic field, gravitation, seismic activity, meteors etc."
+    },
+    {
+      "id": 4182,
+      "question": "Which of the following layer of the earth is termed as Sial?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Core"
+        },
+        {
+          "label": "B",
+          "text": "Crust"
+        },
+        {
+          "label": "C",
+          "text": "Mantale"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Crust"
+      },
+      "explanation": "Outermost layer of the earth- crust is also known as Sial because major constituent elements of crust are silica (Si) and Aluminium (Al). Mantle is also known as Sima because major constituent elements of mantle are magnesium and silicon. Innermost layer of the earth- core is also known as Nife because core is mainly composed of the iron (fe) and nickel (Ni)."
+    },
+    {
+      "id": 4183,
+      "question": "Lithosphere is the combination of __?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Upper core and lower core"
+        },
+        {
+          "label": "B",
+          "text": "Upper crust and lower mantle"
+        },
+        {
+          "label": "C",
+          "text": "Crust and uppermost part of mantle"
+        },
+        {
+          "label": "D",
+          "text": "Mantle and core"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Crust and uppermost part of mantle"
+      },
+      "explanation": "Lithosphere refers to the portion of depth up to 200 km from the surface of the earth. The crust and the uppermost part of the mantle are called lithosphere. Its thickness ranges from 10-200 km."
+    },
+    {
+      "id": 4184,
+      "question": "Which of the following rocks found in Oceanic crust?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Granite"
+        },
+        {
+          "label": "B",
+          "text": "Basalt"
+        },
+        {
+          "label": "C",
+          "text": "Igneous rocks"
+        },
+        {
+          "label": "D",
+          "text": "Metamorphic rocks"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Basalt"
+      },
+      "explanation": "Basalt is the type of rock found in Oceanic crust. Igneous, metamorphic and sedimentary rocks are found in continental crust. Granite is an example of igneous rocks."
+    }
+  ]
+}

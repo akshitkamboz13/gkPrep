@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-3-classification-of-organisms",
+    "title": "3. Classification of Organisms",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:58:43"
+  },
+  "questions": [
+    {
+      "id": 6600,
+      "question": "An example of Protozoa, Anthropod, Aves, Mammal & Reptile is respectively __________?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amoeba, Lizard, Scorpion , Bat, Hen"
+        },
+        {
+          "label": "B",
+          "text": "Amoeba, Scorpion, Hen, Bat , Lizard"
+        },
+        {
+          "label": "C",
+          "text": "Amoeba, Scorpion, Bat ,Hen, Lizard"
+        },
+        {
+          "label": "D",
+          "text": "Lizard, Amoeba, Scorpion, Bat ,Hen"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Amoeba, Scorpion, Hen, Bat , Lizard"
+      },
+      "explanation": "An example of Protozoa, Anthropod, Aves, Mammal & Reptile is Amoeba, Scorpion, Hen, Bat , Lizard respectively."
+    },
+    {
+      "id": 10691,
+      "question": "The insect “Apis mellifera” is commonly known as which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sand Fly"
+        },
+        {
+          "label": "B",
+          "text": "Domestic Fly"
+        },
+        {
+          "label": "C",
+          "text": "Honey Bee"
+        },
+        {
+          "label": "D",
+          "text": "Spider"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Honey Bee"
+      },
+      "explanation": "The insect “Apis mellifera” is commonly known as the honey bee. The Western honey bee is the most common of the 7–12 species of honey bees worldwide. The genus name “Apis” is Latin for “bee”, and “mellifera” is Latin for “honey-bearing” or “honey carrying”. Honey bees are known for their role in pollination. They were domesticated for honey production and crop pollination. Honey bees produce honey, wax, propolis, and royal jelly. Honey bees are red/brown with black bands and orange yellow rings on their abdomen. They have hair on their thorax and less hair on their abdomen. The workers and queens have stingers, whereas the drones are stingless."
+    },
+    {
+      "id": 16402,
+      "question": "Taxonomically, tomato and potato belong to same __:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Family"
+        },
+        {
+          "label": "B",
+          "text": "Genus"
+        },
+        {
+          "label": "C",
+          "text": "Species"
+        },
+        {
+          "label": "D",
+          "text": "Order"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Family"
+      },
+      "explanation": "Potato (Solanum tuberosum) and tomato (Lycopersicum esculentum) both belong to family Solanaceae, which is commonly called as the “potato family”. Many plants belonging to this family are sources of vegetables, fruits etc."
+    },
+    {
+      "id": 17938,
+      "question": "Taxonomically, which among the following is closet to Sea Corals?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sea Lettuce"
+        },
+        {
+          "label": "B",
+          "text": "Sea Horse"
+        },
+        {
+          "label": "C",
+          "text": "Sea Anemone"
+        },
+        {
+          "label": "D",
+          "text": "Sea Urchin"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Sea Anemone"
+      },
+      "explanation": "As cnidarians, sea anemones are related to corals, jellyfish, tube-dwelling anemones, and Hydra."
+    },
+    {
+      "id": 19809,
+      "question": "Which of the following is the correct statement about heterotrophs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They obtain their energy from sunlight, harnessed by pigments"
+        },
+        {
+          "label": "B",
+          "text": "They obtain their energy by oxidizing organic molecules"
+        },
+        {
+          "label": "C",
+          "text": "They make organic molecules from CO2"
+        },
+        {
+          "label": "D",
+          "text": "They obtain their energy by consuming exclusively autotrophs"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "They obtain their energy by oxidizing organic molecules"
+      },
+      "explanation": "A heterotroph obtains its energy from organic molecules. An autotroph obtains energy from sunlight utilizing pigments including chlorophyll (A) and uses CO2 and water to make organic molecules. heterotrophs can obtain their energy from ingesting autotrophs, but can also consume other heterotrophs."
+    }
+  ]
+}

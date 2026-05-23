@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-december-2021",
+    "title": "Current Affairs Quiz - December, 2021",
+    "page": 2,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:46:20",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:50:23"
+  },
+  "questions": [
+    {
+      "id": 11,
+      "question": "Yutu-2 moon rover, which was making news recently, was launched by which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Japan"
+        },
+        {
+          "label": "B",
+          "text": "China"
+        },
+        {
+          "label": "C",
+          "text": "UAE"
+        },
+        {
+          "label": "D",
+          "text": "Israel"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "China"
+      },
+      "explanation": "Yutu-2 is a robotic lunar rover which was launched in 2018, as a part of Chang’e 4 mission to the Moon. The rover has recently detected a strange-looking, cube-shaped object on the surface of the Moon. The rover spotted the object as it crossed the Von Karman crater on the far side of the Moon. The object has been dubbed “mystery house” and scientists are set to drive the rover closer to get a better look."
+    },
+    {
+      "id": 12,
+      "question": "Which organisation successfully tested the vertical launch short range surface-to-air missile?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ISRO"
+        },
+        {
+          "label": "B",
+          "text": "DRDO"
+        },
+        {
+          "label": "C",
+          "text": "HAL"
+        },
+        {
+          "label": "D",
+          "text": "BEL"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "DRDO"
+      },
+      "explanation": "Recently, the Defence Research and Development Organisation (DRDO) successfully tested the vertical launch short range surface-to-air missile from integrated test range, Chandipur, off the Odisha coast. The launch of the missile system was conducted to certify the integrated operations of all weapon system components."
+    },
+    {
+      "id": 13,
+      "question": "As per the ‘World Malaria Report 2021’, what is the number of estimated malaria deaths in 2020?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1.27 lakhs"
+        },
+        {
+          "label": "B",
+          "text": "2.27 lakhs"
+        },
+        {
+          "label": "C",
+          "text": "4.27 lakhs"
+        },
+        {
+          "label": "D",
+          "text": "6.27 lakhs"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "6.27 lakhs"
+      },
+      "explanation": "World Malaria Report 2021 has been released by the World Health Organization (WHO). As per the report, global efforts to tackle malaria suffered due to COVID-19 in 2020. There were estimated 627,000 malaria deaths in 2020, which is an increase of 12 per cent over 2019. The report also warns that if expeditious action is not taken, the world is in the danger of seeing an immediate resurgence of the disease, especially in Africa."
+    },
+    {
+      "id": 14,
+      "question": "As per the new data from SIPRI, which country had the highest number of companies in the Top 100 list of arms companies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "China"
+        },
+        {
+          "label": "B",
+          "text": "Russia"
+        },
+        {
+          "label": "C",
+          "text": "USA"
+        },
+        {
+          "label": "D",
+          "text": "Israel"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "USA"
+      },
+      "explanation": "A new data has been released by the Stockholm International Peace Research Institute (SIPRI). As per the report, sales of arms and military services by the 100 largest companies totalled $531 billion in 202, which is an increase of 1.3 per cent compared with the previous year. The United States hosted the highest number of companies ranked in the Top 100. It is followed by China. Even though the global growth contracted, the arms sales increased across the world."
+    },
+    {
+      "id": 15,
+      "question": "Which Asian country recently developed Active electronically scanned array (AESA) radar?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India"
+        },
+        {
+          "label": "B",
+          "text": "Japan"
+        },
+        {
+          "label": "C",
+          "text": "China"
+        },
+        {
+          "label": "D",
+          "text": "Pakistan"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "India"
+      },
+      "explanation": "The Indian Air Force (IAF) is set to demonstrate the use of indigenously developed active electronically scanned array (AESA) radar. With this, India will be one of the few countries to have an indigenous force-multiplier. The developed AESA radar is 95% indigenous, with only one imported subsystem. It has the capacity to track as many as 50 targets in the sky at a range in excess of 100 km."
+    },
+    {
+      "id": 16,
+      "question": "Which personality topped the Forbes’ rankings of 100 most powerful women of the world?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Christine Lagarde"
+        },
+        {
+          "label": "B",
+          "text": "Kamala Harris"
+        },
+        {
+          "label": "C",
+          "text": "Mackenzie Scott"
+        },
+        {
+          "label": "D",
+          "text": "Nirmala Sitharaman"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Mackenzie Scott"
+      },
+      "explanation": "Forbes, an American business magazine releases the rankings of 100 most powerful women of the world ever year. This year, Jeff Bezos’ former wife Mackenzie Scott earned the topmost spot in this year’s list. US Vice-President Kamla Harris is ranked second, and European Central Bank Head Christine Lagarde is at the third position. India’s Finance Minister Nirmala Sitharaman is ranked at 37th position."
+    },
+    {
+      "id": 17,
+      "question": "As per the ‘Regional Overview of Food Security and Nutrition 2021’, prevalence of hunger in which region in 2020?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Latin America and the Caribbean"
+        },
+        {
+          "label": "B",
+          "text": "African"
+        },
+        {
+          "label": "C",
+          "text": "Asian"
+        },
+        {
+          "label": "D",
+          "text": "Oceanian"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Latin America and the Caribbean"
+      },
+      "explanation": "As per the ‘Regional Overview of Food Security and Nutrition 2021’, prevalence of hunger in Latin America and the Caribbean (LAC) reached 9.1 per cent in 2020. This is the highest prevalence that has been in the last 15 years, according to a new report jointly published by United Nations bodies including FAO, IFAD, WFP. The number of people living with hunger reached a total of 59.7 million people."
+    },
+    {
+      "id": 18,
+      "question": "‘Convoke 2021-22’ is a national level symposium launched by which institution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reserve Bank of India"
+        },
+        {
+          "label": "B",
+          "text": "NITI Aayog"
+        },
+        {
+          "label": "C",
+          "text": "Securities Exchange Board of India"
+        },
+        {
+          "label": "D",
+          "text": "International Solar Alliance"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "NITI Aayog"
+      },
+      "explanation": "The NITI Aayog launched Convoke 2021-22, a national level symposium in partnership with Bharti Foundation. Through this platform, school teachers and heads of government schools and teachers from the Bharti Foundation network will be encouraged to use research-based solutions through scientific approaches, for improving learning outcomes."
+    },
+    {
+      "id": 19,
+      "question": "Which country successfully flight-tested ‘Stand-off anti-tank (SANT) missile’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India"
+        },
+        {
+          "label": "B",
+          "text": "Pakistan"
+        },
+        {
+          "label": "C",
+          "text": "Israel"
+        },
+        {
+          "label": "D",
+          "text": "UAE"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "India"
+      },
+      "explanation": "India’s Defence Research and Development Organisation (DRDO) and Indian Air Force (IAF) successfully flight-tested the stand-off anti-tank (SANT) missile from Pokhran range. The indigenously designed and developed helicopter-launched missile has the ability to neutralise targets in a range of up to 10 kilometres. It also has a millimetre wave (MMW) seeker which provides high precision strike capability from distance."
+    },
+    {
+      "id": 20,
+      "question": "Island Territory of New Caledonia recently voted to stay part of which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "France"
+        },
+        {
+          "label": "B",
+          "text": "USA"
+        },
+        {
+          "label": "C",
+          "text": "Japan"
+        },
+        {
+          "label": "D",
+          "text": "Russia"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "France"
+      },
+      "explanation": "Voters in the French island territory of New Caledonia chose to stay part of France, in a referendum, hailed by French President Emmanuel Macron. Sonia Backes, President of the Southern Province region, announced the results, which showed 96 per cent of those who took part chose to stay in France. The vote was monitored by the UN and regional powers."
+    }
+  ]
+}

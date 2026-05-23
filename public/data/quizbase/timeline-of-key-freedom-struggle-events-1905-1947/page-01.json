@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "timeline-of-key-freedom-struggle-events-1905-1947",
+    "title": "27. Freedom Struggle - Important Events [1905-1947]",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:34:52"
+  },
+  "questions": [
+    {
+      "id": 500,
+      "question": "During Freedom Struggle, Rabindranath Tagore renounced his Knighthood in protest for?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Partition of Bengal"
+        },
+        {
+          "label": "B",
+          "text": "Jallianwalla Bagh Massacre"
+        },
+        {
+          "label": "C",
+          "text": "Execution of Bhagat Singh, Rajguru and Sukhdev"
+        },
+        {
+          "label": "D",
+          "text": "None of them"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Jallianwalla Bagh Massacre"
+      },
+      "explanation": "Rabindranath Tagore had renounced his knighthood against the Jallianwalla Bagh Massacre. He had written to Lord Chelmsford regarding this."
+    },
+    {
+      "id": 501,
+      "question": "Which among the following Congress sessions was known for concession of separate electorates for the Muslims by the Congress Party?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1913 Karachi Session"
+        },
+        {
+          "label": "B",
+          "text": "1915 Bombay Session"
+        },
+        {
+          "label": "C",
+          "text": "1916 Lucknow Session"
+        },
+        {
+          "label": "D",
+          "text": "1917 Calcutta Session"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "1916 Lucknow Session"
+      },
+      "explanation": "Lucknow Session 1916 {presided by Ambica Charan Majumdar) was known for concession of separate electorates for the Muslims by the Congress Party."
+    },
+    {
+      "id": 3007,
+      "question": "Which of the following statements is incorrect about the Poona Pact?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It was the agreement between Jawaharlal Nehru and Dr. B R. Ambedkar"
+        },
+        {
+          "label": "B",
+          "text": "The depressed classes agreed to adhere to the principle of Joint Electorate"
+        },
+        {
+          "label": "C",
+          "text": "Seats were to be allotted to the depressed classes in the provincial legislatures"
+        },
+        {
+          "label": "D",
+          "text": "It provided for adequate representation of the depressed classes in the civil services"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "It was the agreement between Jawaharlal Nehru and Dr. B R. Ambedkar"
+      },
+      "explanation": "First statement is incorrect because Poona Pact was an agreement between Mahatma Gandhi and Dr. B R. Ambedkar"
+    },
+    {
+      "id": 4246,
+      "question": "Which among the following movements started with breaking the salt law?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Non-cooperation Movement"
+        },
+        {
+          "label": "B",
+          "text": "Civil Disobedience Movement"
+        },
+        {
+          "label": "C",
+          "text": "Quit India Movement"
+        },
+        {
+          "label": "D",
+          "text": "Home Rule Movement"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Civil Disobedience Movement"
+      },
+      "explanation": "The Civil Disobedience Movement began with the breaking of the Salt law in March 1930. The movement, also known as the Salt March or Dandi March, started when Mahatma Gandhi led a group of people from Sabarmati Ashram to the coastal town of Dandi. The group marched 240 miles in 24 days. Gandhi violated the salt law by making salt from sea water. He was arrested on May 4th. The Salt Act of 1882 prohibited Indians from collecting or selling salt. The British government imposed a heavy salt tax and monopolized the manufacture and sale of salt. Gandhi's movement was a demonstration against the increasingly repressive salt tax. The movement ended on April 7, 1934."
+    },
+    {
+      "id": 4320,
+      "question": "“Swaraj ha maza janmasidha adhikar aahe ani to mi milavinach”. The word Swaraj was first of all used by Bal Gangadhar Tilak. Where did he made the above declaration in Marathi?",
+      "options": [
+        {
+          "label": "A",
+          "text": "In Pune Jail"
+        },
+        {
+          "label": "B",
+          "text": "In Yavarda Jail"
+        },
+        {
+          "label": "C",
+          "text": "In Court"
+        },
+        {
+          "label": "D",
+          "text": "In Mandalay Jail"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "In Court"
+      },
+      "explanation": "In Court, Tilak declared Swaraj ha maza janmasidha adhikar aahe ani to mi milavinach” in court when he was under trial for a sedition case against him. Later Tilak was sent to Mandalay jail for six years."
+    }
+  ]
+}

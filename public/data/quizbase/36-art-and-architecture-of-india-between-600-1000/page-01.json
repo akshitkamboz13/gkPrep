@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "36-art-and-architecture-of-india-between-600-1000",
+    "title": "34. Art and Architecture of India (600-1000 AD)",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:53:40"
+  },
+  "questions": [
+    {
+      "id": 1875,
+      "question": "Which Pallava ruler built the Shore Temple at Mahabalipuram?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Narsimhavarman II"
+        },
+        {
+          "label": "B",
+          "text": "Nandivarman II"
+        },
+        {
+          "label": "C",
+          "text": "Aparajita"
+        },
+        {
+          "label": "D",
+          "text": "Mahendravarman I"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Narsimhavarman II"
+      },
+      "explanation": "The Shore Temple at Mahabalipuram and Kailasanatha temple in Kanchipuram built by Pallava ruler Narasimhavarman II."
+    },
+    {
+      "id": 10314,
+      "question": "“Black Pagoda” is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "B",
+          "text": "Kerala"
+        },
+        {
+          "label": "C",
+          "text": "Odisha"
+        },
+        {
+          "label": "D",
+          "text": "Andhra Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Odisha"
+      },
+      "explanation": "Konark Sun Temple in Odisha is known as Black Pagoda."
+    },
+    {
+      "id": 11466,
+      "question": "The Elephanta caves have been mostly ascribed to which among the following dynasty?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chalukyas"
+        },
+        {
+          "label": "B",
+          "text": "Cholas"
+        },
+        {
+          "label": "C",
+          "text": "Rasthrakutas"
+        },
+        {
+          "label": "D",
+          "text": "Pallavas"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Rasthrakutas"
+      },
+      "explanation": "Rashtrakuta dynasty is credited with building the Elephanta caves. The caves were constructed by cutting the walls of high basalt rock walls. The caves are located on an island in the Sea of Oman, close to Bombay. The caves are a UNESCO World Heritage Site and contain a collection of rock art linked to the cult of Shiva. The caves were completed in the second quarter of the 6th century. Contemporary scholars attribute the caves to king Krishnaraja of the Kalachuri dynasty. The caves were commissioned by the warrior king Pulakeshin II of the Chalukyas of the Badami dynasty. The island was known as Gharapuri, or \"place of caves\", in ancient times. The name Elephanta was given by 16th-century Portuguese explorers after seeing a monolithic basalt sculpture of an elephant near the entrance."
+    },
+    {
+      "id": 14340,
+      "question": "Who among the following Pallava ruler built the Shore Temple at Mahabalipuram?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Narsimhavarman II"
+        },
+        {
+          "label": "B",
+          "text": "Nandivarman II"
+        },
+        {
+          "label": "C",
+          "text": "Aparajita"
+        },
+        {
+          "label": "D",
+          "text": "Mahendravarman I"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Narsimhavarman II"
+      },
+      "explanation": "The Shore Temple at Mahabalipuram and Kailasanatha temple in Kanchipuram built by Pallava ruler Narasimhavarman II."
+    },
+    {
+      "id": 31241,
+      "question": "Which caves dating back to 600 A.D. are located on Gharapuri Island in Mumbai harbour?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ajanta Caves"
+        },
+        {
+          "label": "B",
+          "text": "Kanheri Caves"
+        },
+        {
+          "label": "C",
+          "text": "Ellora Caves"
+        },
+        {
+          "label": "D",
+          "text": "Elephanta Caves"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Elephanta Caves"
+      },
+      "explanation": "The Elephanta Caves are hewn out of solid rock and filled with stone sculptures of Hindu Gods and Goddesses. Gharapuri Island can be reached by boat from the Gateway of India. The stone elephant after which these caves have been named has been shifted to the Bhau Dali Ladd Museum located next to Jijamata Udyan."
+    }
+  ]
+}

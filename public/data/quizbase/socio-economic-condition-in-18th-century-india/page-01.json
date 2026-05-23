@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "socio-economic-condition-in-18th-century-india",
+    "title": "2. Socio-economic Condition in 18th century India",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:33:25"
+  },
+  "questions": [
+    {
+      "id": 19209,
+      "question": "With reference to 18th century India, what has been termed as Jagirdari Crisis? A general sense of personal insecurity among aristocrats Unusually high number of Mansabdars and Jagirdars Select the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1"
+        },
+        {
+          "label": "B",
+          "text": "Only 2"
+        },
+        {
+          "label": "C",
+          "text": "Both 1 & 2"
+        },
+        {
+          "label": "D",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Both 1 & 2"
+      },
+      "explanation": "In the mid of the 17th century, there were 8000 Mansabdars out of which less than 500 controlled more than 60% of the revenue , so there was a mutual jealsey among the aristocrats. In 18th century, there was not enough surplus to pay for cost of administration and wars. The area which was to be distributed as Jagirs remained constant and even decreased but the number of Masabdars increased drastically, giving a condition that “Too many mansabdars chased a few Jagirs”. Many of these Jagirdars were left without their Jagirs too and that is why there was a general sense of insecurity among these aristocrats."
+    },
+    {
+      "id": 24643,
+      "question": "Consider the following statements in context with the various currencies circulated in Bengal in the later half of 18th century: The values of the currencies widely fluctuatedThe British insisted on payment of revenue in their own currencyThe native currency was used at a rebateWhich among the above was / were the reasons that increased the problems of Indian traders and peasants as Tax Payers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1"
+        },
+        {
+          "label": "B",
+          "text": "Only 1 & 3"
+        },
+        {
+          "label": "C",
+          "text": "Only 2 & 3"
+        },
+        {
+          "label": "D",
+          "text": "Only 3"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Only 3"
+      },
+      "explanation": "The first two options are not correct to say that they increased the problems of natives. It was the third option (native currency was used at a rebate) that is considered to be the main reason for the issues pertaining to the native traders and peasants as Tax Payers."
+    },
+    {
+      "id": 54849,
+      "question": "Which of the following was not a major import of India during 18th century?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bullion"
+        },
+        {
+          "label": "B",
+          "text": "Textiles"
+        },
+        {
+          "label": "C",
+          "text": "Ivory"
+        },
+        {
+          "label": "D",
+          "text": "Perfumes"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Textiles"
+      },
+      "explanation": "The chief imports were bullion, raw silk, horses, metals, ivory, precious stones, velvets, brocades, perfumes, drugs and porcelain. Exports were various: textiles, pepper, indigo, opium, saltpeter and miscellaneous goods."
+    },
+    {
+      "id": 54850,
+      "question": "Which of the following was the most important industry of India in the 18th century?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Metal Handicrafts"
+        },
+        {
+          "label": "B",
+          "text": "Cotton Cloth"
+        },
+        {
+          "label": "C",
+          "text": "Wooden Products"
+        },
+        {
+          "label": "D",
+          "text": "Fisheries"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Cotton Cloth"
+      },
+      "explanation": "The most important industry in India was the manufacture of cotton cloth. The principal centers of cotton manufacture were distributed throughout the country. Dacca was reputed to produce delicate Muslin fabric 'the best and finest cloth made of cotton.'"
+    },
+    {
+      "id": 54851,
+      "question": "The term \"Tol\" was used for which of the following during 18th century India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Schools"
+        },
+        {
+          "label": "B",
+          "text": "Hospitals"
+        },
+        {
+          "label": "C",
+          "text": "Cantonments"
+        },
+        {
+          "label": "D",
+          "text": "Stables"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Schools"
+      },
+      "explanation": "Chatuspathis or Tols, as they were called in Bihar and Bengal, were the centers of higher education. Some of the famous centers for Sanskrit education were Kasi (Varanasi), Tirhut (Mithila), Nadia and Utkala."
+    }
+  ]
+}

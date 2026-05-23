@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-36-human-body-reproductive-system",
+    "title": "36. Human Body - Reproductive System",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:59:16"
+  },
+  "questions": [
+    {
+      "id": 6058,
+      "question": "Deficiency of Tocopherol leads to sterility in males and females. The popular word for Tocopherol is ___?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vitamin B3"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin K"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin D"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin E"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Vitamin E"
+      },
+      "explanation": "Tocopherols are a class of organic chemical compounds, many of which have vitamin E activity. Deficiency of Tocopherol leads to sterility in males and females. Tocopherol exists in four different forms designated as α, β, δ, and γ."
+    },
+    {
+      "id": 7056,
+      "question": "Which among the following is / are correct regarding a mature sperm and ovum?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They both are of approximately same size"
+        },
+        {
+          "label": "B",
+          "text": "They both have equal number of Chromosomes"
+        },
+        {
+          "label": "C",
+          "text": "They both contain flagella"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "They both have equal number of Chromosomes"
+      },
+      "explanation": "The number of chromosomes is reduced from 46 (23 pairs) to 23 during the process of meiosis. In a human egg or sperm, there are 23 chromosomes, one of which is an X or Y. A human egg is haploid (has 23 chromosomes) and a sperm is haploid (has 23 chromosomes)."
+    },
+    {
+      "id": 7057,
+      "question": "Which among the following is true regarding fraternal twins?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They may look similar but are not genetically identical"
+        },
+        {
+          "label": "B",
+          "text": "They are exactly similar but are not genetically identical"
+        },
+        {
+          "label": "C",
+          "text": "They are exactly similar and are genetically identical"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "They are exactly similar but are not genetically identical"
+      },
+      "explanation": "Twins are two offspring produced by the same pregnancy. Twins can be either monozygotic ('identical'), meaning that they develop from one zygote, which splits and forms two embryos, or dizygotic ('fraternal'), meaning that each twin develops from a separate egg and each egg is fertilized by its own sperm cell."
+    },
+    {
+      "id": 8409,
+      "question": "Which among the following correctly denotes Net Reproduction Rate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Average number of children that would be born to a woman over her lifetime"
+        },
+        {
+          "label": "B",
+          "text": "Average number of children that would be born to a couple over their life time"
+        },
+        {
+          "label": "C",
+          "text": "Birth Rate — Death rate"
+        },
+        {
+          "label": "D",
+          "text": "The rate at which women are replaced by daughters who will have children"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "The rate at which women are replaced by daughters who will have children"
+      },
+      "explanation": "In population ecology and demography, the net reproduction rate is defined as the average number of offspring that would be born to a female if she passed through her fertility age. Or simply The rate at which women are replaced by daughters who will have children."
+    },
+    {
+      "id": 8664,
+      "question": "In which of the following conditions a person is born with both ovarian and testicular tissues i.e. both female & male organs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Swyer syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Penile agenesis"
+        },
+        {
+          "label": "C",
+          "text": "Polyorchidism"
+        },
+        {
+          "label": "D",
+          "text": "Hermaphroditism"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Hermaphroditism"
+      },
+      "explanation": "A hermaphrodite is an organism that has complete or partial reproductive organs and produces gametes normally associated with both male and female sexes. It has both ovarian and testicular tissues."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: January 13, 2026",
+    "date": "2026-01-13",
+    "year": "2026",
+    "month": "01-january",
+    "day": 13,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 05:25:46",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:55:48"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is ‘Charophyte’ that was recently seen in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A type of Green algae"
+        },
+        {
+          "label": "B",
+          "text": "Newly discovered species of Spider"
+        },
+        {
+          "label": "C",
+          "text": "A type of Virus"
+        },
+        {
+          "label": "D",
+          "text": "Asteroid"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "A type of Green algae"
+      },
+      "explanation": "Research at 27 test lakes in northeastern Germany showed an increase in the abundance of charophytes. Charophytes are a type of green algae found in freshwater ecosystems. Fossils of charophytes date back to the Silurian Period, about 443 million years ago. This period marked the shift of plants from water to land, and charophytes are the closest living relatives of land plants. They grow in silt, mud, peat, or sand and often colonize newly cleared areas first."
+    },
+    {
+      "id": 2,
+      "question": "Nelapattu Bird Sanctuary is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "B",
+          "text": "Kerala"
+        },
+        {
+          "label": "C",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Andhra Pradesh"
+      },
+      "explanation": "The Flamingo Festival recently attracted many families to Nelapattu Bird Sanctuary, which is located near Sullurpeta in Andhra Pradesh. It is located close to Pulicat Lake, the second-largest salt lake in India. The sanctuary is an important breeding site for the spot-billed pelican. It has rich vegetation, including Barringtonia swamp forests and southern dry evergreen scrub."
+    },
+    {
+      "id": 3,
+      "question": "Pradhan Mantri–Rashtriya Krishi Vikas Yojana is administered by which ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Rural Development"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Food Processing Industries"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Agriculture and Farmers Welfare"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Finance"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Ministry of Agriculture and Farmers Welfare"
+      },
+      "explanation": "The Union Ministry of Agriculture has proposed merging three ongoing schemes with the Pradhan Mantri–Rashtriya Krishi Vikas Yojana. Pradhan Mantri–Rashtriya Krishi Vikas Yojana is a Centrally Sponsored Scheme operating under Ministry of Agriculture and Farmers Welfare. It aims to speed up agricultural growth and improve farmers’ income. It encourages states to increase public investment, boost productivity, reduce post-harvest losses, and promote crop diversification."
+    },
+    {
+      "id": 4,
+      "question": "The Boda Tyohar festival is celebrated by which tribe in Himachal Pradesh?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hatti tribe"
+        },
+        {
+          "label": "B",
+          "text": "Kinnaur tribe"
+        },
+        {
+          "label": "C",
+          "text": "Gaddi tribe"
+        },
+        {
+          "label": "D",
+          "text": "Swangla tribe"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Hatti tribe"
+      },
+      "explanation": "“Boda Tyohar”, the biggest annual festival of the Hatti tribe, recently began with traditional fervour in Sirmour district of Himachal Pradesh. The Hatti tribe is located along the Himachal Pradesh–Uttarakhand border in the Giri and Tons river basin, tributaries of the Yamuna River. Their name comes from selling farm produce in local markets called Haat. They live in Trans-Giri area of Sirmaur and Jaunsar Bawar region of Uttarakhand with shared traditions."
+    },
+    {
+      "id": 5,
+      "question": "What is the name of the pan-Army digital platform launched by the Indian Army in January 2026 to modernise logistics management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "LogiNet"
+        },
+        {
+          "label": "B",
+          "text": "Depot Integration Management Edition (DIME)"
+        },
+        {
+          "label": "C",
+          "text": "Army Logistics Cloud"
+        },
+        {
+          "label": "D",
+          "text": "e-Supply Chain"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Depot Integration Management Edition (DIME)"
+      },
+      "explanation": "The Indian Army has launched Depot Integration Management Edition, which is a pan-Army digital logistics platform. It provides near real-time visibility of logistic items from units up to Army Headquarters. It is developed jointly by the Indian Army and Bhaskaracharya National Institute for Space Applications and Geo-informatics. The platform standardises digital workflows across all Army depots and units. It equips commanders with integrated dashboards, exception alerts, and predictive stock analytics. It will reduce paperwork by about 70 percent and shorten the logistics cycle by one-third."
+    }
+  ]
+}

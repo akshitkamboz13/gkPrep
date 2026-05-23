@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-11-pteridophytes-and-gymnosperms",
+    "title": "11. Pteridophytes and Gymnosperms",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:57:07"
+  },
+  "questions": [
+    {
+      "id": 6209,
+      "question": "In Gymnosperms seeds are__________?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Always naked"
+        },
+        {
+          "label": "B",
+          "text": "Always covered"
+        },
+        {
+          "label": "C",
+          "text": "Naked in some and covered in others"
+        },
+        {
+          "label": "D",
+          "text": "Absent"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Always naked"
+      },
+      "explanation": "Gymnosperms are called so because they have naked ovules / seeds. In terms of plant evolution, they are first seed-bearing plants. They are inferior to Angiosperms because in Angiosperms, the ovules are covered."
+    },
+    {
+      "id": 6755,
+      "question": "Which of the following is a Gymnosperm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cashew"
+        },
+        {
+          "label": "B",
+          "text": "Chilgoza"
+        },
+        {
+          "label": "C",
+          "text": "Pistachio"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Chilgoza"
+      },
+      "explanation": "The gymnosperms, also known as Acrogymnospermae, are a group of seed-producing plants that includes conifers, cycads, Ginkgo, and gnetophytes. Pinus gerardiana, known as the chilgoza pine is a king of Gymnosperm."
+    },
+    {
+      "id": 34010,
+      "question": "Which among the options listed can be classified as a 'living fossil'? (UPSC Prelims 1987)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Blue green algae"
+        },
+        {
+          "label": "B",
+          "text": "Green algae"
+        },
+        {
+          "label": "C",
+          "text": "Fungus"
+        },
+        {
+          "label": "D",
+          "text": "Ginkgo"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Ginkgo"
+      },
+      "explanation": "The term 'living fossil' represents the organisms that have survived major extinction events, with little evolutionary change for hundreds of millions of years. Ginkgo is one such example. Ginkgos are native to China and are virtually unchanged for over 200 million years. The water and pest resistant nature, coupled with an ability to cope with pollution, aids in their longevity. The plant is predominantly used for medicinal purposes, particularly in Traditional Chinese Medicine."
+    },
+    {
+      "id": 89373,
+      "question": "In which group would you place a plant that produces spores, lacks seeds, and has vascular tissue?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bryophyte"
+        },
+        {
+          "label": "B",
+          "text": "Algae"
+        },
+        {
+          "label": "C",
+          "text": "Pteridophyte"
+        },
+        {
+          "label": "D",
+          "text": "Gymnosperm"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Pteridophyte"
+      },
+      "explanation": "Pteridophyte is a vascular plant that disperses spores as pteridophytes produce neither flowers nor seeds."
+    },
+    {
+      "id": 89374,
+      "question": "In pteridophytes, which of the following is the dominant generation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "gametophytic"
+        },
+        {
+          "label": "B",
+          "text": "haploid"
+        },
+        {
+          "label": "C",
+          "text": "diploid"
+        },
+        {
+          "label": "D",
+          "text": "triploid"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "diploid"
+      },
+      "explanation": "In pteridophytes, the dominant is the diploid sporophytic generation because it develops from the diploid zygote."
+    }
+  ]
+}

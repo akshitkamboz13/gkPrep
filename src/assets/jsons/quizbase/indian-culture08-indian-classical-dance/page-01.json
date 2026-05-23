@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-culture08-indian-classical-dance",
+    "title": "Indian Culture:08-Indian Classical Dance",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:15:43"
+  },
+  "questions": [
+    {
+      "id": 5708,
+      "question": "Which among the following Indian classical dance form was developed by Siddhendra Yogi from Bhamakalapam dance drama ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kuchipudi"
+        },
+        {
+          "label": "B",
+          "text": "Odissi"
+        },
+        {
+          "label": "C",
+          "text": "Yakshagana"
+        },
+        {
+          "label": "D",
+          "text": "Kathkali"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Kuchipudi"
+      },
+      "explanation": "Siddhendra Yogi from Bhamakalapam dance drama developed the classical dance of Kuchpudi. The play Bhamakalpam deals with the Hindu God, Lord Krishna and his companions Satyabhama and Rukmini."
+    },
+    {
+      "id": 7483,
+      "question": "Which among the following statements about Devadasis is not true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "According to Paes, Devadasis held a highly esteemed position in Vijayanagar society."
+        },
+        {
+          "label": "B",
+          "text": "The Devadasi system originated solely during the Vijayanagar era."
+        },
+        {
+          "label": "C",
+          "text": "Devadasi implies that the girls were married to deities."
+        },
+        {
+          "label": "D",
+          "text": "All the above statements are true."
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "The Devadasi system originated solely during the Vijayanagar era."
+      },
+      "explanation": "The Devadasi system, which involves dedicating girls to a deity, predates the Vijayanagar era. This tradition, prevalent in South India, had Devadasis performing music and dance in temples. While their status varied over time, foreign travelers like Paes and Nuniz noted Devadasis' respected position in Vijayanagar society."
+    },
+    {
+      "id": 8456,
+      "question": "In which type of following classical dance forms of India the Pung which is a drum is a integral part?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bharatnatyam"
+        },
+        {
+          "label": "B",
+          "text": "Kathakali"
+        },
+        {
+          "label": "C",
+          "text": "Kuchipudi"
+        },
+        {
+          "label": "D",
+          "text": "Manipuri"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Manipuri"
+      },
+      "explanation": "Punj or Drum dance is a dance that belongs to Manipur. The Pung cholom is a Manipuri dance. It is the soul of Manipuri Sankirtana music and classical Manipuri dance."
+    },
+    {
+      "id": 8466,
+      "question": "Vedantham Satyanarayan is known to be a greatest guru of which of the following dance forms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Odissi"
+        },
+        {
+          "label": "B",
+          "text": "kathak"
+        },
+        {
+          "label": "C",
+          "text": "Bharatnatyam"
+        },
+        {
+          "label": "D",
+          "text": "Kuchipudi"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Kuchipudi"
+      },
+      "explanation": "Vedantam Satyanarayana Sarma, popularly known as Satyam, was an Indian classical dancer and choreographer. She is considered as an expert of Kuchpudi dance."
+    },
+    {
+      "id": 9395,
+      "question": "Sattriya dance, which is one of the eight principal classical Indian dance traditions is from which of the following states?",
+      "options": [
+        {
+          "label": "A",
+          "text": "West Bengal"
+        },
+        {
+          "label": "B",
+          "text": "Manipur"
+        },
+        {
+          "label": "C",
+          "text": "Mizoram"
+        },
+        {
+          "label": "D",
+          "text": "Assam"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Assam"
+      },
+      "explanation": "Sattriya or Sattriya Nritya is one of the eight principal classical Indian dance traditions of Assam in India. Sattriya has remained a living tradition since its creation by the founder of Vaishnavism in Assam, the great saint Srimanta Sankardev, in 15th century Assam."
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-december-2024",
+    "title": "Current Affairs Quiz - December, 2024",
+    "page": 4,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:46:25",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:51:23"
+  },
+  "questions": [
+    {
+      "id": 31,
+      "question": "Sovereign Gold Bond (SGB) scheme is an initiative of which institution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NITI Aayog"
+        },
+        {
+          "label": "B",
+          "text": "Reserve Bank of India (RBI)"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Finance"
+        },
+        {
+          "label": "D",
+          "text": "Securities and Exchange Board of India (SEBI)"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Reserve Bank of India (RBI)"
+      },
+      "explanation": "The Sovereign Gold Bond (SGB) scheme was introduced by the government as an alternative to physical gold investment. Issued by the Reserve Bank of India on behalf of the government, each bond unit represents one gram of gold. Investors earn fixed interest and can redeem bonds at market value upon maturity. The scheme has faced scrutiny due to high financing costs and reduced issuance as the government shifts focus to other investment strategies."
+    },
+    {
+      "id": 32,
+      "question": "Ganges River Dolphin tagging has been conducted in which state for the first time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Assam"
+        },
+        {
+          "label": "C",
+          "text": "Mizoram"
+        },
+        {
+          "label": "D",
+          "text": "West Bengal"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Assam"
+      },
+      "explanation": "The first Ganges River Dolphin was tagged today in Assam, marking a historic step in wildlife conservation. The initiative is led by the Ministry of Environment, Forest, and Climate Change with execution by the Wildlife Institute of India (WII), Assam Forest Department, and Aaranyak. Lightweight tags compatible with Argos satellite systems minimize interference with dolphin movement. The project is funded by the National CAMPA Authority under Project Dolphin. Ganges River Dolphin found in the Ganges-Brahmaputra-Meghna and Karnaphuli-Sangu river systems in Nepal, India, and Bangladesh. It is listed as Endangered by IUCN, Appendix I under CITES, and Schedule I of the Wildlife Protection Act, 1972."
+    },
+    {
+      "id": 33,
+      "question": "Who has been honoured with “National Tansen Samman” for the year 2023?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kaivalya Kumar Gurav"
+        },
+        {
+          "label": "B",
+          "text": "T. V. Gopalakrishnan"
+        },
+        {
+          "label": "C",
+          "text": "Pandit Swapan Choudhary"
+        },
+        {
+          "label": "D",
+          "text": "Sangmeshwar Gurav"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Pandit Swapan Choudhary"
+      },
+      "explanation": "Eminent tabla player Pt. Swapan Chaudhuri from Kolkata received the ‘Rashtriya Tansen Samman’ for 2023. Sanand Nyas Sanstha from Indore was awarded the ‘Raja Mansingh Tomar Samman’ for 2023. The awards were presented during the Tansen Sangeet Samaroh 2024, held in Gwalior to mark the centenary year of legendary music maestro Tansen. The ‘Tansen Award’ is the highest national music honor in Indian classical music, instituted by the Madhya Pradesh government. Pt. Swapan Chaudhuri thanked the state government for the prestigious recognition."
+    },
+    {
+      "id": 34,
+      "question": "The Eastern Maritime Corridor (EMC) connects which two cities of India and Russia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mumbai and Moscow"
+        },
+        {
+          "label": "B",
+          "text": "Chennai and Vladivostok"
+        },
+        {
+          "label": "C",
+          "text": "Cuttack and St. Petersburg"
+        },
+        {
+          "label": "D",
+          "text": "Bhubaneswar and Moscow"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Chennai and Vladivostok"
+      },
+      "explanation": "The Chennai-Vladivostok Eastern Maritime Corridor (EMC) reduces shipping time and costs, boosting India-Russia trade in oil, food, and machinery. EMC connects South India with Russia’s Far East, cutting transit time by 16 days and distance by 40%. The traditional Mumbai-St. Petersburg route is 8,675 nautical miles, taking 40+ days, while EMC spans 5,647 nautical miles, taking only 24 days, saving 5,608 km. The route passes through major waterways like the Sea of Japan, South China Sea, Malacca Straits, and Bay of Bengal."
+    },
+    {
+      "id": 35,
+      "question": "What is the rank of India in the Network Readiness Index 2024?",
+      "options": [
+        {
+          "label": "A",
+          "text": "35th"
+        },
+        {
+          "label": "B",
+          "text": "42nd"
+        },
+        {
+          "label": "C",
+          "text": "49th"
+        },
+        {
+          "label": "D",
+          "text": "54th"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "49th"
+      },
+      "explanation": "India ranks 49th in the Network Readiness Index 2024 (NRI 2024), improving by 11 places from last year. The Network Readiness Index, published by the Portulans Institute, evaluates countries on technology use in governance, citizen engagement, and impact. India’s score increased from 49.93 in 2023 to 53.63 in 2024, reflecting advancements in technology and digital infrastructure. Key areas driving this growth include artificial intelligence, mobile networks, and broadband development. These technologies enhance ease of living and support global research efforts. The improved ranking underscores India’s progress in digital transformation and its emergence as a global tech leader."
+    },
+    {
+      "id": 36,
+      "question": "Which day is observed as National Mathematics Day?",
+      "options": [
+        {
+          "label": "A",
+          "text": "December 21"
+        },
+        {
+          "label": "B",
+          "text": "December 22"
+        },
+        {
+          "label": "C",
+          "text": "December 23"
+        },
+        {
+          "label": "D",
+          "text": "December 24"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "December 22"
+      },
+      "explanation": "National Mathematics Day, celebrated on December 22, honors the birth of Indian mathematician Srinivasa Ramanujan. The 2024 theme, “Mathematics: A bridge to innovation,” highlights math’s role in science, technology, and innovation. Launched in 2012 by Dr. Manmohan Singh, the day celebrates Ramanujan’s contributions and inspires future generations. Ramanujan, born in 1887, made groundbreaking discoveries in number theory, infinite series, and continued fractions. Schools across India engage students in activities to foster critical thinking and understanding of mathematics’ real-world applications."
+    },
+    {
+      "id": 37,
+      "question": "Which state is the host of Women’s Kabaddi World Cup 2025?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Haryana"
+        },
+        {
+          "label": "B",
+          "text": "Bihar"
+        },
+        {
+          "label": "C",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Bihar"
+      },
+      "explanation": "Bihar will host the Women’s Kabaddi World Cup in March 2025 at the indoor hall of the Rajgir Sports Academy. Fourteen countries, including India, China, Japan, South Korea, and others, are expected to participate. Bihar is hosting the event for the second time, after the first edition in 2012 at Patliputra Sports Complex, Patna. The Women’s Kabaddi World Cup is an international competition organized by the International Kabaddi Federation (IKF)."
+    },
+    {
+      "id": 38,
+      "question": "What is the name of cafe initiative launched by Ministry of Civil Aviation at Kolkata airport?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Udaan Yatri Cafe"
+        },
+        {
+          "label": "B",
+          "text": "Air Savers Cafe"
+        },
+        {
+          "label": "C",
+          "text": "Traveler’s Bistro"
+        },
+        {
+          "label": "D",
+          "text": "Fly Cafe"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Udaan Yatri Cafe"
+      },
+      "explanation": "The Ministry of Civil Aviation launched the “Udaan Yatri Cafe” at Kolkata airport to provide affordable food and beverages for travellers. The cafe offers basic items like water, tea, coffee, and snacks, focusing on quality and affordability. The initiative aims to enhance passenger experience and reduce financial strain from high-priced airport food. The first outlet is at Netaji Subhas Chandra Bose International Airport in Kolkata as a pilot project. If successful, the initiative will expand to other airports across India."
+    },
+    {
+      "id": 39,
+      "question": "Who won gold medal at Senior National Shooting Championship 2024 in Bhopal?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dhanush Srikanth"
+        },
+        {
+          "label": "B",
+          "text": "Shahu Tushar Mane"
+        },
+        {
+          "label": "C",
+          "text": "Rudrankksh Balasaheb Patil"
+        },
+        {
+          "label": "D",
+          "text": "Yash Vardhan"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Shahu Tushar Mane"
+      },
+      "explanation": "Shahu Tushar Mane won gold in the men’s 10m Air Rifle event at the National Shooting Championship, securing his first senior national title. Mane, representing Railways, triumphed in the 24-shot final by a narrow margin, defeating Telangana’s Dhanush Srikanth, who took the silver medal. Himanshu from Haryana won gold in the youth category, while Madhya Pradesh’s Yash Pandey and West Bengal’s Abhiav Shaw won silver and bronze, respectively."
+    },
+    {
+      "id": 40,
+      "question": "Which ministry released the results of the Annual Survey of Unincorporated Sector Enterprises (ASUSE) 2023-24?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Commerce and Industry"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Micro, Small, and Medium Enterprises"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Finance"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Statistics and Programme Implementation"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Ministry of Statistics and Programme Implementation"
+      },
+      "explanation": "The Ministry of Statistics and Programme Implementation (MoSPI) released the Annual Survey of Unincorporated Sector Enterprises (ASUSE) for 2023-24. The survey measures economic and operational characteristics of unincorporated non-agricultural establishments in manufacturing, trade, and services (excluding construction). It collects data on workers, Gross Value Added (GVA), emoluments, fixed assets, loans, ownership and registration. The survey aids policymaking and supports National Accounts Statistics and ministries like MSME and Textiles."
+    }
+  ]
+}

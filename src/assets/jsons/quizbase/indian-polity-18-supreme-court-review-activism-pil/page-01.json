@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-18-supreme-court-review-activism-pil",
+    "title": "Supreme Court, Review, Activism, PIL",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:20:00"
+  },
+  "questions": [
+    {
+      "id": 4335,
+      "question": "Which among the following is the final authority to interpret the Constitution of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "President"
+        },
+        {
+          "label": "B",
+          "text": "Supreme Court"
+        },
+        {
+          "label": "C",
+          "text": "Council of Ministers"
+        },
+        {
+          "label": "D",
+          "text": "Parliament"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Supreme Court"
+      },
+      "explanation": "In India, the final authority to interpret the Constitution lies with the Supreme Court of India. The Supreme Court is the highest judicial body in the country and is responsible for interpreting the provisions of the Constitution to ensure its proper implementation. This authority is derived from Article 141 of the Constitution, which states that the law declared by the Supreme Court shall be binding on all courts within the territory of India."
+    },
+    {
+      "id": 4584,
+      "question": "Which of the following can change the number of judges in the Supreme Court?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A Presidential Order"
+        },
+        {
+          "label": "B",
+          "text": "Parliament by Law"
+        },
+        {
+          "label": "C",
+          "text": "Supreme Court by Notification"
+        },
+        {
+          "label": "D",
+          "text": "Central Government by notification"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Parliament by Law"
+      },
+      "explanation": "The parliament of India has power to make laws, organizing jurisdiction and powers of supreme court. The number of judges can be increased or decreased by the parliament by legislation. There was a Provision in our constitution originally that there will be a CJ and 7 other judges. This number was raised to 10 in 1956, 13 in 1960, 17 in 1977, 25 in 1985. Later number of judges in the supreme court was further raised. The Supreme Court of India has a sanctioned strength of 34 Judges currently."
+    },
+    {
+      "id": 4600,
+      "question": "A judge of Supreme Court of India can be removed from office by which / whom among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Parliament by law"
+        },
+        {
+          "label": "B",
+          "text": "Judges of supreme court by Majority"
+        },
+        {
+          "label": "C",
+          "text": "President on a resolution by parliament"
+        },
+        {
+          "label": "D",
+          "text": "President on his/ her own discretion"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "President on a resolution by parliament"
+      },
+      "explanation": "A Judge of the Supreme Court (and also High Court) can be removed from his position by President only on the ground of proved misbehaviour or incapacity. The power for investigation and proof of such misbehaviour or incapacity is vested in the parliament. Each house, in order to remove the judge, will have to pass a resolution which is supported by 2/3rd of members present and voting and majority of the total membership of the house {absolute + special majority}"
+    },
+    {
+      "id": 5422,
+      "question": "Who appoints ad hoc Judges of the Supreme Court?",
+      "options": [
+        {
+          "label": "A",
+          "text": "President"
+        },
+        {
+          "label": "B",
+          "text": "Vice President"
+        },
+        {
+          "label": "C",
+          "text": "President with advice of Council of Ministers"
+        },
+        {
+          "label": "D",
+          "text": "Chief Justice of the Supreme Court with permission of President"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Chief Justice of the Supreme Court with permission of President"
+      },
+      "explanation": "Ad hoc judges can be appointed in the Supreme Court by “Chief Justice of India” with the prior consent of the President, if there is no quorum of judges available to hold and continue the session of the court. Only the persons who are qualified as to be appointed as Judge of the Supreme Court can be appointed as ad hoc judge of the Supreme Court. (Article 127). Further, as per provisions of the Article 128, Chief Justice of India, with the previous consent of the President, request a retired Judge of the Supreme Court High Court, who is duly qualified for appointment as a Judge of the Supreme Court, to sit and act as a Judge of the Supreme Court. The salary & allowance of such judge are decided by the president. The retired Judge who sits in such a session of the Supreme Court has all the jurisdiction, powers and privileges of the Judges BUT are NOT deemed to be a Judge."
+    },
+    {
+      "id": 5528,
+      "question": "The Supreme Court of India tenders legal advice to president of India when___?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cabinet recommends it"
+        },
+        {
+          "label": "B",
+          "text": "Council of Minister recommends it"
+        },
+        {
+          "label": "C",
+          "text": "President asks for it"
+        },
+        {
+          "label": "D",
+          "text": "Supreme Court wants to tender the advice"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "President asks for it"
+      },
+      "explanation": "Supreme Court has special advisory jurisdiction in matters which may specifically be referred to it by the President of India under Article 143 of the Constitution. The President may seek the opinion of the Supreme Court on any question of law or fact of public importance on which he thinks it expedient to obtain such an opinion."
+    }
+  ]
+}

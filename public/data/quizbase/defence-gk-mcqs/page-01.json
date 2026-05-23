@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "defence-gk-mcqs",
+    "title": "Defence & Security of India",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:10:17"
+  },
+  "questions": [
+    {
+      "id": 4302,
+      "question": "The Indian Navy Day (IND) is celebrated on which date?",
+      "options": [
+        {
+          "label": "A",
+          "text": "December 10"
+        },
+        {
+          "label": "B",
+          "text": "December 4"
+        },
+        {
+          "label": "C",
+          "text": "December 6"
+        },
+        {
+          "label": "D",
+          "text": "December 8"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "December 4"
+      },
+      "explanation": "The Indian Navy Day (IND) is observed every year on 4th December every year to remember the courage and determination that Indian Navy had shown during the 1971 war. During the India-Pakistan war of 1971, the Indian Navy played a significant role in the bombing of the Karachi harbor and sank Pakistan Naval Ship PNS Ghazi. The Navy Day celebrations not only display the nation’s technological progress but also the maritime achievements of India. The Indian Navy plays a great role in securing the marine borders of the country as well as enhancing the international relations of the country through foreign port callings, joint exercises, humanitarian missions and calamity relief."
+    },
+    {
+      "id": 4359,
+      "question": "Which among the following are being procured by India for its armed forces, under the Project-75 India (P-75I) Programme?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Medium multi-role combat aircraft"
+        },
+        {
+          "label": "B",
+          "text": "Falcon Awacs"
+        },
+        {
+          "label": "C",
+          "text": "Submarines"
+        },
+        {
+          "label": "D",
+          "text": "Aircraft Career Ships"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Submarines"
+      },
+      "explanation": "Under Project 75, six Scorpene submarines are being built with assistance and technology transfer from DCNS of France under deal signed in October 2005. The Project 75I-class submarine is a follow-on of the Project 75 Kalvari-class submarine for the Indian navy."
+    },
+    {
+      "id": 4360,
+      "question": "Mission Dakshin Dhruv 2006 was a successful operation of which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indian Navy"
+        },
+        {
+          "label": "B",
+          "text": "Indian Army"
+        },
+        {
+          "label": "C",
+          "text": "Indian Airforce"
+        },
+        {
+          "label": "D",
+          "text": "Indian Armed forces"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Indian Navy"
+      },
+      "explanation": "Indian Navy was first military team to have successfully completed a ski traverse to the Geographic South Pole in 2006"
+    },
+    {
+      "id": 4380,
+      "question": "In which among the following states, India’s first Defence University has been set up?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "B",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Haryana"
+        },
+        {
+          "label": "D",
+          "text": "Gujarat"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Haryana"
+      },
+      "explanation": "Indian National Defence University set up in Gurgaon in Haryana."
+    },
+    {
+      "id": 4640,
+      "question": "India's Pinaka weapon / weapon system can be placed in which of the following categories?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Multi Barrel Rocket Launcher"
+        },
+        {
+          "label": "B",
+          "text": "Ballistic Missile"
+        },
+        {
+          "label": "C",
+          "text": "Anti-Missile System"
+        },
+        {
+          "label": "D",
+          "text": "Cruise Missile"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Multi Barrel Rocket Launcher"
+      },
+      "explanation": "Pinaka is an indigenous multi-barrel rocket launch (MBRL) system developed by DRDO for Indian Army. It is one of the most reliable and effective weapon systems of the Indian Army. Complete Pinaka MBRL has six launcher vehicles, each having 12 rockets with six loader-replenishment vehicles and two command post vehicles with a fire control computer and DIGICORA MET radar. It was used in 1999 Kargil war in which it proved its worth."
+    }
+  ]
+}

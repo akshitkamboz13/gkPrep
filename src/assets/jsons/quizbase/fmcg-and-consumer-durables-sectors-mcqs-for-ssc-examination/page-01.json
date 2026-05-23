@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "fmcg-and-consumer-durables-sectors-mcqs-for-ssc-examination",
+    "title": "16. FMCG and Consumer Durables Sectors",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:12:34"
+  },
+  "questions": [
+    {
+      "id": 8357,
+      "question": "India's first Export Promotion Industrial park was opened in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Delhi"
+        },
+        {
+          "label": "B",
+          "text": "Nagpur"
+        },
+        {
+          "label": "C",
+          "text": "Jaipur"
+        },
+        {
+          "label": "D",
+          "text": "Bangalore"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Jaipur"
+      },
+      "explanation": "India's first Export Promotion Industrial Park (EPIP) was opened in Jaipur. The EPIP in Rajasthan at Sitapura is complete. The park is the largest Export-Park in Northern India. The EPIP scheme was implemented to create infrastructure for exports in specific locations. The parks have modern infrastructure to boost the export of commodities and services. Units in the EPIP must commit to exporting at least 33% of their production."
+    },
+    {
+      "id": 21671,
+      "question": "The Consumer Welfare Fund is mainly financed through which source?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Excise duty on manufactured goods"
+        },
+        {
+          "label": "B",
+          "text": "Mandatory business contributions"
+        },
+        {
+          "label": "C",
+          "text": "Unclaimed duty refunds and unused indirect tax"
+        },
+        {
+          "label": "D",
+          "text": "Voluntary consumer donations"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Unclaimed duty refunds and unused indirect tax"
+      },
+      "explanation": "The Consumer Welfare Fund was established under Section 57 of the CGST Act, 2017. Its main sources are unclaimed duty refunds under Central Excise and Customs Acts and unutilized indirect tax amounts not refundable to individuals. Receipts under GST, including unclaimed tax refunds, also finance the fund. The Department of Consumer Affairs administers the fund."
+    },
+    {
+      "id": 57786,
+      "question": "What is the projected CAGR of India's FMCG market from 2024 to 2032?",
+      "options": [
+        {
+          "label": "A",
+          "text": "9.5%"
+        },
+        {
+          "label": "B",
+          "text": "12.15%"
+        },
+        {
+          "label": "C",
+          "text": "17.31%"
+        },
+        {
+          "label": "D",
+          "text": "27%"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "17.31%"
+      },
+      "explanation": "India's FMCG market is estimated to grow at a compound annual growth rate of 17.31% from 2024 to 2032. The market size is projected to reach USD 884.06 billion by 2032, up from USD 210.12 billion in 2023. Growth drivers include policy initiatives, increasing consumer demand, and expansion of e-commerce and digital platforms."
+    },
+    {
+      "id": 57787,
+      "question": "What is the contribution of FMCG to the employment of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2%"
+        },
+        {
+          "label": "B",
+          "text": "3%"
+        },
+        {
+          "label": "C",
+          "text": "12%"
+        },
+        {
+          "label": "D",
+          "text": "8%"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "8%"
+      },
+      "explanation": "FMCG contributes 8% to employment in India. It contributes about US$ 83 billion in revenue."
+    },
+    {
+      "id": 57800,
+      "question": "What is the default temperature for air conditioners as per BEE regulations in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "20°C"
+        },
+        {
+          "label": "B",
+          "text": "22°C"
+        },
+        {
+          "label": "C",
+          "text": "24°C"
+        },
+        {
+          "label": "D",
+          "text": "28°C"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "24°C"
+      },
+      "explanation": "The Bureau of Energy Efficiency (BEE) mandated 24°C as the default temperature for room air conditioners in India. This regulation has been applicable since 2020. The BEE is a statutory body under the Ministry of Power, Government of India, established in March 2002 under the Energy Conservation Act, 2001. The rule applies to all new air conditioners sold in the country."
+    }
+  ]
+}

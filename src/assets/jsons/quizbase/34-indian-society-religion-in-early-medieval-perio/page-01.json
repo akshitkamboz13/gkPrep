@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "34-indian-society-religion-in-early-medieval-perio",
+    "title": "32. Early Medieval Society & Religion",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:53:28"
+  },
+  "questions": [
+    {
+      "id": 1780,
+      "question": "Which of the following pairs is / are correctly matched? Nagananda - Harsha Mudrarakshasa - Visakhadatta Mrichchhakatika - Sudraka Ratnavali - Rajasekhara Select the correct answer from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1, 2 & 3"
+        },
+        {
+          "label": "B",
+          "text": "Only 2, 3 & 4"
+        },
+        {
+          "label": "C",
+          "text": "Only 1, 3 & 4"
+        },
+        {
+          "label": "D",
+          "text": "1, 2, 3 & 4"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Only 1, 2 & 3"
+      },
+      "explanation": "Mricchakatika, is a ten-act Sanskrit drama written by Sudraka. Nagananda is one of the best Sanskrit dramas in five acts dealing with the popular story of Jimutavahana’s self-sacrifice to save the Nagas, written by king Harsha(Vardhana Dynasty). The Mudrarakshasa (“The Signet of the Minister”) is a historical play in Sanskrit by Vishakhadatta that narrates the ascent of the king Chandragupta Maurya to power in Northern India. Ratnavali is a Sanskrit drama about a beautiful princess named Ratnavali, and a great king named Udayana,written by Indian emperor Harsha(Vardhana dynasty)."
+    },
+    {
+      "id": 1784,
+      "question": "Which among the following village was the site of the Vikramshila Mahavihara, the renowned educational centre of Pala period?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Antichak"
+        },
+        {
+          "label": "B",
+          "text": "Aphasad"
+        },
+        {
+          "label": "C",
+          "text": "Basarh"
+        },
+        {
+          "label": "D",
+          "text": "Chandimau"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Antichak"
+      },
+      "explanation": "Antichak – Excavated site Vikramshila Vikramashila was founded by Pala King Dharmapala in response to a supposed decline in the quality of scholarship at Nalanda. [It was destroyed by Bakhtiyar Khilji ]"
+    },
+    {
+      "id": 1877,
+      "question": "Who among the following was the author of Kiratarjuniya?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bharavi"
+        },
+        {
+          "label": "B",
+          "text": "Dandin"
+        },
+        {
+          "label": "C",
+          "text": "Varahmihira"
+        },
+        {
+          "label": "D",
+          "text": "Kalidasa"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Bharavi"
+      },
+      "explanation": "Bharavi, a distinguished Sanskrit poet from the 6th century, is acknowledged as the author of \"Kiratarjuniya\". The title can be translated as \"Arjuna and the Mountain Man\". The epic literature centers on the theme of morality and dharma, articulating a Didactic episode from the Mahabharata. It highlights the human values and virtues, establishing itself as a significant part of ancient Indian literature."
+    },
+    {
+      "id": 1878,
+      "question": "Dashkumarcharitam was composed by whom?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bharavi"
+        },
+        {
+          "label": "B",
+          "text": "Dandin"
+        },
+        {
+          "label": "C",
+          "text": "Varahmihira"
+        },
+        {
+          "label": "D",
+          "text": "Kalidas"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Dandin"
+      },
+      "explanation": "Dashkumarcharitam was composed by Dandin, who was a Sanskrit author of prose romances and expounder on poetics in the 6th-7th century. The book, Dashkumarcharitam is a prose romance in Sanskrit that describes the adventures of ten young men, the Kumaras, all of whom are either princes or sons of royal ministers, as narrated by the men themselves."
+    },
+    {
+      "id": 1884,
+      "question": "Who was the author of Dashkumarcharitam and at whose court did he live?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dandin, Nandivarman II"
+        },
+        {
+          "label": "B",
+          "text": "Bharavi, Nandivarman II"
+        },
+        {
+          "label": "C",
+          "text": "Appar, Dandivarman I"
+        },
+        {
+          "label": "D",
+          "text": "Bharavi, Narsimhavarman I"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Dandin, Nandivarman II"
+      },
+      "explanation": "Dashkumarcharitam was composed by Dandin, who was a Sanskrit author of prose romances and expounder on poetics in the 6th-7th century. Both Bharavi and Dandin, the authors of Kiratarjuniyam and Dasakumarcharitam respectively, lived in the Pallava court."
+    }
+  ]
+}

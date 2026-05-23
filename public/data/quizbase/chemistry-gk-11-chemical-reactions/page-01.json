@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "chemistry-gk-11-chemical-reactions",
+    "title": "Chemistry-11-Chemical Reactions",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:01:46"
+  },
+  "questions": [
+    {
+      "id": 4994,
+      "question": "Which among the following is an example of a Chemical Change?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rusting of iron"
+        },
+        {
+          "label": "B",
+          "text": "Magnetisation of iron"
+        },
+        {
+          "label": "C",
+          "text": "Melting of iron"
+        },
+        {
+          "label": "D",
+          "text": "Heating of iron"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Rusting of iron"
+      },
+      "explanation": "Rust is an iron oxide, a usually red oxide formed by the redox reaction of iron and oxygen in the presence of water or air moisture. Rusting of Iron is a chemical change."
+    },
+    {
+      "id": 5009,
+      "question": "Which among the following happens in an oxidation reaction ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Electrons are gained"
+        },
+        {
+          "label": "B",
+          "text": "Electrons are lost"
+        },
+        {
+          "label": "C",
+          "text": "Protons are gained"
+        },
+        {
+          "label": "D",
+          "text": "Protons are lost"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Electrons are lost"
+      },
+      "explanation": "Oxidation is the loss of electrons during a reaction by a molecule, atom or ion. When oxidation occurs, an element loses electrons and its oxidation number increases .i.e. it becomes more positive."
+    },
+    {
+      "id": 5877,
+      "question": "What happens to the weight of Iron, when it rusts?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increases for long time"
+        },
+        {
+          "label": "B",
+          "text": "Decreases then increases"
+        },
+        {
+          "label": "C",
+          "text": "Increases then decreases"
+        },
+        {
+          "label": "D",
+          "text": "Remains the same"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Increases then decreases"
+      },
+      "explanation": "When iron or any other metal oxidizes, oxygen from the air combines with the iron to make iron oxide or rust. So, weight of the bar increases, due to the increased weight of oxygen which has combined with the iron. over time, the weight of the iron bar will tend to decrease, due to factors related more to erosion than to chemistry."
+    },
+    {
+      "id": 6132,
+      "question": "What is the primary event that occurs during an oxidation reaction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Electrons are gained"
+        },
+        {
+          "label": "B",
+          "text": "Electrons are lost"
+        },
+        {
+          "label": "C",
+          "text": "Protons are gained"
+        },
+        {
+          "label": "D",
+          "text": "Protons are lost"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Electrons are lost"
+      },
+      "explanation": "Oxidation is a chemical reaction in which an atom, ion, or molecule loses an electron to another substance. So, the correct answer is \"Electrons are lost\". This phenomenon is often observed in various chemical and biological systems. Understanding this important process can allow us to gain insights in fields ranging from biology to materials science."
+    },
+    {
+      "id": 6204,
+      "question": "Which gas is produced when an alkali metal, like Lithium or Sodium, reacts with water?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oxygen"
+        },
+        {
+          "label": "B",
+          "text": "Hydrogen"
+        },
+        {
+          "label": "C",
+          "text": "Ozone"
+        },
+        {
+          "label": "D",
+          "text": "Carbon Dioxide"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Hydrogen"
+      },
+      "explanation": "The reaction of alkali metals with water produces Hydrogen gas. These metals are part of the first group on the period table and include lithium, sodium, and potassium. They are known for their vigorous reactions with water, which results in the liberation of hydrogen gas. Along with the gas, this reaction also forms a basic alkali metal hydroxide, which gives the solution its characteristic basic or alkaline properties."
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-january-2025",
+    "title": "Current Affairs Quiz - January, 2025",
+    "page": 1,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:46:54",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:54:38"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which institute has developed needle-free shock syringes for painless injections?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IIT Hyderabad"
+        },
+        {
+          "label": "B",
+          "text": "IIT Delhi"
+        },
+        {
+          "label": "C",
+          "text": "IIT Bombay"
+        },
+        {
+          "label": "D",
+          "text": "IIT Madras"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "IIT Bombay"
+      },
+      "explanation": "IIT Bombay developed a shockwave-based, needle-free syringe for painless drug delivery, reducing skin damage and infection risks. The syringe uses high-energy shockwaves to create a microjet of liquid drug that penetrates the skin without needles. It consists of a driver, driven section, and drug holder, powered by pressurized nitrogen gas. Effective in tests on rats, it showed deeper tissue penetration with minimal skin damage. The device supports over 1,000 uses, needing only nozzle replacements, making it cost-effective. It could accelerate immunization drives like Mission Indradhanush and lower risks of needle-related infections."
+    },
+    {
+      "id": 2,
+      "question": "The Financial Stability Report (FSR) is released by which institution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reserve Bank of India (RBI)"
+        },
+        {
+          "label": "B",
+          "text": "Securities and Exchange Board of India (SEBI)"
+        },
+        {
+          "label": "C",
+          "text": "NITI Aayog"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Finance"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Reserve Bank of India (RBI)"
+      },
+      "explanation": "The Reserve Bank of India (RBI) released its biannual Financial Stability Report (FSR), focusing on the health and resilience of the Indian financial system. The RBI’s Financial Stability Report (FSR) highlights improvements in the banking sector’s asset quality and resilience. Scheduled Commercial Banks (SCBs) achieved a 12-year low Gross Non-Performing Asset (GNPA) ratio of 2.6% by September 2024. The Provisioning Coverage Ratio (PCR) rose to 77%, mainly due to proactive provisioning by Public Sector Banks (PSBs). The slippage ratio increased slightly to 0.7%, showing controlled NPA growth. Household debt in India reached 42.9% of GDP by June 2024, rising gradually. India’s Real GDP growth is projected at 6.6% for 2024-25, supported by rural consumption, government investments, and services exports."
+    },
+    {
+      "id": 3,
+      "question": "Which institution released the report titled “Industry 4.0 adoption and strategic roadmap for Indian manufacturing”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NITI Aayog"
+        },
+        {
+          "label": "B",
+          "text": "Small Industries Development Bank of India (SIDBI)"
+        },
+        {
+          "label": "C",
+          "text": "Securities and Exchange Board of India (SEBI)"
+        },
+        {
+          "label": "D",
+          "text": "Confederation of Indian Industry (CII)"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Confederation of Indian Industry (CII)"
+      },
+      "explanation": "The Confederation of Indian Industry released a ‘Industry 4.0 adoption and strategic roadmap for Indian manufacturing Report’. Industry 4.0 refers to smart, connected production systems that interact with the physical world. Automotive, electronics, and pharmaceuticals are leading in adoption, while textiles, metals, and mining face challenges. Key drivers for Industry 4.0 in India include workforce up-skilling, digital infrastructure, and sustainability to meet global green manufacturing standards."
+    },
+    {
+      "id": 4,
+      "question": "Business Ready (B-READY) is the flagship report of which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "International Monetary Fund"
+        },
+        {
+          "label": "B",
+          "text": "World Bank"
+        },
+        {
+          "label": "C",
+          "text": "United Nations Development Programme"
+        },
+        {
+          "label": "D",
+          "text": "World Trade Organization"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "World Bank"
+      },
+      "explanation": "The World Bank launched the Business Ready (B-READY) report, replacing the paused Ease of Doing Business report. The Ease of Doing Business report was suspended in 2020 due to data manipulation and ranking integrity concerns. B-READY serves as a benchmarking tool to evaluate the global business climate and promote inclusive private sector growth. It focuses on ten core topics: Business Entry, Location, Utility Services, Labor, Financial Services, International Trade, Taxation, Dispute Resolution, Market Competition, and Insolvency."
+    },
+    {
+      "id": 5,
+      "question": "Which organization has launched the quantum processor ‘Willow’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amazon"
+        },
+        {
+          "label": "B",
+          "text": "Meta"
+        },
+        {
+          "label": "C",
+          "text": "Google"
+        },
+        {
+          "label": "D",
+          "text": "Microsoft"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Google"
+      },
+      "explanation": "Google launched the quantum processor ‘Willow,’ advancing quantum computing to solve practical problems. Willow has 105 physical qubits and operates at near absolute zero temperatures (-273.15°C). It features better error correction and faster performance than other quantum computers. The coherence time of Willow’s qubits is around 100 microseconds, improved by error correction. Willow’s architecture enables lower error rates with more qubits. It outperformed classical computers in testing, completing a Random Circuit Sampling task in minutes."
+    },
+    {
+      "id": 6,
+      "question": "Which country has launched its first domestically developed deep-sea exploration ship, Tansuo-3 (Exploration-3)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "China"
+        },
+        {
+          "label": "B",
+          "text": "Japan"
+        },
+        {
+          "label": "C",
+          "text": "Vietnam"
+        },
+        {
+          "label": "D",
+          "text": "India"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "China"
+      },
+      "explanation": "China launched its first domestically developed deep-sea exploration ship, Tansuo-3 (Exploration-3). The ship officially entered service in Sanya City, Hainan province. Tansuo-3 has a range of 17,261 miles and includes icebreaking capabilities. It will strengthen China’s deep-sea exploration, alongside other icebreakers like Xuelong, Xuelong 2, and Jidi."
+    },
+    {
+      "id": 7,
+      "question": "What is the rank of India in tobacco industry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "First"
+        },
+        {
+          "label": "B",
+          "text": "Second"
+        },
+        {
+          "label": "C",
+          "text": "Third"
+        },
+        {
+          "label": "D",
+          "text": "Fourth"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Second"
+      },
+      "explanation": "The Tobacco Board has initiated several strategic activities to ensure the sustainability and growth of the tobacco industry. The Tobacco Board of India was established on January 1, 1976, under the Tobacco Board Act, 1975. It is headed by a chairperson and works towards the development of the tobacco industry. Its main functions include promoting tobacco exports, regulating FCV tobacco production and distribution, and supporting domestic and international tobacco trade. India is the second-largest producer of tobacco globally, after China. India is also the second-largest exporter of unmanufactured tobacco, after Brazil."
+    },
+    {
+      "id": 8,
+      "question": "Which institute has developed an injectable hydrogel for localized cancer treatment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IIT Guwahati"
+        },
+        {
+          "label": "B",
+          "text": "IIT Delhi"
+        },
+        {
+          "label": "C",
+          "text": "IIT Madras"
+        },
+        {
+          "label": "D",
+          "text": "IIT Bombay"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "IIT Guwahati"
+      },
+      "explanation": "Researchers from IIT Guwahati and Bose Institute, Kolkata, created an advanced injectable hydrogel for localized cancer treatment. The hydrogel acts as a stable reservoir, releasing anti-cancer drugs in a controlled way. It minimizes harm to healthy cells while targeting cancer effectively. The breakthrough is expected to revolutionize breast cancer therapy. The hydrogel is made from protein-based ultra-short peptides, stable at injection sites, and insoluble in body fluids. The peptides are biocompatible and biodegradable, ensuring safety and effectiveness."
+    },
+    {
+      "id": 9,
+      "question": "Black-collared yellow catfish is endemic to which river?",
+      "options": [
+        {
+          "label": "A",
+          "text": "River Yamuna"
+        },
+        {
+          "label": "B",
+          "text": "River Son"
+        },
+        {
+          "label": "C",
+          "text": "River Gandak"
+        },
+        {
+          "label": "D",
+          "text": "River Chalakudy"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "River Chalakudy"
+      },
+      "explanation": "Researchers in Kochi developed a captive breeding protocol for the endangered black-collared yellow catfish. This species is endemic to the Chalakudy River in Kerala and has unique genetic traits and a greenish-brown mottled appearance. It coexists with the endangered Horabagrus Nigricollaris and is classified as endangered on the IUCN Red List. The breeding program started in 2020, and the first-generation stock was successfully bred. The protocol supports conservation efforts and ensures biodiversity preservation in the Western Ghats."
+    },
+    {
+      "id": 10,
+      "question": "Which state government launched the Shahid Madho Singh Haath Kharcha Scheme?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Karnataka"
+        },
+        {
+          "label": "B",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "C",
+          "text": "Gujarat"
+        },
+        {
+          "label": "D",
+          "text": "Odisha"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Odisha"
+      },
+      "explanation": "The Odisha government launches the Shahid Madho Singh Haath Kharcha Scheme to promote education among Scheduled Tribe (ST) students. The scheme aims to reduce dropout rates by providing a one-time incentive of ₹5,000 to ST students enrolling in Class IX and Class XI. It is implemented for the 2024-2025 academic year and targets students with annual family incomes below ₹2,50,000. The incentive is available only for ST students in government and government-aided schools within the state. Eligible students receive ₹5,000 directly in their bank accounts, with applications processed through the Odisha State Scholarship Portal."
+    }
+  ]
+}

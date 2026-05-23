@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "decline-of-delhi-sultanate",
+    "title": "12. Decline of Delhi Sultanate and Rise of Provincial Kingdoms",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:10:09"
+  },
+  "questions": [
+    {
+      "id": 7736,
+      "question": "Who invaded India in 1398 AD during the reign of Nasiruddin Mahmud of Tughlaq Dynasty?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chegiz khan"
+        },
+        {
+          "label": "B",
+          "text": "Khijr Khan"
+        },
+        {
+          "label": "C",
+          "text": "Timur"
+        },
+        {
+          "label": "D",
+          "text": "Babur"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Timur"
+      },
+      "explanation": "Timur invaded India in 1398 AD during the reign of Nasiruddin Mahmud of Tughlq Dynasty. He carried away with him a large booty from Delhi and the surrounding area. Soon after the invasion, the Tughlaq dynasty came to an end."
+    },
+    {
+      "id": 11514,
+      "question": "The area around which among the following modern cities of India, a Hindu Silhara dynasty ruled from 9th to 13th century AD?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mumbai"
+        },
+        {
+          "label": "B",
+          "text": "Chennai"
+        },
+        {
+          "label": "C",
+          "text": "Kolkata"
+        },
+        {
+          "label": "D",
+          "text": "Hyderabad"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Mumbai"
+      },
+      "explanation": "Silhara dynasty ruled the region around present-day Mumbai between 9th and 13th century. They were vassals of Rastrakutas. Kapardin is considered to be the founder of this dynasty and the princes of this dynasty held the title Tagara-puradhishvara. Tagara was an ancient place near Osmanabad."
+    },
+    {
+      "id": 14189,
+      "question": "Which pass did Timur use to enter India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bolān Pass"
+        },
+        {
+          "label": "B",
+          "text": "Khyber Pass"
+        },
+        {
+          "label": "C",
+          "text": "Malakand Pass"
+        },
+        {
+          "label": "D",
+          "text": "Shimla Pass"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Khyber Pass"
+      },
+      "explanation": "Timur, a Turco-Mongol conqueror, invaded India in 1398, during the rule of Sultan Nasiruddin Mahmud of the Tughlaq dynasty. The invasion was aimed at looting the wealth of Delhi and asserting dominance rather than territorial conquest. Timur entered India through the Khyber Pass, a historically significant pathway for invaders due to its strategic location between Afghanistan and Pakistan."
+    },
+    {
+      "id": 53877,
+      "question": "Consider the following medieval Indian Sultanates and their periods of rule: The Bahmani Sultanate: 1347–1527 CEThe Gujarat Sultanate: 1413–1527 CEThe Gajapati Empire: 1434–1541 CEThe Sultanate of Malwa: 1392–1562 CEWhich of the above associations are accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1, 3 & 4"
+        },
+        {
+          "label": "B",
+          "text": "Only 1 & 3"
+        },
+        {
+          "label": "C",
+          "text": "1, 2 and 4"
+        },
+        {
+          "label": "D",
+          "text": "Only 2 & 4"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Only 1, 3 & 4"
+      },
+      "explanation": "The Bahmani Sultanate ruled from 1347–1527 CE, the Gajapati Empire from 1434–1541 CE, and The Sultanate of Malwa from 1392–1562 CE. However, The Gujarat Sultanate ruled from 1407-1573 CE, not 1413–1527 CE. Therefore, only statements 1, 3, and 4 are correctly matched with their respective periods of rule."
+    },
+    {
+      "id": 53935,
+      "question": "Which of the following were the causes of downfall of the Delhi Sultanate? The Sultans of Delhi Sultanate never tried to win over the confidence of their subjects. Most Sultans followed policy of religious intolerance towards the Hindus. Inherent weaknesses of the Muslim system of government. Select the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1 & 2"
+        },
+        {
+          "label": "B",
+          "text": "Only 2 & 3"
+        },
+        {
+          "label": "C",
+          "text": "Only 1 & 3"
+        },
+        {
+          "label": "D",
+          "text": "1, 2 & 3"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1, 2 & 3"
+      },
+      "explanation": "Some of the causes of downfall of the Delhi Sultanate are as follows:1. The Sultans of Delhi Sultanate never tried to win over the confidence of their subjects.2. Most Sultans followed policy of religious intolerance towards the Hindus.3. Inherent weaknesses of the Muslim system of government."
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-march-2022",
+    "title": "Current Affairs Quiz - March 2022",
+    "page": 2,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:47:30",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:58:45"
+  },
+  "questions": [
+    {
+      "id": 11,
+      "question": "The Prime Minister recently inaugurated the Metro project of which city?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mysuru"
+        },
+        {
+          "label": "B",
+          "text": "Pune"
+        },
+        {
+          "label": "C",
+          "text": "Coimbatore"
+        },
+        {
+          "label": "D",
+          "text": "Trivandrum"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Pune"
+      },
+      "explanation": "Pune Metro project has been undertaken by MAHA Metro, a SPV (Special Purpose Vehicle) of Government of India and Government of Maharashtra. The Prime Minister Narendra Modi inaugurated the 12-km stretch of the total 32.2 km Pune metro rail project. The total cost of the project is over ₹ 11,400 crore. It includes Automatic fare collection system with combination of smart cards & computerized paper tickets."
+    },
+    {
+      "id": 12,
+      "question": "National Stock Exchange of India (NSE) has signed a MoU with which state to help MSMEs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Telangana"
+        },
+        {
+          "label": "C",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "D",
+          "text": "West Bengal"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Telangana"
+      },
+      "explanation": "The Government of Telangana and the National Stock Exchange of India (NSE) have signed a Memorandum of Understanding (MoU) to help MSMEs grow in the State. As part of the MoU, NSE will conduct awareness drive through seminars and workshops to guide corporates for fund raising on NSE Emerge platform, and handhold the companies in listing process. Government of Telangana will facilitate MSMEs to get listed on the NSE Emerge."
+    },
+    {
+      "id": 13,
+      "question": "Who is the head of the taskforce set up to look into cases of suicide in the central armed police forces (CAPFs)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sylendra Babu IPS"
+        },
+        {
+          "label": "B",
+          "text": "Vijay Kumar IPS"
+        },
+        {
+          "label": "C",
+          "text": "VSK Kaumudi IPS"
+        },
+        {
+          "label": "D",
+          "text": "Rakesh Asthana IPS"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "VSK Kaumudi IPS"
+      },
+      "explanation": "The Union Home Ministry set up a taskforce to look into cases of suicide in the central armed police forces (CAPFs). It is headed by IPS officer V S K Kaumudi, the special secretary (internal security), with representatives from BSF, ITBP, CISF, SSB and Assam Rifles. The task force will also prepare a comprehensive report on incidents of fratricide."
+    },
+    {
+      "id": 14,
+      "question": "Which country has partnered with Indonesia to address plastic pollution in the Indo-Pacific?",
+      "options": [
+        {
+          "label": "A",
+          "text": "USA"
+        },
+        {
+          "label": "B",
+          "text": "India"
+        },
+        {
+          "label": "C",
+          "text": "Australia"
+        },
+        {
+          "label": "D",
+          "text": "Canada"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Australia"
+      },
+      "explanation": "Australia’s national science agency and the federal government have established the Plastics Innovation Hub Indonesia. The partnership aims to address plastic pollution in the Indo-Pacific, with the funding of USD 950,745. The hub will bring researchers, investors and the private and public sectors, to work on solutions to plastic waste in Indonesian waterways."
+    },
+    {
+      "id": 15,
+      "question": "T Raja Kumar, the new President of Financial Action Task Force, is from which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India"
+        },
+        {
+          "label": "B",
+          "text": "Sri Lanka"
+        },
+        {
+          "label": "C",
+          "text": "Singapore"
+        },
+        {
+          "label": "D",
+          "text": "Malaysia"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Singapore"
+      },
+      "explanation": "The Financial Action Task Force has appointed T Raja Kumar of Singapore as the next President for a fixed two-year term. He succeeds Marcus Pleyer, Deputy director-general of Germany’s federal ministry of finance. Raja is the first Singaporean appointed to the top role at FATF. He is currently a Senior advisor at the Ministry of Home affairs in Singapore."
+    },
+    {
+      "id": 16,
+      "question": "‘Smart Event Tracking System (SETS)’ is the in-house software of which Ministry/Agency?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Railways"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Science and Technology"
+        },
+        {
+          "label": "C",
+          "text": "ISRO"
+        },
+        {
+          "label": "D",
+          "text": "DRDO"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ministry of Railways"
+      },
+      "explanation": "Smart Event Tracking System (SETS) is the in-house software of Ministry of Railways. It is a new tool on Google Maps-based planning and analysis, which has been deployed to tackle the problem of cattle getting run over by trains. The software is made functional in Agra Division and will be adopted by other divisions in the future. The Prayagraj-based North Central Railway saw over 6,500 of the 26,000 cases of cattle run over that were recorded in 2020-21. This zone also hosts parts of the Delhi-Howrah and Delhi-Mumbai corridors."
+    },
+    {
+      "id": 17,
+      "question": "Fertiliser manufacturer ‘SPIC’ recently set up a Floating Solar power plant in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "B",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "C",
+          "text": "Gujarat"
+        },
+        {
+          "label": "D",
+          "text": "Punjab"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Tamil Nadu"
+      },
+      "explanation": "Leading fertiliser manufacturer Southern Petrochemical Industries Corporation Ltd (SPIC) has set up a floating solar project at Thoothukudi in Tamil Nadu. The plant will generate 42 million units of clean energy per year and will help curbing water evaporation reduction on its reservoir. The plant has been set up at an estimated cost of ₹150 crore."
+    },
+    {
+      "id": 18,
+      "question": "‘Matrushakti Udyamita Scheme’ has been recently announced by which Indian state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gujarat"
+        },
+        {
+          "label": "B",
+          "text": "Madhya Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Haryana"
+        },
+        {
+          "label": "D",
+          "text": "Chhattisgarh"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Haryana"
+      },
+      "explanation": "The Haryana Chief Minister Manohar Lal Khattar presented a Rs 1.77-lakh-crore Budget for the financial year 2022-23. He announced the Haryana ‘Matrushakti Udyamita Scheme’ to provide support to women for becoming entrepreneurs. He also announced ‘Sushma Swaraj Award’ for women with an award money of Rs 5 lakh."
+    },
+    {
+      "id": 19,
+      "question": "Xenotransplantation, which was seen in the news recently, is associated with which field?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Crypto-currency"
+        },
+        {
+          "label": "B",
+          "text": "Organ Transplantation"
+        },
+        {
+          "label": "C",
+          "text": "Semi-conductor Manufacturing"
+        },
+        {
+          "label": "D",
+          "text": "Climate Change"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Organ Transplantation"
+      },
+      "explanation": "Xenotransplantation is defined as the transplantation into a human recipient of either (a) live cells, tissues or organs from a nonhuman animal source, or (b) human body fluids, cells, tissues or organs that have had ex-vivo (outside) contact with live nonhuman animal cells, tissues or organs. Two months after the landmark surgery, where a patient whose failing heart had been replaced with the heart of a genetically altered pig, died recently."
+    },
+    {
+      "id": 20,
+      "question": "Yoon Suk-yeol is the New President of which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Singapore"
+        },
+        {
+          "label": "B",
+          "text": "South Korea"
+        },
+        {
+          "label": "C",
+          "text": "Taiwan"
+        },
+        {
+          "label": "D",
+          "text": "Philippines"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "South Korea"
+      },
+      "explanation": "A conservative former prosecutor, Yoon Suk-yeol is set to become South Korea’s next president after his win in the country’s presidential election. The Election had a high turn-out, with around 77 per cent of the eligible population casting their votes. The results were also the closest in the country’s democratic history, with the vote count had a slim difference of less than 1 per cent."
+    }
+  ]
+}

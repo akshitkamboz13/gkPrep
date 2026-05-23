@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physics-gk-04-motion-friction",
+    "title": "Physics GK 04 - Motion & Friction",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:30:04"
+  },
+  "questions": [
+    {
+      "id": 5905,
+      "question": "Any moving object on earth finally comes to rest due to which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gravity"
+        },
+        {
+          "label": "B",
+          "text": "Friction"
+        },
+        {
+          "label": "C",
+          "text": "Inertia"
+        },
+        {
+          "label": "D",
+          "text": "Motion"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Friction"
+      },
+      "explanation": "Friction is the main reason for any object to come to rest. It is the main reason for the stability of the objects on earth."
+    },
+    {
+      "id": 9898,
+      "question": "A vehicle moving on a circular path experiences ________?",
+      "options": [
+        {
+          "label": "A",
+          "text": "centripetal force"
+        },
+        {
+          "label": "B",
+          "text": "centrifugal force"
+        },
+        {
+          "label": "C",
+          "text": "gravitational force"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "centripetal force"
+      },
+      "explanation": "A vehicle moving on a circular path experiences centripetal force. Centripetal force that acts on a body moving in a circular path and is directed towards the centre around which the body is moving."
+    },
+    {
+      "id": 20573,
+      "question": "An object is executing uniform circular motion. Which of the following quantities remain(s) constant during the object’s motion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Velocity and acceleration"
+        },
+        {
+          "label": "B",
+          "text": "Speed and velocity"
+        },
+        {
+          "label": "C",
+          "text": "Speed and acceleration"
+        },
+        {
+          "label": "D",
+          "text": "Speed only"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Speed only"
+      },
+      "explanation": "The velocity of an object undergoing uniform circular motion is always changing (because the direction is always changing). Further, since the acceleration is centripetal, it must always point toward the center of the circle; so, as the object moves around the circle, the acceleration vector is also constantly changing direction. Notice that for an object in uniform circular motion, both the velocity and the acceleration are changing because the directions of these vectors are always changing, even though their magnitudes stay the same. In this question, only speed remains unchanged."
+    },
+    {
+      "id": 24113,
+      "question": "A person weighing 80 Kg. is standing on an accurate scale in an elevator. The elevator is slowing down while moving downwards. In this case the scale will read__?",
+      "options": [
+        {
+          "label": "A",
+          "text": "80 Kg."
+        },
+        {
+          "label": "B",
+          "text": "Less than 80 Kg"
+        },
+        {
+          "label": "C",
+          "text": "More than 80 Kg"
+        },
+        {
+          "label": "D",
+          "text": "Either less or more than 80 Kg"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "More than 80 Kg"
+      },
+      "explanation": "When the elevator is slowing down while moving downwards, that means there is an acceleration upwards. The gravitational force must be lesser than the normal force. Thus, during slowing down while moving downwards, the normal force on the feet of a passenger is greater than her weight. In this case the scale will read more than 80 kg."
+    },
+    {
+      "id": 26146,
+      "question": "What is the apparent weight of the person when the elevator is accelerating downwards?",
+      "options": [
+        {
+          "label": "A",
+          "text": "equal to the actual weight"
+        },
+        {
+          "label": "B",
+          "text": "greater than the actual weight"
+        },
+        {
+          "label": "C",
+          "text": "less than the actual weight"
+        },
+        {
+          "label": "D",
+          "text": "0"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "less than the actual weight"
+      },
+      "explanation": "The apparent weight of the person becomes less than the actual weight when the elevator is accelerating downwards. The apparent weight of the person becomes more than the actual weight when the elevator is accelerating upwards."
+    }
+  ]
+}

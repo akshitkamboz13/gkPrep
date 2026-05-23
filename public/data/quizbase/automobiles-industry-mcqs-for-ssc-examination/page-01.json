@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "automobiles-industry-mcqs-for-ssc-examination",
+    "title": "13. Automobiles Industry",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:56:16"
+  },
+  "questions": [
+    {
+      "id": 29268,
+      "question": "At which HAL facility are MiG aircraft engines assembled and manufactured?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Engine Division at Koraput, Odisha"
+        },
+        {
+          "label": "B",
+          "text": "Engine Division at Bangalore, Karnataka"
+        },
+        {
+          "label": "C",
+          "text": "Sukhoi Engine Division at Koraput, Odisha"
+        },
+        {
+          "label": "D",
+          "text": "Nasik Airframe Factory, Maharashtra"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Engine Division at Koraput, Odisha"
+      },
+      "explanation": "The Engine Division of Hindustan Aeronautics Limited at Sunabeda, near Koraput, Odisha, was established in 1964. It manufactures engines for MiG fighter aircraft, including R11, R25, R29B, and RD-33 series. Since 2007, the facility has produced RD-33 engines for MiG-29 aircraft under license from Russia. Over 1,300 engines have been manufactured at this division."
+    },
+    {
+      "id": 57687,
+      "question": "Where is the headquarters of the National Automotive Board (NAB) located?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Udyog Bhawan, New Delhi"
+        },
+        {
+          "label": "B",
+          "text": "Faridabad, Haryana"
+        },
+        {
+          "label": "C",
+          "text": "Manesar, Gurugram, Haryana"
+        },
+        {
+          "label": "D",
+          "text": "Rohtak, Haryana"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Manesar, Gurugram, Haryana"
+      },
+      "explanation": "The National Automotive Board (NAB) operational headquarters is at Sector-11, IMT Manesar, Gurugram, Haryana. Manesar hosts the International Centre for Automotive Technology (ICAT), developed under the National Automotive Testing and R&D Infrastructure Project (NATRiP). NAB oversees several key automotive testing and R&D centers in India. NATRiP assets were transferred to NAB following recent administrative restructuring."
+    },
+    {
+      "id": 57692,
+      "question": "In which city is the Global Automotive Research Centre (GARC) located?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hyderabad"
+        },
+        {
+          "label": "B",
+          "text": "Noida"
+        },
+        {
+          "label": "C",
+          "text": "Chennai"
+        },
+        {
+          "label": "D",
+          "text": "Mumbai"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Chennai"
+      },
+      "explanation": "Global Automotive Research Centre (GARC) is located at Oragadam near Chennai, Tamil Nadu. GARC was established under the National Automotive Testing and R&D Infrastructure Project (NATRiP), notified by the Ministry of Heavy Industries and Public Enterprises, Government of India. The centre specializes in testing, certification, and research of automotive systems. GARC became operational in 2015."
+    },
+    {
+      "id": 57693,
+      "question": "Where is the International Centre for Automotive Technology located?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Manesar"
+        },
+        {
+          "label": "B",
+          "text": "Chennai"
+        },
+        {
+          "label": "C",
+          "text": "Noida"
+        },
+        {
+          "label": "D",
+          "text": "Visakhapatanam"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Manesar"
+      },
+      "explanation": "International Centre for Automotive Technology is located at Manesar in Gurugram district of Haryana . The Rs 1100 crore facility for vehicle homologation and also testing laboratories for noise, vibration and harshness and passive safety."
+    },
+    {
+      "id": 57697,
+      "question": "What is the projected auto components industry GDP contribution in India by 2026?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2.3%"
+        },
+        {
+          "label": "B",
+          "text": "5-7%"
+        },
+        {
+          "label": "C",
+          "text": "12%"
+        },
+        {
+          "label": "D",
+          "text": "25%"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "5-7%"
+      },
+      "explanation": "The Indian auto components industry is projected to contribute 5-7% to India's GDP by 2026. Its current contribution is around 2.3%. In fiscal year 2025, the sector's turnover was approximately ₹6.73 lakh crore. The industry recorded a compound annual growth rate of 14% between FY 2020 and FY 2025. The broader automotive sector is expected to contribute over 12% by 2026."
+    }
+  ]
+}

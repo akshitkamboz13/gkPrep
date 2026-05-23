@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "1-prehistoric-india",
+    "title": "1. Prehistoric India",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:50:25"
+  },
+  "questions": [
+    {
+      "id": 1826,
+      "question": "Which valley has the earliest evidence of rice cultivation in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Central Ganga Valley"
+        },
+        {
+          "label": "B",
+          "text": "Belan Valley"
+        },
+        {
+          "label": "C",
+          "text": "Gomal Valley"
+        },
+        {
+          "label": "D",
+          "text": "Bolan Valley"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Belan Valley"
+      },
+      "explanation": "Belan Valley is located in Uttar Pradesh, India. Archaeological excavation at Mahagara and Koldihwa in the Belan Valley found evidence of rice cultivation dating back to around 7000–6000 BCE. Charred grains of domesticated rice were discovered at these sites. This discovery predates rice findings from other Indian regions."
+    },
+    {
+      "id": 1926,
+      "question": "Who among the following is known as father of Indian Pre-History?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Robert Bruce foote"
+        },
+        {
+          "label": "B",
+          "text": "Sir William Jones"
+        },
+        {
+          "label": "C",
+          "text": "E.J.H Mackey"
+        },
+        {
+          "label": "D",
+          "text": "Sir John Marshall"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Robert Bruce foote"
+      },
+      "explanation": "Robert Bruce Foote (1834-1912) was a British geologist and archaeologist, known as father of India's prehistory. While being employed by Geological Survey of India, he conducted surveys of prehistoric locations in India, including parts of Tamil Nadu, Karnataka, and Andhra Pradesh. In 1863, he discovered Paleolithic tools at Pallavaram, Chennai. The tools are now preserved at the Chennai Museum. He served in Baroda for two years after retiring in 1892 and was also invited to Mysuru by the Maharaja."
+    },
+    {
+      "id": 1927,
+      "question": "Which among the following was the main occupation of Palaeolithic (Old stone) people?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Agriculture"
+        },
+        {
+          "label": "B",
+          "text": "Farming"
+        },
+        {
+          "label": "C",
+          "text": "Hunting"
+        },
+        {
+          "label": "D",
+          "text": "Fishing"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Hunting"
+      },
+      "explanation": "Hunting animals and gathering wild fruits, vegetables and plants were the main occupations of Palaeolithic hunter-gatherers. They did not practice organized agriculture and were nomadic, moving from place to place for sustenance. Stone tools found at sites like Hunsgi Valley, Kurnool Caves, and Bhimbetka were probably used for skinning animals and cutting meat."
+    },
+    {
+      "id": 1933,
+      "question": "At which of the following sites, all the Paleolithic, Mesolithic and Neolithic sites have been found in sequence?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sarai Nahar Rai"
+        },
+        {
+          "label": "B",
+          "text": "Kurnool Valley"
+        },
+        {
+          "label": "C",
+          "text": "Belan Valley"
+        },
+        {
+          "label": "D",
+          "text": "Ahar"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Belan Valley"
+      },
+      "explanation": "In the Belan valley (Uttar Pradesh), all the three phases, the Palaeolithic, Mesolithic and Neolithic, have been found in sequence."
+    },
+    {
+      "id": 1934,
+      "question": "The Gufkral prehistoric site is in which Indian state/UT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jammu & Kashmir"
+        },
+        {
+          "label": "B",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "C",
+          "text": "Karnataka"
+        },
+        {
+          "label": "D",
+          "text": "Uttarakhand"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Jammu & Kashmir"
+      },
+      "explanation": "Gufkral, in Pulwama district of Jammu & Kashmir, is a Neolithic-Chalcolithic site known for pit dwellings and early human settlements dating back to around 3000 BCE."
+    }
+  ]
+}

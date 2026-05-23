@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "4-indias-forest-wetlands-mangroves-and-coral-reefs",
+    "title": "4. India&apos;\\'s Forest, Wetlands, Mangroves and Coral Reefs",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:54:05"
+  },
+  "questions": [
+    {
+      "id": 5434,
+      "question": "Which among the following is the closest to the meaning of \"Silviculture\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cultivation of Silk Worms"
+        },
+        {
+          "label": "B",
+          "text": "Cultivation of Textile Crops"
+        },
+        {
+          "label": "C",
+          "text": "Forest Development"
+        },
+        {
+          "label": "D",
+          "text": "Cultivation of Timber"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Forest Development"
+      },
+      "explanation": "Silviculture is the practice of managing and caring for forests to promote their growth and development. It involves a range of activities, such as planting and tending to young trees, thinning out overcrowded areas, and controlling pests and diseases. The goal of silviculture is to create healthy, thriving forests that provide a range of benefits, including clean air and water, wildlife habitat, and timber for various uses."
+    },
+    {
+      "id": 7189,
+      "question": "Saltwater Crocodiles in India are extremely rare in most areas of India but are very common in which of the following parts?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Andaman & Nikobar Islands"
+        },
+        {
+          "label": "B",
+          "text": "Rann of Kuchh"
+        },
+        {
+          "label": "C",
+          "text": "Odisha & sundarbans"
+        },
+        {
+          "label": "D",
+          "text": "Brahmaputra"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Odisha & sundarbans"
+      },
+      "explanation": "Saltwater Crocodiles are notably common in the regions of Odisha and the Sundarbans. These areas provide suitable habitats for these crocodiles, thanks to their mangrove swamps and river deltas. While they are present in other regions such as the Andaman & Nicobar Islands, their prevalence is particularly notable in the coastal areas of Odisha and the Sundarbans, which span across the border of India and Bangladesh. The Sundarbans, especially, is famous for its large population of Saltwater Crocodiles."
+    },
+    {
+      "id": 8384,
+      "question": "Which among the following is commonly found in Gulf of Kutch, Gulf of Mannar, Andaman & Nicobar islands, & Lakshadweep?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Marshy areas"
+        },
+        {
+          "label": "B",
+          "text": "Coral Reefs"
+        },
+        {
+          "label": "C",
+          "text": "Deep water Marine Ecosystems"
+        },
+        {
+          "label": "D",
+          "text": "Mangrove vegetation"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Coral Reefs"
+      },
+      "explanation": "A coral reef is a type of underwater ecosystem which is characterized by reef-building corals, formed of colonies of coral polyps by calcium carbonate. Coral reefs in India are found in Andaman and Nicobar Islands, Gulf of Kutch, Gulf of Mannar, Lakshadweep, Netrani Island and some areas of Gulf of Khambat."
+    },
+    {
+      "id": 9453,
+      "question": "Which among the following World Heritage site of India is owned by two states?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Valley of Flowers National Park"
+        },
+        {
+          "label": "B",
+          "text": "Mountain Railways of India"
+        },
+        {
+          "label": "C",
+          "text": "Sundarbans National Park"
+        },
+        {
+          "label": "D",
+          "text": "Kalka-Shimla Railway"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Kalka-Shimla Railway"
+      },
+      "explanation": "Kalka is in Panchkula Haryana and shimla all of you know. Kalka Shimla Railway spreads in Haryana and Himachal Pradesh, Valley of Flowers National Park is located in Uttarakhand, Mountain Railways of India are in Darjeeling, Sundarbans National Park isn West Bengal and Champaner-Pavagadh Archaeological Park is in Gujarat."
+    },
+    {
+      "id": 10601,
+      "question": "Which among the following is known as “Sairandhri Vanam”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Silent Valley National Park"
+        },
+        {
+          "label": "B",
+          "text": "Mudumalai National Park"
+        },
+        {
+          "label": "C",
+          "text": "Periyar National Park"
+        },
+        {
+          "label": "D",
+          "text": "Guindy National Park"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Silent Valley National Park"
+      },
+      "explanation": "Silent Valley National Park also known as “Sairandhri Vanam” is located in the state of Kerala and is located in the Nilgiri hills. It is home to the lion-tailed macaques, an endangered species of primate. In 1973, \"Save Silent Valley\" campaign (environmental movement) was initiated when the Kerala State Electricity Board declared to implement the Silent Valley Hydro-Electric Project."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "6-flora-and-fauna-of-india",
+    "title": "6. Flora and Fauna of India",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:54:47"
+  },
+  "questions": [
+    {
+      "id": 571,
+      "question": "\"Dancing Deer\" is found in which of the following states of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gujarat"
+        },
+        {
+          "label": "B",
+          "text": "Manipur"
+        },
+        {
+          "label": "C",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "D",
+          "text": "Jammu & Kashmir"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Manipur"
+      },
+      "explanation": "Dancing Deer is the popular name of Sangai Deer, which is found only in Keibul Lamjao National Park (KLNP) in Loktak Lake in Manipur. Loktak is known for Phumdis (floating vegetation) and the deer often needs to balance itself on them, so it appears that they are dancing."
+    },
+    {
+      "id": 580,
+      "question": "Indian Flying Fox is a __:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mammal"
+        },
+        {
+          "label": "B",
+          "text": "Reptile"
+        },
+        {
+          "label": "C",
+          "text": "Amphibian"
+        },
+        {
+          "label": "D",
+          "text": "Bird"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Mammal"
+      },
+      "explanation": "Flying Fox is a bat which is found in tropical forests and swamps, near bodies of water all over India."
+    },
+    {
+      "id": 4613,
+      "question": "Lion-tailed macaque is found in __:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eastern Ghats"
+        },
+        {
+          "label": "B",
+          "text": "Western Ghats"
+        },
+        {
+          "label": "C",
+          "text": "East Himalayas"
+        },
+        {
+          "label": "D",
+          "text": "West Himalayas"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Western Ghats"
+      },
+      "explanation": "The lion-tailed macaque or the wanderoo, is an Old World monkey endemic to the Western Ghats of South India. The lion-tailed macaque ranks among the rarest and most threatened primates. Their range has become increasingly isolated and fragmented by the spread of agriculture and tea, coffee, teak and cinchona, construction of water reservoirs for irrigation and power generation, and human settlements to support such activities."
+    },
+    {
+      "id": 4624,
+      "question": "Othalanga (Cerbera odollam), commonly known as the Suicide tree is found in which state of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kerala"
+        },
+        {
+          "label": "B",
+          "text": "Meghalaya"
+        },
+        {
+          "label": "C",
+          "text": "Karnataka"
+        },
+        {
+          "label": "D",
+          "text": "Sikkim"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Kerala"
+      },
+      "explanation": "Cerbera odollam, commonly known as the Suicide tree, Pong-pong, and Othalanga. It is a species of tree native to India and other parts of southern Asia. It grows wild along the coast in many parts of Kerala. It yields a potent poison, often used for suicide or murder. The kernels of C. Odollam contain cerberin, a potent cardenolide glycoside belonging to the cardiac glycoside family of toxins that includes digoxin. The poison blocks the calcium ion channels in heart muscle, causing disruption of the heart beat. This is most often fatal. Cerberin is difficult to detect in autopsies and its taste can be masked with strong spices. Therefore it is often used in homicide and suicide in India."
+    },
+    {
+      "id": 7601,
+      "question": "What is “Kharmor “?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A rare / endangered animal found in some parts of north east India"
+        },
+        {
+          "label": "B",
+          "text": "A rare / endangered bird found predominantly in Madhya Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "A species of fresh water mollusk"
+        },
+        {
+          "label": "D",
+          "text": "An species of a rare plant found in Himalayas"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "A rare / endangered bird found predominantly in Madhya Pradesh"
+      },
+      "explanation": "The lesser florican is also known as the likh or kharmore. It is the smallest in bustard family. It is endemic to the Indian Subcontinent found predominantly in Madhya Pradesh. Scientific name- Sypheotides indicus, Rank- Species, Family- Otididae, Phylum- Chordata."
+    }
+  ]
+}

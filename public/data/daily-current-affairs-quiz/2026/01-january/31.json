@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: January 31, 2026",
+    "date": "2026-01-31",
+    "year": "2026",
+    "month": "01-january",
+    "day": 31,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 05:24:56",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:54:57"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Pechora missile, that was recently seen in news, is best classified as which type of air defence system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Surface-to-Air missile"
+        },
+        {
+          "label": "B",
+          "text": "Air-to-Air missile"
+        },
+        {
+          "label": "C",
+          "text": "Surface-to-Surface missile"
+        },
+        {
+          "label": "D",
+          "text": "Air-to-surface missile"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Surface-to-Air missile"
+      },
+      "explanation": "Bengaluru-based Alpha Design Technologies Limited (ADTL) has upgraded the Indian Air Force (IAF) Pechora system, supporting India’s push for indigenous defence modernisation. Pechora, formally called S-125 Neva/Pechora, is a Soviet-origin surface-to-air missile (SAM) system for low- to medium-altitude threats. It has protected Indian airspace since the 1970s as a key air defence asset. The system uses radar-guided launchers with V-600 missiles and a fire control unit. It operates with the 4R90 Yatagan radar having five parabolic antennas for detection and tracking."
+    },
+    {
+      "id": 2,
+      "question": "The NPS Swasthya Pension Scheme (NSPS) has been launched by which authority?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Finance"
+        },
+        {
+          "label": "B",
+          "text": "Pension Fund Regulatory and Development Authority"
+        },
+        {
+          "label": "C",
+          "text": "Insurance Regulatory and Development Authority of India"
+        },
+        {
+          "label": "D",
+          "text": "Reserve Bank of India"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Pension Fund Regulatory and Development Authority"
+      },
+      "explanation": "The Pension Fund Regulatory and Development Authority (PFRDA) launched the NPS Swasthya Pension Scheme (NSPS) as a pilot project. It is introduced as a Proof of Concept under the Regulatory Sandbox Framework of PFRDA. The scheme links health-related financial support with the existing National Pension System (NPS). It aims to support out-patient and in-patient medical expenses along with pension savings. It will operate as a sector-specific contributory pension scheme under the Multiple Scheme Framework of NPS. The scheme is voluntary and open to Indian citizens for a limited period."
+    },
+    {
+      "id": 3,
+      "question": "Which Indian institution recently developed a new method to predict solar cycles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IIT Kanpur"
+        },
+        {
+          "label": "B",
+          "text": "IIT Mumbai"
+        },
+        {
+          "label": "C",
+          "text": "IIT Ahmedabad"
+        },
+        {
+          "label": "D",
+          "text": "IIT Roorkee"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "IIT Kanpur"
+      },
+      "explanation": "Indian Institute of Technology (IIT) Kanpur researchers developed a new method to predict solar cycles. A solar cycle is an about 11-year cycle of solar activity controlled by the Sun’s magnetic field. It is measured by the number and intensity of sunspots seen on the Sun’s surface. Around every 11 years, the Sun’s magnetic field flips, swapping north and south poles. Sunspots increase and decrease as magnetic activity changes on the Sun. The cycle starts with solar minimum, when sunspots are very few. Activity rises to solar maximum, when sunspots are highest. After this, activity declines back to solar minimum and a new cycle begins."
+    },
+    {
+      "id": 4,
+      "question": "Tehri Lake, that was recently seen in news, is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Uttarakhand"
+        },
+        {
+          "label": "C",
+          "text": "Madhya Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Odisha"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Uttarakhand"
+      },
+      "explanation": "Two paraglider pilots were rescued by the State Disaster Response Force (SDRF) after falling into Tehri Lake during the Acro Festival and Simulation of Incidents in Flight (SIV) Championship Tehri 2026. Tehri Lake is an artificial reservoir located near Tehri Garhwal town in Uttarakhand. It was formed during the construction of the Tehri Dam by diverting the Bhagirathi River. The lake is situated at an altitude of about 1,700 metres above sea level. It has a depth of nearly 262 metres and a length of around 42 kilometres."
+    },
+    {
+      "id": 5,
+      "question": "Which ministry has launched the PAIMANA portal for monitoring major infrastructure projects?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Finance"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Housing and Urban Affairs"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Statistics and Programme Implementation"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Electronics and Information Technology"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Ministry of Statistics and Programme Implementation"
+      },
+      "explanation": "The Ministry of Statistics and Programme Implementation (MoSPI) launched the PAIMANA portal for monitoring major infrastructure projects. PAIMANA stands for Project Assessment, Infrastructure Monitoring and Analytics for Nation-building. It is a flagship digital initiative to track Central Sector Infrastructure Projects costing ₹150 crore and above. The portal acts as a centralized national repository for infrastructure project data. It improves data accuracy, transparency, and operational efficiency through web-based reporting."
+    }
+  ]
+}

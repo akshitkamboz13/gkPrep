@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physical-geography-various-landforms",
+    "title": "Physical Geography - Various Landforms",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:29:35"
+  },
+  "questions": [
+    {
+      "id": 6646,
+      "question": "A barchan is primarily an example of which natural formation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A type of Rock"
+        },
+        {
+          "label": "B",
+          "text": "A style of Dune"
+        },
+        {
+          "label": "C",
+          "text": "A desert landform called Erg"
+        },
+        {
+          "label": "D",
+          "text": "An expansive sandy terrain known as Sand sea"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "A style of Dune"
+      },
+      "explanation": "A barchan is indeed a type of dune. Characterized by its distinctive crescent shape and known to exist in arid desert environments, it faces the wind in a convex orientation. Barchans are not static; rather, they are able to shift and transform due to the predominant wind direction. This wind action contributes to their unique form and continual movement, enlightening us about the dynamic nature of desert topography."
+    },
+    {
+      "id": 7857,
+      "question": "What is the name of the mountain range located in central Asia, intersecting Russia, China, Mongolia, and Kazakhstan?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Altai Mountains"
+        },
+        {
+          "label": "B",
+          "text": "Sayan Mountains"
+        },
+        {
+          "label": "C",
+          "text": "Ural Mountains"
+        },
+        {
+          "label": "D",
+          "text": "Baikal Mountains"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Altai Mountains"
+      },
+      "explanation": "The Altai Mountains is a mountain range in Central and East Asia, where Russia, China, Mongolia, and Kazakhstan come together. Named after the word \"altan\" from Mongolian language, meaning \"golden\", the range is known for its diverse plant and animal species, some of which cannot be found anywhere else in the world."
+    },
+    {
+      "id": 7858,
+      "question": "Arete,Cirque, Groove, Moraines, Flood planes etc are the landforms associated with which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glacial Activity"
+        },
+        {
+          "label": "B",
+          "text": "Fluvial Activity"
+        },
+        {
+          "label": "C",
+          "text": "Volcanic Activity"
+        },
+        {
+          "label": "D",
+          "text": "Erosion Activity"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Erosion Activity"
+      },
+      "explanation": "Arete,Cirque, Groove, Moraines, Flood planes are the landforms associated with the erosion acitivity. It means weathering mainly."
+    },
+    {
+      "id": 7866,
+      "question": "At which among the following the “Quick Sand” will be found?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Deltas"
+        },
+        {
+          "label": "B",
+          "text": "Deserts"
+        },
+        {
+          "label": "C",
+          "text": "riverbanks, near lakes, or in marshes"
+        },
+        {
+          "label": "D",
+          "text": "Coastal Areas of Seas"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "riverbanks, near lakes, or in marshes"
+      },
+      "explanation": "Quicksand is a colloid which consist of fine granular material like sand, silt or clay and water. The Quicksand formed in saturated loose sand. When water in the sand cannot escape, it creates a liquefied soil that loses strength and cannot support weight."
+    },
+    {
+      "id": 8586,
+      "question": "Larsemann Hills region is located in?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Europe"
+        },
+        {
+          "label": "B",
+          "text": "Moon"
+        },
+        {
+          "label": "C",
+          "text": "Antarctica"
+        },
+        {
+          "label": "D",
+          "text": "Australia"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Antarctica"
+      },
+      "explanation": "The Larsemann Hills are a series of low rounded coastal hills along the southeastern shore of Prydz Bay, Antarctica extending for 9 nautical miles (17 km)."
+    }
+  ]
+}

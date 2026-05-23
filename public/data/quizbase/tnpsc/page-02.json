@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "tnpsc",
+    "title": "States PCS: Tamil Nadu GK Questions for TNPSC Examinations",
+    "page": 2,
+    "total_pages": 2,
+    "generated_at": "2026-05-02 07:04:37",
+    "total_questions": 3,
+    "scraped_at": "2026-05-02 12:34:40"
+  },
+  "questions": [
+    {
+      "id": 11,
+      "question": "Which traditional water structure in Tamil Nadu is commonly used for community-based rainwater harvesting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Temple Tank"
+        },
+        {
+          "label": "B",
+          "text": "Oorani"
+        },
+        {
+          "label": "C",
+          "text": "Kulam"
+        },
+        {
+          "label": "D",
+          "text": "Yeri"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Oorani"
+      },
+      "explanation": "Ooranis are village-level water harvesting ponds in Tamil Nadu, vital for groundwater recharge and local water needs."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following estuarine systems in Tamil Nadu is designated as a Ramsar site and is renowned for its mangrove forests?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Muthupet Estuary"
+        },
+        {
+          "label": "B",
+          "text": "Adyar Estuary"
+        },
+        {
+          "label": "C",
+          "text": "Vedaranyam Estuary"
+        },
+        {
+          "label": "D",
+          "text": "Pichavaram Estuary"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Pichavaram Estuary"
+      },
+      "explanation": "Pichavaram Estuary, a Ramsar site in Cuddalore district, is famous for India’s second-largest mangrove forests."
+    },
+    {
+      "id": 13,
+      "question": "Which hill region in Tamil Nadu is renowned for the rare Neelakurinji flower bloom that occurs every 12 years?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shevaroy Hills"
+        },
+        {
+          "label": "B",
+          "text": "Anamalai Hills"
+        },
+        {
+          "label": "C",
+          "text": "Nilgiri Hills"
+        },
+        {
+          "label": "D",
+          "text": "Palani Hills"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Nilgiri Hills"
+      },
+      "explanation": "The Nilgiri Hills experience the Neelakurinji (Strobilanthes kunthiana) bloom every 12 years, highlighting their ecological significance within the Western Ghats."
+    }
+  ]
+}

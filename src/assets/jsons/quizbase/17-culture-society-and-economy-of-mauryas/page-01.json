@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "17-culture-society-and-economy-of-mauryas",
+    "title": "17. Mauryan Culture, Society and Economy",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:51:41"
+  },
+  "questions": [
+    {
+      "id": 6467,
+      "question": "During the Maurya Period, which among the following was the primary source of revenue?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bhaga"
+        },
+        {
+          "label": "B",
+          "text": "Pindikara"
+        },
+        {
+          "label": "C",
+          "text": "Hiranya"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Bhaga"
+      },
+      "explanation": "Bhaga was the primary source of revenue during the Mauryan period, levied at a rate of approximately one-fourth to one-sixth of a harvested crop. It played a significant role in the Maurya kingdom's economic system, supplementing the administration's financial resources and enabling it to carry out the vast administrative and welfare operations prevalent during its reign."
+    },
+    {
+      "id": 6631,
+      "question": "What was used normally in the construction of Royal Houses during Mauryan period?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wood"
+        },
+        {
+          "label": "B",
+          "text": "Mud & Lime"
+        },
+        {
+          "label": "C",
+          "text": "Burnt Bricks"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Wood"
+      },
+      "explanation": "Wood was used normally in the construction of Royal Houses during Mauryan period."
+    },
+    {
+      "id": 48442,
+      "question": "What does the use of lotus as a motif in the Ashokan pillar symbolizes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Purity and Fecundity"
+        },
+        {
+          "label": "B",
+          "text": "Symbol of fertility"
+        },
+        {
+          "label": "C",
+          "text": "Dharmachakra"
+        },
+        {
+          "label": "D",
+          "text": "Faith in Buddha"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Purity and Fecundity"
+      },
+      "explanation": "In the Ashokan pillar use of motifs can be seen. A large number of motives like lotus, lion, elephant, etc. are used. The most found motif is lotus which symbolizes Purity and Fecundity in Indian tradition."
+    },
+    {
+      "id": 48443,
+      "question": "What does the use of lion as a motif in the Ashokan pillar symbolizes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pride and Courage"
+        },
+        {
+          "label": "B",
+          "text": "Ashoka"
+        },
+        {
+          "label": "C",
+          "text": "Buddha"
+        },
+        {
+          "label": "D",
+          "text": "Departure of Siddhartha"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Buddha"
+      },
+      "explanation": "Lion was one of the motifs used in Ashokan pillars. Lion is a solar symbol and it also represents the Buddha, as he is referred to as Sakyasimha which also means a lion among the Sakyas."
+    },
+    {
+      "id": 48444,
+      "question": "What does the use of 'Bull' as a motif in the Ashokan pillar symbolizes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Purity and Fecundity"
+        },
+        {
+          "label": "B",
+          "text": "Symbol of fertility"
+        },
+        {
+          "label": "C",
+          "text": "Dharmachakra"
+        },
+        {
+          "label": "D",
+          "text": "Departure of Siddhartha"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Symbol of fertility"
+      },
+      "explanation": "The Ashokan pillars are the most celebrated example of Mauryan art. The use of bull as a motif shows the inclination of Ashoka towards Buddhism. The bull represents fertility. The event of the birth of Buddha is also represented by Lotus and Bull."
+    }
+  ]
+}

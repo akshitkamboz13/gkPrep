@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indias-tax-regime-mcqs-for-ssc-examination",
+    "title": "42. India&apos;s Tax Regime",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:24:51"
+  },
+  "questions": [
+    {
+      "id": 4459,
+      "question": "Agricultural Income Tax revenue goes to which of the following governments in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "State Governments"
+        },
+        {
+          "label": "B",
+          "text": "Central Government"
+        },
+        {
+          "label": "C",
+          "text": "Collected by State Governments , delivered to Central Government"
+        },
+        {
+          "label": "D",
+          "text": "Collected by Central Government, delivered to State Governments"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "State Governments"
+      },
+      "explanation": "The taxing powers of the central government encompass taxes on income (except agricultural income), excise on goods produced (other than alcohol), customs duties, and inter-state sale of goods. The state governments are vested with the power to tax agricultural income, land and buildings, sale of goods (other than inter-state), and excise on alcohol. Local authorities such as Panchayat and Municipality also have power to levy some minor taxes."
+    },
+    {
+      "id": 5506,
+      "question": "Ad Valorem Tax is levied on the basis of which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Volume"
+        },
+        {
+          "label": "B",
+          "text": "Value"
+        },
+        {
+          "label": "C",
+          "text": "Production"
+        },
+        {
+          "label": "D",
+          "text": "Export"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Value"
+      },
+      "explanation": "Ad valorem tariff is calculated on the basis of the value of the imported good, expressed as a percentage of such value. For example, an ad valorem tariff of 10% on an imported car worth US$ 10000 would lead to a requirement to pay US$ 1000 as customs duty."
+    },
+    {
+      "id": 7750,
+      "question": "Which of the following is an example of a progressive tax?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Customs duty"
+        },
+        {
+          "label": "B",
+          "text": "Sales tax"
+        },
+        {
+          "label": "C",
+          "text": "Excise duty"
+        },
+        {
+          "label": "D",
+          "text": "Income tax"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Income tax"
+      },
+      "explanation": "Income tax was introduced in India in 1860 by Sir James Wilson. Income tax rates in India increase with higher income slabs as per the Finance Act. The income tax structure is defined in the Income Tax Act, 1961. Income tax collection is administered by the Central Board of Direct Taxes. A progressive tax system is implemented where tax liability rises as an individual's income increases, with no fixed single rate for all."
+    },
+    {
+      "id": 7755,
+      "question": "Which tax is levied exclusively by state governments in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Entertainment Tax"
+        },
+        {
+          "label": "B",
+          "text": "Wealth Tax"
+        },
+        {
+          "label": "C",
+          "text": "Estate Duty"
+        },
+        {
+          "label": "D",
+          "text": "Corporation Tax"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Entertainment Tax"
+      },
+      "explanation": "Entertainment Tax is listed under Entry 62 of List II (State List) in the Seventh Schedule of the Indian Constitution. Only state governments could levy and collect this tax before the introduction of Goods and Services Tax in July 2017. Post-GST, most components of Entertainment Tax were subsumed under GST, but states retained powers for some local bodies and specific categories."
+    },
+    {
+      "id": 7845,
+      "question": "Which statement about Giffen goods is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They follow the standard law of demand"
+        },
+        {
+          "label": "B",
+          "text": "They are luxury goods with increasing demand"
+        },
+        {
+          "label": "C",
+          "text": "They violate the law of demand with an upward-sloping demand curve"
+        },
+        {
+          "label": "D",
+          "text": "They have many close substitutes"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "They violate the law of demand with an upward-sloping demand curve"
+      },
+      "explanation": "Giffen goods violate the law of demand and display an upward-sloping demand curve. They are inferior goods for which demand increases as price rises. The term comes from economist Sir Robert Giffen. Classic Giffen goods require that the good is a staple, lacks close substitutes, and constitutes a large part of the consumer's budget. This is a rare phenomenon in actual markets."
+    }
+  ]
+}

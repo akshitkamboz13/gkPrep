@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "infrastructure-sector-and-policy-mcqs-for-ssc-examination",
+    "title": "38. Infrastructure Sector and Policy",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:25:09"
+  },
+  "questions": [
+    {
+      "id": 7840,
+      "question": "What is the full form of BOLT in infrastructure financing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Build, Operate, Lend, Transfer"
+        },
+        {
+          "label": "B",
+          "text": "Build, Operate, Lease, Transfer"
+        },
+        {
+          "label": "C",
+          "text": "Build, Observe, Lend, Transfer"
+        },
+        {
+          "label": "D",
+          "text": "Build, Own, Lease, Transfer"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Build, Own, Lease, Transfer"
+      },
+      "explanation": "BOLT stands for Build, Own, Lease, Transfer. In this model, a private entity constructs and owns the infrastructure facility, leases it to a government or public sector agency for an agreed period, and afterward transfers ownership to the public authority. The model was adopted to attract private investment in public infrastructure in India from the 1990s and is used in sectors like transportation and power."
+    },
+    {
+      "id": 11773,
+      "question": "How many key infrastructure sectors are known as Core sector in Indian Economy, used for Index of Industrial Production (IIP) data?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5"
+        },
+        {
+          "label": "B",
+          "text": "6"
+        },
+        {
+          "label": "C",
+          "text": "7"
+        },
+        {
+          "label": "D",
+          "text": "8"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "8"
+      },
+      "explanation": "There are 8 Core Industries or core sectors of the economy viz. coal, crude oil, natural gas, refinery products, fertilizer, steel, cement and electricity used in Index of Industrial Production (IIP)."
+    },
+    {
+      "id": 32495,
+      "question": "What is the main activity of Infrastructure Finance Companies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Providing direct loans for infrastructure projects and refinancing"
+        },
+        {
+          "label": "B",
+          "text": "Marketing services for construction firms"
+        },
+        {
+          "label": "C",
+          "text": "Real estate sales and property management"
+        },
+        {
+          "label": "D",
+          "text": "Retail banking and consumer lending"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Providing direct loans for infrastructure projects and refinancing"
+      },
+      "explanation": "Infrastructure Finance Companies in India are registered with the Reserve Bank of India. They primarily provide long-term financial assistance for infrastructure projects. Their main activities include lending for infrastructure development, refinancing, and offering subordinated loans. They also facilitate equity participation and consulting services for large-scale infrastructure projects across sectors such as energy, transportation, and telecommunications. They do not engage in retail banking or property management."
+    },
+    {
+      "id": 32497,
+      "question": "How much per cent of the total assets of the company should be deployed in the infrastructure loans?",
+      "options": [
+        {
+          "label": "A",
+          "text": "75%"
+        },
+        {
+          "label": "B",
+          "text": "60%"
+        },
+        {
+          "label": "C",
+          "text": "80%"
+        },
+        {
+          "label": "D",
+          "text": "50%"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "75%"
+      },
+      "explanation": "As per RBI, any non-banking financial company can be registered as an Infrastructure Finance Company, subject to minimum, 75% of the total assets of the company, should be deployed in the infrastructure loans."
+    },
+    {
+      "id": 32498,
+      "question": "What should be the minimum net worth of a company to get registered as Infrastructure Finance Company?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rs 250 crore"
+        },
+        {
+          "label": "B",
+          "text": "Rs 350 crore"
+        },
+        {
+          "label": "C",
+          "text": "Rs 300 crore"
+        },
+        {
+          "label": "D",
+          "text": "Rs 100 crore"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Rs 300 crore"
+      },
+      "explanation": "As per RBI, any non-banking financial company can be registered as an Infrastructure Finance Company, subject to the company must have a minimum net worth of Rs 300 Crore."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "chemistry-gk-10-chemical-bonds",
+    "title": "Chemistry-10-Chemical Bonds",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:01:41"
+  },
+  "questions": [
+    {
+      "id": 4981,
+      "question": "The energy required to remove an electron from the outermost shell of an atom in its isolated gaseous state is called?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Electron Affinity"
+        },
+        {
+          "label": "B",
+          "text": "Reducing Potential"
+        },
+        {
+          "label": "C",
+          "text": "Ionization Potential"
+        },
+        {
+          "label": "D",
+          "text": "Shell Potential"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Ionization Potential"
+      },
+      "explanation": "Ionization potential is the energy required to remove an electron from the outermost shell of an atom in its isolated gaseous state. As we move down the group, ionization potential decreases. As we move across the period, ionization potential increases Electron affinity is the energy released on adding an electron to the outermost shell of an atom in its isolated gaseous state."
+    },
+    {
+      "id": 7044,
+      "question": "Which of the following statements about the chemical nature of Diamond and Graphite is incorrect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The density of Diamond is greater than that of Graphite"
+        },
+        {
+          "label": "B",
+          "text": "Diamond is chemically unreactive whereas Graphite mildly reacts with certain elements"
+        },
+        {
+          "label": "C",
+          "text": "Both Diamond and Graphite are excellent conductors of electricity"
+        },
+        {
+          "label": "D",
+          "text": "None of the above statements is incorrect"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Both Diamond and Graphite are excellent conductors of electricity"
+      },
+      "explanation": "Diamond and graphite are both forms of carbon but they exhibit different properties due to variations in their bonding arrangements. Diamond does not conduct electricity as each carbon atom in diamond is covalently bonded to four other carbon atoms, leaving no free electrons to conduct electricity. On the other hand, graphite is a good conductor of electricity due to its layered structure which leaves free electrons between the layers."
+    },
+    {
+      "id": 7335,
+      "question": "Which among the following is an ionic solid?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diamond"
+        },
+        {
+          "label": "B",
+          "text": "Dry ice"
+        },
+        {
+          "label": "C",
+          "text": "Table salt"
+        },
+        {
+          "label": "D",
+          "text": "All are ionic solids"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Table salt"
+      },
+      "explanation": "One important character of Ionic solids is that they readily get dissolved in water"
+    },
+    {
+      "id": 11532,
+      "question": "The colors in the fine cut diamond are because of which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Variance in transparency of diamond"
+        },
+        {
+          "label": "B",
+          "text": "Variance in index of refraction"
+        },
+        {
+          "label": "C",
+          "text": "Presence of Impurities"
+        },
+        {
+          "label": "D",
+          "text": "Existence of definite planer layers"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Presence of Impurities"
+      },
+      "explanation": "Pure diamond should transmit visible light and appear as a clear colorless crystal. Colors in diamond originate from lattice defects and impurities. The diamond crystal lattice is exceptionally strong and only atoms of nitrogen, boron and hydrogen can be introduced into diamond during the growth at significant concentrations (up to atomic percents). Nitrogen gives yellowish color while the Boron gives bluish color."
+    },
+    {
+      "id": 27730,
+      "question": "Which of the following molecules have a T-shape arrangement?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ozone"
+        },
+        {
+          "label": "B",
+          "text": "Water"
+        },
+        {
+          "label": "C",
+          "text": "Chlorine Trifluoride"
+        },
+        {
+          "label": "D",
+          "text": "Sulphur dioxide"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Chlorine Trifluoride"
+      },
+      "explanation": "Chlorine trifluoride has 10 electrons around the central chlorine atom. There are five electron pairs arranged in a trigonal bipyramidal shape and two equatorial lone pairs making the final structure T-shaped."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-35-human-body-endocrine-system",
+    "title": "35. Human Body - Endocrine System",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:59:11"
+  },
+  "questions": [
+    {
+      "id": 5615,
+      "question": "A goitre is also called as?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bronchocele"
+        },
+        {
+          "label": "B",
+          "text": "Larynx"
+        },
+        {
+          "label": "C",
+          "text": "autoimmune disease"
+        },
+        {
+          "label": "D",
+          "text": "inflammation"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Bronchocele"
+      },
+      "explanation": "A goitre which is also called a bronchoce is a swelling in the neck. It is commonly developed as a result of iodine deficiency or the inflammation of the thyroid gland."
+    },
+    {
+      "id": 5985,
+      "question": "Which among the following is the correct location of Adrenal Glands in Human Body?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Above kidneys"
+        },
+        {
+          "label": "B",
+          "text": "Below kidneys"
+        },
+        {
+          "label": "C",
+          "text": "Above Medulla Oblongata"
+        },
+        {
+          "label": "D",
+          "text": "Near Pancreases"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Above kidneys"
+      },
+      "explanation": "Each adrenal gland is located on the top of each kidney (forming a hat-like structure on the top of the kidneys). Each adrenal gland has two parts viz. outer cortical portion and inner adrenal cortex. Further, there is a central part called adrenal medulla."
+    },
+    {
+      "id": 6059,
+      "question": "Which among the following glands secrets Adrenocorticotrophic Hormone?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adrenal"
+        },
+        {
+          "label": "B",
+          "text": "pancreas"
+        },
+        {
+          "label": "C",
+          "text": "pituatry"
+        },
+        {
+          "label": "D",
+          "text": "Thyriod"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "pituatry"
+      },
+      "explanation": "The pituitary gland or hypophysis is located in one of the bones at the base of the skull. It has two portions viz. anterior hypophysis and posterior hypophysis. The anterior part produces two hormones that work directly viz. growth hormone (GH) and prolactin; and four tropic hormones {tropic hormones regulate the other endocrine glands} viz. adrenocorticotropic hormone (ACTH), thyroid-stimulating hormone (TSH), luteinizing hormone (LH) and follicle-stimulating hormone (FSH). The posterior part releases two hormones produced in the hypothalamus viz. oxytocin and antidiuretic hormone (ADH or vasopressin)."
+    },
+    {
+      "id": 6680,
+      "question": "Reserpine is categorized as which type of drug?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Narcotic"
+        },
+        {
+          "label": "B",
+          "text": "Anti-histamine"
+        },
+        {
+          "label": "C",
+          "text": "Tranquilizer"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Tranquilizer"
+      },
+      "explanation": "Reserpine is a tranquilizer drug that was extensively used in the mid-20th century for treating high blood pressure and psychosis. Derived from the roots of the Indian Snakeroot plant, it has a calmative effect. While not majorly used today due to side effects like depression, it was a significant stepping stone in the development of modern psychiatric medications. Its primary action is to deplete catecholamines and serotonin from the body."
+    },
+    {
+      "id": 6847,
+      "question": "Islets of langerhans are related to which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Calcitonin"
+        },
+        {
+          "label": "B",
+          "text": "Insulin"
+        },
+        {
+          "label": "C",
+          "text": "Thyroxine"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Insulin"
+      },
+      "explanation": "The pancreatic islets or islets of Langerhans are the regions of the pancreas that contain its endocrine which is also called as hormone-producing cells. They are also known as the insulin-producing tissue."
+    }
+  ]
+}

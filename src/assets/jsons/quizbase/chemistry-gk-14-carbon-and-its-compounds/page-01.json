@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "chemistry-gk-14-carbon-and-its-compounds",
+    "title": "Chemistry-14-Organic Chemistry Basics",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:02:06"
+  },
+  "questions": [
+    {
+      "id": 5012,
+      "question": "2,4-D, which is sold as a weed killer of the broad-leaved weeds is a synthetic version of __:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Auxin Hormone"
+        },
+        {
+          "label": "B",
+          "text": "Cytokinin Hormone"
+        },
+        {
+          "label": "C",
+          "text": "Xylitol"
+        },
+        {
+          "label": "D",
+          "text": "None of them"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Auxin Hormone"
+      },
+      "explanation": "2,4-dichlorophenoxyacetic acid (2,4-dichlorophenoxyethanoic acid) is a synthetic auxin frequently used as a weed killer of broad-leaved weeds. When two herbicides 2,4,5-T and 2,4-D and mixed in equal parts, it is called Agent Orange, which was used by US in Vietnam war."
+    },
+    {
+      "id": 5500,
+      "question": "Trimethylxanthine is a chemical name of a stimulant which is found in tea and coffee. What is the popular name?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thein"
+        },
+        {
+          "label": "B",
+          "text": "Caffeine"
+        },
+        {
+          "label": "C",
+          "text": "Theobromine"
+        },
+        {
+          "label": "D",
+          "text": "Theophylline"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Caffeine"
+      },
+      "explanation": "Caffeine (1, 3, 7-trimethylxanthine) also known as ancient wonder drug is a basically a neurostimulant easily available all over the world and is used in different products like tea, coffee, analgesic adjuvant, soft drinks and many dietary supplements."
+    },
+    {
+      "id": 5902,
+      "question": "Which acid is described as HOOCCOOH?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oxalic Acid"
+        },
+        {
+          "label": "B",
+          "text": "Acetic Acid"
+        },
+        {
+          "label": "C",
+          "text": "Carbonic Acid"
+        },
+        {
+          "label": "D",
+          "text": "Citric Acid"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Oxalic Acid"
+      },
+      "explanation": "Oxalic acid is an organic compound with the formula C₂H₂O₄. Some call it “crab acid” due to its appearance. Its condensed formula is HOOCCOOH, reflecting its classification as the simplest dicarboxylic acid."
+    },
+    {
+      "id": 6121,
+      "question": "Which among the following is the most abundant organic compound in nature?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glucose"
+        },
+        {
+          "label": "B",
+          "text": "Fructose"
+        },
+        {
+          "label": "C",
+          "text": "Sucrose"
+        },
+        {
+          "label": "D",
+          "text": "Cellulose"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Cellulose"
+      },
+      "explanation": "Cellulose is the most abundant organic compound in nature. It is the main constituent of plant fiber. Plants contain on average 33% cellulose, and cotton is the purest form at 90%. Chitin is the second most abundant organic compound in nature."
+    },
+    {
+      "id": 6124,
+      "question": "Which among the following gases is used in production of Vanaspati ghee from vegetable oils?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nitrogen (N2)"
+        },
+        {
+          "label": "B",
+          "text": "Carbon Dioxide (CO2)"
+        },
+        {
+          "label": "C",
+          "text": "Hydrogen (H2)"
+        },
+        {
+          "label": "D",
+          "text": "Neon (Ne)"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Hydrogen (H2)"
+      },
+      "explanation": "Hydrogen (H2) gas is utilized in the manufacture of Vanaspati ghee from vegetable oils. The process involves hydrogenation, a chemical reaction between molecular hydrogen (H2) and another compound or element. Hydrogenation of vegetable oils helps to convert them into a semisolid form that resembles ghee, often used as a cheaper alternative to butter or ghee in cooking."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "the-revolt-of-1857",
+    "title": "11. The Revolt of 1857",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:34:44"
+  },
+  "questions": [
+    {
+      "id": 4312,
+      "question": "During the 1857 Mutiny, who among the following was Governor General of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lord Canning"
+        },
+        {
+          "label": "B",
+          "text": "Lord Elgin"
+        },
+        {
+          "label": "C",
+          "text": "Lord Dalhousie"
+        },
+        {
+          "label": "D",
+          "text": "Lord Elleborough"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Lord Canning"
+      },
+      "explanation": "Lord Canning was the Governor General of India during the 1857 Mutiny. He became the fist viceroy of India after the transfer of power from the East India Company to the Crown of Queen Victoria in 1858."
+    },
+    {
+      "id": 4780,
+      "question": "Which among the following events took place immediately before the massacre at Jallianwalla Bagh?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Partition of Bengal"
+        },
+        {
+          "label": "B",
+          "text": "llbert Bill"
+        },
+        {
+          "label": "C",
+          "text": "Passage of the Rowlatt Act"
+        },
+        {
+          "label": "D",
+          "text": "Minto-Morley Reforms"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Passage of the Rowlatt Act"
+      },
+      "explanation": "Rowlatt Act also known as Black Act was passed by the Imperial Legislative Council in Delhi on 21 March 1919. It empowered the government to put anyone behind the bars without trial and conviction in court law. It basically suspended the right of Habeas Corpus."
+    },
+    {
+      "id": 4810,
+      "question": "Which one of the following books is the official History of Revolt of 1857 published by publication division ,Ministry of Information and broadcasting ,Government of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eighteen Fifty Seven"
+        },
+        {
+          "label": "B",
+          "text": "Theories of Indian Mutiny"
+        },
+        {
+          "label": "C",
+          "text": "The Sepoy Mutiny and the Revolt of 1857"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Eighteen Fifty Seven"
+      },
+      "explanation": "Eighteen Fifty Seven was written by well known Indian Historian Dr. Surendra Nath Sen ,with a foreword by Maulana Azad. It was published on May 1957 by the publication division, Ministry of Information and broadcasting, Government of India."
+    },
+    {
+      "id": 4823,
+      "question": "The Meerut outbreak was sudden and short-lived like a summer gale”. This statement with reference to 1857 mutiny was made by which historian?",
+      "options": [
+        {
+          "label": "A",
+          "text": "S. N. Sen"
+        },
+        {
+          "label": "B",
+          "text": "R. C. Majumdar"
+        },
+        {
+          "label": "C",
+          "text": "S. B. Chaudhuri"
+        },
+        {
+          "label": "D",
+          "text": "V. D. Savarkar"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "S. N. Sen"
+      },
+      "explanation": "The Meerut 1857 Uprising was described by Dr. Surendra Nath Sen-“Like summer gale revolt of Meerut was unprecedented and short-lived”. He was the author of a number of major works, mostly on the history of the Marathas. In 1956, the Indian government commissioned him to write a history of the Indian Popular Uprising of 1857–59; the work, entitled Eighteen Fifty-seven, was published in 1957."
+    },
+    {
+      "id": 4837,
+      "question": "With reference to Bahadur Shah Zafar, which among the following statements is not true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "He was an emperor without empire"
+        },
+        {
+          "label": "B",
+          "text": "He was a warrior without any war experience"
+        },
+        {
+          "label": "C",
+          "text": "Hassan Askari was his spiritual guide"
+        },
+        {
+          "label": "D",
+          "text": "He succeeded to the throne in 1845 A.D."
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "He succeeded to the throne in 1845 A.D."
+      },
+      "explanation": "Bahadur Shah Zafar was the successor to his father, Akbar II upon his death on 28 September 1837. During the time of the revolt of 1857, he was declared as the Emperor of India. The company forces led by Major William Hodson captured him. In 1862, at the age of 87 he died while in exile in Rangoon."
+    }
+  ]
+}

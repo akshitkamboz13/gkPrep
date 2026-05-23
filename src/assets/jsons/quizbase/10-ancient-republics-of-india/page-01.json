@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "10-ancient-republics-of-india",
+    "title": "10. Ancient Republics of India",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:50:30"
+  },
+  "questions": [
+    {
+      "id": 1900,
+      "question": "Which of the following was the capital of Northern Panchalas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ahicchatra"
+        },
+        {
+          "label": "B",
+          "text": "Kampilya"
+        },
+        {
+          "label": "C",
+          "text": "Vajji"
+        },
+        {
+          "label": "D",
+          "text": "Panchal"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ahicchatra"
+      },
+      "explanation": "The Northern Panchalas had their capital at Ahicchatra. On the other hand, Southern Panchalas had their capital at Kampilya."
+    },
+    {
+      "id": 1901,
+      "question": "Ancient Indraprastha was capital of which of the following Mahajanapada?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kuru"
+        },
+        {
+          "label": "B",
+          "text": "Matsya"
+        },
+        {
+          "label": "C",
+          "text": "Panchal"
+        },
+        {
+          "label": "D",
+          "text": "Vajji"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Kuru"
+      },
+      "explanation": "Kuru Indraprastha, capital of Kuru Mahajanpada located in Meerut Delhi region."
+    },
+    {
+      "id": 27438,
+      "question": "In ancient India, the 8 smaller clans / kingdoms called “Athakula” belonged to which among the following Mahajanapadas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Magadha"
+        },
+        {
+          "label": "B",
+          "text": "Kosala"
+        },
+        {
+          "label": "C",
+          "text": "Vriji"
+        },
+        {
+          "label": "D",
+          "text": "Chedi"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Vriji"
+      },
+      "explanation": "Vajji or Vriji was located on the north of River Ganga in Bihar. The seat of 8 smaller clans / kingdoms called “Athakula” out of which Lichhavais, Janatriks, Videhas were very important. It was separated from Kosala from river Gandak."
+    },
+    {
+      "id": 48133,
+      "question": "What was name given to the republican states in ancient India which had a federal character?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kingdoms"
+        },
+        {
+          "label": "B",
+          "text": "Nigamas"
+        },
+        {
+          "label": "C",
+          "text": "Janapadas"
+        },
+        {
+          "label": "D",
+          "text": "Sangha"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Janapadas"
+      },
+      "explanation": "The republics in ancient India were divided into pure republics and Kshatriya aristocracies. The republics and the aristocracies were of two types which are unitary and federal. The republics having a federal character were called Janapadas or state-republics."
+    },
+    {
+      "id": 48134,
+      "question": "Which of the following statements are correct about the Sakyas clan?1) It was situated near the border of Nepal.2) Mahatma Buddha's mother belonged to this clan.3) It had a unitary constitution.4) The capital of Sakya was Kapilavastu.Select the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "only 1"
+        },
+        {
+          "label": "B",
+          "text": "only 1 and 4"
+        },
+        {
+          "label": "C",
+          "text": "only 3 and 4"
+        },
+        {
+          "label": "D",
+          "text": "1, 2, 3, 4."
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "only 1 and 4"
+      },
+      "explanation": "The republican state of Sakya was situated near the border of Nepal. Mahatma Buddha belonged to the family of the Sakyas. The republican state of the Sakyas had a federal constitution. Its capital was Kapilavastu."
+    }
+  ]
+}

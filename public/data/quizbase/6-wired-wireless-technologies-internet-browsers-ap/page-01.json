@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "6-wired-wireless-technologies-internet-browsers-ap",
+    "title": "6. Wired, Wireless Technologies, Internet, Browsers, Apps, Cloud Computing",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:54:57"
+  },
+  "questions": [
+    {
+      "id": 4660,
+      "question": "What is the full form of ADSL?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Automatic Digital Subscriber Line"
+        },
+        {
+          "label": "B",
+          "text": "Asymmetric Direct Subscriber Line"
+        },
+        {
+          "label": "C",
+          "text": "Asymmetric Digital Subscriber Line"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Asymmetric Digital Subscriber Line"
+      },
+      "explanation": "Asymmetric digital subscriber line (ADSL) is a type of digital subscriber line technology. It is a data communications technology which enables faster data transmission. It uses copper telephone lines."
+    },
+    {
+      "id": 4662,
+      "question": "An Autoresponder is a_______on mail server that automatically replies to e-mails?",
+      "options": [
+        {
+          "label": "A",
+          "text": "command"
+        },
+        {
+          "label": "B",
+          "text": "Software"
+        },
+        {
+          "label": "C",
+          "text": "Program"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Program"
+      },
+      "explanation": "An autoresponder is a computer program that automatically answers e-mail sent to it. They can be very simple or quite complex. The first autoresponders were created within mail transfer agents that found they could not deliver an e-mail to a given address."
+    },
+    {
+      "id": 4664,
+      "question": "A DSLAM is a device used by Internet Service Providers (ISPs) to route incoming DSL connections to the Internet. What is its correct full form?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Digital Subscriber Line Access Multiplexer"
+        },
+        {
+          "label": "B",
+          "text": "Digital Subscriber Line Access Multiplier"
+        },
+        {
+          "label": "C",
+          "text": "Digital Service Line Access Multiplexer"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Digital Subscriber Line Access Multiplexer"
+      },
+      "explanation": "A digital subscriber line access multiplexer is a network device which is located in telephone exchanges. It connects multiple customer digital subscriber line interfaces to a high-speed digital communications channel using multiplexing techniques."
+    },
+    {
+      "id": 4666,
+      "question": "Which among the following defines web2.0 most precisely?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A New version of Internet"
+        },
+        {
+          "label": "B",
+          "text": "A Series of technological improvements in World Wide Web"
+        },
+        {
+          "label": "C",
+          "text": "A New labeling of old Softwares improved"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "A Series of technological improvements in World Wide Web"
+      },
+      "explanation": "It is the second stage of internet. Web 2.0 refers to websites that emphasize user-generated content, ease of use, participatory culture and interoperability (i.e., compatible with other products, systems, and devices) for end users."
+    },
+    {
+      "id": 4679,
+      "question": "BSNL, Reliance, Shaw cable, AOL, Tata Indicom all can be kept in which one of the following groups?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ISDN"
+        },
+        {
+          "label": "B",
+          "text": "IRC"
+        },
+        {
+          "label": "C",
+          "text": "ISP"
+        },
+        {
+          "label": "D",
+          "text": "Icons"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "ISP"
+      },
+      "explanation": "all are internet service providers"
+    }
+  ]
+}

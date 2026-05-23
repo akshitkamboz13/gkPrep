@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "introduction-to-geography-and-geographers",
+    "title": "Introduction to Geography and Geographers",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:25:25"
+  },
+  "questions": [
+    {
+      "id": 4131,
+      "question": "Who is known as father of geography?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Plato"
+        },
+        {
+          "label": "B",
+          "text": "Aristotle"
+        },
+        {
+          "label": "C",
+          "text": "Ptolemy"
+        },
+        {
+          "label": "D",
+          "text": "Eratosthenes"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Eratosthenes"
+      },
+      "explanation": "Eratosthenes coined the word Geography. Geo means- Earth; Graphos means- Description; Geography means- Earth description. Eratosthenes calculated the circumference of the Earth and also tilt axis of the Earth. He is known as Father of Geography."
+    },
+    {
+      "id": 4134,
+      "question": "Systematic approach is one of the major approach to study geography. The systematic approach was introduced by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eratosthenese"
+        },
+        {
+          "label": "B",
+          "text": "Ptolemy"
+        },
+        {
+          "label": "C",
+          "text": "Alexander Von Humboldt"
+        },
+        {
+          "label": "D",
+          "text": "Karl Ritter"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Alexander Von Humboldt"
+      },
+      "explanation": "Geography is studied majorly by using two approaches 1. Systematic approach 2. Regional approach Systematic geography approach was introduced by German Geographer Alexander Von Humboldt where as regional geography approach was introduced by another German geographer Karl Ritter • Any phenomenon of geography in systematic approach is studied world over as a whole, and then the identification of typologies or spatial patterns is done. • In the regional approach, the world is divided into regions at different hierarchical levels and then all the geographical phenomena in a particular region are studied"
+    },
+    {
+      "id": 4135,
+      "question": "Which of the following pertains to “study of Landforms” ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Geomorphology"
+        },
+        {
+          "label": "B",
+          "text": "Oceanography"
+        },
+        {
+          "label": "C",
+          "text": "Climatology"
+        },
+        {
+          "label": "D",
+          "text": "Marine Geography"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Geomorphology"
+      },
+      "explanation": "Geomorphology is the scientific study of landforms, their processes, form and sediments at the surface of the Earth. Geomorphology helps to reconstruct history of the surface of the earth through a study of its forms, the materials of which it is made up of and the processes that shape it."
+    },
+    {
+      "id": 4136,
+      "question": "Which of the following refers to the study of interface between physical geography and human geography?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Political geography"
+        },
+        {
+          "label": "B",
+          "text": "Geomorphology"
+        },
+        {
+          "label": "C",
+          "text": "Biogeography"
+        },
+        {
+          "label": "D",
+          "text": "Anthropology"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Biogeography"
+      },
+      "explanation": "Biogeography is the study of the interface between physical geography and human geography. Biogeography includes a. Plant Geography b. Animal Geography c. Ecology d. Environmental Geography"
+    },
+    {
+      "id": 4137,
+      "question": "Who among the following published Geographike hyphegesis or \"Guide to Geography\" in 2nd Century A.D?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ptolemy"
+        },
+        {
+          "label": "B",
+          "text": "Strabo"
+        },
+        {
+          "label": "C",
+          "text": "Herodotus"
+        },
+        {
+          "label": "D",
+          "text": "Aristotle"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ptolemy"
+      },
+      "explanation": "Ptolemy made a number of contributions to geography. His book Geographike hyphegesis or \"Guide to Geography\" compiled and summarize much of the Greek and Roman geographic information accumulated at that time. Geographia was written by Strabo"
+    }
+  ]
+}

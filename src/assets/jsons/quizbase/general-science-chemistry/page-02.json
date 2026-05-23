@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "general-science-chemistry",
+    "title": "Chemistry MCQs",
+    "page": 2,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:50:39",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:12:55"
+  },
+  "questions": [
+    {
+      "id": 11,
+      "question": "What is the general Q-value for alpha-decay?",
+      "options": [
+        {
+          "label": "A",
+          "text": "greater than 0"
+        },
+        {
+          "label": "B",
+          "text": "less than 0"
+        },
+        {
+          "label": "C",
+          "text": "equal to 0"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "greater than 0"
+      },
+      "explanation": "Q-value is the net kinetic energy gained in the process or, if the initial nucleus X is at rest, the kinetic energy of the products. Clearly, Q> 0 for exothermic processes such as α-decay."
+    },
+    {
+      "id": 12,
+      "question": "What is the order of the reaction which is independent of the concentration of reactants?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zero order"
+        },
+        {
+          "label": "B",
+          "text": "First order"
+        },
+        {
+          "label": "C",
+          "text": "Second order"
+        },
+        {
+          "label": "D",
+          "text": "Third order"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Zero order"
+      },
+      "explanation": "Order of a reaction can be 0, 1, 2, 3 and even a fraction. A zero order reaction means that the rate of reaction is independent of the concentration of reactants."
+    },
+    {
+      "id": 13,
+      "question": "What is the general trend for electronegativity in a group of the periodic table as we move from top to bottom?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It increases"
+        },
+        {
+          "label": "B",
+          "text": "It decreases"
+        },
+        {
+          "label": "C",
+          "text": "It remains constant"
+        },
+        {
+          "label": "D",
+          "text": "None"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "It decreases"
+      },
+      "explanation": "Electronegativity generally increases across a period from left to right (say from lithium to fluorine) and decrease down a group (say from fluorine to astatine) in the periodic table."
+    },
+    {
+      "id": 14,
+      "question": "Which of the following Group in the modern periodic table contains Halogens?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Group 18"
+        },
+        {
+          "label": "B",
+          "text": "Group 1"
+        },
+        {
+          "label": "C",
+          "text": "Group 17"
+        },
+        {
+          "label": "D",
+          "text": "Group 2"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Group 17"
+      },
+      "explanation": "The Halogens are placed in 17 group number. The halogens are located on the left of the noble gases in the periodic table. Halogen group contains fluorine (F), chlorine (Cl), bromine (Br), iodine (I), and astatine (At)."
+    },
+    {
+      "id": 15,
+      "question": "What is the bond angle in case of Ammonia molecule?",
+      "options": [
+        {
+          "label": "A",
+          "text": "120°"
+        },
+        {
+          "label": "B",
+          "text": "150°"
+        },
+        {
+          "label": "C",
+          "text": "66°"
+        },
+        {
+          "label": "D",
+          "text": "107°"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "107°"
+      },
+      "explanation": "The bond angle in case of Ammonia molecule is 107° and the molecular geometry is trigonal pyramidal. The number of bond pairs in Ammonia is 3 and lone pair is 1."
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct about Phenolphthalein as an indicator?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It turns red in acids and yellow in bases"
+        },
+        {
+          "label": "B",
+          "text": "It turns colourless in acids and pink in bases"
+        },
+        {
+          "label": "C",
+          "text": "It turns orange in acids and brown in bases"
+        },
+        {
+          "label": "D",
+          "text": "It turns colourless in acids and green in bases"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "It turns colourless in acids and pink in bases"
+      },
+      "explanation": "Phenolphthalein is a weak acid that is commonly used as an indicator. It is colourless in acids and pink in bases."
+    },
+    {
+      "id": 17,
+      "question": "What is the effect of increase in concentration on the Molar conductivity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It increases"
+        },
+        {
+          "label": "B",
+          "text": "It decreases"
+        },
+        {
+          "label": "C",
+          "text": "It remains constant"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "It decreases"
+      },
+      "explanation": "Molar conductivity increases with decrease in concentration and decreases with increase in concentration. This is because the total volume of solution containing one mole of electrolyte also increases as the concentration decreases."
+    },
+    {
+      "id": 18,
+      "question": "Which gas is produced when Sodium ethanoate is heated with Soda lime?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Methane"
+        },
+        {
+          "label": "B",
+          "text": "Ethane"
+        },
+        {
+          "label": "C",
+          "text": "Acetylene"
+        },
+        {
+          "label": "D",
+          "text": "Ethene"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Methane"
+      },
+      "explanation": "Sodium salts of carboxylic acids on heating with soda lime (mixture of sodium hydroxide and calcium oxide) give alkanes containing one carbon atom less than the carboxylic acid. This represents deCarboxylation."
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is an example of a Thermosetting plastic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Melamine"
+        },
+        {
+          "label": "B",
+          "text": "Bakelite"
+        },
+        {
+          "label": "C",
+          "text": "Formaldehyde resin"
+        },
+        {
+          "label": "D",
+          "text": "Teflon"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Teflon"
+      },
+      "explanation": "A Thermosetting polymer can be heated only once when it permanently sets into a solid which can not be remelted and remoulded. The thermosetting plastic is cross linked and is permanently rigid. The common example are bakelite, melamine, formaldehyde resin, etc. Teflon is a thermoplastic."
+    },
+    {
+      "id": 20,
+      "question": "Which of the following is a polymer of amino acids?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Starch"
+        },
+        {
+          "label": "B",
+          "text": "Cellulose"
+        },
+        {
+          "label": "C",
+          "text": "Proteins"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Proteins"
+      },
+      "explanation": "Proteins are the polymers of amino acids. They have generally 20 to 1000 amino acids joined together in a highly organized arrangement."
+    }
+  ]
+}

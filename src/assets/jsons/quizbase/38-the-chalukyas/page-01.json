@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "38-the-chalukyas",
+    "title": "36. The Chalukyas",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:53:50"
+  },
+  "questions": [
+    {
+      "id": 1868,
+      "question": "Who was the founder of Chalukya Dynasty ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vishnuvardhan"
+        },
+        {
+          "label": "B",
+          "text": "Pulakesin I"
+        },
+        {
+          "label": "C",
+          "text": "Kirtivarman I"
+        },
+        {
+          "label": "D",
+          "text": "Pulakesin II"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Pulakesin I"
+      },
+      "explanation": "The founder of Chalukya dynasty, Pulakesin I established a small kingdom with Badami (or Vatapi) as its capital in Bijapur District, Karnataka ."
+    },
+    {
+      "id": 1869,
+      "question": "Who was the author of Aihole Inscription ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ravikirti"
+        },
+        {
+          "label": "B",
+          "text": "Hiuen Tsang"
+        },
+        {
+          "label": "C",
+          "text": "Bharavi"
+        },
+        {
+          "label": "D",
+          "text": "Dandin"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ravikirti"
+      },
+      "explanation": "Aihole Inscription is a eulogy written by Ravikirti who was the court poet of Chalukya King Pulakesin II."
+    },
+    {
+      "id": 1871,
+      "question": "Which Chalukyan ruler set up it capital at Vengi ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vishnuvardhan"
+        },
+        {
+          "label": "B",
+          "text": "Mahendravarman"
+        },
+        {
+          "label": "C",
+          "text": "Kakusthavarman"
+        },
+        {
+          "label": "D",
+          "text": "Pulakesin II"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Vishnuvardhan"
+      },
+      "explanation": "The son of Pulakesin II, Vishnuvardhan established the eastern branch of the chalukyas with it’s capital first at Pistapur and later at Vengi."
+    },
+    {
+      "id": 1876,
+      "question": "Who among the following Pallava ruler built Vaikuntaperumal temple at Kanchi ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nandivarman II"
+        },
+        {
+          "label": "B",
+          "text": "Aparajita"
+        },
+        {
+          "label": "C",
+          "text": "Mahendrvarman I"
+        },
+        {
+          "label": "D",
+          "text": "Vikramaditta II"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Nandivarman II"
+      },
+      "explanation": "Vaikunta Perumal Temple was built by Pallava King Nandivarman-II in the 8th century, he was a worshipper of Lord Vishnu."
+    },
+    {
+      "id": 7218,
+      "question": "The following Chalukya king performed an ashwamedha yajna?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pulkesin I"
+        },
+        {
+          "label": "B",
+          "text": "Pulkesin II"
+        },
+        {
+          "label": "C",
+          "text": "Pulkesin III"
+        },
+        {
+          "label": "D",
+          "text": "Vikramaditya I"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Pulkesin I"
+      },
+      "explanation": "Pulakesin I, the chalukya king, performed Ashwamedha Yajna (horse sacrifice ceremony) to access power. Pulakesin I was the first ruler of chalukya dunasty."
+    }
+  ]
+}

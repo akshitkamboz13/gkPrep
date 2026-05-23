@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-geography-location-extent-administrative-physiographic-divisions",
+    "title": "1. Location, Extent, Administrative, Physiographic Divisions of India",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:18:24"
+  },
+  "questions": [
+    {
+      "id": 2757,
+      "question": "India is located on north of equator between which of the following latitudes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Between 8°4' and 37°6'"
+        },
+        {
+          "label": "B",
+          "text": "Between 7°4' to 39°6'"
+        },
+        {
+          "label": "C",
+          "text": "Between 8°7' to 36°6'"
+        },
+        {
+          "label": "D",
+          "text": "Between 7°4' to 40°6'"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Between 8°4' and 37°6'"
+      },
+      "explanation": "India is located entirely north of the equator between 8°4' to 37°6' north latitude and 68°7' to 97°25' east longitude."
+    },
+    {
+      "id": 2758,
+      "question": "With which of the following countries of South East Asia, India shares a maritime boundary?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indonesia"
+        },
+        {
+          "label": "B",
+          "text": "Malaysia"
+        },
+        {
+          "label": "C",
+          "text": "Singapore"
+        },
+        {
+          "label": "D",
+          "text": "Vietnam"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Indonesia"
+      },
+      "explanation": "India's southern mainland and islands share a maritime border with Myanmar, Thailand and Indonesia."
+    },
+    {
+      "id": 2759,
+      "question": "The Kachin Hills make a boundary between India and which of the following neighbors?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bhutan"
+        },
+        {
+          "label": "B",
+          "text": "Myanmar"
+        },
+        {
+          "label": "C",
+          "text": "Nepal"
+        },
+        {
+          "label": "D",
+          "text": "China"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Myanmar"
+      },
+      "explanation": "Kachin Hills are located at the extreme northeastern area of the Kachin State of Myanmar and they make a boundary between India and Myanmar."
+    },
+    {
+      "id": 2762,
+      "question": "Which of the following states of India does not share a boundary with Myanmar?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Arunachal Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Manipur"
+        },
+        {
+          "label": "C",
+          "text": "Nagaland"
+        },
+        {
+          "label": "D",
+          "text": "Assam"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Assam"
+      },
+      "explanation": "India shares a 1,643 km land border with Myanmar and the states that share this border include Arunachal Pradesh, Nagaland, Manipur and Mizoram."
+    },
+    {
+      "id": 2766,
+      "question": "Which of the following regions in India represents lowest altitude?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kuttanad region in Kerala"
+        },
+        {
+          "label": "B",
+          "text": "Saurashtra Region in Karnataka"
+        },
+        {
+          "label": "C",
+          "text": "Coromandel of Tamil Nadu"
+        },
+        {
+          "label": "D",
+          "text": "Malabar region of Kerala"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Kuttanad region in Kerala"
+      },
+      "explanation": "Kuttanad region in Kerala covering Alappuzha and Kottayam Districts represents India's lowest altitudes."
+    }
+  ]
+}

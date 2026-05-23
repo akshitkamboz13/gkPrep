@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-culture09-indian-folk-dances",
+    "title": "Indian Culture:09-Indian Folk Dances",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:15:47"
+  },
+  "questions": [
+    {
+      "id": 3080,
+      "question": "Raut Nacha is folk dance performed mainly by the tribal communities of which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "B",
+          "text": "Jammu & Kashmir"
+        },
+        {
+          "label": "C",
+          "text": "Assam"
+        },
+        {
+          "label": "D",
+          "text": "Chhattisgarh"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Chhattisgarh"
+      },
+      "explanation": "Raut Nacha is a ceremonial dance performed mainly by the tribal community of Chhattisgarh. It is performed during the “dev udhni ekadashi”, after the Diwali festival. It is mainly performed by Yaduvanshis. The dance form carries with itself sacred mythological and religious traditions."
+    },
+    {
+      "id": 3082,
+      "question": "Ghumura is an ancient folk dance that originated in which of the following states?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Odisha"
+        },
+        {
+          "label": "B",
+          "text": "Madhya Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Odisha"
+      },
+      "explanation": "Ghumura is an ancient folk dance that originated from Odisha. As per ancient mythological texts, Ghumura was a war dance of the Gods and Demons. Over the course of time, Ghumurawas imbibed into performing arts and entertainment in Odisha."
+    },
+    {
+      "id": 3084,
+      "question": "Which of the following is not present in the UNESCO list of Intangible Cultural Heritage of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kalbelia"
+        },
+        {
+          "label": "B",
+          "text": "Yoga"
+        },
+        {
+          "label": "C",
+          "text": "Maach"
+        },
+        {
+          "label": "D",
+          "text": "Ramlila"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Maach"
+      },
+      "explanation": "Maach is a form of folk theatre from the Malwa region Madhya Pradesh. It is said to have originated from the Khyal theatre form of Rajasthan. It is not present in the UNESCO list of Intangible Cultural Heritage."
+    },
+    {
+      "id": 5229,
+      "question": "Dappu Dance is a famous dance form of which among the following states?",
+      "options": [
+        {
+          "label": "A",
+          "text": "West Bengal"
+        },
+        {
+          "label": "B",
+          "text": "Assam"
+        },
+        {
+          "label": "C",
+          "text": "Gujarath"
+        },
+        {
+          "label": "D",
+          "text": "Andhra Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Andhra Pradesh"
+      },
+      "explanation": "Dappu Dance belongs to Andhra Pradesh.The Dappu is made of goatskin, a tambourine-like drum is beaten with sticks creating a rhythm that is softened only by the ankle bells that the 16 to 20 dancers wear."
+    },
+    {
+      "id": 5308,
+      "question": "Husari and Bihunas are two main forms of dancing of which among the following states?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assam"
+        },
+        {
+          "label": "B",
+          "text": "Bihar"
+        },
+        {
+          "label": "C",
+          "text": "Orissa"
+        },
+        {
+          "label": "D",
+          "text": "West Bengal"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Assam"
+      },
+      "explanation": "Husari and Bihunas belongs to Assam. Husari is carol singing. Bihu songs and dances invariably follow the main item of Husari singing."
+    }
+  ]
+}

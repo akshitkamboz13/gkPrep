@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "manipur-gk-questions-for-manipur-public-service-commission-exams",
+    "title": "States PCS: Manipur GK Questions for Manipur Public Service Commission Exams",
+    "page": 3,
+    "total_pages": 3,
+    "generated_at": "2026-05-02 05:57:25",
+    "total_questions": 4,
+    "scraped_at": "2026-05-02 12:24:33"
+  },
+  "questions": [
+    {
+      "id": 21,
+      "question": "Which invasive plant species poses a major threat to the ecosystem of Loktak Lake in Manipur?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Parthenium hysterophorus"
+        },
+        {
+          "label": "B",
+          "text": "Waterhyacinth"
+        },
+        {
+          "label": "C",
+          "text": "Lantana camara"
+        },
+        {
+          "label": "D",
+          "text": "Eichhornia crassipes"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Waterhyacinth"
+      },
+      "explanation": "Waterhyacinth (Eichhornia crassipes) spreads rapidly in Loktak Lake, blocks waterways, degrades phumdis, and disrupts fishing, threatening the lake’s ecosystem."
+    },
+    {
+      "id": 22,
+      "question": "Which traditional farming practice in the hill regions of Manipur is a major cause of deforestation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jhum cultivation"
+        },
+        {
+          "label": "B",
+          "text": "Paddy terrace farming"
+        },
+        {
+          "label": "C",
+          "text": "Sericulture"
+        },
+        {
+          "label": "D",
+          "text": "Wet rice cultivation"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Jhum cultivation"
+      },
+      "explanation": "Jhum, or shifting cultivation, involves clearing forests for temporary farming, leading to deforestation and soil erosion in Manipur’s hill areas."
+    },
+    {
+      "id": 23,
+      "question": "Which of the following is a bird sanctuary in Manipur that supports migratory waterfowl during winter?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Yangoupokpi-Lokchao Wildlife Sanctuary"
+        },
+        {
+          "label": "B",
+          "text": "Keibul Lamjao National Park"
+        },
+        {
+          "label": "C",
+          "text": "Waithou Lake Bird Sanctuary"
+        },
+        {
+          "label": "D",
+          "text": "Jiri-Makru Wildlife Sanctuary"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Waithou Lake Bird Sanctuary"
+      },
+      "explanation": "Waithou Lake Bird Sanctuary in Manipur is known for hosting migratory waterfowl such as teals, pintails, and herons during winter."
+    },
+    {
+      "id": 24,
+      "question": "Which climate type primarily characterizes the environment of Manipur?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tropical savanna"
+        },
+        {
+          "label": "B",
+          "text": "Arid desert"
+        },
+        {
+          "label": "C",
+          "text": "Subtropical monsoon"
+        },
+        {
+          "label": "D",
+          "text": "Humid continental"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Subtropical monsoon"
+      },
+      "explanation": "Manipur has a subtropical monsoon climate with mild winters and heavy summer rainfall."
+    }
+  ]
+}

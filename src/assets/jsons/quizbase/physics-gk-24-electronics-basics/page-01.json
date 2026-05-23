@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physics-gk-24-electronics-basics",
+    "title": "Physics GK 24 - Electronics Basics",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:32:03"
+  },
+  "questions": [
+    {
+      "id": 9069,
+      "question": "Edwin Howard Armstrong was an inventor of which of the following technologies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Television"
+        },
+        {
+          "label": "B",
+          "text": "Compact Discs"
+        },
+        {
+          "label": "C",
+          "text": "FM Radio"
+        },
+        {
+          "label": "D",
+          "text": "Broadband"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "FM Radio"
+      },
+      "explanation": "Edwin Howard Armstrong was an American electrical engineer who developed FM radio and the superheterodyne receiver system. Edwin Howard Armstrong is the \"father of FM radio\" and was born in 1890."
+    },
+    {
+      "id": 12198,
+      "question": "Crystals of which of the following naturally-occuring substance exhibits both ‘pyroelectric’ and ‘piezoelectric’ properties making it versatile for application in the field of electronics?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Quartz"
+        },
+        {
+          "label": "B",
+          "text": "Mica"
+        },
+        {
+          "label": "C",
+          "text": "Topaz"
+        },
+        {
+          "label": "D",
+          "text": "grapite"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Quartz"
+      },
+      "explanation": "Quartz crystals have piezoelectric properties: they develop an electric potential upon the application of mechanical stress. An early use of this property of quartz crystals was in phonograph pickups. A common piezoelectric use of quartz today is as a crystal oscillator. The quartz clock is a familiar device using the mineral. Quartz is also strongly pyroelectric. Temperature changes create positive and negative charges within the crystal."
+    },
+    {
+      "id": 27249,
+      "question": "When is a p-n diode said to be forward biased?",
+      "options": [
+        {
+          "label": "A",
+          "text": "when p-side is connected to the positive terminal of the battery"
+        },
+        {
+          "label": "B",
+          "text": "when n-side is connected to the positive terminal of the battery"
+        },
+        {
+          "label": "C",
+          "text": "when p-side is connected to the negative terminal of the battery"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "when p-side is connected to the positive terminal of the battery"
+      },
+      "explanation": "When an external voltage V is applied across a semiconductor diode such that p-side is connected to the positive terminal of the battery and n- side to the negative terminal."
+    },
+    {
+      "id": 27251,
+      "question": "What is a p-n diode said to be in reverse-bias?",
+      "options": [
+        {
+          "label": "A",
+          "text": "positive terminal of the external battery is connected to the p-side"
+        },
+        {
+          "label": "B",
+          "text": "positive terminal of the external battery is connected to the n-side"
+        },
+        {
+          "label": "C",
+          "text": "negative terminal of the external battery is connected to the n-side"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "positive terminal of the external battery is connected to the n-side"
+      },
+      "explanation": "If the positive terminal of the external battery is connected to the n-side and the negative terminal of the external battery is connected to the p- side, then the p-n junction is said to be reverse biased."
+    },
+    {
+      "id": 27253,
+      "question": "What is the minimum number of logic gates in a VLSI?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10"
+        },
+        {
+          "label": "B",
+          "text": "100"
+        },
+        {
+          "label": "C",
+          "text": "1000"
+        },
+        {
+          "label": "D",
+          "text": "10000"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "1000"
+      },
+      "explanation": "If the number of logic gates in a circuit is greater than 1000, we call it as VLSI – very large scale integration"
+    }
+  ]
+}

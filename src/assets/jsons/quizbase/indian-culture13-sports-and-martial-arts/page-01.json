@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-culture13-sports-and-martial-arts",
+    "title": "Indian Culture:13-Sports and martial arts",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:16:12"
+  },
+  "questions": [
+    {
+      "id": 4230,
+      "question": "Kambala Sport is held in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Karnataka"
+        },
+        {
+          "label": "B",
+          "text": "Gujarath"
+        },
+        {
+          "label": "C",
+          "text": "Tamilnadu"
+        },
+        {
+          "label": "D",
+          "text": "Kerala"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Karnataka"
+      },
+      "explanation": "Kambala is an annual buffalo race held in Karnataka and also in some parts of Kerala such as Kasaragod."
+    },
+    {
+      "id": 7739,
+      "question": "Which among the following is not correctly matched pair? (Countries – National Game )",
+      "options": [
+        {
+          "label": "A",
+          "text": "USA – Baseball"
+        },
+        {
+          "label": "B",
+          "text": "Pakistan – Field Hockey"
+        },
+        {
+          "label": "C",
+          "text": "China – Table Tennis"
+        },
+        {
+          "label": "D",
+          "text": "All are correct"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "All are correct"
+      },
+      "explanation": "The correct answer is \"All are correct.\" While baseball is often associated with the USA, it is not the official national sport. that title belongs to American football. Pakistan's national sport is indeed field hockey, and table tennis is recognized as the national sport of China. Thus, the pairing for the USA is not correctly matched."
+    },
+    {
+      "id": 18756,
+      "question": "Which of the following is / are examples of Indian martial arts? Thang-Ta Kalaripayattu Silambam Mudiyettu Select the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1 & 2"
+        },
+        {
+          "label": "B",
+          "text": "Only 2 & 3"
+        },
+        {
+          "label": "C",
+          "text": "Only 1, 2 & 3"
+        },
+        {
+          "label": "D",
+          "text": "1, 2, 3 & 4"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Only 1, 2 & 3"
+      },
+      "explanation": "Thang-taThang-ta is a weapon-based Indian martial art created by the Meitei of Manipur. In the Manipuri language, thang means sword and ta means spear, referring to the art’s primary weapons. Thang Ta is also a popular form in Manipuri dance.SilambamSilambam is a weapon-based Indian martial art from Tamil Nadu, but also traditionally practised by the Tamil community of Sri Lanka and Malaysia. It is closely related to Keralan kalaripayat and Sri Lankan angampora.KalaripayattuKalaripayattu is an Indian martial art from Kerala. It is one of the most ancient fighting systems that are even practiced today. It was originally practised in Kerala and some parts of Karnataka. Today it is practiced in Kerala, Tamil Nadu as well as Karnataka and some parts of Shri Lanka.MudiyettuMudiyettu is the name of a dance drama of Kerala, which is based upon the mythological tale of battle, depicting glory and triumph of Bhagavathy over the demon Darika. This along with Koodiyattam, Ram Lila and Vedic Chanting have been recognized by the UNESCO as ‘Intangible Cultural Heritage of Humanity”."
+    },
+    {
+      "id": 18782,
+      "question": "With reference to India's culture and tradition, what is \"Kambala\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": "an annual buffalo race held traditionally in Karnataka"
+        },
+        {
+          "label": "B",
+          "text": "a martial art practiced in Manipur"
+        },
+        {
+          "label": "C",
+          "text": "a folk art of Kerala"
+        },
+        {
+          "label": "D",
+          "text": "an ancient style bronze and brassworkÂ of Andhra Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "an annual buffalo race held traditionally in Karnataka"
+      },
+      "explanation": "Kambala is an annual buffalo race held traditionally in Karnataka state of India. The event was recently in news, when after the ban on Jallikattu; the Animal Welfare Board of India (AWBI) has asked Karnataka government to ban the race citing reasons of cruelity to animals."
+    },
+    {
+      "id": 18818,
+      "question": "Gatka is an ancient martial art from which state of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Punjab"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Andhra Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Punjab"
+      },
+      "explanation": "Gatka is an ancient martial art used by the Gurus to help defend the religious beliefs of Sikhi."
+    }
+  ]
+}

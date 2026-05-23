@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "14-maurya-empire-chandragupta-and-bindusara",
+    "title": "14. Maurya Empire- Chandragupta and Bindusara",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:51:20"
+  },
+  "questions": [
+    {
+      "id": 326,
+      "question": "Which of the following is not a correct observation as mentioned by Megasthenes about India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "There is abundant gold, silver, copper and iron in India"
+        },
+        {
+          "label": "B",
+          "text": "There is a well established caste system in India"
+        },
+        {
+          "label": "C",
+          "text": "There are frequent famines in India"
+        },
+        {
+          "label": "D",
+          "text": "Dionysus has invaded India"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "There are frequent famines in India"
+      },
+      "explanation": "The option C is not correct. Indians did not face famines because of abundant rains and assured at least one of two seasons of crops; and abundance of fruits and edible roots."
+    },
+    {
+      "id": 1765,
+      "question": "Who among the following laid down for punishment for a person becoming mendicant without making adequate provision for dependent wife and children?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Manu"
+        },
+        {
+          "label": "B",
+          "text": "Yajnavalkya"
+        },
+        {
+          "label": "C",
+          "text": "Kautilya"
+        },
+        {
+          "label": "D",
+          "text": "Narada"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Kautilya"
+      },
+      "explanation": "Chanakya : He is also known by Vishnugupta, Kautilya,was born around 350 BC and is known for his being the chief architect of Mauryan Empire and writing the pioneering work in the Economics and Political Science that is Arthashstra. He is known as Indian Machiavelli in the western world."
+    },
+    {
+      "id": 1770,
+      "question": "Who identified \"Sandrokottus\" of the Greco-Roman literature with Chandragupta Maurya?",
+      "options": [
+        {
+          "label": "A",
+          "text": "D. R. Bhandarkar"
+        },
+        {
+          "label": "B",
+          "text": "Alexander Cunningham"
+        },
+        {
+          "label": "C",
+          "text": "R. P. Chanda"
+        },
+        {
+          "label": "D",
+          "text": "William Jones"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "William Jones"
+      },
+      "explanation": "Maurya Empire was the first and one of the greatest empire to be established in Indian history by Chandragupta Maurya. He dethroned the last Nanda ruler Dhananand and occupied Patliputra in 322 BC with the help of Kautilya(Chankya). In 305 BC ,he defeated Selecus Nikator ,who was one of the generals of Alexander The Great (Greek ruler). He is also well-known in the Greek texts as – Sandro Kottus, Androcottus, Sandokyptos."
+    },
+    {
+      "id": 1817,
+      "question": "The cotton cloth worn by Indians had a brighter white colour than any cotton found elsewhere. This view was recorded by __?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alexander"
+        },
+        {
+          "label": "B",
+          "text": "Megasthenes"
+        },
+        {
+          "label": "C",
+          "text": "Nearchus"
+        },
+        {
+          "label": "D",
+          "text": "Pliny"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Megasthenes"
+      },
+      "explanation": "Megasthenes – an ancient Greek historian and diplomat, author of an account of India, the Indica, in four books. He was sent by the Hellenistic king Seleucus I on embassies to the Mauryan emperor Chandragupta Maurya. He wrote that the dress worn by the Indians was made of cotton of a brighter white colour than any cotton found elsewhere."
+    },
+    {
+      "id": 1912,
+      "question": "Who was the Syrian ambassador in the court of Bindusara?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Megasthenes"
+        },
+        {
+          "label": "B",
+          "text": "Dimachos"
+        },
+        {
+          "label": "C",
+          "text": "Dionysius"
+        },
+        {
+          "label": "D",
+          "text": "Amitrochates"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Dimachos"
+      },
+      "explanation": "The Syrian ruler, Antiochus I sent Dimachos as an ambassador in the court of Bindusara."
+    }
+  ]
+}

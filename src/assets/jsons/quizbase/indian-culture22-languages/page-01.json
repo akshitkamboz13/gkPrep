@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-culture22-languages",
+    "title": "Indian Culture:22-Languages",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:17:06"
+  },
+  "questions": [
+    {
+      "id": 5224,
+      "question": "Which of the following is considered the oldest language in the history of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sanskrit"
+        },
+        {
+          "label": "B",
+          "text": "Telugu"
+        },
+        {
+          "label": "C",
+          "text": "Hindi"
+        },
+        {
+          "label": "D",
+          "text": "Tamil"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Tamil"
+      },
+      "explanation": "Tamil language holds the title as the oldest language in India. It is about 5000 years old and is still widely used in parts of India and Sri Lanka. It is a part of the Dravidian language family, distinct from the Indo-European languages like Hindi and Sanskrit that largely influenced other languages in northern parts of India."
+    },
+    {
+      "id": 8125,
+      "question": "Which among the following is first Classical Language?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sanskrit"
+        },
+        {
+          "label": "B",
+          "text": "Konkani"
+        },
+        {
+          "label": "C",
+          "text": "Malayalam"
+        },
+        {
+          "label": "D",
+          "text": "Tamil"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Tamil"
+      },
+      "explanation": "The new category of classical language was created in 2004 and Tamil was declared first classical language of India. Classical languages in India refer to those languages that have been given the status of classical languages by the government of India. This status is given to languages that have a long literary history and have made a significant contribution to the cultural heritage of India. The classical languages of India are Sanskrit, Tamil, Telugu, Kannada, and Malayalam. These languages have a rich history and have been instrumental in the development of many aspects of Indian culture, including literature, art, and music."
+    },
+    {
+      "id": 9139,
+      "question": "Ashtadhyayi, Mahabhasya & Nirkuta are related to which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Music"
+        },
+        {
+          "label": "B",
+          "text": "Grammar"
+        },
+        {
+          "label": "C",
+          "text": "Philosophy"
+        },
+        {
+          "label": "D",
+          "text": "Music"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Grammar"
+      },
+      "explanation": "Ashtadhyayi is a sanskrit treatise on grammar. It was written in the 6th to 5th century bce by the Indian grammarian Panini. The Mahābhāsya is attributed to Patañjali, is a commentary on selected rules of Sanskrit grammar from Paṇini's treatise. It is dated to the 2nd century BCE. Nirukta means \"explained, interpreted\" and refers to one of the six ancient Vedangas. Nirukta covers etymology, and is the study concerned with correct interpretation of Sanskrit words in the Vedas."
+    },
+    {
+      "id": 10137,
+      "question": "Which among the following is NOT a classical language?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamil"
+        },
+        {
+          "label": "B",
+          "text": "Telugu"
+        },
+        {
+          "label": "C",
+          "text": "Kannada"
+        },
+        {
+          "label": "D",
+          "text": "Rajasthani"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Rajasthani"
+      },
+      "explanation": "As of October 2024, India recognizes eleven classical languages: Tamil (2004), Sanskrit (2005), Kannada (2008), Telugu (2008), Malayalam (2013), Odia (2014), and, more recently, Marathi, Pali, Prakrit, Assamese, and Bengali (all in 2024). These languages are esteemed for their antiquity, rich literary heritage, and significant cultural contributions. The designation aims to preserve and promote India's diverse linguistic legacy."
+    },
+    {
+      "id": 10298,
+      "question": "Sylheti language is a dialect of which of the following languages ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sindhi"
+        },
+        {
+          "label": "B",
+          "text": "Bengali"
+        },
+        {
+          "label": "C",
+          "text": "Odia"
+        },
+        {
+          "label": "D",
+          "text": "Punjabi"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Bengali"
+      },
+      "explanation": "Sylheti is a language spoken by the Sylheti people, who are primarily found in the Sylhet Division of northeastern Bangladesh and in the adjacent parts of the Indian state of Assam. Sylheti is part of the Eastern Indo-Aryan language group and is closely related to Bengali, the national language of Bangladesh. It is written in the Bengali script and has its own distinctive vocabulary, grammar, and pronunciation. Sylheti is spoken by around 15 million people and is an important language for commerce and education in the Sylhet region. It is also used as a literary language, and there is a rich tradition of Sylheti poetry, prose, and drama."
+    }
+  ]
+}

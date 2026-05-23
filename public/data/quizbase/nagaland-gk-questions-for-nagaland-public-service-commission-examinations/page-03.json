@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "nagaland-gk-questions-for-nagaland-public-service-commission-examinations",
+    "title": "States PCS: Nagaland GK Questions for Nagaland PSC Examinations",
+    "page": 3,
+    "total_pages": 3,
+    "generated_at": "2026-05-02 05:58:06",
+    "total_questions": 4,
+    "scraped_at": "2026-05-02 12:26:41"
+  },
+  "questions": [
+    {
+      "id": 21,
+      "question": "Which migratory bird species passing through Nagaland has brought international attention to conservation efforts in recent years?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amur Falcon"
+        },
+        {
+          "label": "B",
+          "text": "Great Indian Hornbill"
+        },
+        {
+          "label": "C",
+          "text": "Blyth’s Tragopan"
+        },
+        {
+          "label": "D",
+          "text": "Grey Peacock-Pheasant"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Amur Falcon"
+      },
+      "explanation": "Amur Falcons migrate through Nagaland annually; local conservation changed practices and spotlighted global raptor protection."
+    },
+    {
+      "id": 22,
+      "question": "Which hill range in Nagaland is renowned as the habitat of the rare Blyth’s Tragopan?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Satoi Range"
+        },
+        {
+          "label": "B",
+          "text": "Phek Range"
+        },
+        {
+          "label": "C",
+          "text": "Dzüko Range"
+        },
+        {
+          "label": "D",
+          "text": "Japfu Range"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Satoi Range"
+      },
+      "explanation": "Satoi Range, located in Zunheboto district, Nagaland, is an Important Bird Area known for its pristine forests and rich biodiversity. It is the primary habitat of the rare Blyth’s Tragopan and features rare plants and unique avifauna, drawing wildlife researchers and bird watchers."
+    },
+    {
+      "id": 23,
+      "question": "Which village in Nagaland has gained international recognition for its efforts in Amur falcon conservation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pangti"
+        },
+        {
+          "label": "B",
+          "text": "Khonoma"
+        },
+        {
+          "label": "C",
+          "text": "Chizami"
+        },
+        {
+          "label": "D",
+          "text": "Tuophema"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Pangti"
+      },
+      "explanation": "Pangti village in Wokha district halted Amur falcon hunting and started successful community-led conservation, making it globally acclaimed."
+    },
+    {
+      "id": 24,
+      "question": "Which harvest festival is celebrated by the Lotha Nagas in Nagaland?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tokhu Emong"
+        },
+        {
+          "label": "B",
+          "text": "Hornbill Festival"
+        },
+        {
+          "label": "C",
+          "text": "Moatsu Mong"
+        },
+        {
+          "label": "D",
+          "text": "Tsüngrem Mong"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Tokhu Emong"
+      },
+      "explanation": "Tokhu Emong is the nine-day harvest festival of the Lotha Nagas in Nagaland, celebrated in early November. It marks the end of harvest, features folk dances, songs, sharing of food, and emphasizes unity, gratitude, and forgiveness among the community."
+    }
+  ]
+}

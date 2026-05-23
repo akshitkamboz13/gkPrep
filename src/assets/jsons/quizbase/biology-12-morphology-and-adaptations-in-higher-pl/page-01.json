@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-12-morphology-and-adaptations-in-higher-pl",
+    "title": "12. Morphology and Adaptations in Higher Plants",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:57:11"
+  },
+  "questions": [
+    {
+      "id": 4298,
+      "question": "Which among the following kinds of roots are found in Sugarcane?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prop Roots"
+        },
+        {
+          "label": "B",
+          "text": "Stilt Roots"
+        },
+        {
+          "label": "C",
+          "text": "Pneumatophores"
+        },
+        {
+          "label": "D",
+          "text": "Nodulose Roots"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Stilt Roots"
+      },
+      "explanation": "In Maize and Sugarcane, roots arise from the first few nodes of the stem and penetrate obliquely down in to the soil and give support to the plant. They are called Stilt roots."
+    },
+    {
+      "id": 4319,
+      "question": "In context with biology, which among the following is a Zoophyte?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A plant that resembles an animal"
+        },
+        {
+          "label": "B",
+          "text": "An animal that resembles a plant"
+        },
+        {
+          "label": "C",
+          "text": "A plant that grows on an animal"
+        },
+        {
+          "label": "D",
+          "text": "An animal that grows on a plant"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "An animal that resembles a plant"
+      },
+      "explanation": "A zoophyte is an animal that visually resembles a plant."
+    },
+    {
+      "id": 5898,
+      "question": "Which among the following is a millet?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sorghum"
+        },
+        {
+          "label": "B",
+          "text": "Maize"
+        },
+        {
+          "label": "C",
+          "text": "Wheat"
+        },
+        {
+          "label": "D",
+          "text": "Rice"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Sorghum"
+      },
+      "explanation": "Millets are a group of highly variable small-seeded grasses, widely grown around the world as cereal crops or grains for fodder and human food. It is usually considered a separate cereal, but sometimes also known as great millet."
+    },
+    {
+      "id": 6208,
+      "question": "The Stomata in the aquatic plants is ________?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Not Found"
+        },
+        {
+          "label": "B",
+          "text": "Found & available on both the surfaces"
+        },
+        {
+          "label": "C",
+          "text": "Found & available on upper surface only"
+        },
+        {
+          "label": "D",
+          "text": "Found and available only on lower surface"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Found & available on upper surface only"
+      },
+      "explanation": "The Stomata in the aquatic plants is found and available on upper surface only. Stomata are crucial for plant functioning as they play fundamental role in the regulation of gas exchange between the plant and its surrounding environment."
+    },
+    {
+      "id": 6747,
+      "question": "Onion, daffodil, tulip are which kind of stems?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bud"
+        },
+        {
+          "label": "B",
+          "text": "Bulb"
+        },
+        {
+          "label": "C",
+          "text": "Cladophyll"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Bulb"
+      },
+      "explanation": "Onion, daffodil, tulip are bulb stems. The best example of a true bulb is the onion. The rings which we see when we slice an onion in half are actually leaves modified to hold food for the bulb when it is dormant."
+    }
+  ]
+}

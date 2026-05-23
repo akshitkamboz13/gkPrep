@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "5-fauna-and-flora-of-the-world",
+    "title": "5. Fauna and Flora of the World",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:54:36"
+  },
+  "questions": [
+    {
+      "id": 4629,
+      "question": "The Red List of IUCN provides the list of which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "GM plants"
+        },
+        {
+          "label": "B",
+          "text": "Dangerous plant species"
+        },
+        {
+          "label": "C",
+          "text": "Threatened species"
+        },
+        {
+          "label": "D",
+          "text": "Dangerous animal species"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Threatened species"
+      },
+      "explanation": "The Red List of IUCN provides the list of threatened species. It is recognized as the most comprehensive, objective global approach for evaluating the conservation status of plant and animal species. It was founded in 1964 by the International Union for the Conservation of Nature (IUCN), which is the world’s main authority on the conservation status of species."
+    },
+    {
+      "id": 6095,
+      "question": "Which among the following is called” mother of pearl”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ammolite"
+        },
+        {
+          "label": "B",
+          "text": "Nacre"
+        },
+        {
+          "label": "C",
+          "text": "Tusk"
+        },
+        {
+          "label": "D",
+          "text": "Seashell"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Nacre"
+      },
+      "explanation": "Nacre also known as mother of pearl, is an organic-inorganic composite material produced by some mollusks as an inner shell layer; it is also what makes up the outer coating of pearls. It is strong, resilient, and iridescent."
+    },
+    {
+      "id": 11140,
+      "question": "One species of Coffee called Coffea charrieriana is free of Cafeine. In which of the following countries Coffea charrieriana is grown?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vietnam"
+        },
+        {
+          "label": "B",
+          "text": "Cameroon"
+        },
+        {
+          "label": "C",
+          "text": "Liberia"
+        },
+        {
+          "label": "D",
+          "text": "Yemen"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Cameroon"
+      },
+      "explanation": "Coffea liberica is a species that originated in Liberia. Its variety Baraco is a major crop in Philippines. Coffea arabica is indigenous to Ethiopia and Arab world. It is also known as Coffee Shrub of Arabia and is believed to be the first variety of Coffee to be cultivated. Coffea charrieriana is a coffee that is free of caffeine. It is found in Cameroon. Mocha Coffee or Cafe mocha is derived from Coffea Arabica. This name derived from the Mocha town of Yemen. Yemen was the largest producer and exporter of Mocha Coffee"
+    },
+    {
+      "id": 12469,
+      "question": "The “Helmand Province” of Afghanistan is famous for cultivation of __:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tobacco"
+        },
+        {
+          "label": "B",
+          "text": "Opium"
+        },
+        {
+          "label": "C",
+          "text": "wheat"
+        },
+        {
+          "label": "D",
+          "text": "Cotton"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Opium"
+      },
+      "explanation": "Helmand is one of the 34 provinces of Afghanistan, located in south of the country. Helmand is believed to be one of the world’s largest opium-producing regions, responsible for around 75% of the world’s total production. This is believed to be more than the whole of Burma, which is the second largest producing nation after Afghanistan."
+    },
+    {
+      "id": 19935,
+      "question": "Which one of the following groups of animals belongs to the category of endangered species?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Snow Leapord, Asian Black Bear, Himalayan Palm Civet, Western Hoolock Gibbon"
+        },
+        {
+          "label": "B",
+          "text": "Snow Leapord, Olive Ridley Turtle, Gharial, Indian Rhinoceros"
+        },
+        {
+          "label": "C",
+          "text": "Snow Leapord, Red panda, Western Hoolock Gibbon, Golden Langur"
+        },
+        {
+          "label": "D",
+          "text": "Pygmy Hog, Red Panda, Golden Langur, Indian Star Tortoise"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Snow Leapord, Red panda, Western Hoolock Gibbon, Golden Langur"
+      },
+      "explanation": "Indian Star Tortise-Least concern Olive Ridley Turtle- Vulnerable Himalayan Palm Civet-least concern Asian black bear-Vulnerable Indian rhinoceros-vulnerable"
+    }
+  ]
+}

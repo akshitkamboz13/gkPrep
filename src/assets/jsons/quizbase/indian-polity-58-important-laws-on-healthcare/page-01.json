@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-58-important-laws-on-healthcare",
+    "title": "Important Laws on Healthcare",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:23:44"
+  },
+  "questions": [
+    {
+      "id": 46808,
+      "question": "In which year Central Council of Homeopathy Act was enacted?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1972"
+        },
+        {
+          "label": "B",
+          "text": "1973"
+        },
+        {
+          "label": "C",
+          "text": "1974"
+        },
+        {
+          "label": "D",
+          "text": "1975"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "1973"
+      },
+      "explanation": "The Central Council of Homeopathy Act of 1973 also called the Homeopathy Central Council Act, 1973 was to mainly structure the role of the Central Council of Homeopathy. It aimed to enable the regularization of the maintenance of a central register of issues and entities related to the field of homeopathy."
+    },
+    {
+      "id": 46810,
+      "question": "The Clinical Establishments (Registration and Regulation) Act was passed in which year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2010"
+        },
+        {
+          "label": "B",
+          "text": "2011"
+        },
+        {
+          "label": "C",
+          "text": "2012"
+        },
+        {
+          "label": "D",
+          "text": "2013"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "2010"
+      },
+      "explanation": "The Clinical Establishments (Registration and Regulation) Act was passed in the year 2010. It seeks to regulate all clinical establishments in India. According to the Act the clinical establishments have to register themselves and provides a set of standard treatment guidelines for common diseases and conditions."
+    },
+    {
+      "id": 46811,
+      "question": "Drugs and Cosmetics Act was enacted in which year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1940"
+        },
+        {
+          "label": "B",
+          "text": "1944"
+        },
+        {
+          "label": "C",
+          "text": "1946"
+        },
+        {
+          "label": "D",
+          "text": "1949"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "1940"
+      },
+      "explanation": "The Drugs and Cosmetics Act was passed in the year 1940 by the Parliament of India. The Act regulates the import, manufacture and distribution of drugs in the territory of India."
+    },
+    {
+      "id": 46812,
+      "question": "Drugs and Cosmetics Act, 1940 was prepared on the recommendations of which committee?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hartog Committee"
+        },
+        {
+          "label": "B",
+          "text": "Fazl Ali Committee"
+        },
+        {
+          "label": "C",
+          "text": "Chopra Committee"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Chopra Committee"
+      },
+      "explanation": "Drugs and Cosmetics Act, 1940 was prepared on the recommendations of Chopra Committee formed in 1930. This act was originally known as the Drug Act. The act has undergone several amendments and is now known as the Drugs and Cosmetics Act, 1940"
+    },
+    {
+      "id": 46813,
+      "question": "Which section of the Drugs and Cosmetics Act, 1940 defines the standards of quality for drugs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "14"
+        },
+        {
+          "label": "B",
+          "text": "15"
+        },
+        {
+          "label": "C",
+          "text": "16"
+        },
+        {
+          "label": "D",
+          "text": "17"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "16"
+      },
+      "explanation": "The section 16 of the Drugs and Cosmetics Act, 1940 defines the standards of quality for drugs. Whereas the Section 17 deals with \"misbranding\". A drug is considered to be misbranded if it claims to be of more therapeutic value than it actually is."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physics-gk-18-thermodynamics",
+    "title": "Physics GK 18 - Thermodynamics",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:31:27"
+  },
+  "questions": [
+    {
+      "id": 5412,
+      "question": "If in a closed room , the door of a refrigerator is kept open for some time , the temperature of room will ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase"
+        },
+        {
+          "label": "B",
+          "text": "Decrease"
+        },
+        {
+          "label": "C",
+          "text": "Remains same"
+        },
+        {
+          "label": "D",
+          "text": "First decrease then become stable"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Increase"
+      },
+      "explanation": "A refrigerator is like a heat engine. It extracts heat from low temperature reservoir and transfer it to high temperature. If a refrigerator's door is kept open, then room will become hot, because then refrigerator exhaust more heat into the room than earlier."
+    },
+    {
+      "id": 6854,
+      "question": "Which among the following explains the radiation emitted by black bodies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Big-bang theory"
+        },
+        {
+          "label": "B",
+          "text": "Quantum Theory"
+        },
+        {
+          "label": "C",
+          "text": "Piezoelectric Effect"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Quantum Theory"
+      },
+      "explanation": "The correct answer is Quantum Theory. Black body radiation refers to the electromagnetic radiation emitted by an idealized object that absorbs all incident radiation. Max Planck introduced the concept in 1900, leading to the development of quantum mechanics. This theory explains that energy is quantized, emitted in discrete packets called quanta or photons, resolving the ultraviolet catastrophe predicted by classical physics."
+    },
+    {
+      "id": 7705,
+      "question": "On which of the following the jet Engine works?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Conservation of energy"
+        },
+        {
+          "label": "B",
+          "text": "Conservation of Linear Momentum"
+        },
+        {
+          "label": "C",
+          "text": "Conservation of Mass"
+        },
+        {
+          "label": "D",
+          "text": "Conservation of Angular momentum"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Conservation of Linear Momentum"
+      },
+      "explanation": "Conservation of Linear Momentum law says that if no external force acts on a system, then its total linear momentum remains conserved. In equation form, Momentum=mass*velocity. To increase the momentum of an object, we need to either increase its mass or velocity or both. Rockets work on law of conservation of momentum. As momentum in one direction is given to the rocket’s exhaust gases, momentum in the other direction is given to the rocket itself."
+    },
+    {
+      "id": 9870,
+      "question": "At which of the following places water shall boil at the lowest temperature?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kochi"
+        },
+        {
+          "label": "B",
+          "text": "Ooty"
+        },
+        {
+          "label": "C",
+          "text": "Mount Abu"
+        },
+        {
+          "label": "D",
+          "text": "New Delhi"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ooty"
+      },
+      "explanation": "This question is related to Antoine equation. Water to get boil, its vapour pressure must reach to its surrounding pressure. In a pressure cooker, it boils at the highest temperature. Elevation of Kochi is 0 m, ooty is 2,486 m, Mount Abu is 1,200 m, New Delhi is 216 m, Shimla is 2,205 m. So comparing all of them, water will boil at lowest temperature at ooty, followed by Shimla, Mount Abu , New Delhi and Kochi. This is because , higher we go lower is the atmospheric pressure and lower is the point where water`s vapour pressure gets equal to the atmospheric pressure."
+    },
+    {
+      "id": 26873,
+      "question": "Which of the following is true about an adiabatic wall?",
+      "options": [
+        {
+          "label": "A",
+          "text": "it allows flow of heat from one system to another"
+        },
+        {
+          "label": "B",
+          "text": "it allows flow of particles from one system to another"
+        },
+        {
+          "label": "C",
+          "text": "it does not allow flow of heat from one system to another"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "it does not allow flow of heat from one system to another"
+      },
+      "explanation": "An adiabatic wall is an insulating wall (can be movable) that does not allow flow of energy (heat) from one to another."
+    }
+  ]
+}

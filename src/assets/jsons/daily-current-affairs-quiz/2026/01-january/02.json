@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: January 2, 2026",
+    "date": "2026-01-02",
+    "year": "2026",
+    "month": "01-january",
+    "day": 2,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 03:59:46",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:56:14"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the name of Goa’s newly announced third district?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mandovi"
+        },
+        {
+          "label": "B",
+          "text": "Zuari"
+        },
+        {
+          "label": "C",
+          "text": "Kushavati"
+        },
+        {
+          "label": "D",
+          "text": "Chandrapur"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Kushavati"
+      },
+      "explanation": "Goa will create its third district named Kushavati, after the ancient Kushavati River flowing through southern Goa. The river reflects Goa’s ancient geography, culture, livelihood, and ecological identity from historic times like the Chalukya dynasty. The district includes Sanguem, Dharbandora, Quepem, and Canacona talukas, with headquarters at Quepem. Usgalimal petroglyphs on laterite stones along the river show early human settlement thousands of years old. The district will have a new Zilla Panchayat (District Council) to improve governance and development."
+    },
+    {
+      "id": 2,
+      "question": "Who won the Gold Medal in Youth Girls (Under-17) at the 29th National Sport Climbing Championship (NSCC) 2025?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sakshi Singh"
+        },
+        {
+          "label": "B",
+          "text": "Ayushi Agarwal"
+        },
+        {
+          "label": "C",
+          "text": "Kavita Sinha"
+        },
+        {
+          "label": "D",
+          "text": "Amieyra Khoslla"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Amieyra Khoslla"
+      },
+      "explanation": "Fourteen-year-old Amieyra Khoslla won the Gold Medal in Youth Girls (Under-17) at the 29th National Sport Climbing Championship (NSCC) 2025 held in Bengaluru from 26–29 December. She competed in the bouldering discipline, showing excellent strength, technique, and calm mindset. In the qualification round on 27 December, she scored a perfect 100.0, topping all four bouldering problems. The championship was organised by the Indian Mountaineering Foundation (IMF) with the General Thimayya National Academy of Adventure (GETHNAA)."
+    },
+    {
+      "id": 3,
+      "question": "Amazonian stingless bees recently became the first insects in the world to be granted legal rights by which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Peru"
+        },
+        {
+          "label": "B",
+          "text": "Colombia"
+        },
+        {
+          "label": "C",
+          "text": "Ecuador"
+        },
+        {
+          "label": "D",
+          "text": "Brazil"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Peru"
+      },
+      "explanation": "Amazonian stingless bees have become the first insects in the world to be granted legal rights. The decision was taken through a landmark ordinance passed by local municipalities in Peru. The law recognises their right to exist, survive, and flourish. This step highlights their critical role as pollinators in the Amazon rainforest ecosystem. It also acknowledges their importance to biodiversity, agriculture, and Indigenous communities. The move sets a global precedent for legal protection of insects and nature."
+    },
+    {
+      "id": 4,
+      "question": "Winter Storm Ezra recently hit which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "France"
+        },
+        {
+          "label": "B",
+          "text": "United States"
+        },
+        {
+          "label": "C",
+          "text": "Russia"
+        },
+        {
+          "label": "D",
+          "text": "United Kingdom"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "United States"
+      },
+      "explanation": "A powerful winter storm rapidly intensified into a bomb cyclone named Winter Storm Ezra across the United States of America (USA). More than 58 million people were under winter storm warnings, with blizzards, strong winds, and power outages. A bomb cyclone forms when atmospheric pressure drops sharply within 24 hours, causing extreme weather. Authorities warned against travel as hazardous conditions continue moving eastward."
+    },
+    {
+      "id": 5,
+      "question": "Which public sector telecom company rolled out nationwide Voice over WiFi (VoWiFi) services in India in January 2026?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mahanagar Telephone Nigam Limited (MTNL)"
+        },
+        {
+          "label": "B",
+          "text": "Bharat Sanchar Nigam Limited (BSNL)"
+        },
+        {
+          "label": "C",
+          "text": "Bharat Broadband Network Limited (BBNL)"
+        },
+        {
+          "label": "D",
+          "text": "RailTel"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Bharat Sanchar Nigam Limited (BSNL)"
+      },
+      "explanation": "On New Year, Bharat Sanchar Nigam Limited (BSNL) launched Voice over WiFi (VoWiFi), also called Wi-Fi Calling, across all telecom circles in India. VoWiFi allows voice calls and messages over a Wi-Fi network using the same mobile number and dialer. It works well in weak mobile signal areas like homes, basements, offices, and remote regions. The service is Internet Protocol Multimedia Subsystem (IMS)-based, supporting smooth Wi-Fi to mobile handover. VoWiFi is free of cost, reduces network congestion, and supports rural connectivity with broadband access."
+    }
+  ]
+}

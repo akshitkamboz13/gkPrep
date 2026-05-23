@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "mughal-empire-architecture-arts-culture-literature",
+    "title": "20. Mughal Empire: Society, Culture, Arts, Architecture & Literature",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:27:41"
+  },
+  "questions": [
+    {
+      "id": 2832,
+      "question": "Who wrote the Mahzarnama, or Infallibility Decree, issued by Akbar in 1579 A.D. to assert his authority in religious matters?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Birbal"
+        },
+        {
+          "label": "B",
+          "text": "Faizi"
+        },
+        {
+          "label": "C",
+          "text": "Abul Fazl"
+        },
+        {
+          "label": "D",
+          "text": "Tansen"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Faizi"
+      },
+      "explanation": "Faizi, the elder brother of Akbar's famous courtier Abul Fazl, wrote the Mahzarnama in 1579 A.D. This decree was a significant step by Akbar towards establishing his absolute control over religious matters, thereby curbing the dominance of Ulema - the leading Islamic scholars. It augmented Akbar's secular policies and contributed to the syncretic culture during his reign."
+    },
+    {
+      "id": 2844,
+      "question": "Which of the following ladies wrote an historical account during the Mughal period?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gulbadan Begum"
+        },
+        {
+          "label": "B",
+          "text": "Noorjahan Begum"
+        },
+        {
+          "label": "C",
+          "text": "Jahanara Begum"
+        },
+        {
+          "label": "D",
+          "text": "Zebun-nissah Begum"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Gulbadan Begum"
+      },
+      "explanation": "Gulbadan Begum (1523-1603) was a Perso-Turkic Princess, the daughter of Emperor Babur. She is most known as the author of Humayun Nama, the account of the life of her brother, Humayun."
+    },
+    {
+      "id": 2861,
+      "question": "Baburnama was written in which language?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Para-Mongolic"
+        },
+        {
+          "label": "B",
+          "text": "Chagatai Turkic"
+        },
+        {
+          "label": "C",
+          "text": "Hijazi Arabic"
+        },
+        {
+          "label": "D",
+          "text": "Bahrani Arabic"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Chagatai Turkic"
+      },
+      "explanation": "Babur has written his biography i.e. Baburnama which is also known as Tuzk-e Babri. Babur and Jahangir are the only two emperors of Mughal Empire who wrote their own biographies. Baburnama is also known to be the first true autobiography in the Islamic li"
+    },
+    {
+      "id": 2887,
+      "question": "Who are the only two emperors of the Mughal Empire to have written their own autobiographies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Humayun and Akbar"
+        },
+        {
+          "label": "B",
+          "text": "Babur and Jahangir"
+        },
+        {
+          "label": "C",
+          "text": "Akbar and Shah Jahan"
+        },
+        {
+          "label": "D",
+          "text": "Shah Jahan and Aurangzeb"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Babur and Jahangir"
+      },
+      "explanation": "Babur and Jahangir were the only two Mughal emperors who penned their own autobiography. Babur created \"Baburnama\", his memoirs recounted in a vivid and extremely rich prose. Jahangir, on the other hand, wrote his autobiography \"Tuzuk-i-Jahangiri\", which is widely recognized for its unique storytelling and meticulous details covering his life and administration."
+    },
+    {
+      "id": 4493,
+      "question": "Akbarnama was written originally in which among the following languages?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chagtai Turkic"
+        },
+        {
+          "label": "B",
+          "text": "Persian"
+        },
+        {
+          "label": "C",
+          "text": "Arabic"
+        },
+        {
+          "label": "D",
+          "text": "Urdu"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Persian"
+      },
+      "explanation": "Abul Fazal was the author of Akbarnama which is written in Persian. It is the official history of Akbar’s reign in 3 volumes. This book gives the history of Akbar’s forefathers from Timur to Humayun and Akbar’s reign till 1602."
+    }
+  ]
+}

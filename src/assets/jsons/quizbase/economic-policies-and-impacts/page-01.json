@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "economic-policies-and-impacts",
+    "title": "20. Economic Policies and Impacts",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:11:40"
+  },
+  "questions": [
+    {
+      "id": 4451,
+      "question": "Who authored “Poverty and Un-British Rule in India”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Firoz Shah Mehta"
+        },
+        {
+          "label": "B",
+          "text": "Dadabhai Naoroji"
+        },
+        {
+          "label": "C",
+          "text": "William Wedderburn"
+        },
+        {
+          "label": "D",
+          "text": "A O Hume"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Dadabhai Naoroji"
+      },
+      "explanation": "Dadabhai Naoroji wrote this book in 1901, analyzing economic drain by British rule. He rejected overpopulation as a cause for poverty and instead blamed British policies, official expenditure, profit transfers, and capital outflows to England, thus shaping nationalist economic thought in colonial India."
+    },
+    {
+      "id": 5622,
+      "question": "Who started the process of decentralization of finances in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lord Rippon"
+        },
+        {
+          "label": "B",
+          "text": "Lord Mayo"
+        },
+        {
+          "label": "C",
+          "text": "Lord Curzon"
+        },
+        {
+          "label": "D",
+          "text": "Lord Minto"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Lord Mayo"
+      },
+      "explanation": "Lord Mayo or Lord Naas served as 4th Viceroy of India from 12 January 1869 to 8 February 1872. He started the process of decentralization of finance. In foreign affairs, he followed the policy of non-intervention. He opened up Mayo College in Ajmer for educating children of the aristocratic families. India’s census began during his tenure. He was the first Governor General to be murdered in office by a Pathan Sher Ali in Port Blair."
+    },
+    {
+      "id": 8553,
+      "question": "Poverty and Un-British Rule in India by Dadabhai Naoroji, was the original classic work on poverty in India. In which year this work was published?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1900"
+        },
+        {
+          "label": "B",
+          "text": "1901"
+        },
+        {
+          "label": "C",
+          "text": "1903"
+        },
+        {
+          "label": "D",
+          "text": "1905"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "1901"
+      },
+      "explanation": "The book Poverty and Un-British Rule in India depicts how the British rule was draining the wealth of India into Britain. Dadabhai Naoroji is the writer of the book. The book was published in the year 1901."
+    },
+    {
+      "id": 11232,
+      "question": "Agreeing to the Fiscal autonomy to India, in which of the following years, the British Government established an Indian Fiscal Commission in the pre-independence Era?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1919"
+        },
+        {
+          "label": "B",
+          "text": "1920"
+        },
+        {
+          "label": "C",
+          "text": "1925"
+        },
+        {
+          "label": "D",
+          "text": "1930"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "1919"
+      },
+      "explanation": "Indian Fiscal Commission was constituted in the year 1919 and as per its recommendation, tariff Protection should be launched for certain Indian Industries. As a follow up to the recommendations to this commission, a tariff board was established in 1923 and in 1924, the Steel Industry of India was given protection."
+    },
+    {
+      "id": 11381,
+      "question": "Which among the following was the most important reason behind the increased debt burden in India in the last 100 years of the British Rule?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Introduction of Guaranteed Railways"
+        },
+        {
+          "label": "B",
+          "text": "Introduction of Industries"
+        },
+        {
+          "label": "C",
+          "text": "British Capital Investment"
+        },
+        {
+          "label": "D",
+          "text": "Unjust Fiscal policies"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Unjust Fiscal policies"
+      },
+      "explanation": "While all the options contributed in some way to India's economic situation under British rule, the most important reason for the increased debt burden in India in the last 100 years of British rule was the unjust fiscal policies imposed by the British. These policies included high land revenue demands, unfair taxation, and the drain of wealth from India to Britain. This led to a continuous outflow of Indian wealth and resources, resulting in increasing public debt and impoverishment of the country."
+    }
+  ]
+}

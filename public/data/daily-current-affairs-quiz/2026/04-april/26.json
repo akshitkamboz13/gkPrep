@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: April 26-27, 2026",
+    "date": "2026-04-26",
+    "year": "2026",
+    "month": "04-april",
+    "day": 26,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 02:28:30",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:50:56"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "The rare sea slug Discodorid cebuensis has been recorded in India for the first time at which place?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mumbai"
+        },
+        {
+          "label": "B",
+          "text": "Chennai"
+        },
+        {
+          "label": "C",
+          "text": "Hyderabad"
+        },
+        {
+          "label": "D",
+          "text": "Bengaluru"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Mumbai"
+      },
+      "explanation": "The rare sea slug Discodorid cebuensis has been recorded in India for the first time at Haji Ali, Mumbai. Sea slugs, also called nudibranchs, are soft-bodied marine gastropods found from shallow waters to the deep sea. They lack shells and resemble naked snails, making them unique among molluscs. They are commonly found in coral reefs and serve as indicators of healthy marine ecosystems."
+    },
+    {
+      "id": 2,
+      "question": "Which country has discovered a new lunar mineral named Cerium-Magnesium Changesite?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indonesia"
+        },
+        {
+          "label": "B",
+          "text": "France"
+        },
+        {
+          "label": "C",
+          "text": "India"
+        },
+        {
+          "label": "D",
+          "text": "China"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "China"
+      },
+      "explanation": "China has announced the discovery of a new lunar mineral named Cerium-Magnesium Changesite, adding to knowledge of extraterrestrial materials and lunar geology. The mineral was identified in a lunar meteorite called Pakepake 005, the first such meteorite found in China. This meteorite is a small spherical rock weighing about 44 grams with a dark molten outer layer. The mineral itself is colourless, transparent, and brittle, yet scientifically significant. It shows fluorescent properties, meaning it can emit light under certain conditions. This fluorescence has potential applications in advanced technologies like next-generation LED materials."
+    },
+    {
+      "id": 3,
+      "question": "Pykara Lake, that was recently seen in news, is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "B",
+          "text": "Karnataka"
+        },
+        {
+          "label": "C",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "D",
+          "text": "Odisha"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Tamil Nadu"
+      },
+      "explanation": "The Madras High Court has refused to lift the temporary ban on boating in Pykara Lake, highlighting environmental concerns. Pykara Lake is located in the Nilgiri district of Tamil Nadu and was formed by the construction of a dam on the Pykara River. The river originates from Mukurthi Peak and is the largest river in the district. It is considered sacred by the Toda tribe, an indigenous Adivasi community. The Pykara Dam hosts one of the oldest hydropower plants in South India, generating about 60 MW of electricity."
+    },
+    {
+      "id": 4,
+      "question": "Nasha Mukt Bharat Abhiyaan 2.0 was launched by which ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Health & Family Welfare"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Home Affairs"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Social Justice & Empowerment"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Youth Affairs & Sports"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Ministry of Social Justice & Empowerment"
+      },
+      "explanation": "The Ministry of Social Justice and Empowerment is launching Nasha Mukt Bharat Abhiyaan (NMBA) App 2.0 to strengthen monitoring under National Action Plan for Drug Demand Reduction. Nasha Mukt Bharat Abhiyaan was launched in 2020 and expanded to all districts by 2023. The mission aims to spread awareness about substance abuse through education, community outreach, and rehabilitation support. It focuses on schools, universities, and communities to identify and assist people affected by drug dependence. The programme also promotes counselling, treatment facilities, and capacity building for service providers."
+    },
+    {
+      "id": 5,
+      "question": "World Intellectual Property Day is observed annually on which day?",
+      "options": [
+        {
+          "label": "A",
+          "text": "April 24"
+        },
+        {
+          "label": "B",
+          "text": "April 25"
+        },
+        {
+          "label": "C",
+          "text": "April 26"
+        },
+        {
+          "label": "D",
+          "text": "April 27"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "April 26"
+      },
+      "explanation": "World Intellectual Property Day is observed annually on April 26 to raise awareness about how patents, copyright, trademarks, and designs support innovation and creativity. The World Intellectual Property Day 2026 theme is “IP and Sports: Ready, Set, Innovate”. This theme highlights the critical role of intellectual property rights (patents, trademarks, and designs) in fostering innovation, technology, branding, and broadcasting within the global sports industry."
+    }
+  ]
+}

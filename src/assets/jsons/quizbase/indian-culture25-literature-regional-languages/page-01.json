@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-culture25-literature-regional-languages",
+    "title": "Indian Culture:25-Literature – Regional Languages",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:17:22"
+  },
+  "questions": [
+    {
+      "id": 2038,
+      "question": "Who is known as the Father of Tamil literature?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nakkirar"
+        },
+        {
+          "label": "B",
+          "text": "Pushyamitra"
+        },
+        {
+          "label": "C",
+          "text": "Aggatiyam"
+        },
+        {
+          "label": "D",
+          "text": "Agastaya"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Agastaya"
+      },
+      "explanation": "As per Tamil sources, the father of Tamil literature is ‘Agastaya’."
+    },
+    {
+      "id": 4336,
+      "question": "Which among the following Sikh Gurus introduced the Gurmukhi Script?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Guru Angad"
+        },
+        {
+          "label": "B",
+          "text": "Guru Gobind Singh"
+        },
+        {
+          "label": "C",
+          "text": "Guru Arjun Singh"
+        },
+        {
+          "label": "D",
+          "text": "Guru Harrai"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Guru Angad"
+      },
+      "explanation": "Guru Nanak was the founder of Sikhism. Guru Nanak appointed Guru Angad (Lehna) as his successor and he was the second Guru of sikhs. Guru Angad compiled the compositions of Guru Nanak, to which he added his own in a new script known as Gurmukhi."
+    },
+    {
+      "id": 5017,
+      "question": "The first novel written by Sunil Gangopadhyay is :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Athmo Prakash (Self-Revelation)"
+        },
+        {
+          "label": "B",
+          "text": "Pratham Alo (First Light)"
+        },
+        {
+          "label": "C",
+          "text": "Purba Pachim (East and West)"
+        },
+        {
+          "label": "D",
+          "text": "Shei Shomay (Those Days)"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Athmo Prakash (Self-Revelation)"
+      },
+      "explanation": "Starting off his six-decade literary career as a bohemian poet and editor of Kritibas, a monthly poetry magazine, Sunil Gangopadhyay wrote his first novel, Athmo Prakash (Self-Revelation), at the behest of the editor of the hugely popular periodical Desh for its special Durga Puja edition. Two of the most critically acclaimed films of legendary filmmaker Satyajit Ray — Pratidwandi and Aranyer Din Ratri — were based on novels written by him."
+    },
+    {
+      "id": 5033,
+      "question": "Who among the following got the Mahabharata translated into Persian and named it as ‘Razmnama’ ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Akbar"
+        },
+        {
+          "label": "B",
+          "text": "Jahangir"
+        },
+        {
+          "label": "C",
+          "text": "Aurangzeb"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Akbar"
+      },
+      "explanation": "The Mahabharata was translated into Persian at Akbar’s orders, by Faizi and `Abd al-Qadir Bada’uni (c. 1540 – 1615) and named Razmnameh."
+    },
+    {
+      "id": 5225,
+      "question": "\"Shesher Kabita\" is the reknowned work of which among the following legends?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rabindranath Tagore"
+        },
+        {
+          "label": "B",
+          "text": "Bibhutibhushan Bandopadhyay"
+        },
+        {
+          "label": "C",
+          "text": "Narendranath Mitra"
+        },
+        {
+          "label": "D",
+          "text": "Dinabandhu Mitra"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Rabindranath Tagore"
+      },
+      "explanation": "Shesher Kabita is a novel by Rabindranath Tagore, widely considered a landmark in Bengali literature. The novel was serialised in 1928 from Bhadro to Choitro in the magazine Probashi, and was published in book form the following year."
+    }
+  ]
+}

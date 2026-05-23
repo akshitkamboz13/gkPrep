@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: March 26, 2026",
+    "date": "2026-03-26",
+    "year": "2026",
+    "month": "03-march",
+    "day": 26,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 02:26:27",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:52:21"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "The National Biodiversity Authority was established under which Act?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Environment Protection Act, 1986"
+        },
+        {
+          "label": "B",
+          "text": "Wildlife Protection Act, 1972"
+        },
+        {
+          "label": "C",
+          "text": "Biological Diversity Act, 2002"
+        },
+        {
+          "label": "D",
+          "text": "Forest Conservation Act, 1980"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Biological Diversity Act, 2002"
+      },
+      "explanation": "National Biodiversity Authority launched a short-term internship programme (up to 3 months) for graduate and postgraduate students. NBA is a statutory body under the Biological Diversity Act, 2002, established in 2003. Its headquarters is in Chennai. It performs facilitative, regulatory, and advisory roles for biodiversity conservation and sustainable use. It ensures fair and equitable sharing of benefits from biological resources."
+    },
+    {
+      "id": 2,
+      "question": "Great Salt Lake, that was recently seen in news, is located in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "United States"
+        },
+        {
+          "label": "B",
+          "text": "United Kingdom"
+        },
+        {
+          "label": "C",
+          "text": "France"
+        },
+        {
+          "label": "D",
+          "text": "Australia"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "United States"
+      },
+      "explanation": "Researchers at the University of Utah discovered that freshwater saturates the rock and sediment beneath the Great Salt Lake to depths of up to 13,000 feet. The Great Salt Lake is a saline, endorheic lake located in northern Utah, United States, and it is the largest inland saltwater body in the Western Hemisphere. It is fed by the Bear River, Weber River, and Jordan River, but has no outlet, so water leaves primarily through evaporation. The lake’s salinity is higher than that of the oceans due to high evaporation rates and limited inflow, and it exists in an arid environment similar to the Dead Sea."
+    },
+    {
+      "id": 3,
+      "question": "The ‘Districts as Export Hubs Initiative’ is implemented by which ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Finance"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Commerce and Industry"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Micro, Small & Medium Enterprises"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of External Affairs"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ministry of Commerce and Industry"
+      },
+      "explanation": "The Minister of State for Commerce & Industry informed the Lok Sabha about the Districts as Export Hubs (DEH) Initiative, launched in August 2019 to promote balanced regional development across all districts of India. The initiative aims to identify, brand, and promote products from each district, facilitating their sale in domestic and international markets. The ‘Districts as Export Hubs Initiative’ is implemented by the Ministry of Commerce and Industry. It is run by the Department of Commerce (DoC) through the Directorate General of Foreign Trade (DGFT) in partnership with the Department for Promotion of Industry and Internal Trade (DPIIT), focusing on increasing exports from every district."
+    },
+    {
+      "id": 4,
+      "question": "What is the name of scheme approved by the Union Cabinet to modernize and upgrade immigration, visa, and foreigners registration in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "e-Visa Facilitation Scheme"
+        },
+        {
+          "label": "B",
+          "text": "Immigration, Visa, Foreigners Registration & Tracking (IVFRT) Scheme"
+        },
+        {
+          "label": "C",
+          "text": "Passport Seva Project"
+        },
+        {
+          "label": "D",
+          "text": "Trusted Traveller Programme"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Immigration, Visa, Foreigners Registration & Tracking (IVFRT) Scheme"
+      },
+      "explanation": "The Union Cabinet has approved the continuation of the Immigration, Visa, Foreigners Registration & Tracking (IVFRT) Scheme from 1 April 2026 to 31 March 2031 with a budget of ₹1,800 crore. The scheme aims to modernize and integrate immigration, visa issuance, and foreigners registration to facilitate legitimate travellers while strengthening national security. The next phase focuses on emerging technology innovations, core infrastructure upgrades at Immigration Posts, FRROs, and Data Centres, and service optimization through unified digital platforms and improved application architecture."
+    },
+    {
+      "id": 5,
+      "question": "What is the primary purpose of the PRISM-SG Portal?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To manage railway ticket bookings"
+        },
+        {
+          "label": "B",
+          "text": "To approve highway toll rates"
+        },
+        {
+          "label": "C",
+          "text": "To monitor road traffic violations"
+        },
+        {
+          "label": "D",
+          "text": "To digitize approval and inspection processes for Road Over Bridges (ROBs)"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "To digitize approval and inspection processes for Road Over Bridges (ROBs)"
+      },
+      "explanation": "The PRISM-SG (Portal for Rail-Road Inspection & Stages Management – Steel Girders) Portal was launched by Minister for Road Transport and Highways, Shri Nitin Gadkari, Railways, Information & Broadcasting, Electronics & IT, Shri Ashwini Vaishnaw, to digitise approvals and inspections for Road Over Bridges (ROBs). The portal covers Quality Assurance Plans (QAP), Welding Procedure Specification Sheets (WPSS), and fabrication stage inspections of steel girders, enabling end-to-end online submission, scrutiny, approvals, inspections, and real-time monitoring."
+    }
+  ]
+}

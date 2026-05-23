@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-june-2022",
+    "title": "Current Affairs Quiz - June 2022",
+    "page": 3,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:47:19",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:57:31"
+  },
+  "questions": [
+    {
+      "id": 21,
+      "question": "Which Indian state/UT launched ‘Beach Vigil App’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kerala"
+        },
+        {
+          "label": "B",
+          "text": "Goa"
+        },
+        {
+          "label": "C",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "D",
+          "text": "Tamil Nadu"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Goa"
+      },
+      "explanation": "The Chief Minister of Goa ‘Pramod Sawant’ recently launched the ‘Beach Vigil App’, for holistic management of the beaches. The application aims to benefit both the travellers as well as those working in the tourism sector. People can file a complaint regarding any illegal activity or violation via the app. It can also be used by Drishti workers, police and other stakeholders to safeguard the interest of the travellers."
+    },
+    {
+      "id": 22,
+      "question": "‘Kheer Bhawani Mela’ is a festival celebrated in which Indian state/UT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Karnataka"
+        },
+        {
+          "label": "B",
+          "text": "Jammu and Kashmir"
+        },
+        {
+          "label": "C",
+          "text": "Bihar"
+        },
+        {
+          "label": "D",
+          "text": "Jharkhand"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Jammu and Kashmir"
+      },
+      "explanation": "The annual Mata Kheer Bhawani Mela started at the famous Ragnya Devi temple in Ganderbal, Jammu and Kashmir. The Tullmulla shrine is also the symbol of centuries-old culture and brotherhood among different communities of Kashmir. The Mela is being celebrated after two years due to the COVID-19 pandemic."
+    },
+    {
+      "id": 23,
+      "question": "Which Union Ministry launched the ‘Green Open Access Rules 2022’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of New and Renewable Energy"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Power"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Environment, Forest and Climate Change"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Science and Technology"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ministry of Power"
+      },
+      "explanation": "The Union Ministry of Power has notified the Green Open Access Rules 2022 to accelerate India’s renewable energy programmes. Under the new rules, consumers can demand green power from power distribution companies (Discoms). The green open access is allowed to all consumers and the limit of open access transaction has been reduced from 1 MW to 100 kW for green energy."
+    },
+    {
+      "id": 24,
+      "question": "Delhi Election Commission has named which sportsperson as the State Icon?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Yash Dhull"
+        },
+        {
+          "label": "B",
+          "text": "Mirabhai Chanu"
+        },
+        {
+          "label": "C",
+          "text": "Nikhat Zareen"
+        },
+        {
+          "label": "D",
+          "text": "Lakshya Sen"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Yash Dhull"
+      },
+      "explanation": "Young Cricketer Yash Dhull has been named as the State Icon for National Capital Territory of Delhi to motivate youngsters to get enrolled to vote. The cricketer agreed to participate in college-level voter awareness events. Yash Dhull was the Captain of the Indian winning team of the 2022 ICC Under-19 Cricket World Cup in the West Indies."
+    },
+    {
+      "id": 25,
+      "question": "What is the unique feature of ‘Anocovax’, which was recently launched in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "COVID-19 vaccine for animals"
+        },
+        {
+          "label": "B",
+          "text": "Warm COVID-19 vaccine"
+        },
+        {
+          "label": "C",
+          "text": "COVID-19 vaccine for new-born"
+        },
+        {
+          "label": "D",
+          "text": "Monkeypox vaccine"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "COVID-19 vaccine for animals"
+      },
+      "explanation": "Agriculture Minister Narendra Singh Tomar launched Anocovax, India’s first homegrown COVID-19 vaccine for animals. It was produced by the ICAR-National Research Centre on Equines (NRCE) in Haryana. The vaccine contains inactivated SARS-CoV-2 (Delta) antigen. It is said to be safe for dogs, lions, leopards, mice, and bunnies."
+    },
+    {
+      "id": 26,
+      "question": "Which Indian state launched the ‘Suraksha-Mitra project’ vehicle monitoring system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Telangana"
+        },
+        {
+          "label": "B",
+          "text": "Kerala"
+        },
+        {
+          "label": "C",
+          "text": "Odisha"
+        },
+        {
+          "label": "D",
+          "text": "Gujarat"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Kerala"
+      },
+      "explanation": "Kerala State Transport Ministry launched a vehicle monitoring system named ‘Suraksha-Mitra project’. In case of any accident, the system sends distress messages to the owners’ mobile phones. The project was launched under the Nirbhaya scheme and has become operational in the State, to make road travel safer."
+    },
+    {
+      "id": 27,
+      "question": "Which state ranked the highest in national e-governance service delivery assessment (NeSDA), as per NeSDA report?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "B",
+          "text": "Kerala"
+        },
+        {
+          "label": "C",
+          "text": "Telangana"
+        },
+        {
+          "label": "D",
+          "text": "Maharashtra"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Kerala"
+      },
+      "explanation": "According to the National e-governance service delivery assessment (NeSDA) report, Kerala had the highest overall compliance score amongst all states. Jammu and Kashmir, assessed for the first time, ranked the highest among Union Territories. Meghalaya and Nagaland are the leading state portals among the northeast and hilly states. The overall score of Tamil Nadu increased the most in 2021 compared to 2019."
+    },
+    {
+      "id": 28,
+      "question": "What is the theme of the ‘World Day Against Child Labour 2022’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Universal Social Protection to End Child Labour"
+        },
+        {
+          "label": "B",
+          "text": "Rehabilitation and Restoration"
+        },
+        {
+          "label": "C",
+          "text": "Importance of Education"
+        },
+        {
+          "label": "D",
+          "text": "Commitment to End Child Labour"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Universal Social Protection to End Child Labour"
+      },
+      "explanation": "World Day Against Child Labour is marked every year on 12 June across the world. The day aims to raise awareness about the exploitation of children who are engaged in child labour. The International Labour Organization (ILO) declared the World Day Against Child Labour in the year 2002. The theme for this year is “Universal Social Protection to End Child Labour”."
+    },
+    {
+      "id": 29,
+      "question": "India’s first display fabrication unit is set to be established in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mumbai"
+        },
+        {
+          "label": "B",
+          "text": "Hyderabad"
+        },
+        {
+          "label": "C",
+          "text": "Chennai"
+        },
+        {
+          "label": "D",
+          "text": "Bengaluru"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Hyderabad"
+      },
+      "explanation": "The Telangana government signed MoU with Karnataka-based Elest for a fabrication unit which will manufacture next generation displays for smartphones, tablet computers, and laptops. India’s first display fabrication unit is to be set up in Hyderabad with an investment of ₹24,000 crore. The display fab would be set up under the India Semiconductor Mission programme of the Ministry of Electronics and Information Technology, Government of India."
+    },
+    {
+      "id": 30,
+      "question": "‘IDCF-2022’ launched by the Union Health and Family Welfare Ministry is associated with which disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anaemia"
+        },
+        {
+          "label": "B",
+          "text": "Tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Diabetes"
+        },
+        {
+          "label": "D",
+          "text": "Diarrhoea"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Diarrhoea"
+      },
+      "explanation": "Minister of State for Health and Family Welfare launched the Intensified Diarrhoea Control Fortnight (IDCF-2022). It aims to attain zero child deaths due to childhood diarrhoea. According to the latest report of SRS-2019, the child mortality rate in the country has come down considerably since 2014."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: March 14, 2026",
+    "date": "2026-03-14",
+    "year": "2026",
+    "month": "03-march",
+    "day": 14,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 05:22:56",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:52:57"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is ‘Chelonus (Carinichelonus) mahadeb’ that was recently seen in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A new parasitic wasp species"
+        },
+        {
+          "label": "B",
+          "text": "Rare medicinal plant"
+        },
+        {
+          "label": "C",
+          "text": "A type of virus"
+        },
+        {
+          "label": "D",
+          "text": "Invasive weed"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "A new parasitic wasp species"
+      },
+      "explanation": "A new parasitic wasp species Chelonus (Carinichelonus) mahadeb has been recently recorded from Nahortoli Tea Estate in Assam. It belongs to the genus Chelonus, whose members are very tiny parasitic wasps but play an important ecological role in insect population control. The discovery is significant because the subgenus Carinichelonus is extremely rare and poorly documented worldwide. This species is only the second newly described species of the subgenus Carinichelonus from India in recent times, making the finding scientifically important."
+    },
+    {
+      "id": 2,
+      "question": "What was the main objective of the NASA’s Van Allen Probes mission?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To study Mars’ atmosphere"
+        },
+        {
+          "label": "B",
+          "text": "To study Earth’s radiation belts"
+        },
+        {
+          "label": "C",
+          "text": "To observe distant galaxies"
+        },
+        {
+          "label": "D",
+          "text": "To monitor ocean temperatures"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "To study Earth’s radiation belts"
+      },
+      "explanation": "Van Allen Probes A satellite, weighing about 600 kg, is re-entering Earth’s atmosphere, raising discussion about possible ground risks. The Van Allen Probes mission by NASA was the first mission to study Earth’s radiation belts using two spacecraft together. The twin spacecraft Van Allen Probe A and Van Allen Probe B were launched on 30 August 2012 to explore Earth’s radiation environment. They studied the Van Allen Radiation Belts, which are rings of energetic charged particles trapped by Earth’s magnetic field. These belts are named after space scientist James Van Allen, who discovered them in 1958."
+    },
+    {
+      "id": 3,
+      "question": "Kurumba art, that was recently seen in news, originated mainly in which region of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Western Himalayas"
+        },
+        {
+          "label": "B",
+          "text": "Chotanagpur plateau"
+        },
+        {
+          "label": "C",
+          "text": "Nilgiri Hills region of South India"
+        },
+        {
+          "label": "D",
+          "text": "Thar Desert"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Nilgiri Hills region of South India"
+      },
+      "explanation": "Kurumba Art is an ancient tribal painting tradition now facing the threat of extinction. It is a prehistoric art form estimated to be over 3000 years old, created by the Kurumba Tribe living in Tamil Nadu, Kerala, and Karnataka. Traditionally, the paintings were made on rocks and cave walls in the high hills of the Nilgiri Hills. Artists prepare natural pigments from forest resources, such as yellow-brown and black from Vengai tree resin and green from crushed leaves. They use simple tools like fine twigs, bamboo sticks, and brushes made from natural fibres to create the paintings."
+    },
+    {
+      "id": 4,
+      "question": "Where was Yoga Mahotsav 2026 held?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chennai"
+        },
+        {
+          "label": "B",
+          "text": "Hyderabad"
+        },
+        {
+          "label": "C",
+          "text": "Mumbai"
+        },
+        {
+          "label": "D",
+          "text": "New Delhi"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "New Delhi"
+      },
+      "explanation": "Yoga Mahotsav 2026 was inaugurated in New Delhi by Prataprao Jadhav, marking the 100-day countdown to the 12th International Day of Yoga (IDY) 2026. The event launched “10 Yoga Protocols for Non-Communicable Diseases (NCDs)”, where NCDs (Non-Communicable Diseases) include lifestyle illnesses such as diabetes, hypertension, and heart disease. The programme is organised by the Ministry of Ayush, the nodal ministry responsible for promoting IDY globally. A special “Yoga for Air Travel” protocol was introduced, consisting of a 5-minute seated routine of yogic postures, breathing exercises, and short meditation to reduce travel stress and improve blood circulation during flights."
+    },
+    {
+      "id": 5,
+      "question": "What is the name of the AI-powered multilingual digital platform launched by the government to provide farmers with real-time agricultural advisories?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Agri-SARTHI"
+        },
+        {
+          "label": "B",
+          "text": "Bharat-VISTAAR"
+        },
+        {
+          "label": "C",
+          "text": "Krishi-SETU"
+        },
+        {
+          "label": "D",
+          "text": "Kisan-DARPAN"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Bharat-VISTAAR"
+      },
+      "explanation": "Bharat-VISTAAR (Virtually Integrated System to Access Agricultural Resources) is a multilingual Artificial Intelligence (AI) powered Digital Public Infrastructure platform announced in the Union Budget 2026–27 with an allocation of ₹150 crore. It has been launched by the Ministry of Agriculture and Farmers’ Welfare as a nationwide voice-first AI system to provide real-time, location-specific and personalised agricultural advisories to farmers. The platform integrates government databases and scientific practices from the Indian Council of Agricultural Research to deliver information on crop management, weather updates, market prices, pest and disease alerts, and soil health insights."
+    }
+  ]
+}

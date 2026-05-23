@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physical-geography-important-rivers-river-islands-deltas-and-lakes",
+    "title": "Physical Geography - Important Rivers, River Islands, Deltas and Lakes",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:29:28"
+  },
+  "questions": [
+    {
+      "id": 4259,
+      "question": "Which among the following lakes makes the border tripoint of Kenya , Tanzania & Uganda ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lake Turkana"
+        },
+        {
+          "label": "B",
+          "text": "Lake Victoria"
+        },
+        {
+          "label": "C",
+          "text": "Lake Tivu"
+        },
+        {
+          "label": "D",
+          "text": "Lake Tanganyika"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Lake Victoria"
+      },
+      "explanation": "Lake Victoria is one of the African Great Lakes. The lake was named after Queen Victoria. It makes the border tripoint of Kenya , Tanzania & Uganda."
+    },
+    {
+      "id": 6106,
+      "question": "In which of the following River Jordan drains?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atlantic Ocean"
+        },
+        {
+          "label": "B",
+          "text": "Dead sea"
+        },
+        {
+          "label": "C",
+          "text": "Red sea"
+        },
+        {
+          "label": "D",
+          "text": "Gulf of suez"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Dead sea"
+      },
+      "explanation": "River Jordan drains into the Dead Sea. The Jordan River flows through the Middle East and forms part of the border between Israel and Jordan. It ultimately empties into the Dead Sea, which is a landlocked saltwater lake known for its high salinity and unique geological features."
+    },
+    {
+      "id": 6574,
+      "question": "What is Tugela an example of?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Waterfall"
+        },
+        {
+          "label": "B",
+          "text": "Shipping Canal"
+        },
+        {
+          "label": "C",
+          "text": "Natural Lake"
+        },
+        {
+          "label": "D",
+          "text": "Salt lake"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Waterfall"
+      },
+      "explanation": "Tugela is an example of a waterfall located in South Africa. Specifically, they are a series of seasonal waterfalls in the Drakensberg of the Royal Natal National Park in the KwaZulu-Natal Province. Interestingly, Tugela Falls is known as the second tallest waterfall in the world with a total drop in five free-leaping falls of 948 meters (3110 feet)."
+    },
+    {
+      "id": 6804,
+      "question": "Which of the following river crosses equator twice?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nile"
+        },
+        {
+          "label": "B",
+          "text": "Amazon"
+        },
+        {
+          "label": "C",
+          "text": "Congo"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Congo"
+      },
+      "explanation": "The congo river crosses equator twice. It is the second longest river in Africa after Nile."
+    },
+    {
+      "id": 6805,
+      "question": "Amazon river is the largest river in the world by volume and has the largest drainage basin in the world. This accounts for approximately what fraction of the world’s total river flow?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10%"
+        },
+        {
+          "label": "B",
+          "text": "20%"
+        },
+        {
+          "label": "C",
+          "text": "30%"
+        },
+        {
+          "label": "D",
+          "text": "40%"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "20%"
+      },
+      "explanation": "Amazon river is the largest river in the world by volume and has the largest drainage basin in the world. This accounts for approximately 20% of the world’s total river flow. The Amazon River flows in South America."
+    }
+  ]
+}

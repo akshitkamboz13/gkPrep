@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-economy-history-salient-features-mcqs-for-ssc-examination",
+    "title": "4. Indian Economy: History & Salient Features",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:17:34"
+  },
+  "questions": [
+    {
+      "id": 4217,
+      "question": "Which is India’s largest nuclear power plant by installed capacity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kaiga Nuclear Power Plant"
+        },
+        {
+          "label": "B",
+          "text": "Kudankulam Nuclear Power Plant"
+        },
+        {
+          "label": "C",
+          "text": "Kakrapar Nuclear Power Plant"
+        },
+        {
+          "label": "D",
+          "text": "Tarapur Nuclear Power Station"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Kudankulam Nuclear Power Plant"
+      },
+      "explanation": "Kudankulam Nuclear Power Plant in Tamil Nadu remains India's largest by capacity, with Units 1 and 2 each at 1,000 MWe (total 2,000 MW operational). While India's total nuclear capacity is now around 8,780-8,880 MW across 24-25 reactors as of early 2026, no other station exceeds Kudankulam's installed capacity; Units 3 and 4 (1,000 MWe each) are under construction for 2026 completion, further expanding it to 4,000 MW. Tarapur (1,400 MW), Kakrapar (~1,400 MW with recent 700 MWe units), and Kaiga (880 MW) are smaller."
+    },
+    {
+      "id": 5357,
+      "question": "Which among the following is First Indian Special Economic Zone(SEZ)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Visakhapatnam SEZ"
+        },
+        {
+          "label": "B",
+          "text": "Kandla SEZ"
+        },
+        {
+          "label": "C",
+          "text": "Noida Special Economic Zone"
+        },
+        {
+          "label": "D",
+          "text": "Cochin SEZ"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Kandla SEZ"
+      },
+      "explanation": "The Kandla Special Economic Zone (KASEZ) was established in the year 1965 as the first Export Processing Zone in India. It is also the first special economic zone in India and in Asia. It is located in Kutch District of Gujarat."
+    },
+    {
+      "id": 7512,
+      "question": "Which state led sugarcane production in India in 2023–24?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "D",
+          "text": "Andhra Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Uttar Pradesh"
+      },
+      "explanation": "Uttar Pradesh contributed over 40% of India’s sugarcane output in the 2023–24 season, with an estimated 220–230 million tonnes. The state consistently leads sugarcane production due to fertile alluvial soil, reliable irrigation from the Ganga basin, and a favorable subtropical climate. Maharashtra ranked second with about 95–100 million tonnes. Data is consistent with figures up to 2024 estimates."
+    },
+    {
+      "id": 8145,
+      "question": "In which year India launched Targeted Public Distribution System ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1995"
+        },
+        {
+          "label": "B",
+          "text": "1996"
+        },
+        {
+          "label": "C",
+          "text": "1997"
+        },
+        {
+          "label": "D",
+          "text": "1998"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "1997"
+      },
+      "explanation": "The Targeted Public Distribution System (TPDS) replaced the erstwhile PDS from June 1997. Under the new system a two tier subsidized pricing system was introduced to benefit the poor."
+    },
+    {
+      "id": 8510,
+      "question": "In which year, the practice of presenting the railway budget separate from the general budget (or vice versa in true sense) started in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1920"
+        },
+        {
+          "label": "B",
+          "text": "1924"
+        },
+        {
+          "label": "C",
+          "text": "1925"
+        },
+        {
+          "label": "D",
+          "text": "1930"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "1924"
+      },
+      "explanation": "In the year 1924, the practice of presenting the railway budget separately from the general budget (or vice versa in true sense) started in India."
+    }
+  ]
+}

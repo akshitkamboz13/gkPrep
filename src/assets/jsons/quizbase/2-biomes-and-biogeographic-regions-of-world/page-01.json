@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "2-biomes-and-biogeographic-regions-of-world",
+    "title": "2. Biomes and Biogeographic regions of World",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:51:59"
+  },
+  "questions": [
+    {
+      "id": 8825,
+      "question": "In which of the following temperature conditions the dominant vegetation is Tropical deciduous forests?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Megatherms"
+        },
+        {
+          "label": "B",
+          "text": "Mesotherms"
+        },
+        {
+          "label": "C",
+          "text": "Microtherms"
+        },
+        {
+          "label": "D",
+          "text": "Hekistotherms"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Mesotherms"
+      },
+      "explanation": "The correct answer is Mesotherms. Tropical deciduous forests thrive in regions with a warm climate, typically found in areas with a temperature range of 20-30°C (68-86°F). These forests experience seasonal rainfall, leading to a period of leaf shedding during the dry season. Notable examples include parts of India, Brazil, and Africa. The term \"mesotherm\" refers to moderate temperature conditions, which support this type of vegetation."
+    },
+    {
+      "id": 12144,
+      "question": "In an ecotone, the species which become abundant are called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Edge species"
+        },
+        {
+          "label": "B",
+          "text": "Keystone species"
+        },
+        {
+          "label": "C",
+          "text": "Endemic species"
+        },
+        {
+          "label": "D",
+          "text": "Foster species"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Edge species"
+      },
+      "explanation": "An ecotone is a transition area between two biomes but different patches of the landscape, such as forest and grassland. The ecotone contains not only species common to the communities on both sides; it may also include a number of highly adaptable species that tend to colonize such transitional areas. This can produce an edge effect along the boundary line, with the area displaying a greater than usual diversity of species. The phenomenon of increased variety of plants as well as animals at the community junction is called the “edge effect” and is essentially due to a locally broader range of suitable environmental conditions or ecological niches."
+    },
+    {
+      "id": 12429,
+      "question": "Which of the following Environmentalists first gave the concept of Biodiversity ‘hotspots’ ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gaylord Nelson"
+        },
+        {
+          "label": "B",
+          "text": "Norman Myers"
+        },
+        {
+          "label": "C",
+          "text": "John Muir"
+        },
+        {
+          "label": "D",
+          "text": "Julia “Butterfly” Hill"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Norman Myers"
+      },
+      "explanation": "In the year 1988, Norman Myers (British ecologist) published a paper mentioning 10 tropical forest “hotspots.” They were characterized by exceptional levels of plant endemism as well as serious levels of habitat loss."
+    },
+    {
+      "id": 18190,
+      "question": "Comparing to other regions, the day night temperature difference will be maximum in which among the following regions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tundra"
+        },
+        {
+          "label": "B",
+          "text": "Mediterranean"
+        },
+        {
+          "label": "C",
+          "text": "Tropical Deserts"
+        },
+        {
+          "label": "D",
+          "text": "Equatorial"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Tropical Deserts"
+      },
+      "explanation": "Tropical Deserts, such as the Sahara Desert in Africa and the Arabian Desert in the Middle East, experience extreme temperature variations between day and night. These regions have some of the highest day-night temperature differences in the world. During the day, the intense sunlight and lack of cloud cover lead to scorching daytime temperatures, often exceeding 100 degrees Fahrenheit (37.8 degrees Celsius) or more. However, at night, due to the absence of cloud cover, the heat rapidly dissipates, causing temperatures to plummet. Nighttime temperatures can drop significantly, sometimes to near-freezing or even below freezing levels, depending on the specific desert."
+    },
+    {
+      "id": 18273,
+      "question": "Apart from permanently frozen sub-surface soil, which among the following is a notable key feature of Tundra Biome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stunted trees"
+        },
+        {
+          "label": "B",
+          "text": "Coniferous trees"
+        },
+        {
+          "label": "C",
+          "text": "Lack of trees"
+        },
+        {
+          "label": "D",
+          "text": "Evergreen trees"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Lack of trees"
+      },
+      "explanation": "An extremely cold region that lacks trees and has a permanently frozen subsurface soil. The permanently frozen soil layer is called permafrost."
+    }
+  ]
+}

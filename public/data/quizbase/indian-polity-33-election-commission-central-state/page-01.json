@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-33-election-commission-central-state",
+    "title": "Election Commission [Central & States]",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:21:34"
+  },
+  "questions": [
+    {
+      "id": 5303,
+      "question": "In which year, first general elections to Lok Sabha were held in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1948"
+        },
+        {
+          "label": "B",
+          "text": "1949"
+        },
+        {
+          "label": "C",
+          "text": "1950"
+        },
+        {
+          "label": "D",
+          "text": "1951"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1951"
+      },
+      "explanation": "The first general elections to elect members of Lok Sabha were held between October 25, 1951 and March 27, 1952. The result was election of India's first Lok Sabha. The election was won by Indian National Congress and consequently, Jawaharlal Nehru became India's first democratically elected Prime Minister."
+    },
+    {
+      "id": 6539,
+      "question": "What is the maximum number of candidates an EVM machine can support?",
+      "options": [
+        {
+          "label": "A",
+          "text": "36"
+        },
+        {
+          "label": "B",
+          "text": "56"
+        },
+        {
+          "label": "C",
+          "text": "64"
+        },
+        {
+          "label": "D",
+          "text": "72"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "64"
+      },
+      "explanation": "Electronic voting machines can handle only 16 candidate choices per machine. If there are more than 16 candidates, four EVMs can be connected in series to a single master controller to handle 64 candidates."
+    },
+    {
+      "id": 6688,
+      "question": "Who decides the disputes arising out of the election of President in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chief Election Commissioner"
+        },
+        {
+          "label": "B",
+          "text": "Supreme Court"
+        },
+        {
+          "label": "C",
+          "text": "Attorney General"
+        },
+        {
+          "label": "D",
+          "text": "Solicitor general"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Supreme Court"
+      },
+      "explanation": "Article 71 of the Constitution says that all doubts and disputes arising out of or in connection with the election of a President or Vice-President shall be inquired into and decided by the Supreme Court. Further, according to Article 14 of the Presidential and Vice -Presidential Elections Act,1952, an election petition can be filed in Supreme Court."
+    },
+    {
+      "id": 6761,
+      "question": "A political party in India acquires the status of registered party if it secures what fraction of votes in a state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1%"
+        },
+        {
+          "label": "B",
+          "text": "2%"
+        },
+        {
+          "label": "C",
+          "text": "3%"
+        },
+        {
+          "label": "D",
+          "text": "4%"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "1%"
+      },
+      "explanation": "According to the Constitution of India if a political party in India acquires 1% of votes in a state election."
+    },
+    {
+      "id": 6762,
+      "question": "The power to decide an election petition in India is vested in the ________ ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Parliament"
+        },
+        {
+          "label": "B",
+          "text": "Supreme court"
+        },
+        {
+          "label": "C",
+          "text": "High Courts"
+        },
+        {
+          "label": "D",
+          "text": "President"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "High Courts"
+      },
+      "explanation": "Parliament has enacted Section 80-A of the Representation of the People Act, 1951 providing that the \"High Court\" shall be the authority for presentment of election petitions under Article 329(b) of the Constitution."
+    }
+  ]
+}

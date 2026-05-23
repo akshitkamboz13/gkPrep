@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "notable-economists-india-and-world-mcqs-for-ssc-examination",
+    "title": "2. Notable Economists - India and World",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:28:05"
+  },
+  "questions": [
+    {
+      "id": 5346,
+      "question": "Who among the following is called father of Economics?",
+      "options": [
+        {
+          "label": "A",
+          "text": "David Hume"
+        },
+        {
+          "label": "B",
+          "text": "Lamarck"
+        },
+        {
+          "label": "C",
+          "text": "Adam Smith"
+        },
+        {
+          "label": "D",
+          "text": "John Stuart Mill"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Adam Smith"
+      },
+      "explanation": "Adam smith is considered as father of Modern Economics. In his book “The nature & causes of wealth of the Nation’s 1776, he has described economics as science of wealth. According to him economy is the study of wealth only and it deals with its production and consumption. Only material goods which are scarce and useful are wealth."
+    },
+    {
+      "id": 6981,
+      "question": "Who among the following scholars is associated with Law of Rent?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Richard Jones"
+        },
+        {
+          "label": "B",
+          "text": "Thomas Robert Malthus"
+        },
+        {
+          "label": "C",
+          "text": "David Ricardo"
+        },
+        {
+          "label": "D",
+          "text": "Adam Smith"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "David Ricardo"
+      },
+      "explanation": "David Ricardo, an English classical economist, developed the law of rent in 1809. He presented the law in his book On the Principles of Political Economy and Taxation in 1821. Ricardo's theory defined rent as the portion of the earth's produce that is paid to the landlord for the original and indestructible powers of the soil. In other words, rent is the price paid for the use of land. Ricardo developed his theory to explain the origin and nature of economic rent. He used the economy and rent to analyze the large rise in corn and land prices during the Napoleonic wars (1805-1815). The term \"Ricardian rent\" comes from Ricardo's theory."
+    },
+    {
+      "id": 7743,
+      "question": "Who among the following Indian Economists played a crucial role in inception of MNREGA?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amartya Sen"
+        },
+        {
+          "label": "B",
+          "text": "Jean Dreze"
+        },
+        {
+          "label": "C",
+          "text": "Jagdish Natwarlal Bhagwati"
+        },
+        {
+          "label": "D",
+          "text": "Dr. Vijay Kelkar"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Jean Dreze"
+      },
+      "explanation": "Jean Dreze is an Economist of Indian Origin born in Belgium. He conceptualized and drafted the first version of MGNREGA. He was the member of National Advisory Council and has coauthored “An Uncertain Glory: India and its Contradiction” with noted economist Amartya Sen."
+    },
+    {
+      "id": 9757,
+      "question": "What was the nationality of Mahbub ul Haq, one of the pioneers of Human development theory and co-founder of the Human Development Report?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uk"
+        },
+        {
+          "label": "B",
+          "text": "USA"
+        },
+        {
+          "label": "C",
+          "text": "Pakistan"
+        },
+        {
+          "label": "D",
+          "text": "India"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Pakistan"
+      },
+      "explanation": "Human Development Report was first launched in 1990 by the Pakistani Economist Mahbub ul Haq and Indian Nobel laureate Amartya Sen."
+    },
+    {
+      "id": 11933,
+      "question": "Who among these is thought of as a Pioneer of Economic Nationalism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Madan Mohan Malviya"
+        },
+        {
+          "label": "B",
+          "text": "R.C. Dutt"
+        },
+        {
+          "label": "C",
+          "text": "Bipin Chandra Pal"
+        },
+        {
+          "label": "D",
+          "text": "G.K. Gokhale"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "R.C. Dutt"
+      },
+      "explanation": "Romesh Chunder Dutt was an Indian civil servant and a famous economic historian of the nineteenth century. He entered the Indian Civil Service in the year 1871. He is also called as the Pioneer of Economic Nationalism."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "it-ites-sector-mcqs-for-ssc-examination",
+    "title": "29. IT & ITeS Sector",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:25:32"
+  },
+  "questions": [
+    {
+      "id": 61409,
+      "question": "What is India's global rank in technology startup funding as of 2025?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Second"
+        },
+        {
+          "label": "B",
+          "text": "Third"
+        },
+        {
+          "label": "C",
+          "text": "Fifth"
+        },
+        {
+          "label": "D",
+          "text": "Tenth"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Third"
+      },
+      "explanation": "India ranked third globally in technology startup funding as of 2025, raising $10.5 billion in that year. Only the United States and United Kingdom ranked higher. India had over 200,000 registered startups and about 125 unicorns in 2025. Nearly 44,000 startups were registered in India in 2025, the highest in a single year. Major sectors include enterprise applications, fintech, logistics, and auto technology."
+    },
+    {
+      "id": 61410,
+      "question": "Which ministry established the MeitY Startup Hub (MSH) to promote innovation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Commerce and Industry"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Electronics and Information Technology"
+        },
+        {
+          "label": "C",
+          "text": "NITI Aayog"
+        },
+        {
+          "label": "D",
+          "text": "Digital India Corporation"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ministry of Electronics and Information Technology"
+      },
+      "explanation": "The MeitY Startup Hub (MSH) was established in 2016 under the Ministry of Electronics and Information Technology. The hub aims to strengthen India’s startup ecosystem by supporting startups, incubators, and labs nationwide. The MSH portal launched on May 10, 2019. As of December 2025, the hub supports over 6,148 startups, more than 517 incubators, and over 329 labs across India."
+    },
+    {
+      "id": 61411,
+      "question": "Which country leads in the global service sourcing market share?",
+      "options": [
+        {
+          "label": "A",
+          "text": "USA"
+        },
+        {
+          "label": "B",
+          "text": "China"
+        },
+        {
+          "label": "C",
+          "text": "India"
+        },
+        {
+          "label": "D",
+          "text": "Taiwan"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "India"
+      },
+      "explanation": "India holds about 55% share in the global sourcing market. Indian BPO services exports contribute around $45 billion, which is 20% of overall outsourced spend worldwide. India's total services exports reached approximately $128 billion in FY26. India is a major export hub for information technology and business process outsourcing services."
+    },
+    {
+      "id": 61413,
+      "question": "Which country has the largest number of internet users globally?",
+      "options": [
+        {
+          "label": "A",
+          "text": "China"
+        },
+        {
+          "label": "B",
+          "text": "India"
+        },
+        {
+          "label": "C",
+          "text": "United States"
+        },
+        {
+          "label": "D",
+          "text": "Indonesia"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "China"
+      },
+      "explanation": "In 2023, China had about 1.08 billion internet users. India had nearly 850 million users, the United States about 312 million, and Indonesia over 200 million. China's internet population is the world's largest due to its overall population of approximately 1.4 billion and national internet expansion since the 2000s. The China Internet Network Information Center provides official user statistics."
+    },
+    {
+      "id": 61414,
+      "question": "What is the IT-BPM sector's estimated GDP share in India for FY25?",
+      "options": [
+        {
+          "label": "A",
+          "text": "7.4%"
+        },
+        {
+          "label": "B",
+          "text": "12%"
+        },
+        {
+          "label": "C",
+          "text": "10%"
+        },
+        {
+          "label": "D",
+          "text": "15%"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "10%"
+      },
+      "explanation": "The IT-BPM sector's GDP share in India was 7.4% in FY22 and about 7.5% in FY23. Government and industry reports released in 2024 estimate the IT-BPM contribution to reach 10% of India's total GDP by FY25. The overall digital economy, including public infrastructure, is estimated at 12%. The IT-BPM sector includes IT services, business process management, and related segments."
+    }
+  ]
+}

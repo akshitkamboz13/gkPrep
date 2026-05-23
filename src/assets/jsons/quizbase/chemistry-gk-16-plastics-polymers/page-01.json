@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "chemistry-gk-16-plastics-polymers",
+    "title": "Chemistry-16-Plastics & Polymers",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:02:14"
+  },
+  "questions": [
+    {
+      "id": 3064,
+      "question": "A high-refractive-index polymer (HRIP) is a polymer that has a refractive index greater than _?",
+      "options": [
+        {
+          "label": "A",
+          "text": ".50"
+        },
+        {
+          "label": "B",
+          "text": "1.0"
+        },
+        {
+          "label": "C",
+          "text": "1.20"
+        },
+        {
+          "label": "D",
+          "text": "1.50"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1.50"
+      },
+      "explanation": "A high-refractive-index polymer is a polymer that has a refractive index greater than 1.50. Such materials are required for anti-reflective coating and photonic devices such as light emitting diodes (LEDs) and image sensors."
+    },
+    {
+      "id": 5008,
+      "question": "Which of the following is a thermosetting plastic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Polythene"
+        },
+        {
+          "label": "B",
+          "text": "Bakelite"
+        },
+        {
+          "label": "C",
+          "text": "Polyvinyl chloride"
+        },
+        {
+          "label": "D",
+          "text": "Casseine"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Bakelite"
+      },
+      "explanation": "Bakelite is a thermosetting plastic formed from phenol and formaldehyde, used in electrical insulators and cookware handles. Unlike thermoplastics, it hardens irreversibly when heated and cannot be remolded. It was the first synthetic plastic, invented by Leo Baekeland in 1907."
+    },
+    {
+      "id": 5162,
+      "question": "Which among the following is the first man made fibre (silk)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Viscose"
+        },
+        {
+          "label": "B",
+          "text": "Reyon"
+        },
+        {
+          "label": "C",
+          "text": "Nylon"
+        },
+        {
+          "label": "D",
+          "text": "Tericot"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Viscose"
+      },
+      "explanation": "Rayon is the first man-made fiber, also known as \"artificial silk\". It was developed in the late 19th century as a substitute for natural silk. Rayon is a semi-synthetic fiber made from wood pulp. It has properties similar to silk and a shiny appearance. Nylon is the first fully synthetic fiber. It is made from coal, water, and air. Nylon is strong, elastic, and easy to wash. It is used to make socks, ropes, tents, and more."
+    },
+    {
+      "id": 5166,
+      "question": "Which among the following substances is most suitable for making Compact Discs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "PVC"
+        },
+        {
+          "label": "B",
+          "text": "Polyethylene"
+        },
+        {
+          "label": "C",
+          "text": "Polyamides"
+        },
+        {
+          "label": "D",
+          "text": "Polycarbonates"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Polycarbonates"
+      },
+      "explanation": "Polycarbonate(PC) is a tough thermoplastic. It is not only highly transparent but also has good toughness which most of the other thermoplastics do not possess. For this reason, it is widely used for making CDs, Safety Goggles, Mixer jar lids etc."
+    },
+    {
+      "id": 5885,
+      "question": "When Sulphur is heated with rubber, the process is commonly known as ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Galvanization"
+        },
+        {
+          "label": "B",
+          "text": "Sulphonation"
+        },
+        {
+          "label": "C",
+          "text": "Vulcanization"
+        },
+        {
+          "label": "D",
+          "text": "Hydrodesulfurization"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Vulcanization"
+      },
+      "explanation": "Natural rubber becomes soft at high temperature (>335 K) and brittle at low temperatures (<283 k) and shows high water absorption capacity. It is soluble in non-polar solvents and is non-resistant to attack by oxidising agents. To improve upon these physical properties, a process of vulcanisation is carried out. This process consists of heating a mixture of raw rubber with sulphur and an appropriate additive at a temperature range between 373 K to 415 K. On vulcanisation, sulphur forms cross links at the reactive sites of double bonds and thus the rubber gets stiffened. In the manufacture of tyre rubber, 5% of sulphur is used as a crosslinking agent"
+    }
+  ]
+}

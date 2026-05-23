@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-february-2024",
+    "title": "Current Affairs Quiz - February, 2024",
+    "page": 2,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:46:37",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:52:33"
+  },
+  "questions": [
+    {
+      "id": 11,
+      "question": "‘EV Upyog’ portal, recently seen in the news, is associated with which state government?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Madhya Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Gujarat"
+        },
+        {
+          "label": "D",
+          "text": "Rajasthan"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Uttar Pradesh"
+      },
+      "explanation": "The Uttar Pradesh government is prioritizing electric vehicle (EV) use and manufacturing through the development of the ‘EV Upyog’ portal. The Uttar Pradesh Development Systems Corporation Limited (UPDESCO) is hiring a software development agency for one year to upgrade the portal, which will include features like cloud storage, database capabilities, and specialized software. The Ministry of Electronics and IT Empanelled Service Provider will oversee the cloud server integration, emphasizing cybersecurity, cost-effectiveness, scalability, integration, API convenience, and reliability."
+    },
+    {
+      "id": 12,
+      "question": "According to Fitch’s predictions, what is the estimated fiscal deficit for India in FY 25-26?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5.2%"
+        },
+        {
+          "label": "B",
+          "text": "5.4%"
+        },
+        {
+          "label": "C",
+          "text": "5.8%"
+        },
+        {
+          "label": "D",
+          "text": "5.7%"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "5.4%"
+      },
+      "explanation": "Fitch Ratings predicts India’s fiscal deficit will reach 5.4% in 2025-2026 (FY25-2026), which is higher than the government’s 5.1% target. Fitch’s prediction is due to more conservative revenue forecasts for FY25. Fitch also expects the central government’s fiscal deficit to be 5.4% in FY25, and the aggregate state deficit to remain around 2.8% of GDP. Fitch says that the slow pace of fiscal consolidation after the pandemic could leave India’s public finances exposed if there are major economic shocks."
+    },
+    {
+      "id": 13,
+      "question": "Vidyanjali Scholarship Programme, recently seen in the news, launched by which ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Education"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Defence"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Skill Development and Entrepreneurship"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of MSME"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ministry of Education"
+      },
+      "explanation": "Union Minister of Education and Skill Development & Entrepreneurship, Shri Dharmendra Pradhan launched the EdCIL Vidyanjali Scholarship Programme in New Delhi. The program aims to support students who are academically gifted and meritorious but lack financial means to pursue education. The Ministry of Education, Government of India launched the Vidyanjali program in September 2021 to strengthen schools through community and private sector involvement. The program aims to increase the quality of education provided in government schools by taking help from private sector and community."
+    },
+    {
+      "id": 14,
+      "question": "Sebastian Pinera, who recently passed away, was the former President of which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Peru"
+        },
+        {
+          "label": "B",
+          "text": "Chile"
+        },
+        {
+          "label": "C",
+          "text": "Brazil"
+        },
+        {
+          "label": "D",
+          "text": "Argentina"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Chile"
+      },
+      "explanation": "Chile mourns the loss of former President Sebastian Pinera, who died at 74 in a helicopter crash on February 6th. A key figure in Chilean politics, Pinera served two terms from 2010 to 2014 and 2018 to 2022, playing a pivotal role in strengthening the nation’s democracy. As the first conservative leader after a military dictatorship, his leadership brought significant governance improvements, enhancing the quality of life for Chileans in various aspects."
+    },
+    {
+      "id": 15,
+      "question": "How much budgetary support has the government constituted for ‘Fisheries Infrastructure Development Fund’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rs 830.57 crores"
+        },
+        {
+          "label": "B",
+          "text": "Rs 935.55 crores"
+        },
+        {
+          "label": "C",
+          "text": "Rs 939.48 crores"
+        },
+        {
+          "label": "D",
+          "text": "Rs 955.68 crores"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Rs 939.48 crores"
+      },
+      "explanation": "The Union Cabinet, led by Prime Minister Narendra Modi, approved a 3-year extension of the Fisheries Infrastructure Development Fund (FIDF) until 2025-26. The extension maintains the approved fund size of Rs 7522.48 crore with a budgetary support of Rs 939.48 crore. FIDF, initiated in 2018-19, has so far approved 121 projects, creating fisheries infrastructure and generating over 2.5 lakh employment opportunities. The extension aims to further boost development in fisheries, encouraging both public and private sector investments for economic growth in the sector."
+    },
+    {
+      "id": 16,
+      "question": "Recently, who released the report titled ‘LNG as a transportation fuel in medium and heavy commercial vehicles’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NITI Aayog and Netherlands Embassy"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Renewable Energy and Netherlands Embassy"
+        },
+        {
+          "label": "C",
+          "text": "NITI Aayog and Russian Embassy"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Agriculture and NITI Aayog"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "NITI Aayog and Netherlands Embassy"
+      },
+      "explanation": "NITI Aayog and the Netherlands Embassy released the report ‘LNG as a transportation fuel in medium and heavy commercial vehicles’ during India Energy Week 2024 in Goa. The collaboration, initiated in 2020, focuses on energy transition. The report addresses LNG utilization in Indian commercial vehicles, examining coordination challenges and drawing insights from global practices. The Netherlands, a leader in green hydrogen, plans to aid India in achieving climate targets. The report outlines strategies for a 15% gas share in primary energy by 2070."
+    },
+    {
+      "id": 17,
+      "question": "What is the name of the new scheme approved by the Union Cabinet to improve the fisheries sector?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana"
+        },
+        {
+          "label": "B",
+          "text": "Sagar Parikrama Scheme"
+        },
+        {
+          "label": "C",
+          "text": "Pradhan Mantri Matsya Sampada Yojana"
+        },
+        {
+          "label": "D",
+          "text": "Palk Bay Scheme"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana"
+      },
+      "explanation": "The Union Cabinet recently approved the ‘Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PM-MKSSY),’ a sub-scheme under the Pradhan Mantri Matsya Sampada Yojana. With a budget of Rs. 6,000 crore, the 4-year initiative aims to formalize the fisheries sector, providing institutional credit to fishers, aquaculture farmers, and vendors. Key benefits include a National Fisheries Digital Platform, support for micro-enterprises and cooperatives, job creation (particularly for women), and a shift from conventional subsidies to performance-based incentives."
+    },
+    {
+      "id": 18,
+      "question": "What is ‘Alaskapox’, recently seen in the news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bacterial Infection"
+        },
+        {
+          "label": "B",
+          "text": "DNA virus"
+        },
+        {
+          "label": "C",
+          "text": "Fungus"
+        },
+        {
+          "label": "D",
+          "text": "Helminths"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "DNA virus"
+      },
+      "explanation": "An Alaskan man recently became the first to die from Alaskapox, an orthopox virus discovered in 2015. It is DNA virus belonging to the same genus as smallpox, monkeypox, and cowpox, it primarily affects small mammals. Symptoms include skin lesions, swollen lymph nodes, and muscle pain, with mild illnesses usually resolving in a few weeks. While human-to-human transmission hasn’t been observed, orthopoxviruses can spread through direct contact with lesions. Immunocompromised individuals may face a higher risk of severe illness."
+    },
+    {
+      "id": 19,
+      "question": "What is the theme of ‘International Day of Women and Girls in Science 2024?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Innovate. Demonstrate. Elevate. Advance"
+        },
+        {
+          "label": "B",
+          "text": "Women and Girls in Science Leadership, a New Era for Sustainability"
+        },
+        {
+          "label": "C",
+          "text": "Investment in Women and Girls in Science for Inclusive Green Growth"
+        },
+        {
+          "label": "D",
+          "text": "Equality and Parity in Science for Peace and Development"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Women and Girls in Science Leadership, a New Era for Sustainability"
+      },
+      "explanation": "The theme for the 9th International Day of Women and Girls in Science in 2024 is “Women and Girls in Science Leadership, a New Era for Sustainability”. The theme emphasizes the importance of women’s leadership in science for achieving global sustainability goals. The day is celebrated on February 11th. The Royal Academy of Science International Trust organizes the 2024 International Day of Women and Girls in Science Assembly."
+    },
+    {
+      "id": 20,
+      "question": "Where were the Indian Navy’s Annual Refit Conference 24 (ARC 24) and Annual Infrastructure Conference 24 conducted?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chennai"
+        },
+        {
+          "label": "B",
+          "text": "Mumbai"
+        },
+        {
+          "label": "C",
+          "text": "Bengaluru"
+        },
+        {
+          "label": "D",
+          "text": "New Delhi"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Mumbai"
+      },
+      "explanation": "The Indian Navy’s Annual Refit Conference 24 (ARC 24) and Annual Infrastructure Conference 24 (AIC 24) were held on 08–09 Feb 24 in Mumbai. Chaired by VAdm Kiran Deshmukh, Chief of Materiel, discussions included refit plans for naval ships, infrastructure augmentation, Materiel Cooperation with foreign countries, and digital solutions for maintenance. Challenges in platform maintenance and strategic-level changes for efficient refit processes were deliberated."
+    }
+  ]
+}

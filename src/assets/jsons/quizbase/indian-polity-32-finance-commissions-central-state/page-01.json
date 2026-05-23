@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-32-finance-commissions-central-state",
+    "title": "Finance Commissions [Central & States]",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:21:27"
+  },
+  "questions": [
+    {
+      "id": 4363,
+      "question": "Which among the following is the constitutional body appointed by the president, every five years to review centre state financial relationships?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Finance Commission"
+        },
+        {
+          "label": "B",
+          "text": "Inter State Commission"
+        },
+        {
+          "label": "C",
+          "text": "Inter State Council"
+        },
+        {
+          "label": "D",
+          "text": "Zonal Council"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Finance Commission"
+      },
+      "explanation": "Finance Commission of India is established by President of India as per Article 280 of the constitution. Article 280 reads: President should, within two years of commencement of the Constitution and thereafter on expiry of every 5th year, or at such intervals as he/ she thinks necessary, would constitute a Finance Commission."
+    },
+    {
+      "id": 5757,
+      "question": "Transactions related to debt other than those included in the Consolidated Fund of India are kept in which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Debt Account"
+        },
+        {
+          "label": "B",
+          "text": "Public Account"
+        },
+        {
+          "label": "C",
+          "text": "Contingency Fund"
+        },
+        {
+          "label": "D",
+          "text": "Debt Fund"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Public Account"
+      },
+      "explanation": "All other public money which is received by or on behalf of the Government of India shall be credited to the Public Account of India other than those which are credited to the Consolidated Fund of India."
+    },
+    {
+      "id": 6692,
+      "question": "Who among the following recommends distribution of taxes between the Union and State Govt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Finance Minister"
+        },
+        {
+          "label": "B",
+          "text": "Finance Commission"
+        },
+        {
+          "label": "C",
+          "text": "Reserve bank of India"
+        },
+        {
+          "label": "D",
+          "text": "Prime minister"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Finance Commission"
+      },
+      "explanation": "The Finance Commission of India which is constituted under Article 280 recommends the distribution of taxes between the Union and State Government."
+    },
+    {
+      "id": 6771,
+      "question": "In which year, the Contingency Fund of India was constituted by an act called Contingency Fund of India Act?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1950"
+        },
+        {
+          "label": "B",
+          "text": "1959"
+        },
+        {
+          "label": "C",
+          "text": "1960"
+        },
+        {
+          "label": "D",
+          "text": "1961"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "1950"
+      },
+      "explanation": "The Contingency Fund of India is established under Article 267 of the Indian Constitution. It was enacted by the Contingency Fund of India Act 1950. This fund is used to meet unexpected or unforeseen expenditure."
+    },
+    {
+      "id": 6821,
+      "question": "Which article of Indian Constitution mandates presenting a statement of estimated receipts and expenditures of the Government for one financial year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Article 110"
+        },
+        {
+          "label": "B",
+          "text": "Article 111"
+        },
+        {
+          "label": "C",
+          "text": "Article 112"
+        },
+        {
+          "label": "D",
+          "text": "Article 113"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Article 112"
+      },
+      "explanation": "According to article 112 of Indian constitution, the President shall in respect of every financial year cause to be laid before both the Houses of Parliament a statement of the estimated receipts and expenditure of the Government of India for that year. This is known as Budget."
+    }
+  ]
+}

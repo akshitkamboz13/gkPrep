@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-39-genetics-inheritance-and-evolution",
+    "title": "39. Genetics, Inheritance and Evolution",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:59:29"
+  },
+  "questions": [
+    {
+      "id": 4368,
+      "question": "In genetics, the Reverse transcriptase helps in which among the following transcriptions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Single stranded DNA into double stranded DNA"
+        },
+        {
+          "label": "B",
+          "text": "Single stranded RNA into double stranded DNA"
+        },
+        {
+          "label": "C",
+          "text": "Single Stranded RNA into double stranded RNA"
+        },
+        {
+          "label": "D",
+          "text": "Double Stranded DNA into single stranded RNA"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Single stranded RNA into double stranded DNA"
+      },
+      "explanation": "Reverse transcriptase helps in Single Stranded RNA into double stranded RNA transcriptions. Reverse transcriptase (RT), also known as RNA-dependent DNA polymerase. It is used to generate complementary DNA (cDNA) from an RNA template."
+    },
+    {
+      "id": 5548,
+      "question": "Change in genetic composition of a population is called as?",
+      "options": [
+        {
+          "label": "A",
+          "text": "extinction"
+        },
+        {
+          "label": "B",
+          "text": "evolution"
+        },
+        {
+          "label": "C",
+          "text": "endemic"
+        },
+        {
+          "label": "D",
+          "text": "vicariance"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "evolution"
+      },
+      "explanation": "Evolution is change in the heritable characteristics of biological populations over successive generations. The theory of evolution is based on the idea that all species are related and gradually change over time."
+    },
+    {
+      "id": 6275,
+      "question": "A gene is a functional unit of ___?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Life"
+        },
+        {
+          "label": "B",
+          "text": "Cell"
+        },
+        {
+          "label": "C",
+          "text": "DNA"
+        },
+        {
+          "label": "D",
+          "text": "Chromosomes"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Chromosomes"
+      },
+      "explanation": "A gene is a functional unit of chromosomes. They are made up of DNA. Some genes also act as instructions to make molecules called proteins. However, not all genes code for proteins."
+    },
+    {
+      "id": 7049,
+      "question": "Which among the following controls the protein synthesis and heredity ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amino acids"
+        },
+        {
+          "label": "B",
+          "text": "Genes"
+        },
+        {
+          "label": "C",
+          "text": "DNA"
+        },
+        {
+          "label": "D",
+          "text": "RNA"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Genes"
+      },
+      "explanation": "Genes controls the protein synthesis and heredity. It is the basic physical and functional unit of heredity and are made up of DNA. Some genes act as instructions to make molecules called proteins."
+    },
+    {
+      "id": 7059,
+      "question": "A genetic code specifies how many kinds of amino acids?",
+      "options": [
+        {
+          "label": "A",
+          "text": "12"
+        },
+        {
+          "label": "B",
+          "text": "15"
+        },
+        {
+          "label": "C",
+          "text": "20"
+        },
+        {
+          "label": "D",
+          "text": "25"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "20"
+      },
+      "explanation": "There are as many as 100 thousand kinds of proteins that constitute the body, and these comprise only 20 kinds of amino acids in various combinations."
+    }
+  ]
+}

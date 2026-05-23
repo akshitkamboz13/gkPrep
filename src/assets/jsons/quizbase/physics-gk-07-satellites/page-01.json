@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physics-gk-07-satellites",
+    "title": "Physics GK 07 - Satellites",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:30:28"
+  },
+  "questions": [
+    {
+      "id": 9432,
+      "question": "Which among the following is the most acceptable range of LEO (Low Earth orbit)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "350 – 2,600 kms"
+        },
+        {
+          "label": "B",
+          "text": "200-2000 kms"
+        },
+        {
+          "label": "C",
+          "text": "160 – 2,000 kms"
+        },
+        {
+          "label": "D",
+          "text": "160-1600 kms"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "160 – 2,000 kms"
+      },
+      "explanation": "This range is commonly used and accepted in the context of satellite orbits within the Earth's atmosphere. It extends from approximately 160 kilometers (the Kármán line, which is often used as the boundary of space) to around 2,000 kilometers above the Earth's surface."
+    },
+    {
+      "id": 20626,
+      "question": "Which among the following orbits are more prone to harms of space debris or space Junk in comparison to others?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Polar Sun Synchronous Orbit"
+        },
+        {
+          "label": "B",
+          "text": "Low Earth Orbit"
+        },
+        {
+          "label": "C",
+          "text": "Geosynchronous orbit"
+        },
+        {
+          "label": "D",
+          "text": "Geostationary Orbit"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Geostationary Orbit"
+      },
+      "explanation": "Low Earth Orbit (LEO) is more prone to space debris or space junk. This is because space debris is more concentrated in orbits closer to Earth. Most debris is within 2,000 km (1,200 miles) of Earth's surface. Space debris orbits the Earth at tremendous speeds, about 15,700 miles per hour (25,265 kph) in low Earth orbit. In the event of a collision, it could cause significant damage to a satellite or spacecraft. Experts are concerned about the amount of space debris in regions that are too high to benefit from the cleansing effects of Earth's atmosphere. They believe that if there is too much space junk in orbit, it could result in a chain reaction where more and more objects collide and create new space junk."
+    },
+    {
+      "id": 26256,
+      "question": "What do we call the minimum velocity with which a body must be projected up, so as to enable it to just overcome the gravitational pull?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Orbital velocity"
+        },
+        {
+          "label": "B",
+          "text": "Gravitational velocity"
+        },
+        {
+          "label": "C",
+          "text": "Escape velocity"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Escape velocity"
+      },
+      "explanation": "The minimum velocity with which a body must be projected up, so as to enable it to just overcome the gravitational pull, is known as Escape velocity. Ve = (2gR)1/2"
+    },
+    {
+      "id": 26257,
+      "question": "What is the value of escape velocity for earth?",
+      "options": [
+        {
+          "label": "A",
+          "text": "9.8 km s-2"
+        },
+        {
+          "label": "B",
+          "text": "1.6 km s-2"
+        },
+        {
+          "label": "C",
+          "text": "11.2 km s-2"
+        },
+        {
+          "label": "D",
+          "text": "7.92 km s-2"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "11.2 km s-2"
+      },
+      "explanation": "The value of escape velocity is different for different planets. For earth, this value is 11.2 km s-2."
+    },
+    {
+      "id": 26258,
+      "question": "On which of the following the escape velocity of a body does not depend?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mass of the body"
+        },
+        {
+          "label": "B",
+          "text": "Radius of the planet"
+        },
+        {
+          "label": "C",
+          "text": "Mass of the planet"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Mass of the body"
+      },
+      "explanation": "The escape velocity is independent of the mass and angle of projection of the body. Escape velocity depends on the mass and radius of the planet from the surface of which the body is to be projected."
+    }
+  ]
+}

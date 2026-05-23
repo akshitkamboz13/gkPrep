@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-26-useful-animal-products",
+    "title": "26. Useful Animal Products",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:58:22"
+  },
+  "questions": [
+    {
+      "id": 6606,
+      "question": "Lac is the scarlet resinous secretion from ________?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Herbs"
+        },
+        {
+          "label": "B",
+          "text": "Trees"
+        },
+        {
+          "label": "C",
+          "text": "Bark"
+        },
+        {
+          "label": "D",
+          "text": "insects"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "insects"
+      },
+      "explanation": "Lac is the scarlet resinous secretion from insects. It is secreted by a number of a number of species of lac insects, of which the most commonly cultivated is Kerria lacca. The farmer gets a stick that contains eggs ready to hatch and ties it to the tree to be infested."
+    },
+    {
+      "id": 6970,
+      "question": "Butter is a ________?",
+      "options": [
+        {
+          "label": "A",
+          "text": "fat dispersed in milk"
+        },
+        {
+          "label": "B",
+          "text": "fat dispersed in water"
+        },
+        {
+          "label": "C",
+          "text": "water dispersed in fat"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "fat dispersed in milk"
+      },
+      "explanation": "Butter is a type of dairy product that is made by churning cream or milk until the fat particles in the milk coalesce to form a solid mass. The resulting solid mass is known as butter and it is composed mostly of butterfat, which is a type of fat that is found in milk. To be more specific, butter is a fat that is dispersed in milk. This means that the butterfat is evenly distributed throughout the milk, giving it a smooth and creamy texture. While butter is most commonly made from cow's milk, it can also be produced from the milk of other mammals, such as sheep, goats, buffalo, and yaks."
+    },
+    {
+      "id": 34595,
+      "question": "The highest fat content is found in the milk of which of the following animals? (UPSC Prelims 1991)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Buffalo"
+        },
+        {
+          "label": "B",
+          "text": "Cow"
+        },
+        {
+          "label": "C",
+          "text": "Camel"
+        },
+        {
+          "label": "D",
+          "text": "Reindeer"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Buffalo"
+      },
+      "explanation": "Buffalo milk has the highest fat content, which is on average twice as high as that of cow milk. The fat-to-protein ratio in buffalo milk is about 2:1."
+    },
+    {
+      "id": 35326,
+      "question": "What is the average fat content of buffalo milk? (UPSC Prelims 1997)",
+      "options": [
+        {
+          "label": "A",
+          "text": "7.2%"
+        },
+        {
+          "label": "B",
+          "text": "4.5%"
+        },
+        {
+          "label": "C",
+          "text": "9.0%"
+        },
+        {
+          "label": "D",
+          "text": "10.0%"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "7.2%"
+      },
+      "explanation": "Average fat content in buffalo milk is 7.2% and average fat content in cow milk is 4.4%. As per the nutrient components, buffalo milk contains all the nutrients in higher proportion than cow’s milk."
+    },
+    {
+      "id": 35782,
+      "question": "At which stage in its life-cycle does the silkworm yield the fibre of commerce? (UPSC Prelims 2000)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Egg"
+        },
+        {
+          "label": "B",
+          "text": "Larva"
+        },
+        {
+          "label": "C",
+          "text": "Pupa"
+        },
+        {
+          "label": "D",
+          "text": "Imago"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Pupa"
+      },
+      "explanation": "Silk worm yield the fibre from pupa stage, which is commercially used to produce clothes."
+    }
+  ]
+}

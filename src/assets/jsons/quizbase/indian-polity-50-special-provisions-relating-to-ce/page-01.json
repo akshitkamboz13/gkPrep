@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-50-special-provisions-relating-to-ce",
+    "title": "Special Provisions Relating to Certain Classes",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:23:09"
+  },
+  "questions": [
+    {
+      "id": 7456,
+      "question": "Which among the following committee related to backward Classes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajamannar Committee"
+        },
+        {
+          "label": "B",
+          "text": "Sarkaria Commission"
+        },
+        {
+          "label": "C",
+          "text": "Kaka Kalelkar Commission"
+        },
+        {
+          "label": "D",
+          "text": "Rangarajan committee"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Kaka Kalelkar Commission"
+      },
+      "explanation": "In 1953, the central government established a Backwards Classes Commission under Kalelkar’s chairmanship with the charter to recommend reforms for removing inequities for underprivileged people. The Commission issued its report in 1955, recommending, among other things, that the government grant special privileges to untouchables and other underprivileged people"
+    },
+    {
+      "id": 11748,
+      "question": "“Prime Minister’s 15 Point Programme” in India is related to which among the following segments of society?",
+      "options": [
+        {
+          "label": "A",
+          "text": "BPL families"
+        },
+        {
+          "label": "B",
+          "text": "Minorities"
+        },
+        {
+          "label": "C",
+          "text": "Unemployed Poors"
+        },
+        {
+          "label": "D",
+          "text": "Rural Old Age people"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Minorities"
+      },
+      "explanation": "“Prime Minister’s 15 Point Programme” in India is related to minorities. The Programme aims to ensure that the benefits of various government schemes for the underprivileged reach the disadvantaged sections of the minority communities."
+    },
+    {
+      "id": 46342,
+      "question": "Which of the following articles of the constitution mention special provisions for the scheduled castes (SCs), the scheduled tribes (STs), the backward classes (BCs) and the Anglo-Indians?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Articles 330 to 342A"
+        },
+        {
+          "label": "B",
+          "text": "Articles 344 to 352A"
+        },
+        {
+          "label": "C",
+          "text": "Articles 350 to 352A"
+        },
+        {
+          "label": "D",
+          "text": "Articles 360 to 362A"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Articles 330 to 342A"
+      },
+      "explanation": "The article 330 to 342A of the constitution of India mention special provisions for the scheduled castes (SCs), the scheduled tribes (STs), the backward classes (BCs) and the Anglo-Indians."
+    },
+    {
+      "id": 46343,
+      "question": "Which of the following has the power to specify as to what castes or tribes in each state and union territory are to be treated as the SCs and STs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Parliament"
+        },
+        {
+          "label": "B",
+          "text": "President"
+        },
+        {
+          "label": "C",
+          "text": "National Commission for STs"
+        },
+        {
+          "label": "D",
+          "text": "National Commission for SCs"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "President"
+      },
+      "explanation": "The President of India has the power to specify as to what castes or tribes in each state and union territory are to be treated as the SCs and STs. The Constitution of India does not specify the same."
+    },
+    {
+      "id": 46344,
+      "question": "Which of the following can include or exclude any caste or tribe from Presidential notification?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Supreme Court"
+        },
+        {
+          "label": "B",
+          "text": "President"
+        },
+        {
+          "label": "C",
+          "text": "Parliament"
+        },
+        {
+          "label": "D",
+          "text": "National Commission for minorities"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Parliament"
+      },
+      "explanation": "The lists of Scheduled Castes or Scheduled Tribes vary from state to state and union territory to union territory in India. Inclusion or exclusion of any caste or tribe from Presidential notification can be done only by the Parliament of India and not by a subsequent Presidential notification."
+    }
+  ]
+}

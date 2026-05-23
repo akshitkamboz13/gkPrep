@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physics-gk-10-floatation",
+    "title": "Physics GK 10 - Floatation",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:30:44"
+  },
+  "questions": [
+    {
+      "id": 7700,
+      "question": "What happens when a ship enters a Sea from a river ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It rises"
+        },
+        {
+          "label": "B",
+          "text": "It remains at the same level"
+        },
+        {
+          "label": "C",
+          "text": "sinks a little"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "It rises"
+      },
+      "explanation": "When a ship enters a sea from a river ,the ship is elevated or uplifted due to the density of sea water and during the buoyant motion of the ship, as it would gain both potential and kinetic energy when rising in the fluid."
+    },
+    {
+      "id": 20451,
+      "question": "A cardboard is placed on a glass of water, and a ten paise coin is placed on the cardboard. If the cardboard is flicked suddenly in the direction parallel to its surface, then the cardboard flies away, but the coin falls in the glass. The behaviour of the coin can be explained by which among the following properties?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Momentum"
+        },
+        {
+          "label": "B",
+          "text": "Acceleration"
+        },
+        {
+          "label": "C",
+          "text": "Inertia"
+        },
+        {
+          "label": "D",
+          "text": "Friction"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Inertia"
+      },
+      "explanation": "Inertia is the property of matter that is why it continues in its existing state of either rest or motion. It can be changed by an external force. Here in the question the coin falls in the glass even after the cardboard is flicked because it maintains its rest position by the nature of inertia."
+    },
+    {
+      "id": 20591,
+      "question": "A piece of Ice was tied with a string to a water bucket’s bottom, and the water bucket was filled with water with ice fully submerged in it. What would be the impact on the level of water when the ice melts away completely?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The level of water will go up"
+        },
+        {
+          "label": "B",
+          "text": "The level of water will go down"
+        },
+        {
+          "label": "C",
+          "text": "The level of water will remain unchanged"
+        },
+        {
+          "label": "D",
+          "text": "The level of water will first increase then come to the previous one"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "The level of water will go down"
+      },
+      "explanation": "When Ice floats in water, the level of water will remain unchanged when the ice melts away because in this situation, Ice replaced water which is “equal to its weight”. But when the floating ice is taken down in the bottom of the bucket and tied over there with a string, and let melt away, the level of water will come down because now the ice was replacing the water “equal to its volume and Ice has a lower density of water. So The answer of this question is “The level of water will go down”."
+    },
+    {
+      "id": 20630,
+      "question": "In which of the following conditions, a Balloon filled with a gas such as Hydrogen will tend to rise up?",
+      "options": [
+        {
+          "label": "A",
+          "text": "If the buoyant force exerted by the air on a balloon is greater than the weight of the balloon"
+        },
+        {
+          "label": "B",
+          "text": "If the buoyant force exerted by the air on a balloon is less than the weight of the balloon"
+        },
+        {
+          "label": "C",
+          "text": "If the buoyant force exerted by the air on a balloon is equal to the weight of the balloon"
+        },
+        {
+          "label": "D",
+          "text": "If the density of the air is greater than the density of the gas filled in balloon"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "If the buoyant force exerted by the air on a balloon is greater than the weight of the balloon"
+      },
+      "explanation": "A Balloon filled with a gas such as Hydrogen gas is much lighter in weight than the weight of air displaced by it. So the buoyant force exerted by the air on a balloon is greater than the weight of the balloon. The hydrogen gas which is lighter than air enables the balloon to float."
+    },
+    {
+      "id": 26426,
+      "question": "Who was the first to state the principle of floatation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Isaac Newton"
+        },
+        {
+          "label": "B",
+          "text": "Archimedes"
+        },
+        {
+          "label": "C",
+          "text": "Aristotle"
+        },
+        {
+          "label": "D",
+          "text": "Galileo Galilei"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Archimedes"
+      },
+      "explanation": "Archimedes, the Ancient Greek scientist was the first to state the principle of floatation. Archimedes principle states that when a body is immersed partly or wholly in a liquid, there is an apparent loss in the weight of the body which is equal to the weight of liquid displaced by the body."
+    }
+  ]
+}

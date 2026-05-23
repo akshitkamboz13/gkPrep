@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-culture03-folk-paintings",
+    "title": "Indian Culture: 03-Indian Folk Paintings",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:15:11"
+  },
+  "questions": [
+    {
+      "id": 18941,
+      "question": "With respect to Indian culture, what is ‘Ghode Modni’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "festival celebrated in Arunachal Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "tribe of Andaman & Nicobar islands"
+        },
+        {
+          "label": "C",
+          "text": "dance form in Goa"
+        },
+        {
+          "label": "D",
+          "text": "style of Painting"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "dance form in Goa"
+      },
+      "explanation": "Ghode Modni (‘Ghode’ means ‘horse’ and ‘Modni’ means ‘gyrations and dance-like movements’) is literally a dance involving horse-like movements. It is a warrior-dance, which commemorates the victory of the Ranes, the Maratha rulers over the Portuguese.The dance is a famous folk dance from of the Goa state."
+    },
+    {
+      "id": 18948,
+      "question": "Which of the following paintings involves the art of creating images on cotton cloth using the wax resist method?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kalighat"
+        },
+        {
+          "label": "B",
+          "text": "Batik"
+        },
+        {
+          "label": "C",
+          "text": "Kalamkari"
+        },
+        {
+          "label": "D",
+          "text": "Madhubani"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Batik"
+      },
+      "explanation": "The art of Batik painting is practised mainly in West Bengal, Odisha and Tamil Nadu. It involves the art of creating images on cotton clothes using the wax resist method."
+    },
+    {
+      "id": 18966,
+      "question": "The Phad painting is a religious scroll painting practiced in which state of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "B",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Odisha"
+        },
+        {
+          "label": "D",
+          "text": "Andhra Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Rajasthan"
+      },
+      "explanation": "The phad painting is a religious scroll painting, traditionally done on a long piece of cloth or canvas, known as phad. This type of painting is mainly practised in Rajasthan and the narratives of the folk deities of Rajasthan, mostly of Pabuji and Devnarayan are depicted on the phads. These paintings are often carried from one place to another by the traditional singers called Bhopas."
+    },
+    {
+      "id": 18969,
+      "question": "In which of the following paintings, artists use distinct symbols like fish to represent good luck and serpents as symbol for protection against illness, accidents and evil forces?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Patachitra"
+        },
+        {
+          "label": "B",
+          "text": "Kangra"
+        },
+        {
+          "label": "C",
+          "text": "Madhubani"
+        },
+        {
+          "label": "D",
+          "text": "Phad"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Madhubani"
+      },
+      "explanation": "Madhubani painting is practiced in the Mithila state of Nepal and in the Bihar state of India. The artists of these paintings use distinct symbols like fish to represent good luck and serpents as symbol for protection against illness, accidents and evil forces."
+    },
+    {
+      "id": 18971,
+      "question": "Artists of which of the following paintings are also known as Patua painters?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kalamkari"
+        },
+        {
+          "label": "B",
+          "text": "Madhubani"
+        },
+        {
+          "label": "C",
+          "text": "Kalighat"
+        },
+        {
+          "label": "D",
+          "text": "Batik"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Kalighat"
+      },
+      "explanation": "Kalighat Paintings are hand-made drawings and sometimes machine-made. It is produced by a group of artists called ‘Patuas’, who live near the famous Kali temple at Kalighat in West Bengal."
+    }
+  ]
+}

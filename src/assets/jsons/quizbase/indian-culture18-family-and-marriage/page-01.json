@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-culture18-family-and-marriage",
+    "title": "Indian Culture:18-Family and Marriage",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:16:38"
+  },
+  "questions": [
+    {
+      "id": 34406,
+      "question": "Which of the following tribes has the Matriarchical system? (UPSC Prelims 1990)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nagas, Nairs and Meenas"
+        },
+        {
+          "label": "B",
+          "text": "Nairs and Khasis"
+        },
+        {
+          "label": "C",
+          "text": "Bhils, Nairs and Khasis"
+        },
+        {
+          "label": "D",
+          "text": "Nagas and Khasis"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Nagas and Khasis"
+      },
+      "explanation": "The Khasi tribe of Meghalaya and Naga tribe of nagaland is one of the few societies in the world that follows a matrilineal system. Women are the head of the household and the one who does the hard labour to earn a living for the family. Men take the back seat here. When a girl is born there are cheers of jubilation and when a boy is born, they accept it humbly as God's gift."
+    },
+    {
+      "id": 35122,
+      "question": "Which one of the following can be classified as a “Pratiloma Marriage”? (UPSC Prelims 1995)",
+      "options": [
+        {
+          "label": "A",
+          "text": "A Brahmin girl marrying a Sudra boy"
+        },
+        {
+          "label": "B",
+          "text": "A Sudra girl marrying a Brahmin boy"
+        },
+        {
+          "label": "C",
+          "text": "A Brahmin girl marrying a Brahminboy"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "A Brahmin girl marrying a Sudra boy"
+      },
+      "explanation": "Pratiloma is one of marriage type followed by hindus. It is the marriage of a girl of higher caste with a boy of lower caste.It faced more resistance in the society. Shastrakara Manu was of the opinion that the progeny of the most hated pratiloma would become “chandalas” or “untouchables.”"
+    },
+    {
+      "id": 94739,
+      "question": "Which source states that man is by himself is only half-man and his second half is the wife?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Manusmriti"
+        },
+        {
+          "label": "B",
+          "text": "Taittiriya Brahman"
+        },
+        {
+          "label": "C",
+          "text": "Panchtantra"
+        },
+        {
+          "label": "D",
+          "text": "Rig Veda"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Taittiriya Brahman"
+      },
+      "explanation": "According to Taittiriya Brahman man is by himself is only half-man and his second half is his wife (ardhangna). The Rig Veda itself speaks of the sanctity of the institution of marriage."
+    },
+    {
+      "id": 94740,
+      "question": "One can enter the grihastha ashram only after.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Birth"
+        },
+        {
+          "label": "B",
+          "text": "Marriage"
+        },
+        {
+          "label": "C",
+          "text": "Education"
+        },
+        {
+          "label": "D",
+          "text": "Renunciation"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Marriage"
+      },
+      "explanation": "In Hindus, marriage is not a matter of the social contract, it is a religious duty, after marriage, only one can enter into the grihastha ashram and the husband and wife need to establish the family, the home or griha."
+    },
+    {
+      "id": 94741,
+      "question": "In which literary source it is mentioned that wife is the very source of the purusharth, not only of dharma, kama and Martha but even of moksha?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rig Veda"
+        },
+        {
+          "label": "B",
+          "text": "Mahabharat"
+        },
+        {
+          "label": "C",
+          "text": "Ramayana"
+        },
+        {
+          "label": "D",
+          "text": "Upanishad"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Mahabharat"
+      },
+      "explanation": "Hindu shastrakras highlight the necessity of vivah for a woman though it is no less significant for men. In Mahabharat, it is cleared that wife is the very source of the purusharth, not only of dharma, kama and artha,but even of moksha."
+    }
+  ]
+}

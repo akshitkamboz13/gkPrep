@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: April 2, 2026",
+    "date": "2026-04-02",
+    "year": "2026",
+    "month": "04-april",
+    "day": 2,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 02:28:41",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:52:03"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Indian Accounting Standards (Ind AS) for the insurance sector has been introduced by which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Finance"
+        },
+        {
+          "label": "B",
+          "text": "Insurance Regulatory and Development Authority of India"
+        },
+        {
+          "label": "C",
+          "text": "Reserve Bank of India"
+        },
+        {
+          "label": "D",
+          "text": "Securities and Exchange Board of India"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Insurance Regulatory and Development Authority of India"
+      },
+      "explanation": "The Insurance Regulatory and Development Authority of India has recently introduced Indian Accounting Standards (Ind AS) for the insurance sector to modernise financial reporting practices. Ind AS were originally notified in 2015 by the Ministry of Corporate Affairs and are largely converged with the International Financial Reporting Standards, thereby aligning India’s accounting system with global norms. These standards follow a principle-based approach, focusing on fair value measurement, improved transparency, and enhanced financial disclosures, which helps in better decision-making and comparability."
+    },
+    {
+      "id": 2,
+      "question": "Malwan-Anti-Submarine Warfare Shallow Water Craft has been designed and constructed by which shipyard?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mazagon Dock Shipbuilders Limited"
+        },
+        {
+          "label": "B",
+          "text": "Cochin Shipyard Limited"
+        },
+        {
+          "label": "C",
+          "text": "Garden Reach Shipbuilders & Engineers"
+        },
+        {
+          "label": "D",
+          "text": "Hindustan Shipyard Limited"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Cochin Shipyard Limited"
+      },
+      "explanation": "The Malwan has been delivered to the Indian Navy as part of efforts to strengthen coastal defence capabilities. It is the second of eight Anti-Submarine Warfare Shallow Water Crafts (ASW SWC) being built by Cochin Shipyard Limited at Kochi, and is indigenously designed and constructed. The vessel is named after Malwan and carries forward the legacy of the former INS Malwan, a naval minesweeper that served until 2003. It is designed for Anti-Submarine Warfare (ASW), coastal surveillance, Low Intensity Maritime Operations (LIMO), and mine warfare."
+    },
+    {
+      "id": 3,
+      "question": "The e-GramSwaraj platform was developed under which initiative?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Digital India Mission"
+        },
+        {
+          "label": "B",
+          "text": "BharatNet Project"
+        },
+        {
+          "label": "C",
+          "text": "Smart Cities Mission"
+        },
+        {
+          "label": "D",
+          "text": "e-Panchayat Mission Mode Project"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "e-Panchayat Mission Mode Project"
+      },
+      "explanation": "e-GramSwaraj platform has enabled cumulative payments exceeding ₹3 lakh crore for Gram Panchayats, marking a major step in digital governance. It was launched in 2020. It is an e-governance platform aimed at improving transparency and efficiency in Panchayati Raj Institutions. The platform is developed under the e-Panchayat Mission Mode Project and is integrated with the Public Financial Management System. The platform supports decentralized planning, progress reporting, and work-based accounting, strengthening grassroots governance."
+    },
+    {
+      "id": 4,
+      "question": "Kugti Wildlife Sanctuary is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Uttarakhand"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Himachal Pradesh"
+      },
+      "explanation": "A rare white female albino Himalayan tahr has been recorded in Kugti Wildlife Sanctuary, located in Bharmour, Chamba district, Himachal Pradesh. The sanctuary is the second largest in Himachal Pradesh and is known for its rich biodiversity and high-altitude ecosystem. Geographically, it lies between the Ravi and Chenab rivers and represents a high-altitude protected area. It is bordered by Dhauladhar Wildlife Sanctuary in the south-east and Tundah Wildlife Sanctuary in the north-west."
+    },
+    {
+      "id": 5,
+      "question": "The National Assessment and Accreditation Council (NAAC) is an autonomous institution under which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "All India Council for Technical Education"
+        },
+        {
+          "label": "B",
+          "text": "University Grants Commission"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Education"
+        },
+        {
+          "label": "D",
+          "text": "NITI Aayog"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "University Grants Commission"
+      },
+      "explanation": "National Assessment and Accreditation Council has not granted fresh accreditation to any university or college in the current academic year, raising concerns about the accreditation process. NAAC was established in 1994 as an autonomous institution under the University Grants Commission. Its primary objective is to assess and enhance the quality of higher education institutions (HEIs) through a structured accreditation process. It evaluates institutions such as colleges, universities, and other recognised bodies to determine their overall quality status."
+    }
+  ]
+}

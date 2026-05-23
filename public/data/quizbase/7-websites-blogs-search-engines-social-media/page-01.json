@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "7-websites-blogs-search-engines-social-media",
+    "title": "7. Websites, Blogs, Search Engines & Social Media",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:55:09"
+  },
+  "questions": [
+    {
+      "id": 4642,
+      "question": "Alerts are mostly appear in ______?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Check box"
+        },
+        {
+          "label": "B",
+          "text": "Combo box"
+        },
+        {
+          "label": "C",
+          "text": "Dialog box"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Dialog box"
+      },
+      "explanation": "A dialog box is a small area on a screen through which the user interacts with the computer. User is either asked to provide information or commands using this. The alerts also appear in this."
+    },
+    {
+      "id": 4651,
+      "question": "A file which has not been altered, compressed, or manipulated in any way by the computer is called?",
+      "options": [
+        {
+          "label": "A",
+          "text": "temp file"
+        },
+        {
+          "label": "B",
+          "text": "raw file"
+        },
+        {
+          "label": "C",
+          "text": "permanent file"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "raw file"
+      },
+      "explanation": "A raw file is a collection of unprocessed data. This is a file which is not altered or manipulated. It is the original file that is generated initially."
+    },
+    {
+      "id": 4652,
+      "question": "The word bandwidth is also used to mean ________?",
+      "options": [
+        {
+          "label": "A",
+          "text": "width of the data cable"
+        },
+        {
+          "label": "B",
+          "text": "amount of data transferred"
+        },
+        {
+          "label": "C",
+          "text": "number of the computers on a particular network"
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "amount of data transferred"
+      },
+      "explanation": "Bandwidth refers to the amount of data that can be transmitted in a fixed amount of time. For digital devices, the bandwidth is usually expressed in bits per second(bps) or bytes per second."
+    },
+    {
+      "id": 4667,
+      "question": "Microsoft first introduced an operating environment named Windows in which year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1977"
+        },
+        {
+          "label": "B",
+          "text": "1980"
+        },
+        {
+          "label": "C",
+          "text": "1985"
+        },
+        {
+          "label": "D",
+          "text": "1990"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "1985"
+      },
+      "explanation": "Microsoft introduced an operating system named Windows on November 20, 1985. It is a graphical operating system shell for MS-DOS in response to the growing interest in graphical user interfaces (GUIs)."
+    },
+    {
+      "id": 4668,
+      "question": "32 bit operations were introduced for the first time by Microsoft in ________?",
+      "options": [
+        {
+          "label": "A",
+          "text": "windows 9.5"
+        },
+        {
+          "label": "B",
+          "text": "windows 3.0"
+        },
+        {
+          "label": "C",
+          "text": "windows 3.11"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "windows 3.11"
+      },
+      "explanation": "Windows 3.11 was released on November 8, 1993. It added many feature improvements over Windows 3.1. 32 bit operations were introduced for the first time by Microsoft."
+    }
+  ]
+}

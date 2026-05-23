@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "british-raj-provincial-administration",
+    "title": "13. British Raj - Provincial Administration",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:00:30"
+  },
+  "questions": [
+    {
+      "id": 55570,
+      "question": "Central provinces was created in which of the following years?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1861"
+        },
+        {
+          "label": "B",
+          "text": "1863"
+        },
+        {
+          "label": "C",
+          "text": "1866"
+        },
+        {
+          "label": "D",
+          "text": "1889"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "1861"
+      },
+      "explanation": "Central provinces was created in the year 1861. It was created from Nagpur province and the Saugor and Nerbudda Territories. It was renamed central provinces in 1903."
+    },
+    {
+      "id": 55571,
+      "question": "Lower Burma was annexed by Britishers in which of the following years?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1850"
+        },
+        {
+          "label": "B",
+          "text": "1852"
+        },
+        {
+          "label": "C",
+          "text": "1854"
+        },
+        {
+          "label": "D",
+          "text": "1856"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "1852"
+      },
+      "explanation": "Lower Burma was annexed by Britishers in 1852. It was established as a province in 1962. Later Upper Burma was also incorporated in the year 1886."
+    },
+    {
+      "id": 55572,
+      "question": "Assam province was separated from Bengal in which of the following years?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1864"
+        },
+        {
+          "label": "B",
+          "text": "1880"
+        },
+        {
+          "label": "C",
+          "text": "1884"
+        },
+        {
+          "label": "D",
+          "text": "1890"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "1884"
+      },
+      "explanation": "Assam province was separated from Bengal in the year 1884. It was established as the North-Eastern Frontier non-regulation province. Later it was incorporated into the new province of Eastern Bengal and Assam in 1905."
+    },
+    {
+      "id": 55573,
+      "question": "Andaman and Nicobar were established as a province in which of the following year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1860"
+        },
+        {
+          "label": "B",
+          "text": "1865"
+        },
+        {
+          "label": "C",
+          "text": "1870"
+        },
+        {
+          "label": "D",
+          "text": "1875"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1875"
+      },
+      "explanation": "In the year 1858 the Britishers has established a colony at Port Blair. Andaman and Nicobar were established as a province in the year 1875."
+    },
+    {
+      "id": 55574,
+      "question": "Baluchistan was organised in a province in which of the following years?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1881"
+        },
+        {
+          "label": "B",
+          "text": "1883"
+        },
+        {
+          "label": "C",
+          "text": "1885"
+        },
+        {
+          "label": "D",
+          "text": "1887"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1887"
+      },
+      "explanation": "Baluchistan was organised in a province in the year 1887. Now Baluchistan is one of the largest provinces of Pakistan in terms of area."
+    }
+  ]
+}

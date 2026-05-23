@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-may-2021",
+    "title": "Current Affairs Quiz - May, 2021",
+    "page": 4,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 06:30:07",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:00:17"
+  },
+  "questions": [
+    {
+      "id": 31,
+      "question": "Which organisation has proposed to establish a gold exchange, wherein gold would be traded in the form of Electronic gold receipts?",
+      "options": [
+        {
+          "label": "A",
+          "text": "RBI"
+        },
+        {
+          "label": "B",
+          "text": "SEBI"
+        },
+        {
+          "label": "C",
+          "text": "NCDEX"
+        },
+        {
+          "label": "D",
+          "text": "MCX"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "SEBI"
+      },
+      "explanation": "Securities and Exchange Board of India (SEBI) has proposed setting up a gold exchange. Under the proposed framework, gold would be traded in the form of electronic gold receipts and would have a domestic spot price discovery mechanism, which is transparent. Under the proposed framework, gold would be denominated in 1 kilogram, 100 grams, 50 grams. Under special cases, they may even be denominated in 5 and 10 grams."
+    },
+    {
+      "id": 32,
+      "question": "Which basketball legend has been inducted posthumously into the Basketball Hall of Fame?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wilt Chamberlain"
+        },
+        {
+          "label": "B",
+          "text": "Tom Heinsohn"
+        },
+        {
+          "label": "C",
+          "text": "Kobe Bryant"
+        },
+        {
+          "label": "D",
+          "text": "John Havlicek"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Kobe Bryant"
+      },
+      "explanation": "Basketball Legend Kobe Bryant was inducted posthumously into the Basketball Hall of Fame in a ceremony that was delayed around nine months due to the coronavirus pandemic. There was an exhibit, called Kobe: Basketball Life, a video tribute, iconic pictures, vintage jerseys, shoes and basketballs, the playing of Bryant’s Oscar award-winning film, Dear Basketball. In 2020, Bryant, along with his daughter Gianna and seven others, died in a helicopter crash in California."
+    },
+    {
+      "id": 33,
+      "question": "Which country hosted the Paris Summit, which agreed on a plan to help Africa to tackle Covid pandemic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "UK"
+        },
+        {
+          "label": "B",
+          "text": "Australia"
+        },
+        {
+          "label": "C",
+          "text": "France"
+        },
+        {
+          "label": "D",
+          "text": "Russia"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "France"
+      },
+      "explanation": "French President Emmanuel Macron hosted the Paris summit for African, European and financial leaders. They agreed on a plan to help Africa overcome the economic effects of the coronavirus pandemic, called the ‘New Deal for Africa and by Africa’. French president calls for waiving of COVID vaccine patents so that Africa could begin to produce its own vaccines. The leaders have also urged WHO, WTP and Medicines Patent Pool to remove all constraints in terms of intellectual property."
+    },
+    {
+      "id": 34,
+      "question": "Which state has launched ‘Amrit Vahini’ App and ‘Chatboat’ App, to provide information about Covid pandemic in the state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bihar"
+        },
+        {
+          "label": "B",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Jharkhand"
+        },
+        {
+          "label": "D",
+          "text": "Chhattisgarh"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Jharkhand"
+      },
+      "explanation": "Jharkhand Chief Minister Hemant Soren recently launched the ‘Amrit Vahini’ App and a ‘Chatboat’ App. Though ‘Amrit Vahini’ App or website one can get all information about the availability of hospital beds and book bed online. Through Chatboat, one may get all information related to coronavirus, like the medicines prescribed for it, recommended diet, or free consultation with doctors."
+    },
+    {
+      "id": 35,
+      "question": "Which institution has developed a unique detector to find out if imposters of virtual conferences named ‘FakeBuster’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IIT Ropar"
+        },
+        {
+          "label": "B",
+          "text": "IISc Bengaluru"
+        },
+        {
+          "label": "C",
+          "text": "NIT Trichy"
+        },
+        {
+          "label": "D",
+          "text": "IIT Bombay"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "IIT Ropar"
+      },
+      "explanation": "The Indian Institute of Technology, Ropar along with Australia-based Monash University has developed a unique detector to find out if imposters are attending virtual conferences. Named as ‘FakeBuster’, it helps to find faces manipulated on social media to defame. It also enables users to detect if a video of another person is spoofed during a video meet. This Deep fake detection tool works in both online and offline modes."
+    },
+    {
+      "id": 36,
+      "question": "Satpura Tiger Reserve, which has been added to the tentative list of UNESCO’s world heritage sites, is located in which Indian state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "B",
+          "text": "Madhya Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Odisha"
+        },
+        {
+          "label": "D",
+          "text": "West Bengal"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Madhya Pradesh"
+      },
+      "explanation": "The Archaeological Survey of India have submitted six Indian sites to the tentative list of UNESCO’s world heritage sites, as per the recent announcement of Culture Ministry. The six sites are namely Satpura Tiger Reserve in Madhya Pradesh, Iconic riverfront of the historic city of Varanasi, Megalithic site of Hire Benkal in Karnataka, Maratha Military Architecture in Maharashtra, Bhedaghat-Lametaghat in Narmada Valley- Jabalpur, and temples of Kanchipuram (Tamil Nadu)."
+    },
+    {
+      "id": 37,
+      "question": "STARFORGE, which was making news recently, is a ……….",
+      "options": [
+        {
+          "label": "A",
+          "text": "Satellite"
+        },
+        {
+          "label": "B",
+          "text": "Simulation of stars"
+        },
+        {
+          "label": "C",
+          "text": "Unmanned Aerial Vehicle"
+        },
+        {
+          "label": "D",
+          "text": "Satellite Launch Vehicle"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Simulation of stars"
+      },
+      "explanation": "A team from Northwestern University has developed the most realistic, highest-resolution 3D simulation of star formation to date. Named as STARFORGE (Star Formation in Gaseous Environments), it is the first framework to simulate an entire gas cloud, where the stars are born. It is also the first simulation to simultaneously model star formation, evolution and dynamics."
+    },
+    {
+      "id": 38,
+      "question": "As per the new joint report by IDMC and NRC, what is the number of people living in internal displacement (IDPs) around the world?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10 million"
+        },
+        {
+          "label": "B",
+          "text": "22 million"
+        },
+        {
+          "label": "C",
+          "text": "55 million"
+        },
+        {
+          "label": "D",
+          "text": "102 million"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "55 million"
+      },
+      "explanation": "A joint report was published by the Internal Displacement Monitoring Centre (IDMC) and the Norwegian Refugee Council (NRC). As per the report, the total number of people living in internal displacement (IDPs) around the world is at record 55 million. Conflicts and natural disasters forced people to flee within their own country every second of last year."
+    },
+    {
+      "id": 39,
+      "question": "What is the quantum of surplus that the RBI transferred to the Central Government for the period ended March 31?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rs 13122 crore"
+        },
+        {
+          "label": "B",
+          "text": "Rs 32122 crore"
+        },
+        {
+          "label": "C",
+          "text": "Rs 46122 crore"
+        },
+        {
+          "label": "D",
+          "text": "Rs 99,122 crore"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Rs 99,122 crore"
+      },
+      "explanation": "The Reserve Bank of India (RBI) is set to transfer Rs 99,122 crore as surplus to the central government for the nine months ended March 31 (July 2020-March 2021). This is higher than what the government itself had budgeted for, as the Finance Minister earmarked a transfer of Rs 53,511 crore. Bimal Jalan Committee had that the RBI maintain a minimum contingency risk buffer of 5.5 per cent of its balance sheet, at all times."
+    },
+    {
+      "id": 40,
+      "question": "Which Ship of the Indian Navy, has been decommissioned after 41 years into service?",
+      "options": [
+        {
+          "label": "A",
+          "text": "INS Chennai"
+        },
+        {
+          "label": "B",
+          "text": "INS Kolkata"
+        },
+        {
+          "label": "C",
+          "text": "INS Rajput"
+        },
+        {
+          "label": "D",
+          "text": "INS Kalvari"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "INS Rajput"
+      },
+      "explanation": "The Indian Navy’s first destroyer – INS Rajput has been decommissioned from the service after guarding the nation for a term of 41 years. This ship was built by the erstwhile USSR and was commissioned into the Navy on May 4 1980. The decommissioning event is to be held in Visakhapatnam Naval Dockyard."
+    }
+  ]
+}

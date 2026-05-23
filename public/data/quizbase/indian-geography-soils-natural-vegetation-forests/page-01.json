@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-geography-soils-natural-vegetation-forests",
+    "title": "Indian Geography - Soils, Natural Vegetation, Forests",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:18:56"
+  },
+  "questions": [
+    {
+      "id": 498,
+      "question": "The Dampier-Hodges line is related to which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bay of Cambay"
+        },
+        {
+          "label": "B",
+          "text": "Palk Strait"
+        },
+        {
+          "label": "C",
+          "text": "Andaman and Nicobar Islands"
+        },
+        {
+          "label": "D",
+          "text": "Sundarbans"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Sundarbans"
+      },
+      "explanation": "Dampier-Hodges line is an imaginary line drawn in 1829-1830 to mark the northern boundary of Sundarbans delta. It passes through 24 Parganas South and North districts of West Bengal."
+    },
+    {
+      "id": 2027,
+      "question": "Which type of forests occupies the highest percentage of area in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tropical deciduous"
+        },
+        {
+          "label": "B",
+          "text": "Savanna and desert vegetation"
+        },
+        {
+          "label": "C",
+          "text": "Equatorial evergreen"
+        },
+        {
+          "label": "D",
+          "text": "Tropical Rainforests"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Tropical deciduous"
+      },
+      "explanation": "Tropical Deciduous Forests: They are also called the “Monsoon forests”. They grow in the areas with annual rainfall of 70-200 cm. Sandal wood, Shisam, Mahua, Sal, Teak and Bamboo are important species of trees. Moist deciduous and the dry deciduous forests are two major categories of these forests."
+    },
+    {
+      "id": 2765,
+      "question": "Which of the following is NOT a correct statement about Alluvial soil?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alluvial soil is most abundant type of soil found in India"
+        },
+        {
+          "label": "B",
+          "text": "Alluvial soil is generally fertile"
+        },
+        {
+          "label": "C",
+          "text": "Alluvial soil lacks nitrogen and tend to be phosphoric."
+        },
+        {
+          "label": "D",
+          "text": "Alluvial soil generally comprise high percentage of clay and retain moisture for long time"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Alluvial soil generally comprise high percentage of clay and retain moisture for long time"
+      },
+      "explanation": "Fourth is not a correct statement."
+    },
+    {
+      "id": 4286,
+      "question": "Which among the following is considered to be the best soil for plant growth?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sand"
+        },
+        {
+          "label": "B",
+          "text": "Clay"
+        },
+        {
+          "label": "C",
+          "text": "Loam"
+        },
+        {
+          "label": "D",
+          "text": "Silt"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Loam"
+      },
+      "explanation": "Loam soil is the mixture of sand, clay and humus. It has good water-retaining capacity and is sufficiently aerated. This soil contains enough mineral salts in it, and suited for growth of vegetation."
+    },
+    {
+      "id": 4299,
+      "question": "The word “Mangal” is used for which among the following kinds of vegetations?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aquatic Plants"
+        },
+        {
+          "label": "B",
+          "text": "Algal Blooms"
+        },
+        {
+          "label": "C",
+          "text": "Mangroves"
+        },
+        {
+          "label": "D",
+          "text": "Mediterranean forests, woodlands, and scrub"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Mangroves"
+      },
+      "explanation": "The term Mangal is used for the entire community of organisms in the mangrove forests including plants, fishes and other animals. The term mangrove is used only for plants."
+    }
+  ]
+}

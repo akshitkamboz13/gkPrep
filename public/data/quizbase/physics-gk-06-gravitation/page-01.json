@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physics-gk-06-gravitation",
+    "title": "Physics GK 06 - Gravitation",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:30:21"
+  },
+  "questions": [
+    {
+      "id": 6173,
+      "question": "A pendulum is taken to Moon, what will happen to its time period?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increases"
+        },
+        {
+          "label": "B",
+          "text": "Decreases"
+        },
+        {
+          "label": "C",
+          "text": "Remains constant"
+        },
+        {
+          "label": "D",
+          "text": "Either increase or decrease"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Increases"
+      },
+      "explanation": "When the simple pendulum is taken to the moon, value of gravitational constant g will decrease and thus, its time period will increase."
+    },
+    {
+      "id": 6429,
+      "question": "Which among the following defines gravitational mass?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ratio of weight of a body and acceleration due to gravity"
+        },
+        {
+          "label": "B",
+          "text": "Ratio of Acceleration due to gravity and weight of a body"
+        },
+        {
+          "label": "C",
+          "text": "matter contained in a body"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ratio of weight of a body and acceleration due to gravity"
+      },
+      "explanation": "Gravitational mass is the Ratio of weight of a body and acceleration due to gravity. Gravitational mass is the mass of a body as measured by its gravitational attraction for other bodies."
+    },
+    {
+      "id": 6430,
+      "question": "The value of acceleration due to gravity is __________?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Minimum at equator and maximum at poles"
+        },
+        {
+          "label": "B",
+          "text": "maximum at equator and minimum at poles"
+        },
+        {
+          "label": "C",
+          "text": "equal at poles and equator"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Minimum at equator and maximum at poles"
+      },
+      "explanation": "The value of acceleration due to gravity is maximum at equator. This is because the distance from the center is minimum at the equator."
+    },
+    {
+      "id": 6431,
+      "question": "What is the mean value of g at earth’s surface?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.98 meter per second"
+        },
+        {
+          "label": "B",
+          "text": "9.8 meter per second"
+        },
+        {
+          "label": "C",
+          "text": "9.8 meter per second square"
+        },
+        {
+          "label": "D",
+          "text": "0.98 meter per second square"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "9.8 meter per second square"
+      },
+      "explanation": "The mean value of the acceleration due to gravity (often denoted as \"g\") at Earth's surface is approximately 9.81 meters per second squared (m/s²). This value represents the average gravitational acceleration experienced by objects on the surface of the Earth. It is important to note that this value is not constant everywhere on Earth's surface and can vary slightly due to factors such as location, altitude, and the density of the Earth's crust."
+    },
+    {
+      "id": 7706,
+      "question": "In which of the following situations the force applied by the weight of a person becomes zero in a lift",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lift moves up with an acceleration of 9.8 meter per sq. second"
+        },
+        {
+          "label": "B",
+          "text": "Lift moves down with an acceleration of 9.8 meter per sq. second"
+        },
+        {
+          "label": "C",
+          "text": "Lift moves up with an speed of 9.8 meter per second"
+        },
+        {
+          "label": "D",
+          "text": "Lift moves up with down speed of 9.8 meter per second"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Lift moves down with an acceleration of 9.8 meter per sq. second"
+      },
+      "explanation": "The weight of a person becomes zero in a lift. Lift moves down with an acceleration of 9.8 meter per sq. second."
+    }
+  ]
+}

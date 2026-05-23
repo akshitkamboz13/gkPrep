@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "42-pandya-kingdom",
+    "title": "39. Pandya Kingdom",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:54:20"
+  },
+  "questions": [
+    {
+      "id": 49684,
+      "question": "Who is regarded as the founder of the Pandya Empire?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kadungon"
+        },
+        {
+          "label": "B",
+          "text": "Varguna I"
+        },
+        {
+          "label": "C",
+          "text": "Srimar Srivallabha"
+        },
+        {
+          "label": "D",
+          "text": "Maravarman Rajasimha I"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Kadungon"
+      },
+      "explanation": "Kadungon established the Pandya dynasty in the 6th century AD by defeating the Kalabhras. He re-established Pandya rule in the Tamil region after a period of Kalabhra dominance. Kadungon's reign marked the revival of the Pandya Empire in early medieval South India. Inscriptions referencing Kadungon have been found in Madurai and its surroundings."
+    },
+    {
+      "id": 49685,
+      "question": "Who succeeded King Kadungon as the Pandya ruler?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Arikesary Maravarman"
+        },
+        {
+          "label": "B",
+          "text": "Maravarman Avanisulamani"
+        },
+        {
+          "label": "C",
+          "text": "Koccadiyan Ranadhira"
+        },
+        {
+          "label": "D",
+          "text": "Maravarman Rajasimha I"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Maravarman Avanisulamani"
+      },
+      "explanation": "Maravarman Avanisulamani was the son and successor of King Kadungon. He ruled the Pandya dynasty from about 620 to 645 CE. Maravarman Avanisulamani played a key role in restoring Pandya power after the Kalabhra interregnum in South India. Records mention him as an early medieval ruler from present-day Tamil Nadu."
+    },
+    {
+      "id": 49686,
+      "question": "Velvikkudi Grant provides information about which Pandya king?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Arikesary Maravarman"
+        },
+        {
+          "label": "B",
+          "text": "Koccadiyan Ranadhira"
+        },
+        {
+          "label": "C",
+          "text": "Maravarman Avanisulamani"
+        },
+        {
+          "label": "D",
+          "text": "Maravarman Rajasimha I"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Maravarman Avanisulamani"
+      },
+      "explanation": "Velvikkudi Grant is a Tamil copper-plate inscription issued during the rule of Pandya king Maravarman Avanisulamani. The inscription was issued in the 8th century CE. It details land grants and praises Maravarman Avanisulamani's deeds, including restoring rights to landholders. The grant also mentions the genealogy of the Pandya dynasty up to Avanisulamani."
+    },
+    {
+      "id": 49687,
+      "question": "Maravarman Avanisulamani was succeeded by which of the following kings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Arikesary Maravarman"
+        },
+        {
+          "label": "B",
+          "text": "Jayantavarman"
+        },
+        {
+          "label": "C",
+          "text": "Koccadiyan Ranadhira"
+        },
+        {
+          "label": "D",
+          "text": "Maravarman Rajasimha I"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Jayantavarman"
+      },
+      "explanation": "Jayantavarman known in Tamil as Seliyan Sendan was a Pandya ruler of early historic south India. He was the son and successor of the king Maravarman Avanisulamani. He ruled from 654 A.D. to 670 A.D."
+    },
+    {
+      "id": 49688,
+      "question": "Which of the following kings extended the Pandya rule to the Chera country Kerela?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Arikesary Maravarman"
+        },
+        {
+          "label": "B",
+          "text": "Maravarman Rajasimha I"
+        },
+        {
+          "label": "C",
+          "text": "Koccadiyan Ranadhira"
+        },
+        {
+          "label": "D",
+          "text": "Seliyan Sendan"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Seliyan Sendan"
+      },
+      "explanation": "Jayantavarman who ruled from 654 A.D. to 670 A.D. was also known as Seliyan Sendan in Tamil. He is best known for extending the Pandya rule to the Chera country Kerala."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "foreign-trade-policy-balance-of-trade-balance-of-payment-wto-mcqs-for-ssc-examination",
+    "title": "43. Foreign Trade - Policy, Balance of Trade, Balance of Payment, WTO",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:12:46"
+  },
+  "questions": [
+    {
+      "id": 2026,
+      "question": "Export of which of the following is an Invisible Export?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Services"
+        },
+        {
+          "label": "B",
+          "text": "Prohibited goods"
+        },
+        {
+          "label": "C",
+          "text": "Unrecorded goods"
+        },
+        {
+          "label": "D",
+          "text": "Goods through smuggling"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Services"
+      },
+      "explanation": "Any export that does not have a tangible physical presence (e.g. expertise, insurance underwriting). Here, Invisible Export means export of Services"
+    },
+    {
+      "id": 3191,
+      "question": "Which is NOT a core WTO agreement or mechanism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)"
+        },
+        {
+          "label": "B",
+          "text": "General Agreement on Trade in Services (GATS)"
+        },
+        {
+          "label": "C",
+          "text": "Plurilateral Agreement on Government Procurement"
+        },
+        {
+          "label": "D",
+          "text": "Multilateral Agreement on Investment (MAI)"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Multilateral Agreement on Investment (MAI)"
+      },
+      "explanation": "The Multilateral Agreement on Investment (MAI) was negotiated by OECD countries in the 1990s. MAI was not concluded and is not part of the World Trade Organization framework. WTO core agreements include GATS, TRIPS, and GATT. The Plurilateral Agreement on Government Procurement functions within the WTO through voluntary acceptance by signatory members only. MAI remains outside the WTO system and was never implemented."
+    },
+    {
+      "id": 5084,
+      "question": "If India's external commercial borrowings increase, what is the likely macroeconomic impact?",
+      "options": [
+        {
+          "label": "A",
+          "text": "External debt will increase, but macroeconomic impact depends on hedging and exchange rates"
+        },
+        {
+          "label": "B",
+          "text": "External debt will increase, but forex reserves will remain unaffected"
+        },
+        {
+          "label": "C",
+          "text": "External debt will remain unaffected due to RBI’s forward book management"
+        },
+        {
+          "label": "D",
+          "text": "External debt will increase proportionally, with no impact on current account deficit"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "External debt will increase, but macroeconomic impact depends on hedging and exchange rates"
+      },
+      "explanation": "At end-March 2025, India's outstanding commercial borrowings reached $291.6 billion, a 16.4% rise from the previous year. Increase in ECBs directly raises external debt. Macroeconomic stability varies with hedging costs and exchange rate fluctuations, which can affect inflation and liquidity. The impact is also influenced by RBI's management of foreign exchange reserves and currency volatility, not only the debt quantum."
+    },
+    {
+      "id": 7745,
+      "question": "Which commodity is directly affected by international crude oil price fluctuations?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Edible Oils"
+        },
+        {
+          "label": "B",
+          "text": "Cereals"
+        },
+        {
+          "label": "C",
+          "text": "Consumer nondurables"
+        },
+        {
+          "label": "D",
+          "text": "Gold & Silver"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Gold & Silver"
+      },
+      "explanation": "Gold and silver prices are directly influenced by changes in international crude oil prices. Increases in crude oil prices often cause currency depreciation in oil-importing countries, raising the cost of gold and silver imports. Price fluctuations can also increase demand for gold and silver as safe-haven assets. The global commodities market historically links oil and precious metals prices."
+    },
+    {
+      "id": 8025,
+      "question": "For which of the commodities the unit bpd is used in international trade?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Meat & Livestock"
+        },
+        {
+          "label": "B",
+          "text": "Precious Metals"
+        },
+        {
+          "label": "C",
+          "text": "Industrial metals"
+        },
+        {
+          "label": "D",
+          "text": "Crude oil"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Crude oil"
+      },
+      "explanation": "Its barrel per day , amount of crude oil (measured in barrels) produced or consumed by an entity in one day. One barrel 42 gallons"
+    }
+  ]
+}

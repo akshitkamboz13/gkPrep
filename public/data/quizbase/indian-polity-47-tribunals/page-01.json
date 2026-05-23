@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-47-tribunals",
+    "title": "Tribunals",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:22:51"
+  },
+  "questions": [
+    {
+      "id": 6868,
+      "question": "What is the purpose of the appointment of judicial and administrative members of the Armed Forces Tribunal?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Speedy justice to personnel of the armed forces."
+        },
+        {
+          "label": "B",
+          "text": "To make decisions on One Rank One Pension"
+        },
+        {
+          "label": "C",
+          "text": "Speedy recruitment in the armed forces"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Speedy justice to personnel of the armed forces."
+      },
+      "explanation": "The need for an Armed Force Tribunal arose because there was no provision for military personnel to exercise a meaningful right of appeal. The purpose is to provide Speedy justice to personnel of the armed forces."
+    },
+    {
+      "id": 10506,
+      "question": "Which among the following constitutional amendment acts is known for establishment of administrative tribunals?",
+      "options": [
+        {
+          "label": "A",
+          "text": "41st amendment act"
+        },
+        {
+          "label": "B",
+          "text": "42nd amendment act"
+        },
+        {
+          "label": "C",
+          "text": "61st amendment act"
+        },
+        {
+          "label": "D",
+          "text": "69th amendment act"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "42nd amendment act"
+      },
+      "explanation": "The 42nd constitutional amendment acts is known for establishment of administrative tribunals in India. Administrative Tribunals Act owes its origin to Article 323-A of the Constitution of India."
+    },
+    {
+      "id": 46286,
+      "question": "The 42nd Amendment Act of 1976 added which of the following part to the Constitution of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Part XI"
+        },
+        {
+          "label": "B",
+          "text": "Part XIII"
+        },
+        {
+          "label": "C",
+          "text": "Part XIV-A"
+        },
+        {
+          "label": "D",
+          "text": "Part XIV-B"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Part XIV-A"
+      },
+      "explanation": "Indian Constitution did not originally contain provisions with respect to the tribunals. The 42nd Amendment Act of 1976 added a new Part XIV-A to the Constitution of India."
+    },
+    {
+      "id": 46287,
+      "question": "Which of the following articles deal with the administrative tribunals?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Article 323 A"
+        },
+        {
+          "label": "B",
+          "text": "Article 323 B"
+        },
+        {
+          "label": "C",
+          "text": "Article 324"
+        },
+        {
+          "label": "D",
+          "text": "Article 325"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Article 323 A"
+      },
+      "explanation": "The Part XIV-A of the Constitution of India entitled as ‘Tribunals’ consists of only two Articles–Article 323 A dealing with administrative tribunals and Article 323 B dealing with tribunals for other matters."
+    },
+    {
+      "id": 46288,
+      "question": "Which of the following is empowered to establish administrative tribunals?",
+      "options": [
+        {
+          "label": "A",
+          "text": "President"
+        },
+        {
+          "label": "B",
+          "text": "Parliament"
+        },
+        {
+          "label": "C",
+          "text": "Supreme Court"
+        },
+        {
+          "label": "D",
+          "text": "Rajya Sabha"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Parliament"
+      },
+      "explanation": "Article 323 A of the Constitution of India empowers the Parliament to provide for the establishment of administrative tribunals. It deals with adjudicating disputes relating to recruitment and conditions of service of persons appointed to public services of the Centre, the states, local bodies, public corporations and other public authorities."
+    }
+  ]
+}

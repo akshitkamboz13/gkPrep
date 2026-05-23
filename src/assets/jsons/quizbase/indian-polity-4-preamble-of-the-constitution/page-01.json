@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-4-preamble-of-the-constitution",
+    "title": "Preamble of the Constitution",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:22:09"
+  },
+  "questions": [
+    {
+      "id": 2952,
+      "question": "Which of the following words is not included in the Preamble of the Constitution of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Equality"
+        },
+        {
+          "label": "B",
+          "text": "Liberty"
+        },
+        {
+          "label": "C",
+          "text": "Sanctity"
+        },
+        {
+          "label": "D",
+          "text": "Justice"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Sanctity"
+      },
+      "explanation": "WE, THE PEOPLE OF INDIA, are having solemnly resolved to constitute India into a SOVEREIGN, SOCIALIST, SECULAR, DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship; EQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation; IN OUR CONSTITUENT ASSEMBLY this 26th day of November, 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION."
+    },
+    {
+      "id": 4525,
+      "question": "“India, that is Bharat, shall be a Union of States”. The above mandate has been enshrined in the Constitution of India, in which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Preamble"
+        },
+        {
+          "label": "B",
+          "text": "Article 1"
+        },
+        {
+          "label": "C",
+          "text": "Article 2"
+        },
+        {
+          "label": "D",
+          "text": "Schedule 1"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Article 1"
+      },
+      "explanation": "Article 1(1) of the constitution of India says that “India, that is Bharat, shall be Union of States”. Though the term “federation’ has been used in context with India, yet technically, Federation is not a result of agreement between the units of which it is made up of. By the term “Union” we simply mean that the units of Indian federation have no freedom to recede from it."
+    },
+    {
+      "id": 5765,
+      "question": "Till now, the Preamble of Constitution of India has been amended for how many times?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Never"
+        },
+        {
+          "label": "B",
+          "text": "Once"
+        },
+        {
+          "label": "C",
+          "text": "Twice"
+        },
+        {
+          "label": "D",
+          "text": "Thrice"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Once"
+      },
+      "explanation": "Preamble can be amended by Parliament using its amendment powers as per article 368. We note here that preamble has been amended only once so far through the 42nd Constitution Amendment Act 1976. The words Secular, Socialist and Integrity were added to the constitution."
+    },
+    {
+      "id": 6034,
+      "question": "The language and ideals of the Preamble of Constitution of India is influenced / borrowed from which of the following constitution(s)? USA France Australia Select the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1 & 2"
+        },
+        {
+          "label": "B",
+          "text": "Only 2 & 3"
+        },
+        {
+          "label": "C",
+          "text": "Only 1 & 3"
+        },
+        {
+          "label": "D",
+          "text": "1, 2 & 3"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1, 2 & 3"
+      },
+      "explanation": "The term and idea of the Preamble was borrowed from Constitution of United States of America. American Constitution was the first to begin with a Preamble. However, the language of the Preamble is borrowed from Constitution of Australia. At the same time, the ideals of Liberty, Equality and Fraternity come from French Constitution."
+    },
+    {
+      "id": 6222,
+      "question": "The ideals of liberty, equality and fraternity in the Preamble are borrowed from the Constitution of which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "French Constitution"
+        },
+        {
+          "label": "B",
+          "text": "Australian Constitution"
+        },
+        {
+          "label": "C",
+          "text": "British Constitution"
+        },
+        {
+          "label": "D",
+          "text": "USSR Constitution"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "French Constitution"
+      },
+      "explanation": "The principles of Republic and the ideals of liberty, equality and fraternity in the Preamble of the Constitution of India are borrowed from the French Constitution. These ideals were born during the French Revolution of 1789."
+    }
+  ]
+}

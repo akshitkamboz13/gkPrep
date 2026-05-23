@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "32-political-dynasties-of-north-india-in-early-med",
+    "title": "30. Early Medieval North India",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:53:18"
+  },
+  "questions": [
+    {
+      "id": 1781,
+      "question": "The rulers of which among the following dynasties called themselves \"Brahma-Kshatriya\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Palas"
+        },
+        {
+          "label": "B",
+          "text": "Senas"
+        },
+        {
+          "label": "C",
+          "text": "Pratiharas"
+        },
+        {
+          "label": "D",
+          "text": "Chahamanas"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Senas"
+      },
+      "explanation": "\"Brahma-Kshatriya\" refers to someone who claims to be both a Brahmin (priestly class) and a Kshatriya (warrior class). Essentially claiming both spiritual and temporal power. The Sena Dynasty ruled parts of eastern India between the 11th and 12th centuries CE. They were known for being Brahmins (priests) who took on the role of rulers and administrators (traditionally a Kshatriya role). So the Sena rulers called themselves \"Brahma-Kshatriya\" to indicate they were both spiritual leaders and temporal rulers."
+    },
+    {
+      "id": 1782,
+      "question": "Which among the following two dynasties of the Northern India confronted with the Rashtrakutas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Pratiharas and the Paramaras"
+        },
+        {
+          "label": "B",
+          "text": "The Palas and the Chandelas"
+        },
+        {
+          "label": "C",
+          "text": "The Pratiharas and the Palas"
+        },
+        {
+          "label": "D",
+          "text": "The Chalukyas and the Chahamanas"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "The Pratiharas and the Palas"
+      },
+      "explanation": "North Indian Dynasties : Towards the close of the 8th century AD, there were three great powers in India – the Palas in the east, the Gurjar- Pratiharas in the north and the Rashtrakutas in the deccan. The tripartite struggle for the supremacy among the Palas, Partiharas and the Rashtrakutas was the desire to possess the city of Kannauj ,which was then a symbol of sovereignty."
+    },
+    {
+      "id": 1824,
+      "question": "The minister of the Gahadvala King Govindachandra and author of Kalpadruma was __?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Apararka"
+        },
+        {
+          "label": "B",
+          "text": "Chandesvara"
+        },
+        {
+          "label": "C",
+          "text": "Lakshmidhara"
+        },
+        {
+          "label": "D",
+          "text": "Vijnanesvara"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Lakshmidhara"
+      },
+      "explanation": "Gahadvala, or Gaharwar, was a Hindu and Buddhist Indian dynasty that ruled the kingdom of Kannauj for approximately a hundred years, beginning in the late eleventh century. The founder of the Kannauj Gahadvala dynasty was Chandradeva, who took control of Kannauj at the end of the 11th century (1090A.D.). During the rule of his successor, Govindachandra, from 1114–1154, the state of Gahadvala reached the pinnacle of its power. His minister, Lakshmidhara, was the author of several legal works, including Kalpadruma."
+    },
+    {
+      "id": 1872,
+      "question": "Who among the following Chalukyan king sent an ambassador to Persian king Khusrau II ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pulakesin I"
+        },
+        {
+          "label": "B",
+          "text": "Pulakesin II"
+        },
+        {
+          "label": "C",
+          "text": "Kirtivarman I"
+        },
+        {
+          "label": "D",
+          "text": "Vishnuvardhan"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Pulakesin II"
+      },
+      "explanation": "The Chalukyan king, Pulakesin II sent an ambassador to the Persian king Khusrau II in 625 A.D. And received one from him."
+    },
+    {
+      "id": 1886,
+      "question": "Which of the following inscriptions mentions the name of Kalidasa?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Allahabad pillar inscription"
+        },
+        {
+          "label": "B",
+          "text": "Aihole inscription"
+        },
+        {
+          "label": "C",
+          "text": "Alapadu grant"
+        },
+        {
+          "label": "D",
+          "text": "Hanumakonda inscription"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Aihole inscription"
+      },
+      "explanation": "Aihole inscription mentions the name of the poet Kalidasa. The inscription was written in 634 by Ravikirti, the court poet and minister of the Chalukya king Pulakesin II. The inscription is located in Aihole, Karnataka. The Aihole inscription also provides information about the early history of the Chalukyas of Badami until 634 AD. It also provides a terminus ante quem of 634 CE for both Kalidasa and Bharavi."
+    }
+  ]
+}

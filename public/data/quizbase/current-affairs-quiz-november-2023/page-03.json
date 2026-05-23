@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-november-2023",
+    "title": "Current Affairs Quiz - November, 2023",
+    "page": 3,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:48:07",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:02:36"
+  },
+  "questions": [
+    {
+      "id": 21,
+      "question": "Hon Hai Precision Industry Co is commonly known as which company?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tesla"
+        },
+        {
+          "label": "B",
+          "text": "Foxconn"
+        },
+        {
+          "label": "C",
+          "text": "Walmart"
+        },
+        {
+          "label": "D",
+          "text": "Alibaba"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Foxconn"
+      },
+      "explanation": "The biggest manufacturer of iPhones in the world -Foxconn is also known as Hon Hai Precision Industry Co. Recently, two prototype low-Earth orbit (LEO) satellites the company produced embarked on a SpaceX rocket’s journey from Vandenberg Space Force Base in southern California."
+    },
+    {
+      "id": 22,
+      "question": "‘St Petersburg Declaration’ is associated with which species?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Great Indian Bustard"
+        },
+        {
+          "label": "B",
+          "text": "Tiger"
+        },
+        {
+          "label": "C",
+          "text": "Lion"
+        },
+        {
+          "label": "D",
+          "text": "Honey Bee"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Tiger"
+      },
+      "explanation": "St Petersburg Declaration in 2010 saw 13 tiger range countries commit to reversing the decline of the species population and double their numbers by 2022. As per recent data, the global tiger population has experienced a notable rise of 60 percent, reaching a total of 5,870 tigers. Countries such as Bhutan, Myanmar, Cambodia, Lao-PDR, and Vietnam observed a decrease in their tiger populations, resulting in a challenging situation for the Tiger Range Countries (TRCs) in Southeast Asia."
+    },
+    {
+      "id": 23,
+      "question": "Silkyara Tunnel, which was seen in the news, is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jharkhand"
+        },
+        {
+          "label": "B",
+          "text": "Uttarakhand"
+        },
+        {
+          "label": "C",
+          "text": "Assam"
+        },
+        {
+          "label": "D",
+          "text": "West Bengal"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Uttarakhand"
+      },
+      "explanation": "After 40 workers were trapped in the under-construction Silkyara Tunnel in Uttarakhand, relief and rescue operations for being made to safely evacuate the workers from the tunnel. The under-construction tunnel collapsed from Silkyara to Dandalgaon on the Brahmakhal-Yamunotri National Highway in Uttarkashi district of the state. The tunnel is part of the Rs 12000 crore Char Dham all-weather road project."
+    },
+    {
+      "id": 24,
+      "question": "Which institution secured the top position in India in QS Asia University Rankings 2024?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IISc Bengaluru"
+        },
+        {
+          "label": "B",
+          "text": "IIT Madras"
+        },
+        {
+          "label": "C",
+          "text": "IIT Bombay"
+        },
+        {
+          "label": "D",
+          "text": "AIIMS Delhi"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "IIT Bombay"
+      },
+      "explanation": "Quacquarelli Symonds released QS Asia University Rankings 2024. IIT Bombay has secured the top position in India and 40th position in overall Asia. Similarly, IIT Delhi stood second among Indian institutes and secured 46th rank overall. Peking University of China topped the Asia ranking list by securing Rank 1 followed by the University of Hong Kong in the second position and the National University of Singapore in the third place. A record 148 Indian universities found their place in the QS Asia University Rankings 2024."
+    },
+    {
+      "id": 25,
+      "question": "Which country is the host of Conference of the Parties of the UNFCCC- COP 28?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India"
+        },
+        {
+          "label": "B",
+          "text": "UAE"
+        },
+        {
+          "label": "C",
+          "text": "USA"
+        },
+        {
+          "label": "D",
+          "text": "France"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "UAE"
+      },
+      "explanation": "The 2023 United Nations Climate Change Conference or Conference of the Parties of the UNFCCC, more commonly referred to as COP28, will be held from November 30 until December 12, 2023, in Dubai, United Arab Emirates. The curbing of further investments in traditional fossil fuels has become a major issue in the past few years. At COP27, India had pitched to expand the scope of a proposal on the phase-down of coal to all fossil fuels."
+    },
+    {
+      "id": 26,
+      "question": "‘Airgun Surrender Abhiyan initiative’ is associated with which state/UT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jharkhand"
+        },
+        {
+          "label": "B",
+          "text": "Bihar"
+        },
+        {
+          "label": "C",
+          "text": "Arunachal Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Meghalaya"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Arunachal Pradesh"
+      },
+      "explanation": "‘Airgun Surrender Abhiyan initiative’ of Arunachal Pradesh selected as India’s best success story on wildlife conservation to present in UNESCO’s International Conference. The Airgun Surrender Abhiyan is an initiative of the Department of Environment, Forest and Climate Change of the state Government. Under the scheme people were invited to voluntarily surrender their Airguns and licensed guns to stop the use of these guns to kill birds and other wild animals. The programme was officially launched in 2021."
+    },
+    {
+      "id": 27,
+      "question": "Which country has developed a robotic AI chemist that can make oxygen on Mars?",
+      "options": [
+        {
+          "label": "A",
+          "text": "USA"
+        },
+        {
+          "label": "B",
+          "text": "Israel"
+        },
+        {
+          "label": "C",
+          "text": "China"
+        },
+        {
+          "label": "D",
+          "text": "India"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "China"
+      },
+      "explanation": "A team from the Chinese Academy of Sciences (CAS) has developed a robotic AI chemist capable of automatically synthesising and optimising OER catalysts from Martian meteorites. This advancement holds significant potential for upcoming Mars missions, particularly in terms of resource utilization and diminishing the necessity of importing oxygen from Earth."
+    },
+    {
+      "id": 28,
+      "question": "Which country announced on World’s first sperm whale reserve?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Papua New Guinea"
+        },
+        {
+          "label": "B",
+          "text": "Dominica"
+        },
+        {
+          "label": "C",
+          "text": "Belarus"
+        },
+        {
+          "label": "D",
+          "text": "Germany"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Dominica"
+      },
+      "explanation": "Dominica is planning to establish the world’s first sperm whale reserve, which will entail setting aside approximately 800-square-kilometer area off its western coast. In this designated zone, large ships and commercial fishing activities will be restricted, allowing visitors to swim alongside these gentle marine giants. This initiative aims not only to enhance tourism revenue but also to contribute to carbon sequestration in the deep sea, an often overlooked advantage of whale conservation."
+    },
+    {
+      "id": 29,
+      "question": "‘GWP star’, which was seen in the news, is associated with which sector?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sports"
+        },
+        {
+          "label": "B",
+          "text": "Greenhouse gas (GHG) emissions"
+        },
+        {
+          "label": "C",
+          "text": "Economy"
+        },
+        {
+          "label": "D",
+          "text": "Automobile"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Greenhouse gas (GHG) emissions"
+      },
+      "explanation": "Certain industrialized meat and dairy corporations have been advocating for a new metric known as GWP* (pronounced as GWP star) to measure methane emissions. It is said to provide a more precise assessment of greenhouse gas (GHG) emissions. However, a recent report has uncovered that by following this new approach, these companies can potentially manipulate their overall GHG emissions, allowing them to evade accountability and make false claims of climate neutrality."
+    },
+    {
+      "id": 30,
+      "question": "Cyrtodactylus vairengtensis is a newly discovered species of Gecko endemic to which Indian state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kerala"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Mizoram"
+        },
+        {
+          "label": "D",
+          "text": "Jharkhand"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Mizoram"
+      },
+      "explanation": "Cyrtodactylus vairengtensis is a newly discovered species of Gecko endemic to Mizoram. This brings the number of gecko species in the state to six and 22 across the country. The new species has been named after the town in Mizoram where it was found, while the common name suggested for the new species is ‘Vairengte bent-toed gecko’. There are 335 gecko species across the world, of which 42 are found in India."
+    }
+  ]
+}

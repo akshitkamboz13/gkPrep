@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-february-2020",
+    "title": "Current Affairs Quiz - February, 2020",
+    "page": 1,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:45:40",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:46:01"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "The Department of Telecom, India has recently taken over process to issue and manage the allocation of IMEI. What does IMEI stand for?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indian Mobile Equipment Identity"
+        },
+        {
+          "label": "B",
+          "text": "International Mobile Equipment Identity"
+        },
+        {
+          "label": "C",
+          "text": "Indian Multimedia Equipment Identifier"
+        },
+        {
+          "label": "D",
+          "text": "International Multimedia Equipment Identifier"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "International Mobile Equipment Identity"
+      },
+      "explanation": "The IMEI (International Mobile Equipment Identity) number is a 15-digit unique serial number of mobile devices. It is allocated by a global industry body GSMA and its authorised organisations. In India, Mobile Standards Alliance of India (MSAI) is the official reporting body of GSMA. Recently, the Department of Telecom has taken over the process of issuing and allocating the IMEI numbers for mobile phones in India from the private body MSAI. The new ‘Indian Counterfeited Device Restriction (ICDR) system’, which has been developed by the R&D unit of DoT is being tested on pilot basis on the web portal of Central Equipment Identity Register (CEIR)."
+    },
+    {
+      "id": 2,
+      "question": "Khadi wrist watches have been recently launched by the Khadi and Village Industries Commission, in association with which company?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fossil"
+        },
+        {
+          "label": "B",
+          "text": "Titan"
+        },
+        {
+          "label": "C",
+          "text": "Timex"
+        },
+        {
+          "label": "D",
+          "text": "Casio"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Titan"
+      },
+      "explanation": "The Union minister Nitin Gadkari recently launched the unique Khadi wrist watches, which have been manufactured as part of a joint initiative by the Khadi and Village Industries Commission and leading Indian consumer goods firm, Titan. The watches have been launched on the death anniversary of Mahatma Gandhi, also features the iconic charka. The Minister also suggested to showcase the watches in international airports to attract buyers. As per the announcement from KVIC, 1 square meter of Khadi fabric is used for manufacturing 10 watches and 1,000 such watches are proposed to be sold."
+    },
+    {
+      "id": 3,
+      "question": "Which Indian-American has been appointed as the new Chairman of the tech company- International Business Machines Corporation (IBM)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Arvind Krishna"
+        },
+        {
+          "label": "B",
+          "text": "Abidali Neemuchwala"
+        },
+        {
+          "label": "C",
+          "text": "Sundar Pichai"
+        },
+        {
+          "label": "D",
+          "text": "Shantanu Narayen"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Arvind Krishna"
+      },
+      "explanation": "International Business Machines Corporation (IBM) has appointed Indian-American Arvind Krishna as its new Chairman. The 57-year-old leader is currently serving as the head of the ‘Cloud and Cognitive software unit’ of IBM. He is known for playing an instrumental role in the acquisition of Red Hat by IBM, undertaken last year. He has also led the development of several advanced technologies by IBM including cloud and quantum computing. He replaces the long-time female CEO of IBM, Virginia Rometty, who will continue to serve as the company’s executive Chairman."
+    },
+    {
+      "id": 4,
+      "question": "Veteran diplomat Ajay Bisaria was recently appointed as the next Indian High Commissioner to which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "United Kingdom"
+        },
+        {
+          "label": "B",
+          "text": "Canada"
+        },
+        {
+          "label": "C",
+          "text": "Singapore"
+        },
+        {
+          "label": "D",
+          "text": "Malaysia"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Canada"
+      },
+      "explanation": "Veteran diplomat Ajay Bisaria was recently appointed as the next Indian High Commissioner to the North American country, Canada. Ajay Bisaria, who is to assume office shortly, is a 1987-batch Indian Foreign Service (IFS) officer. Prior to this assignment, Bisaria was serving as India’s High Commissioner to Pakistan. After the special status of Jammu and Kashmir was withdrawn and the state was re-organised, he was returned to India from Pakistan. He is known for taking several initiatives between Indian and Pakistan including the Kartarpur corridor."
+    },
+    {
+      "id": 5,
+      "question": "As per the recent Union budget, what is the estimated fiscal deficit target for 2020-21, expressed in per cent of GDP?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3.3%"
+        },
+        {
+          "label": "B",
+          "text": "3.4%"
+        },
+        {
+          "label": "C",
+          "text": "3.5%"
+        },
+        {
+          "label": "D",
+          "text": "3.6%"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "3.5%"
+      },
+      "explanation": "In the recent Union Budget 2020-21, the government has estimated the fiscal deficit target for 2020-21 at 3.5 per cent of GDP (Budget Estimate). The fiscal deficit target for 2019-20 was estimated at 3.3% earlier, which has also been revised to 3.8% of GDP, citing revenue shortage as the reason. Under the Fiscal Responsibility and Budget Management (FRBM) Act, the Section 4 (2) permits the government to relax its fiscal deficit target during time of unanticipated stress. This section has been used to increase the previous target to 3.8% in the revised estimates."
+    },
+    {
+      "id": 6,
+      "question": "Mohammed Tawfiq Allawi has been appointed as the next Prime Minister of which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iraq"
+        },
+        {
+          "label": "B",
+          "text": "Qatar"
+        },
+        {
+          "label": "C",
+          "text": "Kuwait"
+        },
+        {
+          "label": "D",
+          "text": "Oman"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Iraq"
+      },
+      "explanation": "After several months of protests, Iraq has named Mohammed Tawfiq Allawi as its next Prime Minister. The Iraq President Barham Salih has appointed the former Minister of Communications as the next Prime Minister. Mohammed Allawi was appointed as the head as the previous Prime Minister Adel Abdul Mahdi resigned in last November, after mass demonstrations against the government. The new Prime Minister is expected to lead the government until early elections. He is set to form the new government in a month’s time."
+    },
+    {
+      "id": 7,
+      "question": "Which film won the ‘Best film’ award in the British Academy of Film Awards (BAFTA) presented recently?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Once upon a time in Hollywood"
+        },
+        {
+          "label": "B",
+          "text": "1917"
+        },
+        {
+          "label": "C",
+          "text": "Joker"
+        },
+        {
+          "label": "D",
+          "text": "The Irishman"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "1917"
+      },
+      "explanation": "The World war- based drama directed by the British filmmaker Sam Mendes won the Best film award in the British Academy of Film Awards (BAFTA) presented recently. The movie dominated the event by winning seven awards, including best British film, best cinematography and best director. ‘Joker’ actor Joaquin Phoenix was named the best actor and biopic ‘Judy’ actor Renee Zellweger was named the best actress in the award ceremony. Prince William presented this year’s BAFTA Fellowship to ‘Star Wars’ producer Kathleen Kenned. South Korean film “Parasite” won two awards including best original screenplay and film not in the English language."
+    },
+    {
+      "id": 8,
+      "question": "The fifth India-Russia Military Industrial Conference was recently organised in which city?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Moscow"
+        },
+        {
+          "label": "B",
+          "text": "New Delhi"
+        },
+        {
+          "label": "C",
+          "text": "Lucknow"
+        },
+        {
+          "label": "D",
+          "text": "St. Petersburg"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Lucknow"
+      },
+      "explanation": "The fifth edition of the India-Russia Military Industrial Conference was recently organised in the northern Indian city, Lucknow. The Conference was organised on the sidelines of the biennial Defence exhibition DefExpo 2020. As many as 14 MoUs related to production of different defence equipment, radar systems, ASW Rocket launchers and 3D modeling were signed between the companies from India and Russia. Among several Indian companies, the prominent ones which signed the agreements were BHEL, Bharat Dynamics Limited and Vista control."
+    },
+    {
+      "id": 9,
+      "question": "The Department of telecommunications (DoT) recently approved the merger of consumer mobile operations of the Tata group with which telecom provider?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jio"
+        },
+        {
+          "label": "B",
+          "text": "Bharti Airtel"
+        },
+        {
+          "label": "C",
+          "text": "Vodafone Idea"
+        },
+        {
+          "label": "D",
+          "text": "BSNL"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Bharti Airtel"
+      },
+      "explanation": "The Department of telecommunications (DoT) recently approved the merger of consumer mobile operations of the Tata group with Bharti Airtel. During the month of October 2017, the Tata group announced that the company would sell its consumer mobile business to Bharti Airtel. After nearly two years of their plan, the final approval has been granted by DoT. Airtel has acquired Tata’s mobile phone operations across the country in 19 circles across the country. This merger would expand the spectrum availability and 4G coverage of Bharti Airtel."
+    },
+    {
+      "id": 10,
+      "question": "Pardeep Singh, who was seen in news recently, is associated with which sports?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Boxing"
+        },
+        {
+          "label": "B",
+          "text": "Archery"
+        },
+        {
+          "label": "C",
+          "text": "Weight-lifting"
+        },
+        {
+          "label": "D",
+          "text": "Tennis"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Weight-lifting"
+      },
+      "explanation": "Indian weight-lifter Pardeep Singh was seen in news recently, as he won the men’s 102kg gold medal in the National weightlifting championships, recently held in Kolkata. He improved his performance than what he did in the Asian championships in China, last year. Another leading lifter Vikas Thakur won gold medal in the men’s 96kg category. Both the lifters are in the promising list for the upcoming Asian championships in Kazakhstan. Mirabai Chanu and Jeremy Lalrinnunga were named as ‘Best Lifters’ of the championships."
+    }
+  ]
+}

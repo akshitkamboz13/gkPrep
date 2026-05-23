@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-november-2024",
+    "title": "Current Affairs Quiz - November, 2024",
+    "page": 5,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:48:09",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:02:59"
+  },
+  "questions": [
+    {
+      "id": 41,
+      "question": "What are Black thrips, that were recently seen in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Invasive pest species"
+        },
+        {
+          "label": "B",
+          "text": "Spider"
+        },
+        {
+          "label": "C",
+          "text": "Butterfly"
+        },
+        {
+          "label": "D",
+          "text": "Frog"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Invasive pest species"
+      },
+      "explanation": "Black thrips infestation has affected chilli crops in Ballari (Karnataka) and parts of Rayalaseema (Andhra Pradesh). It is an invasive pest species first reported in India in 2015 on papaya. Black thrips damage tender leaves, flowers, and fruits, leading to stunted growth, fruit malformation, and yield loss in crops like chilli, cotton, and mango. It feeds on various plants, including horticultural and ornamental crops. Its spread is due to the lack of natural predators and excessive pesticide use, along with staggered planting practices."
+    },
+    {
+      "id": 42,
+      "question": "Recently, where was the Major Atmospheric Cherenkov Experiment (MACE) telescope inaugurated?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gangtok, Sikkim"
+        },
+        {
+          "label": "B",
+          "text": "Hanle, Ladakh"
+        },
+        {
+          "label": "C",
+          "text": "Visakhapatnam, Andhra Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Jorhat, Assam"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Hanle, Ladakh"
+      },
+      "explanation": "The Major Atmospheric Cherenkov Experiment (MACE) telescope was inaugurated in Hanle, Ladakh, at an altitude of 4.3 km. It is the world’s highest imaging Cherenkov telescope and has a 21-meter-wide dish, the largest in Asia. It was built by Bhabha Atomic Research Centre, the Tata Institute of Fundamental Research, the Electronics Corporation of India Ltd., and the Indian Institute of Astrophysics. It detects high-energy gamma rays indirectly. Gamma rays, emitted by cosmic events like supernovae and black holes, are blocked by Earth’s atmosphere. MACE uses Cherenkov radiation, faint blue light produced when gamma rays interact with air molecules, to study these rays. It is an imaging atmospheric Cherenkov telescope (IACT)."
+    },
+    {
+      "id": 43,
+      "question": "What is the IUCN status of the “Dunlin bird” that was spotted at Kerala Bird Race?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Near threatened"
+        },
+        {
+          "label": "B",
+          "text": "Vulnerable"
+        },
+        {
+          "label": "C",
+          "text": "Endangered"
+        },
+        {
+          "label": "D",
+          "text": "Critically Endangered"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Near threatened"
+      },
+      "explanation": "Dunlin, a migratory shorebird, was spotted during the Kochi edition of the Kerala Bird Race. It has a droopy, down-curved black bill and is medium-sized with orange feathers in summer and a gray back in winter. Dunlins breed in coastal tundra and winter along mudflats, estuaries, and coastlines. They primarily eat insects, mollusks, worms, and crustaceans. The species is listed as “Near Threatened” by the IUCN, facing threats from habitat loss, global warming, invasive plants, and avian influenza. A group of Dunlins is called a “flight,” “fling,” or “trip.”"
+    },
+    {
+      "id": 44,
+      "question": "What is the rank of India in Network Readiness Index 2024 (NRI 2024)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "37th"
+        },
+        {
+          "label": "B",
+          "text": "42nd"
+        },
+        {
+          "label": "C",
+          "text": "49th"
+        },
+        {
+          "label": "D",
+          "text": "55th"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "49th"
+      },
+      "explanation": "India ranks 49th in the Network Readiness Index (NRI) 2024, up 11 spots from 2023. NRI evaluates 133 economies based on Technology, People, Governance, and Impact, using 54 variables. Published by the Portulans Institute, the report highlights India’s score improvement from 49.93 in 2023 to 53.63 in 2024. India leads globally in AI scientific publications, AI talent concentration, and ICT services exports. It ranks 2nd in FTTH subscriptions, mobile broadband traffic, and international internet bandwidth, and 3rd in domestic market scale. Among lower-middle-income countries, India is 2nd, reflecting strong digital progress and innovation."
+    },
+    {
+      "id": 45,
+      "question": "What is the title of the UNAIDS World AIDS Day Report 2024?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Towards an HIV-Free Future"
+        },
+        {
+          "label": "B",
+          "text": "Take the Right Path to End AIDS"
+        },
+        {
+          "label": "C",
+          "text": "Ending AIDS by 2030"
+        },
+        {
+          "label": "D",
+          "text": "Global Fight Against AIDS"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Take the Right Path to End AIDS"
+      },
+      "explanation": "The UNAIDS World AIDS Day Report 2024, titled “Take the right path to end AIDS”, was launched. Of 39.9 million people living with HIV, 9.3 million lack access to life-saving treatment. In the past year, 630,000 people died from AIDS-related illnesses, and 1.3 million contracted HIV. UNAIDS is a joint program of 11 UN organizations, including UNICEF, WHO, UNESCO, and World Bank. Its vision is to achieve zero new HIV infections, zero discrimination, and zero AIDS-related deaths."
+    },
+    {
+      "id": 46,
+      "question": "Which institute recently launched the Anālakṣhya Metamaterial Surface Cloaking System (MSCS)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IIT Madras"
+        },
+        {
+          "label": "B",
+          "text": "IIT Kanpur"
+        },
+        {
+          "label": "C",
+          "text": "IIT Bombay"
+        },
+        {
+          "label": "D",
+          "text": "IIT Delhi"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "IIT Kanpur"
+      },
+      "explanation": "IIT Kanpur developed the Anālakáṣhya Metamaterial Surface Cloaking System (MSCS), advancing stealth technology. This system aims to make objects nearly invisible to radar, enhancing defence and national security. It is a textile-based broadband metamaterial microwave absorber, created by researchers and students. The MSCS can absorb radar waves across a wide spectrum, effectively neutralizing Synthetic Aperture Radar (SAR) imaging."
+    },
+    {
+      "id": 47,
+      "question": "Which ministry won the Gold Award for Excellence in Display at India International Trade Fair (IITF)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Textiles"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Mines"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of New and Renewable Energy"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Science and Technology"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ministry of Mines"
+      },
+      "explanation": "The Ministry of Mines Pavilion won the Gold award at India International Trade Fair (IITF) 2024 for excellence in display. It showcased contributions to Viksit Bharat by 2047, drawing over 80,000 visitors. The Ministry contributed to the Ram Mandir with 70,000 copper strips and 775 copper rods. Sustainability was promoted with recycling machines by Jawaharlal Nehru Aluminium Research Development and Design Centre (JNARDDC), offering vouchers. Women empowerment was highlighted, with SHGs earning over ₹10 lakh in 14 days, emphasizing grassroots economic growth."
+    },
+    {
+      "id": 48,
+      "question": "Where was the All India Conference of Director Generals/ Inspector Generals of Police 2024 held?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hyderabad"
+        },
+        {
+          "label": "B",
+          "text": "New Delhi"
+        },
+        {
+          "label": "C",
+          "text": "Bhubaneswar"
+        },
+        {
+          "label": "D",
+          "text": "Chennai"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Bhubaneswar"
+      },
+      "explanation": "Prime Minister Narendra Modi attended the All India Conference of Director Generals/Inspectors Generals of Police 2024 in Bhubaneswar, Odisha. The three-day conference, from November 29 to December 1, focused on national security issues like counter-terrorism, extremism, coastal security, new criminal laws, and narcotics. The President’s Police Medal for distinguished service was awarded. The conference served as a platform for police professionals to discuss crime control, law and order, and internal security threats. It included yoga sessions, business sessions, and thematic dining tables for informal discussions. This was the 59th conference, continuing a tradition started in 2014."
+    },
+    {
+      "id": 49,
+      "question": "What is the name of the mobile application recently launched by Indian Railways for passenger safety?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Parivartak app"
+        },
+        {
+          "label": "B",
+          "text": "Sanraksha app"
+        },
+        {
+          "label": "C",
+          "text": "Rail Safe app"
+        },
+        {
+          "label": "D",
+          "text": "Kavach app"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Sanraksha app"
+      },
+      "explanation": "Indian Railways launched the ‘Sanraksha’ mobile app to enhance passenger safety by training frontline safety staff. The app, designed by IRTS officer Dilip Singh, was piloted successfully in Nagpur, showing its effectiveness. It integrates railway expertise with IT, data analytics, and AI for intelligent, scalable training systems. Sanraksha features smart learning, feedback, and real-time monitoring. It will be rolled out across all railway zones, starting with 16 divisions. Passenger safety is further ensured through the Rail Madad Portal, Helpline 139, CCTV surveillance, social media engagement, and special drives to address safety concerns."
+    },
+    {
+      "id": 50,
+      "question": "Which organization developed a biopolymer-based seed coating technology for seed treatment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ICAR-Central Institute of Research on Cotton Technology"
+        },
+        {
+          "label": "B",
+          "text": "ICAR-Central Institute for Arid Horticulture"
+        },
+        {
+          "label": "C",
+          "text": "ICAR-Indian Institute of Oilseeds Research"
+        },
+        {
+          "label": "D",
+          "text": "ICAR-Central Island Agricultural Research Institute"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "ICAR-Indian Institute of Oilseeds Research"
+      },
+      "explanation": "The ICAR-Indian Institute of Oilseeds Research (IIOR) has developed a biopolymer-based seed coating technology that enhances crop yields by 25-30%. This innovative method protects beneficial microbes and nutrients, promoting stress resilience under climate change. The technology, known as Film Coating Biopolymer Composition, gradually releases active ingredients, offering economic benefits to farmers by reducing input costs. IIOR is recognized for its advancements in eco-friendly agricultural technologies."
+    }
+  ]
+}

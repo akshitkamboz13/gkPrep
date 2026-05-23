@@ -1,0 +1,4511 @@
+{
+  "discovered_at": "2026-05-02 11:31:48",
+  "total_categories": 563,
+  "total_estimated_mcqs": 10629,
+  "categories": [
+    {
+      "slug": "1-computers-introduction-history-types",
+      "title": "1. Computers - Introduction, History, Types",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/1-computers-introduction-history-types/"
+    },
+    {
+      "slug": "1-introduction-to-environment-ecology",
+      "title": "1. Introduction to Environment & Ecology",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/1-introduction-to-environment-ecology/"
+    },
+    {
+      "slug": "1-prehistoric-india",
+      "title": "1. Prehistoric India",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/1-prehistoric-india/"
+    },
+    {
+      "slug": "10-ancient-republics-of-india",
+      "title": "10. Ancient Republics of India",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/10-ancient-republics-of-india/"
+    },
+    {
+      "slug": "10-application-of-computers-and-it-in-various-fiel",
+      "title": "10. Application of Computers and IT in Various Fields",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/10-application-of-computers-and-it-in-various-fiel/"
+    },
+    {
+      "slug": "10-environment-related-laws-in-india",
+      "title": "10. Environment Related Laws in India",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/10-environment-related-laws-in-india/"
+    },
+    {
+      "slug": "11-pollution-and-pollution-control",
+      "title": "11. Pollution and Pollution Control",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/11-pollution-and-pollution-control/"
+    },
+    {
+      "slug": "11-sixteen-mahajanapadas",
+      "title": "11. Sixteen Mahajanapadas",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/11-sixteen-mahajanapadas/"
+    },
+    {
+      "slug": "12-magadha-empire",
+      "title": "12. Magadha Empire",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/12-magadha-empire/"
+    },
+    {
+      "slug": "12-various-topics-on-climate-change",
+      "title": "12. Various Topics on Climate Change",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/12-various-topics-on-climate-change/"
+    },
+    {
+      "slug": "13-invasion-of-alexander-on-india",
+      "title": "13. Invasion of Alexander on India",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/13-invasion-of-alexander-on-india/"
+    },
+    {
+      "slug": "13-sustainability",
+      "title": "13. Sustainability",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/13-sustainability/"
+    },
+    {
+      "slug": "14-disaster-management",
+      "title": "14. Disaster Management",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/14-disaster-management/"
+    },
+    {
+      "slug": "14-maurya-empire-chandragupta-and-bindusara",
+      "title": "14. Maurya Empire- Chandragupta and Bindusara",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/14-maurya-empire-chandragupta-and-bindusara/"
+    },
+    {
+      "slug": "15-environment-impact-assessment",
+      "title": "15. Environment Impact Assessment",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/15-environment-impact-assessment/"
+    },
+    {
+      "slug": "15-maurya-empire-ashoka",
+      "title": "15. Maurya Empire- Ashoka",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/15-maurya-empire-ashoka/"
+    },
+    {
+      "slug": "16-administration-of-mauryas",
+      "title": "16. Administration of Mauryas",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/16-administration-of-mauryas/"
+    },
+    {
+      "slug": "17-culture-society-and-economy-of-mauryas",
+      "title": "17. Mauryan Culture, Society and Economy",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/17-culture-society-and-economy-of-mauryas/"
+    },
+    {
+      "slug": "18-shungas-kanvas-and-mahameghavanas-of-odisha",
+      "title": "18. Shungas, Kanvas and Mahameghavanas",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/18-shungas-kanvas-and-mahameghavanas-of-odisha/"
+    },
+    {
+      "slug": "19-changes-in-post-mauryan-times",
+      "title": "19. Changes in Post-Mauryan times",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/19-changes-in-post-mauryan-times/"
+    },
+    {
+      "slug": "2-biomes-and-biogeographic-regions-of-world",
+      "title": "2. Biomes and Biogeographic regions of World",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/2-biomes-and-biogeographic-regions-of-world/"
+    },
+    {
+      "slug": "2-computer-components-hardware",
+      "title": "2. Computer Components: Hardware",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/2-computer-components-hardware/"
+    },
+    {
+      "slug": "2-indus-valley-civilization",
+      "title": "2. Indus Valley Civilization",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/2-indus-valley-civilization/"
+    },
+    {
+      "slug": "20-the-indo-greek-rulers",
+      "title": "20. The Indo-Greek rulers",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/20-the-indo-greek-rulers/"
+    },
+    {
+      "slug": "21-the-shakas-rulers-satrap-system",
+      "title": "21. The Shakas Rulers & Satrap System",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/21-the-shakas-rulers-satrap-system/"
+    },
+    {
+      "slug": "22-the-satavahanas",
+      "title": "22. The Satavahanas",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/22-the-satavahanas/"
+    },
+    {
+      "slug": "23-kushana-empire",
+      "title": "23. Kushana Empire",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/23-kushana-empire/"
+    },
+    {
+      "slug": "25-gupta-empire-political-history",
+      "title": "24. Gupta Empire- Political History",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/25-gupta-empire-political-history/"
+    },
+    {
+      "slug": "27-gupta-empire-society-religion-literature",
+      "title": "25. Gupta Empire- Society, Religion, Literature",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/27-gupta-empire-society-religion-literature/"
+    },
+    {
+      "slug": "28-gupta-empire-economy-numismatics",
+      "title": "26. Gupta Polity, Economy, Numismatics",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/28-gupta-empire-economy-numismatics/"
+    },
+    {
+      "slug": "29-gupta-empire-art-architecture",
+      "title": "27. Gupta Art, Architecture",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/29-gupta-empire-art-architecture/"
+    },
+    {
+      "slug": "3-computer-components-software-os-and-programming",
+      "title": "3. Computer Components: Software, OS and Programming Languages",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/3-computer-components-software-os-and-programming/"
+    },
+    {
+      "slug": "3-indias-biogeographic-regions",
+      "title": "3. India&apos;s Biogeographic Regions",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/3-indias-biogeographic-regions/"
+    },
+    {
+      "slug": "3-rig-vedic-era-society-economy-polity-religion",
+      "title": "3. Rig Vedic Society, Economy, Polity & Religion",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/3-rig-vedic-era-society-economy-polity-religion/"
+    },
+    {
+      "slug": "30-vakatakas-maitrakas-and-mukharis",
+      "title": "28. Vakatakas, Maitrakas and Mukharis",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/30-vakatakas-maitrakas-and-mukharis/"
+    },
+    {
+      "slug": "31-era-of-harsha",
+      "title": "29. Era of Harsha",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/31-era-of-harsha/"
+    },
+    {
+      "slug": "32-political-dynasties-of-north-india-in-early-med",
+      "title": "30. Early Medieval North India",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/32-political-dynasties-of-north-india-in-early-med/"
+    },
+    {
+      "slug": "33-political-dynasties-of-south-india-in-early-med",
+      "title": "31. Early Medieval South India",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/33-political-dynasties-of-south-india-in-early-med/"
+    },
+    {
+      "slug": "34-indian-society-religion-in-early-medieval-perio",
+      "title": "32. Early Medieval Society & Religion",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/34-indian-society-religion-in-early-medieval-perio/"
+    },
+    {
+      "slug": "35-changes-in-indian-economy-600-1000-ad",
+      "title": "33. Changes in Indian Economy (600-1000 AD)",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/35-changes-in-indian-economy-600-1000-ad/"
+    },
+    {
+      "slug": "36-art-and-architecture-of-india-between-600-1000",
+      "title": "34. Art and Architecture of India (600-1000 AD)",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/36-art-and-architecture-of-india-between-600-1000/"
+    },
+    {
+      "slug": "37-the-rashtrakutas",
+      "title": "35. The Rashtrakutas",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/37-the-rashtrakutas/"
+    },
+    {
+      "slug": "38-the-chalukyas",
+      "title": "36. The Chalukyas",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/38-the-chalukyas/"
+    },
+    {
+      "slug": "39-the-pallavas",
+      "title": "37. The Pallavas",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/39-the-pallavas/"
+    },
+    {
+      "slug": "4-database-management",
+      "title": "4. Database Management",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/4-database-management/"
+    },
+    {
+      "slug": "4-indias-forest-wetlands-mangroves-and-coral-reefs",
+      "title": "4. India&apos;\\'s Forest, Wetlands, Mangroves and Coral Reefs",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/4-indias-forest-wetlands-mangroves-and-coral-reefs/"
+    },
+    {
+      "slug": "4-rig-vedic-literature",
+      "title": "4. Rig-Vedic Literature",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/4-rig-vedic-literature/"
+    },
+    {
+      "slug": "40-the-cholas",
+      "title": "38. The Cholas",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/40-the-cholas/"
+    },
+    {
+      "slug": "42-pandya-kingdom",
+      "title": "39. Pandya Kingdom",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/42-pandya-kingdom/"
+    },
+    {
+      "slug": "43-sangam-age",
+      "title": "40. Sangam Age",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/43-sangam-age/"
+    },
+    {
+      "slug": "5-computer-networks-networking-technologies-device",
+      "title": "5. Computer Networks, Networking Technologies & Devices",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/5-computer-networks-networking-technologies-device/"
+    },
+    {
+      "slug": "5-fauna-and-flora-of-the-world",
+      "title": "5. Fauna and Flora of the World",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/5-fauna-and-flora-of-the-world/"
+    },
+    {
+      "slug": "5-later-vedic-era-society-economy-polity-religion",
+      "title": "5. Later Vedic Society, Economy, Polity & Religion",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/5-later-vedic-era-society-economy-polity-religion/"
+    },
+    {
+      "slug": "6-flora-and-fauna-of-india",
+      "title": "6. Flora and Fauna of India",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/6-flora-and-fauna-of-india/"
+    },
+    {
+      "slug": "6-later-vedic-literature",
+      "title": "6. Later Vedic Literature",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/6-later-vedic-literature/"
+    },
+    {
+      "slug": "6-wired-wireless-technologies-internet-browsers-ap",
+      "title": "6. Wired, Wireless Technologies, Internet, Browsers, Apps, Cloud Computing",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/6-wired-wireless-technologies-internet-browsers-ap/"
+    },
+    {
+      "slug": "7-environment-conservation-treaties-and-organizati",
+      "title": "7. Environment Conservation Treaties and Organizations",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/7-environment-conservation-treaties-and-organizati/"
+    },
+    {
+      "slug": "7-rise-of-jainism",
+      "title": "7. Rise of Jainism",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/7-rise-of-jainism/"
+    },
+    {
+      "slug": "7-websites-blogs-search-engines-social-media",
+      "title": "7. Websites, Blogs, Search Engines & Social Media",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/7-websites-blogs-search-engines-social-media/"
+    },
+    {
+      "slug": "8-microsoft-windows-office",
+      "title": "8. Microsoft Windows & Office",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/8-microsoft-windows-office/"
+    },
+    {
+      "slug": "8-national-parks-wildlife-sanctuaries-of-world",
+      "title": "8. National Parks, Wildlife Sanctuaries of World",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/8-national-parks-wildlife-sanctuaries-of-world/"
+    },
+    {
+      "slug": "8-rise-of-buddhism",
+      "title": "8. Rise of Buddhism",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/8-rise-of-buddhism/"
+    },
+    {
+      "slug": "9-ajivikas-and-other-ascetics",
+      "title": "9. Ajivikas and Other Ascetics",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/9-ajivikas-and-other-ascetics/"
+    },
+    {
+      "slug": "9-computer-security-various-attacks-and-malware",
+      "title": "9. Computer Security - Various Attacks and Malware",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/9-computer-security-various-attacks-and-malware/"
+    },
+    {
+      "slug": "9-national-parks-wildlife-areas-of-india",
+      "title": "9. National Parks, Wildlife Areas of India",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/9-national-parks-wildlife-areas-of-india/"
+    },
+    {
+      "slug": "agriculture-irrigation-seeds-fertilizers-and-other-inputs-mcqs-for-ssc-examination",
+      "title": "6. Agriculture, Irrigation, Seeds, Fertilizers and other Inputs",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/agriculture-irrigation-seeds-fertilizers-and-other-inputs-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "agriculture-policy-green-revolution-and-rainbow-revolution-mcqs-for-ssc-examination",
+      "title": "11. Agriculture Policy, Green Revolution and Rainbow Revolution",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/agriculture-policy-green-revolution-and-rainbow-revolution-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "agro-based-industries-agro-marketing-food-processing-industries-mcqs-for-ssc-examination",
+      "title": "10. Agro-based Industries, Agro-marketing, Food Processing Industries",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/agro-based-industries-agro-marketing-food-processing-industries-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "ancient-indian-history-multiple-choice-questions",
+      "title": "Ancient Indian History MCQs",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/ancient-indian-history-multiple-choice-questions/"
+    },
+    {
+      "slug": "ancient-world-history",
+      "title": "Ancient World History",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/ancient-world-history/"
+    },
+    {
+      "slug": "appsc",
+      "title": "States PCS: Andhra Pradesh GK For APPSC Examinations",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/appsc/"
+    },
+    {
+      "slug": "art-culture-current-affairs",
+      "title": "Art & Culture Current Affairs MCQs",
+      "total_pages": 8,
+      "questions_per_page": 10,
+      "estimated_total": 80,
+      "url": "https://www.gktoday.in/quizbase/art-culture-current-affairs/"
+    },
+    {
+      "slug": "arunachal-pradesh-gk-questions-for-appsc-examinations",
+      "title": "States PCS: Arunachal Pradesh GK Questions for APPSC Examinations",
+      "total_pages": 2,
+      "questions_per_page": 10,
+      "estimated_total": 20,
+      "url": "https://www.gktoday.in/quizbase/arunachal-pradesh-gk-questions-for-appsc-examinations/"
+    },
+    {
+      "slug": "assam-gk-questions-for-assam-public-service-commission-exams",
+      "title": "States PCS: Assam GK Questions for Assam Public Service Commission Exams",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/assam-gk-questions-for-assam-public-service-commission-exams/"
+    },
+    {
+      "slug": "astronomy-universe-constellations-galaxies-stars",
+      "title": "Astronomy - Universe, Constellations & Galaxies, Stars",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/astronomy-universe-constellations-galaxies-stars/"
+    },
+    {
+      "slug": "automobiles-industry-mcqs-for-ssc-examination",
+      "title": "13. Automobiles Industry",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/automobiles-industry-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "awards-honours-persons-in-news-current-affairs",
+      "title": "Awards, Honours & Persons in News Current Affairs MCQs",
+      "total_pages": 8,
+      "questions_per_page": 10,
+      "estimated_total": 80,
+      "url": "https://www.gktoday.in/quizbase/awards-honours-persons-in-news-current-affairs/"
+    },
+    {
+      "slug": "banking-finance-and-insurance-sectors-mcqs-for-ssc-examination",
+      "title": "37. Banking, Finance and Insurance Sectors",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/banking-finance-and-insurance-sectors-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "banking-finance-economy-current-affairs-2022-23",
+      "title": "Banking, Finance & Economy Current Affairs - 2022-23",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/banking-finance-economy-current-affairs-2022-23/"
+    },
+    {
+      "slug": "beginning-of-european-trade",
+      "title": "3. Beginning of European Trade",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/beginning-of-european-trade/"
+    },
+    {
+      "slug": "bengali-current-affairs",
+      "title": "বাংলা কারেন্ট অ্যাফেয়ার্স [Current Affairs in Bengali] - 2024-25",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/bengali-current-affairs/"
+    },
+    {
+      "slug": "bhakti-sufi-movements-mcqs",
+      "title": "17. Bhakti & Sufi Movements",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/bhakti-sufi-movements-mcqs/"
+    },
+    {
+      "slug": "bihar-gk-for-bpsc-and-other-bihar-pcs-exams",
+      "title": "States PCS: Bihar GK for BPSC and other Bihar PCS Exams",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/bihar-gk-for-bpsc-and-other-bihar-pcs-exams/"
+    },
+    {
+      "slug": "biology-1-introduction-branches-of-biology",
+      "title": "1. Introduction & Branches of Biology",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-1-introduction-branches-of-biology/"
+    },
+    {
+      "slug": "biology-10-mosses-and-bryophytes",
+      "title": "10. Mosses and Bryophytes",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-10-mosses-and-bryophytes/"
+    },
+    {
+      "slug": "biology-11-pteridophytes-and-gymnosperms",
+      "title": "11. Pteridophytes and Gymnosperms",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-11-pteridophytes-and-gymnosperms/"
+    },
+    {
+      "slug": "biology-12-morphology-and-adaptations-in-higher-pl",
+      "title": "12. Morphology and Adaptations in Higher Plants",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-12-morphology-and-adaptations-in-higher-pl/"
+    },
+    {
+      "slug": "biology-13-plant-tissues",
+      "title": "13. Plant Tissues",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-13-plant-tissues/"
+    },
+    {
+      "slug": "biology-14-photosynthesis-respiration-and-nutritio",
+      "title": "14. Photosynthesis, Respiration and Nutrition in Plants",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-14-photosynthesis-respiration-and-nutritio/"
+    },
+    {
+      "slug": "biology-15-growth-in-plants",
+      "title": "15. Growth in Plants",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-15-growth-in-plants/"
+    },
+    {
+      "slug": "biology-16-reproduction-in-plants",
+      "title": "16. Reproduction in Plants",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-16-reproduction-in-plants/"
+    },
+    {
+      "slug": "biology-17-plant-products-and-parts",
+      "title": "17. Plant Products and Parts",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-17-plant-products-and-parts/"
+    },
+    {
+      "slug": "biology-18-plant-diseases",
+      "title": "18. Plant Diseases",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-18-plant-diseases/"
+    },
+    {
+      "slug": "biology-19-overview-animal-kingdom",
+      "title": "19. Overview Animal Kingdom",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-19-overview-animal-kingdom/"
+    },
+    {
+      "slug": "biology-2-important-biologists",
+      "title": "2. Important Biologists",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-2-important-biologists/"
+    },
+    {
+      "slug": "biology-20-lower-animals-invertebrates",
+      "title": "20. Lower animals & Invertebrates",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-20-lower-animals-invertebrates/"
+    },
+    {
+      "slug": "biology-21-fishes-molluscs",
+      "title": "21. Fishes & Mollusks",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-21-fishes-molluscs/"
+    },
+    {
+      "slug": "biology-22-amphibians",
+      "title": "22. Amphibians",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-22-amphibians/"
+    },
+    {
+      "slug": "biology-23-reptiles",
+      "title": "23. Reptiles",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-23-reptiles/"
+    },
+    {
+      "slug": "biology-24-birds",
+      "title": "24. Birds",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-24-birds/"
+    },
+    {
+      "slug": "biology-25-mammals",
+      "title": "25. Mammals",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-25-mammals/"
+    },
+    {
+      "slug": "biology-26-useful-animal-products",
+      "title": "26. Useful Animal Products",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-26-useful-animal-products/"
+    },
+    {
+      "slug": "biology-27-human-body-important-tissues-and-skin",
+      "title": "27. Human Body - Important Tissues and Skin",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-27-human-body-important-tissues-and-skin/"
+    },
+    {
+      "slug": "biology-28-human-body-brain-nervous-system",
+      "title": "28. Human Body - Brain & Nervous System",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-28-human-body-brain-nervous-system/"
+    },
+    {
+      "slug": "biology-29-human-body-senses-eyes-ears-and-nose",
+      "title": "29. Human Body - Senses - Eyes, Ears and Nose",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-29-human-body-senses-eyes-ears-and-nose/"
+    },
+    {
+      "slug": "biology-3-classification-of-organisms",
+      "title": "3. Classification of Organisms",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-3-classification-of-organisms/"
+    },
+    {
+      "slug": "biology-30-human-body-muscles-and-bones",
+      "title": "30. Human Body - Muscles and Bones",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-30-human-body-muscles-and-bones/"
+    },
+    {
+      "slug": "biology-31-human-body-blood-circulation-and-immune",
+      "title": "31. Human Body - Blood, Circulation and Immune System",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-31-human-body-blood-circulation-and-immune/"
+    },
+    {
+      "slug": "biology-32-human-body-urinary-system",
+      "title": "32. Human Body - Urinary System",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-32-human-body-urinary-system/"
+    },
+    {
+      "slug": "biology-33-human-body-respiratory-system",
+      "title": "33. Human Body - Respiratory System",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-33-human-body-respiratory-system/"
+    },
+    {
+      "slug": "biology-34-human-body-digestive-system",
+      "title": "34. Human Body - Digestive System",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-34-human-body-digestive-system/"
+    },
+    {
+      "slug": "biology-35-human-body-endocrine-system",
+      "title": "35. Human Body - Endocrine System",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-35-human-body-endocrine-system/"
+    },
+    {
+      "slug": "biology-36-human-body-reproductive-system",
+      "title": "36. Human Body - Reproductive System",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-36-human-body-reproductive-system/"
+    },
+    {
+      "slug": "biology-37-animal-diseases",
+      "title": "37. Animal Diseases",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-37-animal-diseases/"
+    },
+    {
+      "slug": "biology-38-human-diseases",
+      "title": "38. Human Diseases",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-38-human-diseases/"
+    },
+    {
+      "slug": "biology-39-genetics-inheritance-and-evolution",
+      "title": "39. Genetics, Inheritance and Evolution",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-39-genetics-inheritance-and-evolution/"
+    },
+    {
+      "slug": "biology-4-cell-biology-organelles",
+      "title": "4. Cell Biology & Organelles",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-4-cell-biology-organelles/"
+    },
+    {
+      "slug": "biology-40-biofertilizers-and-biofuels",
+      "title": "40. Biofertilizers and Biofuels",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-40-biofertilizers-and-biofuels/"
+    },
+    {
+      "slug": "biology-41-biotechnology-gmos-and-recent-developme",
+      "title": "41. Biotechnology, GMOs and Recent Developments in Biology",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-41-biotechnology-gmos-and-recent-developme/"
+    },
+    {
+      "slug": "biology-5-biomolecules-bio-chemistry",
+      "title": "5. Biomolecules & Bio-chemistry",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-5-biomolecules-bio-chemistry/"
+    },
+    {
+      "slug": "biology-6-viruses",
+      "title": "6. Viruses",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-6-viruses/"
+    },
+    {
+      "slug": "biology-7-overview-of-plant-kingdom",
+      "title": "7. Overview of Plant Kingdom",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-7-overview-of-plant-kingdom/"
+    },
+    {
+      "slug": "biology-8-bacteria",
+      "title": "8. Bacteria",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-8-bacteria/"
+    },
+    {
+      "slug": "biology-9-algae-fungi",
+      "title": "9. Algae & Fungi",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/biology-9-algae-fungi/"
+    },
+    {
+      "slug": "books-and-authors-gk-questions",
+      "title": "Books and Authors General Knowledge Questions",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/books-and-authors-gk-questions/"
+    },
+    {
+      "slug": "british-east-india-company-initial-days",
+      "title": "5. British East India Company - Initial Days",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/british-east-india-company-initial-days/"
+    },
+    {
+      "slug": "british-frontier-policy",
+      "title": "19. British Frontier Policy",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/british-frontier-policy/"
+    },
+    {
+      "slug": "british-raj-provincial-administration",
+      "title": "13. British Raj - Provincial Administration",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/british-raj-provincial-administration/"
+    },
+    {
+      "slug": "british-raj-viceroys-of-india-1858-1947",
+      "title": "12. British Raj - Viceroys of India [1858-1947]",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/british-raj-viceroys-of-india-1858-1947/"
+    },
+    {
+      "slug": "business-economy-banking-current-affairs",
+      "title": "Business, Economy & Banking Current Affairs MCQs",
+      "total_pages": 8,
+      "questions_per_page": 10,
+      "estimated_total": 80,
+      "url": "https://www.gktoday.in/quizbase/business-economy-banking-current-affairs/"
+    },
+    {
+      "slug": "capital-markets-debt-markets-mcqs-for-ssc-examination",
+      "title": "36. Capital Markets & Debt Markets",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/capital-markets-debt-markets-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "cement-industry-mcqs-for-ssc-examination",
+      "title": "14. Cement Industry",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/cement-industry-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "chemical-petrochemical-sector-mcqs-for-ssc-examination",
+      "title": "15. Chemical & Petrochemical Sector",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/chemical-petrochemical-sector-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "chemistry-gk-01-basic-chemistry-facts",
+      "title": "Chemistry-1: Important Chemical Scientists",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/chemistry-gk-01-basic-chemistry-facts/"
+    },
+    {
+      "slug": "chemistry-gk-02-matter-and-its-states",
+      "title": "Chemistry-2-Matter and Its States",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/chemistry-gk-02-matter-and-its-states/"
+    },
+    {
+      "slug": "chemistry-gk-03-elements",
+      "title": "Chemistry-3-Elements",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/chemistry-gk-03-elements/"
+    },
+    {
+      "slug": "chemistry-gk-04-compounds",
+      "title": "Chemistry-4-Compounds",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/chemistry-gk-04-compounds/"
+    },
+    {
+      "slug": "chemistry-gk-05-mixtures",
+      "title": "Chemistry-5-Mixtures",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/chemistry-gk-05-mixtures/"
+    },
+    {
+      "slug": "chemistry-gk-06-minerals-and-ores",
+      "title": "Chemistry-6-Minerals and Ores",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/chemistry-gk-06-minerals-and-ores/"
+    },
+    {
+      "slug": "chemistry-gk-07-atomic-structure",
+      "title": "Chemistry-7-Atomic Structure",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/chemistry-gk-07-atomic-structure/"
+    },
+    {
+      "slug": "chemistry-gk-08-radioactivity",
+      "title": "Chemistry-8-Radioactivity",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/chemistry-gk-08-radioactivity/"
+    },
+    {
+      "slug": "chemistry-gk-09-periodic-table",
+      "title": "Chemistry-9-Periodic Table",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/chemistry-gk-09-periodic-table/"
+    },
+    {
+      "slug": "chemistry-gk-10-chemical-bonds",
+      "title": "Chemistry-10-Chemical Bonds",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/chemistry-gk-10-chemical-bonds/"
+    },
+    {
+      "slug": "chemistry-gk-11-chemical-reactions",
+      "title": "Chemistry-11-Chemical Reactions",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/chemistry-gk-11-chemical-reactions/"
+    },
+    {
+      "slug": "chemistry-gk-12-acids-bases-and-salts",
+      "title": "Chemistry-12-Acids, Bases and Salts",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/chemistry-gk-12-acids-bases-and-salts/"
+    },
+    {
+      "slug": "chemistry-gk-13-electrolysis",
+      "title": "Chemistry-13-Electrochemistry",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/chemistry-gk-13-electrolysis/"
+    },
+    {
+      "slug": "chemistry-gk-14-carbon-and-its-compounds",
+      "title": "Chemistry-14-Organic Chemistry Basics",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/chemistry-gk-14-carbon-and-its-compounds/"
+    },
+    {
+      "slug": "chemistry-gk-15-hydrocarbons-fuels",
+      "title": "Chemistry-15-Hydrocarbons & Fuels",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/chemistry-gk-15-hydrocarbons-fuels/"
+    },
+    {
+      "slug": "chemistry-gk-16-plastics-polymers",
+      "title": "Chemistry-16-Plastics & Polymers",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/chemistry-gk-16-plastics-polymers/"
+    },
+    {
+      "slug": "chemistry-gk-17-important-metals",
+      "title": "Chemistry-17-Important Metals",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/chemistry-gk-17-important-metals/"
+    },
+    {
+      "slug": "chemistry-gk-18-important-non-metals",
+      "title": "Chemistry-18-Important Non-Metals",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/chemistry-gk-18-important-non-metals/"
+    },
+    {
+      "slug": "chemistry-gk-19-soaps-detergents",
+      "title": "Chemistry-19-Soaps & Detergents",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/chemistry-gk-19-soaps-detergents/"
+    },
+    {
+      "slug": "climatology-air-masses-fronts-cyclones-and-related-phenomena",
+      "title": "Climatology - Air Masses, Fronts, Cyclones and Related Phenomena",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/climatology-air-masses-fronts-cyclones-and-related-phenomena/"
+    },
+    {
+      "slug": "climatology-atmosphere-winds-humidity-clouds-rainfall",
+      "title": "Climatology - Atmosphere, Winds, Humidity, Clouds, Rainfall",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/climatology-atmosphere-winds-humidity-clouds-rainfall/"
+    },
+    {
+      "slug": "climatology-climatic-classification",
+      "title": "Climatology - Climatic Classification",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/climatology-climatic-classification/"
+    },
+    {
+      "slug": "communalism-pakistan-movement",
+      "title": "31. Communalism & Pakistan Movement",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/communalism-pakistan-movement/"
+    },
+    {
+      "slug": "conquest-of-bengal-mysore-sindh-punjab-etc",
+      "title": "7. British Conquest & Annexation of Territories Till 1857",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/conquest-of-bengal-mysore-sindh-punjab-etc/"
+    },
+    {
+      "slug": "constitutional-and-legislature-developments",
+      "title": "16. Constitutional and Legislature Developments",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/constitutional-and-legislature-developments/"
+    },
+    {
+      "slug": "crops-cropping-patterns-food-grains-production-and-management-mcqs-for-ssc-examination",
+      "title": "7. Crops & Cropping Patterns, Food grains production and Management",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/crops-cropping-patterns-food-grains-production-and-management-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "current-affairs-2018-august",
+      "title": "Monthly Current Affairs Quiz - August, 2018",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-2018-august/"
+    },
+    {
+      "slug": "current-affairs-2018-december",
+      "title": "Current Affairs Quiz - December, 2018",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-2018-december/"
+    },
+    {
+      "slug": "current-affairs-2018-november",
+      "title": "Monthly Current Affairs Quiz - November, 2018",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-2018-november/"
+    },
+    {
+      "slug": "current-affairs-2018-october",
+      "title": "Monthly Current Affairs Quiz - October, 2018",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-2018-october/"
+    },
+    {
+      "slug": "current-affairs-2018-september",
+      "title": "Monthly Current Affairs Quiz - September, 2018",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-2018-september/"
+    },
+    {
+      "slug": "current-affairs-2019-april",
+      "title": "Current Affairs Quiz - April, 2019",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-2019-april/"
+    },
+    {
+      "slug": "current-affairs-2019-august",
+      "title": "Current Affairs Quiz - August, 2019",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-2019-august/"
+    },
+    {
+      "slug": "current-affairs-2019-february",
+      "title": "Current Affairs Quiz - February, 2019",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-2019-february/"
+    },
+    {
+      "slug": "current-affairs-2019-january",
+      "title": "Current Affairs Quiz - January, 2019",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-2019-january/"
+    },
+    {
+      "slug": "current-affairs-2019-july",
+      "title": "Current Affairs Quiz - July, 2019",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-2019-july/"
+    },
+    {
+      "slug": "current-affairs-2019-june",
+      "title": "Current Affairs Quiz - June, 2019",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-2019-june/"
+    },
+    {
+      "slug": "current-affairs-2019-march",
+      "title": "Current Affairs Quiz - March, 2019",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-2019-march/"
+    },
+    {
+      "slug": "current-affairs-2019-may",
+      "title": "Current Affairs Quiz - May, 2019",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-2019-may/"
+    },
+    {
+      "slug": "current-affairs-2019-november",
+      "title": "Current Affairs Quiz- November, 2019",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-2019-november/"
+    },
+    {
+      "slug": "current-affairs-2019-october",
+      "title": "Current Affairs Quiz - October, 2019",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-2019-october/"
+    },
+    {
+      "slug": "current-affairs-2019-september",
+      "title": "Current Affairs Quiz- September, 2019",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-2019-september/"
+    },
+    {
+      "slug": "current-affairs-april-2020",
+      "title": "Current Affairs Quiz - April, 2020",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-april-2020/"
+    },
+    {
+      "slug": "current-affairs-december-2019",
+      "title": "Current Affairs Quiz-December, 2019",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-december-2019/"
+    },
+    {
+      "slug": "current-affairs-february-2020",
+      "title": "Current Affairs Quiz - February, 2020",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-february-2020/"
+    },
+    {
+      "slug": "current-affairs-january-2020",
+      "title": "Current Affairs - 2019-20",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-january-2020/"
+    },
+    {
+      "slug": "current-affairs-january-2020-2",
+      "title": "Current Affairs Quiz - January, 2020",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-january-2020-2/"
+    },
+    {
+      "slug": "current-affairs-march-2020",
+      "title": "Current Affairs Quiz - March, 2020",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-march-2020/"
+    },
+    {
+      "slug": "current-affairs-quiz-april-2021",
+      "title": "Current Affairs Quiz - April, 2021",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-april-2021/"
+    },
+    {
+      "slug": "current-affairs-quiz-april-2022",
+      "title": "Current Affairs Quiz - April 2022",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-april-2022/"
+    },
+    {
+      "slug": "current-affairs-quiz-april-2023",
+      "title": "Current Affairs Quiz - April, 2023",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-april-2023/"
+    },
+    {
+      "slug": "current-affairs-quiz-april-2024",
+      "title": "Current Affairs Quiz - April, 2024",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-april-2024/"
+    },
+    {
+      "slug": "current-affairs-quiz-april-2025",
+      "title": "Current Affairs Quiz - April 2025",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-april-2025/"
+    },
+    {
+      "slug": "current-affairs-quiz-april-2026",
+      "title": "Current Affairs Quiz - April 2026",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-april-2026/"
+    },
+    {
+      "slug": "current-affairs-quiz-august-2020",
+      "title": "Current Affairs Quiz - August, 2020",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-august-2020/"
+    },
+    {
+      "slug": "current-affairs-quiz-august-2021",
+      "title": "Current Affairs Quiz - August, 2021",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-august-2021/"
+    },
+    {
+      "slug": "current-affairs-quiz-august-2022",
+      "title": "Current Affairs Quiz - August, 2022",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-august-2022/"
+    },
+    {
+      "slug": "current-affairs-quiz-august-2023",
+      "title": "Current Affairs Quiz - August, 2023",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-august-2023/"
+    },
+    {
+      "slug": "current-affairs-quiz-august-2024",
+      "title": "Current Affairs Quiz - August, 2024",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-august-2024/"
+    },
+    {
+      "slug": "current-affairs-quiz-august-2025",
+      "title": "Current Affairs Quiz – August 2025",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-august-2025/"
+    },
+    {
+      "slug": "current-affairs-quiz-december-2020",
+      "title": "Current Affairs Quiz - December, 2020",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-december-2020/"
+    },
+    {
+      "slug": "current-affairs-quiz-december-2021",
+      "title": "Current Affairs Quiz - December, 2021",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-december-2021/"
+    },
+    {
+      "slug": "current-affairs-quiz-december-2022",
+      "title": "Current Affairs Quiz - December, 2022",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-december-2022/"
+    },
+    {
+      "slug": "current-affairs-quiz-december-2023",
+      "title": "Current Affairs Quiz - December, 2023",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-december-2023/"
+    },
+    {
+      "slug": "current-affairs-quiz-december-2024",
+      "title": "Current Affairs Quiz - December, 2024",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-december-2024/"
+    },
+    {
+      "slug": "current-affairs-quiz-december-2025",
+      "title": "Current Affairs Quiz – December 2025",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-december-2025/"
+    },
+    {
+      "slug": "current-affairs-quiz-february-2021",
+      "title": "Current Affairs Quiz - February, 2021",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-february-2021/"
+    },
+    {
+      "slug": "current-affairs-quiz-february-2022",
+      "title": "Current Affairs Quiz - February 2022",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-february-2022/"
+    },
+    {
+      "slug": "current-affairs-quiz-february-2023",
+      "title": "Current Affairs Quiz - February, 2023",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-february-2023/"
+    },
+    {
+      "slug": "current-affairs-quiz-february-2024",
+      "title": "Current Affairs Quiz - February, 2024",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-february-2024/"
+    },
+    {
+      "slug": "current-affairs-quiz-february-2025",
+      "title": "Current Affairs Quiz - February 2025",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-february-2025/"
+    },
+    {
+      "slug": "current-affairs-quiz-february-2026",
+      "title": "Current Affairs Quiz - February 2026",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-february-2026/"
+    },
+    {
+      "slug": "current-affairs-quiz-january-2021",
+      "title": "Current Affairs Quiz - January, 2021",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-january-2021/"
+    },
+    {
+      "slug": "current-affairs-quiz-january-2022",
+      "title": "Current Affairs Quiz - January 2022",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-january-2022/"
+    },
+    {
+      "slug": "current-affairs-quiz-january-2023",
+      "title": "Current Affairs Quiz - January, 2023",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-january-2023/"
+    },
+    {
+      "slug": "current-affairs-quiz-january-2024",
+      "title": "Current Affairs Quiz - January, 2024",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-january-2024/"
+    },
+    {
+      "slug": "current-affairs-quiz-january-2025",
+      "title": "Current Affairs Quiz - January, 2025",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-january-2025/"
+    },
+    {
+      "slug": "current-affairs-quiz-january-2026",
+      "title": "Current Affairs Quiz - January 2026",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-january-2026/"
+    },
+    {
+      "slug": "current-affairs-quiz-july-2020",
+      "title": "Current Affairs Quiz - July, 2020",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-july-2020/"
+    },
+    {
+      "slug": "current-affairs-quiz-july-2021",
+      "title": "Current Affairs Quiz - July, 2021",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-july-2021/"
+    },
+    {
+      "slug": "current-affairs-quiz-july-2022",
+      "title": "Current Affairs Quiz - July 2022",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-july-2022/"
+    },
+    {
+      "slug": "current-affairs-quiz-july-2023",
+      "title": "Current Affairs Quiz - July, 2023",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-july-2023/"
+    },
+    {
+      "slug": "current-affairs-quiz-july-2024",
+      "title": "Current Affairs Quiz - July, 2024",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-july-2024/"
+    },
+    {
+      "slug": "current-affairs-quiz-july-2025",
+      "title": "Current Affairs Quiz – July 2025",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-july-2025/"
+    },
+    {
+      "slug": "current-affairs-quiz-june-2020",
+      "title": "Current Affairs Quiz - June, 2020",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-june-2020/"
+    },
+    {
+      "slug": "current-affairs-quiz-june-2021",
+      "title": "Current Affairs Quiz - June, 2021",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-june-2021/"
+    },
+    {
+      "slug": "current-affairs-quiz-june-2022",
+      "title": "Current Affairs Quiz - June 2022",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-june-2022/"
+    },
+    {
+      "slug": "current-affairs-quiz-june-2023",
+      "title": "Current Affairs Quiz - June, 2023",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-june-2023/"
+    },
+    {
+      "slug": "current-affairs-quiz-june-2024",
+      "title": "Current Affairs Quiz - June, 2024",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-june-2024/"
+    },
+    {
+      "slug": "current-affairs-quiz-june-2025",
+      "title": "Current Affairs Quiz – June 2025",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-june-2025/"
+    },
+    {
+      "slug": "current-affairs-quiz-march-2021",
+      "title": "Current Affairs Quiz - March, 2021",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-march-2021/"
+    },
+    {
+      "slug": "current-affairs-quiz-march-2022",
+      "title": "Current Affairs Quiz - March 2022",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-march-2022/"
+    },
+    {
+      "slug": "current-affairs-quiz-march-2023",
+      "title": "Current Affairs Quiz - March, 2023",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-march-2023/"
+    },
+    {
+      "slug": "current-affairs-quiz-march-2024",
+      "title": "Current Affairs Quiz - March, 2024",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-march-2024/"
+    },
+    {
+      "slug": "current-affairs-quiz-march-2025",
+      "title": "Current Affairs Quiz - March 2025",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-march-2025/"
+    },
+    {
+      "slug": "current-affairs-quiz-march-2026",
+      "title": "Current Affairs Quiz - March 2026",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-march-2026/"
+    },
+    {
+      "slug": "current-affairs-quiz-may-2021",
+      "title": "Current Affairs Quiz - May, 2021",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-may-2021/"
+    },
+    {
+      "slug": "current-affairs-quiz-may-2022",
+      "title": "Current Affairs Quiz - May 2022",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-may-2022/"
+    },
+    {
+      "slug": "current-affairs-quiz-may-2023",
+      "title": "Current Affairs Quiz - May, 2023",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-may-2023/"
+    },
+    {
+      "slug": "current-affairs-quiz-may-2024",
+      "title": "Current Affairs Quiz - May, 2024",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-may-2024/"
+    },
+    {
+      "slug": "current-affairs-quiz-may-2025",
+      "title": "Current Affairs Quiz - May 2025",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-may-2025/"
+    },
+    {
+      "slug": "current-affairs-quiz-may-2026",
+      "title": "Current Affairs Quiz - May 2026",
+      "total_pages": 4,
+      "questions_per_page": 10,
+      "estimated_total": 40,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-may-2026/"
+    },
+    {
+      "slug": "current-affairs-quiz-november-2020",
+      "title": "Current Affairs Quiz - November, 2020",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-november-2020/"
+    },
+    {
+      "slug": "current-affairs-quiz-november-2021",
+      "title": "Current Affairs Quiz - November, 2021",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-november-2021/"
+    },
+    {
+      "slug": "current-affairs-quiz-november-2022",
+      "title": "Current Affairs Quiz - November, 2022",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-november-2022/"
+    },
+    {
+      "slug": "current-affairs-quiz-november-2023",
+      "title": "Current Affairs Quiz - November, 2023",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-november-2023/"
+    },
+    {
+      "slug": "current-affairs-quiz-november-2024",
+      "title": "Current Affairs Quiz - November, 2024",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-november-2024/"
+    },
+    {
+      "slug": "current-affairs-quiz-november-2025",
+      "title": "Current Affairs Quiz – November 2025",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-november-2025/"
+    },
+    {
+      "slug": "current-affairs-quiz-october-2020",
+      "title": "Current Affairs Quiz - October, 2020",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-october-2020/"
+    },
+    {
+      "slug": "current-affairs-quiz-october-2021",
+      "title": "Current Affairs Quiz - October, 2021",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-october-2021/"
+    },
+    {
+      "slug": "current-affairs-quiz-october-2022",
+      "title": "Current Affairs Quiz - October, 2022",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-october-2022/"
+    },
+    {
+      "slug": "current-affairs-quiz-october-2023",
+      "title": "Current Affairs Quiz - October, 2023",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-october-2023/"
+    },
+    {
+      "slug": "current-affairs-quiz-october-2024",
+      "title": "Current Affairs Quiz - October, 2024",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-october-2024/"
+    },
+    {
+      "slug": "current-affairs-quiz-october-2025",
+      "title": "Current Affairs Quiz – October 2025",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-october-2025/"
+    },
+    {
+      "slug": "current-affairs-quiz-questions-april-2018",
+      "title": "Monthly Current Affairs Quiz - April, 2018",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-questions-april-2018/"
+    },
+    {
+      "slug": "current-affairs-quiz-questions-august-2017",
+      "title": "Monthly Current Affairs Quiz - August, 2017",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-questions-august-2017/"
+    },
+    {
+      "slug": "current-affairs-quiz-questions-december-2017",
+      "title": "Monthly Current Affairs Quiz - December, 2017",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-questions-december-2017/"
+    },
+    {
+      "slug": "current-affairs-quiz-questions-february-2018",
+      "title": "Monthly Current Affairs Quiz - February, 2018",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-questions-february-2018/"
+    },
+    {
+      "slug": "current-affairs-quiz-questions-january-2018",
+      "title": "Monthly Current Affairs Quiz - January, 2018",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-questions-january-2018/"
+    },
+    {
+      "slug": "current-affairs-quiz-questions-july-2017",
+      "title": "Monthly Current Affairs Quiz - July, 2017",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-questions-july-2017/"
+    },
+    {
+      "slug": "current-affairs-quiz-questions-july-2018",
+      "title": "Monthly Current Affairs Quiz - July, 2018",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-questions-july-2018/"
+    },
+    {
+      "slug": "current-affairs-quiz-questions-june-2017",
+      "title": "Monthly Current Affairs Quiz - June, 2017",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-questions-june-2017/"
+    },
+    {
+      "slug": "current-affairs-quiz-questions-june-2018",
+      "title": "Monthly Current Affairs Quiz - June, 2018",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-questions-june-2018/"
+    },
+    {
+      "slug": "current-affairs-quiz-questions-march-2018",
+      "title": "Monthly Current Affairs Quiz - March, 2018",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-questions-march-2018/"
+    },
+    {
+      "slug": "current-affairs-quiz-questions-may-2018",
+      "title": "Monthly Current Affairs Quiz - May, 2018",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-questions-may-2018/"
+    },
+    {
+      "slug": "current-affairs-quiz-questions-november-2017",
+      "title": "Monthly Current Affairs Quiz - November, 2017",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-questions-november-2017/"
+    },
+    {
+      "slug": "current-affairs-quiz-questions-october-2017",
+      "title": "Monthly Current Affairs Quiz - October, 2017",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-questions-october-2017/"
+    },
+    {
+      "slug": "current-affairs-quiz-questions-september-2017",
+      "title": "Monthly Current Affairs Quiz - September, 2017",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-questions-september-2017/"
+    },
+    {
+      "slug": "current-affairs-quiz-september-2020",
+      "title": "Current Affairs Quiz-September, 2020",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-september-2020/"
+    },
+    {
+      "slug": "current-affairs-quiz-september-2021",
+      "title": "Current Affairs Quiz - September, 2021",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-september-2021/"
+    },
+    {
+      "slug": "current-affairs-quiz-september-2022",
+      "title": "Current Affairs Quiz - September, 2022",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-september-2022/"
+    },
+    {
+      "slug": "current-affairs-quiz-september-2023",
+      "title": "Current Affairs Quiz - September, 2023",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-september-2023/"
+    },
+    {
+      "slug": "current-affairs-quiz-september-2024",
+      "title": "Current Affairs Quiz - September, 2024",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-september-2024/"
+    },
+    {
+      "slug": "current-affairs-quiz-september-2025",
+      "title": "Current Affairs Quiz – September 2025",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/current-affairs-quiz-september-2025/"
+    },
+    {
+      "slug": "dairy-poultry-fisheries-forestry-and-other-allied-sectors-mcqs-for-ssc-examination",
+      "title": "9. Dairy, Poultry, Fisheries, Forestry and other allied sectors",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/dairy-poultry-fisheries-forestry-and-other-allied-sectors-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "deccan-sultanates-bahmani-ahmadnagar-berar-bijapur-golconda-bidar",
+      "title": "16. Deccan Sultanates: Bahmani, Ahmadnagar, Berar, Bijapur, Golconda, Bidar",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/deccan-sultanates-bahmani-ahmadnagar-berar-bijapur-golconda-bidar/"
+    },
+    {
+      "slug": "decline-of-delhi-sultanate",
+      "title": "12. Decline of Delhi Sultanate and Rise of Provincial Kingdoms",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/decline-of-delhi-sultanate/"
+    },
+    {
+      "slug": "defence-current-affairs",
+      "title": "Defence Current Affairs MCQs",
+      "total_pages": 8,
+      "questions_per_page": 10,
+      "estimated_total": 80,
+      "url": "https://www.gktoday.in/quizbase/defence-current-affairs/"
+    },
+    {
+      "slug": "defence-gk-mcqs",
+      "title": "Defence & Security of India",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/defence-gk-mcqs/"
+    },
+    {
+      "slug": "development-of-civil-services",
+      "title": "17. Development of Civil Services",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/development-of-civil-services/"
+    },
+    {
+      "slug": "development-of-education",
+      "title": "21. Development of Education",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/development-of-education/"
+    },
+    {
+      "slug": "development-of-indian-press",
+      "title": "24. Indian Press & Literature in British Era",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/development-of-indian-press/"
+    },
+    {
+      "slug": "development-of-infrastructure",
+      "title": "22. Development of Infrastructure",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/development-of-infrastructure/"
+    },
+    {
+      "slug": "development-of-police-and-military",
+      "title": "18. Development of Police and Military",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/development-of-police-and-military/"
+    },
+    {
+      "slug": "discoveries-inventions",
+      "title": "Discoveries & Inventions",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/discoveries-inventions/"
+    },
+    {
+      "slug": "east-india-company-internal-regulation",
+      "title": "9. EIC - Internal Administration & Regulation",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/east-india-company-internal-regulation/"
+    },
+    {
+      "slug": "economic-geography-agriculture-livestock-ranching-animal-husbandry-dairy-farming-plantation-crops",
+      "title": "Economic Geography - Agriculture, Livestock Ranching, Animal Husbandry, Dairy Farming, Plantation Crops",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/economic-geography-agriculture-livestock-ranching-animal-husbandry-dairy-farming-plantation-crops/"
+    },
+    {
+      "slug": "economic-geography-hunting-pastoral-herding-fishing-aquaculture-forestry",
+      "title": "Economic Geography - Hunting, Pastoral Herding, Fishing, Aquaculture, Forestry",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/economic-geography-hunting-pastoral-herding-fishing-aquaculture-forestry/"
+    },
+    {
+      "slug": "economic-geography-manufacturing-industries",
+      "title": "Economic Geography - Manufacturing Industries",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/economic-geography-manufacturing-industries/"
+    },
+    {
+      "slug": "economic-geography-minerals-and-mining-activities",
+      "title": "Economic Geography - Minerals and Mining Activities",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/economic-geography-minerals-and-mining-activities/"
+    },
+    {
+      "slug": "economic-geography-service-industries-quaternary-activities",
+      "title": "Economic Geography - Service Industries, Quaternary Activities",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/economic-geography-service-industries-quaternary-activities/"
+    },
+    {
+      "slug": "economic-growth-development-inclusive-growth-mcqs-for-ssc-examination",
+      "title": "47. Economic Growth, Development, Inclusive Growth MCQs for SSC Examination",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/economic-growth-development-inclusive-growth-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "economic-planning-planning-commission-niti-aayog-mcqs-for-ssc-examination",
+      "title": "5. Economic Planning, Planning Commission, NITI Aayog",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/economic-planning-planning-commission-niti-aayog-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "economic-policies-and-impacts",
+      "title": "20. Economic Policies and Impacts",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/economic-policies-and-impacts/"
+    },
+    {
+      "slug": "economies-types-sectors-branches-mcqs-for-ssc-examination",
+      "title": "3. Economies: Types, Sectors, Branches",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/economies-types-sectors-branches-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "economy-of-delhi-sultanate",
+      "title": "14. Delhi Sultanate: Architecture, Arts and Culture",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/economy-of-delhi-sultanate/"
+    },
+    {
+      "slug": "education-and-training-industry-mcqs-for-ssc-examination",
+      "title": "27. Education and Training Industry",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/education-and-training-industry-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "energy-sector-and-policy-mcqs-for-ssc-examination",
+      "title": "40. Energy Sector and Policy",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/energy-sector-and-policy-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "engineering-and-capital-goods-sector-mcqs-for-ssc-examination",
+      "title": "17. Engineering and Capital Goods Sector",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/engineering-and-capital-goods-sector-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "environment-biodiversity-current-affairs",
+      "title": "Environment & Biodiversity Current Affairs MCQs",
+      "total_pages": 8,
+      "questions_per_page": 10,
+      "estimated_total": 80,
+      "url": "https://www.gktoday.in/quizbase/environment-biodiversity-current-affairs/"
+    },
+    {
+      "slug": "environment-ecology-biodiversity-mcqs",
+      "title": "Environment & Biodiversity MCQs",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/environment-ecology-biodiversity-mcqs/"
+    },
+    {
+      "slug": "famines-and-other-natural-disasters",
+      "title": "23. Famines and other Natural Disasters",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/famines-and-other-natural-disasters/"
+    },
+    {
+      "slug": "fiscal-policy-budget-indias-debt-mcqs-for-ssc-examination",
+      "title": "41. Fiscal Policy, Budget, India&apos;s debt",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/fiscal-policy-budget-indias-debt-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "fmcg-and-consumer-durables-sectors-mcqs-for-ssc-examination",
+      "title": "16. FMCG and Consumer Durables Sectors",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/fmcg-and-consumer-durables-sectors-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "foreign-investments-in-india-mcqs-for-ssc-examination",
+      "title": "46. Foreign Investments in India MCQs for SSC Examination",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/foreign-investments-in-india-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "foreign-trade-policy-balance-of-trade-balance-of-payment-wto-mcqs-for-ssc-examination",
+      "title": "43. Foreign Trade - Policy, Balance of Trade, Balance of Payment, WTO",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/foreign-trade-policy-balance-of-trade-balance-of-payment-wto-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "forex-reserves-of-india-and-forex-management-mcqs-for-ssc-examination",
+      "title": "44. Forex Reserves of India and Forex Management",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/forex-reserves-of-india-and-forex-management-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "freedom-fighters-leaders",
+      "title": "28. Freedom Struggle - Freedom Fighters & Leaders",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/freedom-fighters-leaders/"
+    },
+    {
+      "slug": "french-east-india-company",
+      "title": "6. French East India Company",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/french-east-india-company/"
+    },
+    {
+      "slug": "gems-and-jewellery-industry-mcqs-for-ssc-examination",
+      "title": "18. Gems and Jewellery Industry",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/gems-and-jewellery-industry-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "general-science-biology-mcqs",
+      "title": "Biology MCQs",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/general-science-biology-mcqs/"
+    },
+    {
+      "slug": "general-science-chemistry",
+      "title": "Chemistry MCQs",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/general-science-chemistry/"
+    },
+    {
+      "slug": "general-science-for-competitive-examinations",
+      "title": "General Science Questions (MCQs) for Competitive Examinations",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/general-science-for-competitive-examinations/"
+    },
+    {
+      "slug": "general-science-physics-mcqs",
+      "title": "Physics MCQs",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/general-science-physics-mcqs/"
+    },
+    {
+      "slug": "geology-geological-time-earths-internal-structure",
+      "title": "Geology Geological Time Earths Internal Structure",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/geology-geological-time-earths-internal-structure/"
+    },
+    {
+      "slug": "geology-geological-time-earths-internal-structure-33",
+      "title": "Geology - Earth Movements, Latitude, Longitude and Time",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/geology-geological-time-earths-internal-structure-33/"
+    },
+    {
+      "slug": "geology-rocks-plate-tectonics-earthquakes-volcanoes",
+      "title": "Geology - Rocks, Plate Tectonics, Earthquakes, Volcanoes",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/geology-rocks-plate-tectonics-earthquakes-volcanoes/"
+    },
+    {
+      "slug": "gk-other-sections",
+      "title": "International Organizations, Defence, Books & Authors, World History",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/gk-other-sections/"
+    },
+    {
+      "slug": "goa-gk-questions-for-goa-public-service-commission-exams",
+      "title": "States PCS: Goa GK Questions for Goa Public Service Commission Exams",
+      "total_pages": 2,
+      "questions_per_page": 10,
+      "estimated_total": 20,
+      "url": "https://www.gktoday.in/quizbase/goa-gk-questions-for-goa-public-service-commission-exams/"
+    },
+    {
+      "slug": "government-schemes-current-affairs",
+      "title": "Government Schemes [India & States] Current Affairs MCQs",
+      "total_pages": 8,
+      "questions_per_page": 10,
+      "estimated_total": 80,
+      "url": "https://www.gktoday.in/quizbase/government-schemes-current-affairs/"
+    },
+    {
+      "slug": "gujarat-gk-questions-for-gpsc-exams",
+      "title": "States PCS: Gujarat GK Questions for GPSC Exams",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/gujarat-gk-questions-for-gpsc-exams/"
+    },
+    {
+      "slug": "gujarati-current-affairs",
+      "title": "Current Affairs in Gujarati [ગુજરાતી કરંટ અફેર્સ 2026-27]",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/gujarati-current-affairs/"
+    },
+    {
+      "slug": "haryana-gk-questions-for-hpsc-examinations",
+      "title": "States PCS: Haryana GK Questions for HPSC Examinations",
+      "total_pages": 1,
+      "questions_per_page": 4,
+      "estimated_total": 4,
+      "url": "https://www.gktoday.in/quizbase/haryana-gk-questions-for-hpsc-examinations/"
+    },
+    {
+      "slug": "healthcare-services-industry-mcqs-for-ssc-examination",
+      "title": "28. Healthcare Services Industry",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/healthcare-services-industry-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "hindi-current-affairs",
+      "title": "Current Affairs in Hindi [हिन्दी करेंट अफेयर्स] 2026-27",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/hindi-current-affairs/"
+    },
+    {
+      "slug": "historians-and-historiography-of-medieval-india",
+      "title": "1. Sources of Medieval Indian History",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/historians-and-historiography-of-medieval-india/"
+    },
+    {
+      "slug": "hppsc",
+      "title": "States PCS: Himachal Pradesh GK for HPPSC Exams",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/hppsc/"
+    },
+    {
+      "slug": "human-geography-human-evolution-races-tribes-of-world",
+      "title": "Human Geography - Human Evolution, Races, Tribes of World",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/human-geography-human-evolution-races-tribes-of-world/"
+    },
+    {
+      "slug": "human-geography-population-demography-migration-settlements-urbanization",
+      "title": "Human Geography: Population, Demography, Migration, Settlements, Urbanization",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/human-geography-population-demography-migration-settlements-urbanization/"
+    },
+    {
+      "slug": "important-concepts-in-micro-macroeconomics-mcqs-for-ssc-examination",
+      "title": "1. Important Concepts in Micro & Macroeconomics",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/important-concepts-in-micro-macroeconomics-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "important-days-and-events-current-affairs",
+      "title": "Important Days and Events Current Affairs MCQs",
+      "total_pages": 8,
+      "questions_per_page": 10,
+      "estimated_total": 80,
+      "url": "https://www.gktoday.in/quizbase/important-days-and-events-current-affairs/"
+    },
+    {
+      "slug": "important-days-and-years",
+      "title": "Important Days and Years",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/important-days-and-years/"
+    },
+    {
+      "slug": "india-and-world-bank-imf-mcqs-for-ssc-examination",
+      "title": "45. India and World Bank & IMF MCQs for SSC Examination",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/india-and-world-bank-imf-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "india-government-politics-current-affairs",
+      "title": "India Current Affairs [Nation & States] MCQs",
+      "total_pages": 8,
+      "questions_per_page": 10,
+      "estimated_total": 80,
+      "url": "https://www.gktoday.in/quizbase/india-government-politics-current-affairs/"
+    },
+    {
+      "slug": "india-under-east-india-company",
+      "title": "8. East India Company Rule - Revenue, Reforms Etc.",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/india-under-east-india-company/"
+    },
+    {
+      "slug": "indian-culture-general-studies-mcqs",
+      "title": "Indian Culture MCQs",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/indian-culture-general-studies-mcqs/"
+    },
+    {
+      "slug": "indian-culture01-religion-and-philosophy",
+      "title": "Indian Culture: 01-Religion and Philosophy",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture01-religion-and-philosophy/"
+    },
+    {
+      "slug": "indian-culture02-paintings",
+      "title": "Indian Culture: 02-Indian Paintings",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture02-paintings/"
+    },
+    {
+      "slug": "indian-culture03-folk-paintings",
+      "title": "Indian Culture: 03-Indian Folk Paintings",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture03-folk-paintings/"
+    },
+    {
+      "slug": "indian-culture04-sculpture",
+      "title": "Indian Culture:04-Sculpture",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture04-sculpture/"
+    },
+    {
+      "slug": "indian-culture05-ancient-architecture",
+      "title": "Indian Culture:05-Ancient Architecture",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture05-ancient-architecture/"
+    },
+    {
+      "slug": "indian-culture06-medieval-architecture",
+      "title": "Indian Culture:06-Medieval Architecture",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture06-medieval-architecture/"
+    },
+    {
+      "slug": "indian-culture07-modern-architecture",
+      "title": "Indian Culture:07-Modern Architecture",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture07-modern-architecture/"
+    },
+    {
+      "slug": "indian-culture08-indian-classical-dance",
+      "title": "Indian Culture:08-Indian Classical Dance",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture08-indian-classical-dance/"
+    },
+    {
+      "slug": "indian-culture09-indian-folk-dances",
+      "title": "Indian Culture:09-Indian Folk Dances",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture09-indian-folk-dances/"
+    },
+    {
+      "slug": "indian-culture10-indian-classical-music",
+      "title": "Indian Culture:10-Indian Classical Music",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture10-indian-classical-music/"
+    },
+    {
+      "slug": "indian-culture11-indian-folk-music",
+      "title": "Indian Culture:11-Indian Folk Music",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture11-indian-folk-music/"
+    },
+    {
+      "slug": "indian-culture12-fairs-and-festivals",
+      "title": "Indian Culture:12-Fairs and Festivals",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture12-fairs-and-festivals/"
+    },
+    {
+      "slug": "indian-culture13-sports-and-martial-arts",
+      "title": "Indian Culture:13-Sports and martial arts",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture13-sports-and-martial-arts/"
+    },
+    {
+      "slug": "indian-culture14-theatre-and-cinema",
+      "title": "Indian Culture:14-Theatre and Cinema",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture14-theatre-and-cinema/"
+    },
+    {
+      "slug": "indian-culture15-folk-theatre",
+      "title": "Indian Culture:15-Folk Theatre",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture15-folk-theatre/"
+    },
+    {
+      "slug": "indian-culture16-puppetry-art",
+      "title": "Indian Culture:16-Puppetry Art",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture16-puppetry-art/"
+    },
+    {
+      "slug": "indian-culture17-cinema-and-television",
+      "title": "Indian Culture:17-Television and Media",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture17-cinema-and-television/"
+    },
+    {
+      "slug": "indian-culture18-family-and-marriage",
+      "title": "Indian Culture:18-Family and Marriage",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture18-family-and-marriage/"
+    },
+    {
+      "slug": "indian-culture19-indian-cuisine",
+      "title": "Indian Culture:19-Indian Cuisine",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture19-indian-cuisine/"
+    },
+    {
+      "slug": "indian-culture20-handlooms-and-handicrafts",
+      "title": "Indian Culture:20-Handlooms and Handicrafts",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture20-handlooms-and-handicrafts/"
+    },
+    {
+      "slug": "indian-culture21-indian-clothing-and-textiles",
+      "title": "Indian Culture:21-Indian Clothing and Textiles",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture21-indian-clothing-and-textiles/"
+    },
+    {
+      "slug": "indian-culture22-languages",
+      "title": "Indian Culture:22-Languages",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture22-languages/"
+    },
+    {
+      "slug": "indian-culture23-literature-sanskrit",
+      "title": "Indian Culture:23-Literature – Ancient & Medieval",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture23-literature-sanskrit/"
+    },
+    {
+      "slug": "indian-culture24-literature-hindi",
+      "title": "Indian Culture:24-Modern Indian Literature",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture24-literature-hindi/"
+    },
+    {
+      "slug": "indian-culture25-literature-regional-languages",
+      "title": "Indian Culture:25-Literature – Regional Languages",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture25-literature-regional-languages/"
+    },
+    {
+      "slug": "indian-culture26-indian-heritage-sites-and-landmar",
+      "title": "Indian Culture:26: Indian Cultural Heritage Sites and Landmarks",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture26-indian-heritage-sites-and-landmar/"
+    },
+    {
+      "slug": "indian-culture27-national-insignia",
+      "title": "Indian Culture:27: National Insignia",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-culture27-national-insignia/"
+    },
+    {
+      "slug": "indian-economy-history-salient-features-mcqs-for-ssc-examination",
+      "title": "4. Indian Economy: History & Salient Features",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-economy-history-salient-features-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "indian-economy-mcqs",
+      "title": "40000+MCQS [Book-10 & 11] #Indian Economy MCQs",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/indian-economy-mcqs/"
+    },
+    {
+      "slug": "indian-geography-agriculture-irrigation-water-resources",
+      "title": "Indian Geography - Agriculture, Irrigation, Water Resources",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-geography-agriculture-irrigation-water-resources/"
+    },
+    {
+      "slug": "indian-geography-climate-climatic-regions-rains-monsoon-winds",
+      "title": "7. Climate, Climatic Regions, Rains, Monsoon, Winds in India",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-geography-climate-climatic-regions-rains-monsoon-winds/"
+    },
+    {
+      "slug": "indian-geography-demography-population-census-races-tribes-languages-settlements",
+      "title": "Indian Geography - Demography, Population, Census, Races, Tribes, Languages, Settlements",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-geography-demography-population-census-races-tribes-languages-settlements/"
+    },
+    {
+      "slug": "indian-geography-drainage-system-rivers-lakes-waterfalls-other-water-bodies",
+      "title": "6. Drainage System, Rivers, Lakes, Waterfalls, Other Water Bodies",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-geography-drainage-system-rivers-lakes-waterfalls-other-water-bodies/"
+    },
+    {
+      "slug": "indian-geography-geology-tectonics-earthquakes-volcanoes",
+      "title": "2. Geology, Tectonics, Earthquakes, Volcanoes in India",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-geography-geology-tectonics-earthquakes-volcanoes/"
+    },
+    {
+      "slug": "indian-geography-industries-industrial-cities",
+      "title": "Indian Geography - Industries, Industrial Cities",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-geography-industries-industrial-cities/"
+    },
+    {
+      "slug": "indian-geography-islands-coral-reefs-mangroves-coasts-beaches",
+      "title": "5. Islands, Coral Reefs, Mangroves, Coasts, Beaches",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-geography-islands-coral-reefs-mangroves-coasts-beaches/"
+    },
+    {
+      "slug": "indian-geography-location-extent-administrative-physiographic-divisions",
+      "title": "1. Location, Extent, Administrative, Physiographic Divisions of India",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-geography-location-extent-administrative-physiographic-divisions/"
+    },
+    {
+      "slug": "indian-geography-mcqs",
+      "title": "Indian Geography MCQs",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/indian-geography-mcqs/"
+    },
+    {
+      "slug": "indian-geography-mines-minerals-coal-coal-fields-oil-natural-gas",
+      "title": "Indian Geography - Mines, Minerals, Coal, Coal Fields, Oil & Natural Gas",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-geography-mines-minerals-coal-coal-fields-oil-natural-gas/"
+    },
+    {
+      "slug": "indian-geography-mountains-glaciers-mountain-passes-hill-stations-plateaus",
+      "title": "4. Mountains, Glaciers, Mountain Passes, Hill Stations, Plateaus of India",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-geography-mountains-glaciers-mountain-passes-hill-stations-plateaus/"
+    },
+    {
+      "slug": "indian-geography-plains-deserts",
+      "title": "3. Plains, Deserts of India",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-geography-plains-deserts/"
+    },
+    {
+      "slug": "indian-geography-soils-natural-vegetation-forests",
+      "title": "Indian Geography - Soils, Natural Vegetation, Forests",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-geography-soils-natural-vegetation-forests/"
+    },
+    {
+      "slug": "indian-geography-thermal-energy-hydroelectricity-nuclear-and-non-conventional-power-resources",
+      "title": "Indian Geography - Thermal Energy, Hydroelectricity, Nuclear and Non-conventional Power Resources",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-geography-thermal-energy-hydroelectricity-nuclear-and-non-conventional-power-resources/"
+    },
+    {
+      "slug": "indian-geography-transport-roads-railways-ports-shipping-air-inland-water-transport",
+      "title": "Indian Geography - Transport - Roads, Railways, Ports, Shipping, Air & Inland Water Transport",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-geography-transport-roads-railways-ports-shipping-air-inland-water-transport/"
+    },
+    {
+      "slug": "indian-polity-1-evolution-of-indian-constitution",
+      "title": "Historical Background",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-1-evolution-of-indian-constitution/"
+    },
+    {
+      "slug": "indian-polity-10-amendment-of-the-constitution-bas",
+      "title": "Important Amendment of Constitution",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-10-amendment-of-the-constitution-bas/"
+    },
+    {
+      "slug": "indian-polity-11-system-of-government-in-india",
+      "title": "System of Government in India",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-11-system-of-government-in-india/"
+    },
+    {
+      "slug": "indian-polity-12-president",
+      "title": "President",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-12-president/"
+    },
+    {
+      "slug": "indian-polity-13-vice-president",
+      "title": "Vice-President",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-13-vice-president/"
+    },
+    {
+      "slug": "indian-polity-14-prime-minister-union-council-of-m",
+      "title": "Prime Minister & Union Council of Ministers",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-14-prime-minister-union-council-of-m/"
+    },
+    {
+      "slug": "indian-polity-16-parliament",
+      "title": "Parliament",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-16-parliament/"
+    },
+    {
+      "slug": "indian-polity-17-parliamentary-committees-forums-a",
+      "title": "Parliamentary Committees, Forums and Parliamentary Group",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-17-parliamentary-committees-forums-a/"
+    },
+    {
+      "slug": "indian-polity-18-supreme-court-review-activism-pil",
+      "title": "Supreme Court, Review, Activism, PIL",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-18-supreme-court-review-activism-pil/"
+    },
+    {
+      "slug": "indian-polity-19-state-government-governor",
+      "title": "State Government - Governor",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-19-state-government-governor/"
+    },
+    {
+      "slug": "indian-polity-2-constituent-assembly-making-of-the",
+      "title": "Constituent Assembly & Making of the Constitution",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-2-constituent-assembly-making-of-the/"
+    },
+    {
+      "slug": "indian-polity-20-chief-minister-state-council-of-m",
+      "title": "Chief Minister & State Council of Ministers",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-20-chief-minister-state-council-of-m/"
+    },
+    {
+      "slug": "indian-polity-21-state-legislature-assemblies-legi",
+      "title": "State Legislature: Assemblies & Legislative Councils",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-21-state-legislature-assemblies-legi/"
+    },
+    {
+      "slug": "indian-polity-22-high-courts-subordinate-courts",
+      "title": "High Courts & Subordinate Courts",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-22-high-courts-subordinate-courts/"
+    },
+    {
+      "slug": "indian-polity-23-special-provisions-for-various-st",
+      "title": "Special Provisions for Various States",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-23-special-provisions-for-various-st/"
+    },
+    {
+      "slug": "indian-polity-24-centre-state-relations-inter-stat",
+      "title": "Centre-State Relations & Inter-state Relations",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-24-centre-state-relations-inter-stat/"
+    },
+    {
+      "slug": "indian-polity-25-emergency-provisions",
+      "title": "Emergency Provisions",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-25-emergency-provisions/"
+    },
+    {
+      "slug": "indian-polity-26-panchayati-raj-evolution-key-feat",
+      "title": "Evolution of Panchayati Raj",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-26-panchayati-raj-evolution-key-feat/"
+    },
+    {
+      "slug": "indian-polity-27-rural-local-government",
+      "title": "Rural Local Government",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-27-rural-local-government/"
+    },
+    {
+      "slug": "indian-polity-28-urban-local-government",
+      "title": "Urban Local Government",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-28-urban-local-government/"
+    },
+    {
+      "slug": "indian-polity-29-union-territories",
+      "title": "Union Territories",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-29-union-territories/"
+    },
+    {
+      "slug": "indian-polity-3-salient-features-of-the-constituti",
+      "title": "Salient Features of the Constitution",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-3-salient-features-of-the-constituti/"
+    },
+    {
+      "slug": "indian-polity-30-scheduled-and-tribal-areas",
+      "title": "Scheduled and Tribal Areas",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-30-scheduled-and-tribal-areas/"
+    },
+    {
+      "slug": "indian-polity-31-overview-of-various-bodies-in-ind",
+      "title": "Overview of Various Bodies in India",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-31-overview-of-various-bodies-in-ind/"
+    },
+    {
+      "slug": "indian-polity-32-finance-commissions-central-state",
+      "title": "Finance Commissions [Central & States]",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-32-finance-commissions-central-state/"
+    },
+    {
+      "slug": "indian-polity-33-election-commission-central-state",
+      "title": "Election Commission [Central & States]",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-33-election-commission-central-state/"
+    },
+    {
+      "slug": "indian-polity-34-elections-election-laws-in-india",
+      "title": "Elections & Election Laws in India",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-34-elections-election-laws-in-india/"
+    },
+    {
+      "slug": "indian-polity-35-public-service-commissions-centra",
+      "title": "Public Service Commissions [Central & States]",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-35-public-service-commissions-centra/"
+    },
+    {
+      "slug": "indian-polity-36-public-services-in-india",
+      "title": "Public Services in India",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-36-public-services-in-india/"
+    },
+    {
+      "slug": "indian-polity-37-national-commissions-on-scs-sts-b",
+      "title": "Various National Commissions",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-37-national-commissions-on-scs-sts-b/"
+    },
+    {
+      "slug": "indian-polity-38-information-commissions",
+      "title": "RTI and Information Commissions",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-38-information-commissions/"
+    },
+    {
+      "slug": "indian-polity-39-comptroller-and-auditor-general-o",
+      "title": "Comptroller and Auditor General of India (CAG)",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-39-comptroller-and-auditor-general-o/"
+    },
+    {
+      "slug": "indian-polity-4-preamble-of-the-constitution",
+      "title": "Preamble of the Constitution",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-4-preamble-of-the-constitution/"
+    },
+    {
+      "slug": "indian-polity-40-attorney-general-advocate-general",
+      "title": "Attorney General, Advocate General and other Law Officers",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-40-attorney-general-advocate-general/"
+    },
+    {
+      "slug": "indian-polity-41-planning-commission-niti-aayog",
+      "title": "Planning Commission & NITI Aayog",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-41-planning-commission-niti-aayog/"
+    },
+    {
+      "slug": "indian-polity-42-central-vigilance-commission-cbi",
+      "title": "Central Vigilance Commission & CBI",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-42-central-vigilance-commission-cbi/"
+    },
+    {
+      "slug": "indian-polity-43-lokpal-lokayuktas",
+      "title": "Lokpal & Lokayuktas",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-43-lokpal-lokayuktas/"
+    },
+    {
+      "slug": "indian-polity-44-gst-and-gst-council",
+      "title": "GST and GST Council",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-44-gst-and-gst-council/"
+    },
+    {
+      "slug": "indian-polity-45-97th-amendment-and-co-operative-s",
+      "title": "97th Amendment and Co-operative Societies",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-45-97th-amendment-and-co-operative-s/"
+    },
+    {
+      "slug": "indian-polity-46-provisions-related-to-languages",
+      "title": "Provisions Related to Languages",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-46-provisions-related-to-languages/"
+    },
+    {
+      "slug": "indian-polity-47-tribunals",
+      "title": "Tribunals",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-47-tribunals/"
+    },
+    {
+      "slug": "indian-polity-48-rights-and-liabilities-of-the-gov",
+      "title": "Rights and Liabilities of the Government",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-48-rights-and-liabilities-of-the-gov/"
+    },
+    {
+      "slug": "indian-polity-5-union-and-its-territory",
+      "title": "Union and its Territory",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-5-union-and-its-territory/"
+    },
+    {
+      "slug": "indian-polity-50-special-provisions-relating-to-ce",
+      "title": "Special Provisions Relating to Certain Classes",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-50-special-provisions-relating-to-ce/"
+    },
+    {
+      "slug": "indian-polity-52-important-laws-on-consumer-protec",
+      "title": "Important Laws on Consumer Protection",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-52-important-laws-on-consumer-protec/"
+    },
+    {
+      "slug": "indian-polity-53-important-laws-on-corruption",
+      "title": "Important Laws on Corruption",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-53-important-laws-on-corruption/"
+    },
+    {
+      "slug": "indian-polity-54-important-laws-on-criminal-activi",
+      "title": "Important Laws on Crime and Terror",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-54-important-laws-on-criminal-activi/"
+    },
+    {
+      "slug": "indian-polity-55-important-laws-on-education",
+      "title": "Important Laws on Education",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-55-important-laws-on-education/"
+    },
+    {
+      "slug": "indian-polity-56-important-laws-on-environment-for",
+      "title": "Important Laws on Environment & Forests",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-56-important-laws-on-environment-for/"
+    },
+    {
+      "slug": "indian-polity-57-important-laws-on-finance-financi",
+      "title": "Important Laws on Finance & Financial Crimes",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-57-important-laws-on-finance-financi/"
+    },
+    {
+      "slug": "indian-polity-58-important-laws-on-healthcare",
+      "title": "Important Laws on Healthcare",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-58-important-laws-on-healthcare/"
+    },
+    {
+      "slug": "indian-polity-59-important-laws-on-labour-personal",
+      "title": "Important Labour and Personnel Laws",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-59-important-laws-on-labour-personal/"
+    },
+    {
+      "slug": "indian-polity-6-citizenship-citizenship-laws",
+      "title": "Citizenship & Citizenship Laws",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-6-citizenship-citizenship-laws/"
+    },
+    {
+      "slug": "indian-polity-60-important-laws-on-social-protecti",
+      "title": "Important Laws on Social Protection",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-60-important-laws-on-social-protecti/"
+    },
+    {
+      "slug": "indian-polity-7-fundamental-rights",
+      "title": "Fundamental Rights",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-7-fundamental-rights/"
+    },
+    {
+      "slug": "indian-polity-8-directive-principles-of-state-poli",
+      "title": "Directive Principles and Fundamental Duties",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-8-directive-principles-of-state-poli/"
+    },
+    {
+      "slug": "indian-polity-9-fundamental-duties",
+      "title": "Amendment of Constitution and Basic Structure Doctrine",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-9-fundamental-duties/"
+    },
+    {
+      "slug": "indian-polity-constitution-mcqs",
+      "title": "40000+MCQS [Book-05 & 06] #Indian Polity & Constitution MCQs",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/indian-polity-constitution-mcqs/"
+    },
+    {
+      "slug": "indian-society-economy-in-early-medieval-period",
+      "title": "3. Indian Society & Economy in Early Medieval Period",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indian-society-economy-in-early-medieval-period/"
+    },
+    {
+      "slug": "indias-tax-regime-mcqs-for-ssc-examination",
+      "title": "42. India&apos;s Tax Regime",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/indias-tax-regime-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "industries-types-policies-and-industrial-production-data-mcqs-for-ssc-examination",
+      "title": "12. Industries: Types, Policies and Industrial Production Data",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/industries-types-policies-and-industrial-production-data-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "inflation-and-price-rise-mcqs-for-ssc-examination",
+      "title": "50. Inflation and Price Rise MCQs for SSC Examination",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/inflation-and-price-rise-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "infrastructure-sector-and-policy-mcqs-for-ssc-examination",
+      "title": "38. Infrastructure Sector and Policy",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/infrastructure-sector-and-policy-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "initial-invasions-of-arabs-and-turks",
+      "title": "4. Initial Invasions of Arabs and Turks",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/initial-invasions-of-arabs-and-turks/"
+    },
+    {
+      "slug": "international-current-affairs",
+      "title": "International Current Affairs MCQs",
+      "total_pages": 8,
+      "questions_per_page": 10,
+      "estimated_total": 80,
+      "url": "https://www.gktoday.in/quizbase/international-current-affairs/"
+    },
+    {
+      "slug": "international-organizations-mcqs",
+      "title": "International Organizations",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/international-organizations-mcqs/"
+    },
+    {
+      "slug": "introduction-to-geography-and-geographers",
+      "title": "Introduction to Geography and Geographers",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/introduction-to-geography-and-geographers/"
+    },
+    {
+      "slug": "it-ites-sector-mcqs-for-ssc-examination",
+      "title": "29. IT & ITeS Sector",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/it-ites-sector-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "jammu-kashmir-gk-questions-for-jkpsc-exams",
+      "title": "States PCS: Jammu & Kashmir GK Questions for JKPSC Exams",
+      "total_pages": 2,
+      "questions_per_page": 10,
+      "estimated_total": 20,
+      "url": "https://www.gktoday.in/quizbase/jammu-kashmir-gk-questions-for-jkpsc-exams/"
+    },
+    {
+      "slug": "judicial-developments",
+      "title": "15. Judicial Developments during British Era",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/judicial-developments/"
+    },
+    {
+      "slug": "kannada-current-affairs",
+      "title": "Current Affairs in Kannada [ಕನ್ನಡದಲ್ಲಿ ಪ್ರಚಲಿತ ವಿದ್ಯಮಾನಗಳು] – 2026-27]",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/kannada-current-affairs/"
+    },
+    {
+      "slug": "karnataka-gk-for-karnataka-state-exams",
+      "title": "States PCS: Karnataka GK for KPSC and other Karnataka State Exams",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/karnataka-gk-for-karnataka-state-exams/"
+    },
+    {
+      "slug": "kerala-gk-questions-for-kpsc-examinations",
+      "title": "States PCS: Kerala GK Questions for KPSC Examinations",
+      "total_pages": 2,
+      "questions_per_page": 10,
+      "estimated_total": 20,
+      "url": "https://www.gktoday.in/quizbase/kerala-gk-questions-for-kpsc-examinations/"
+    },
+    {
+      "slug": "khilji-dynasty-1290-1320",
+      "title": "8. Khilji Dynasty (1290-1320)",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/khilji-dynasty-1290-1320/"
+    },
+    {
+      "slug": "labour-related-issues-and-reforms-mcqs-for-ssc-examination",
+      "title": "49. Labour Related Issues and Reforms MCQs for SSC Examination",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/labour-related-issues-and-reforms-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "lodi-dynasty-1451-1526",
+      "title": "11. Lodi Dynasty (1451–1526)",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/lodi-dynasty-1451-1526/"
+    },
+    {
+      "slug": "maharashtra-gk-questions-for-mpsc-examinations",
+      "title": "States PCS: Maharashtra GK Questions for MPSC Examinations",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/maharashtra-gk-questions-for-mpsc-examinations/"
+    },
+    {
+      "slug": "mahatma-gandhi-life-role-philosophy",
+      "title": "29. Mahatma Gandhi - Life, Role and Philosophy",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/mahatma-gandhi-life-role-philosophy/"
+    },
+    {
+      "slug": "mahmud-of-ghazni",
+      "title": "5. Mahmud of Ghazni",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/mahmud-of-ghazni/"
+    },
+    {
+      "slug": "mamluk-dynasty-1206-90",
+      "title": "7. Mamluk dynasty (1206–90)",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/mamluk-dynasty-1206-90/"
+    },
+    {
+      "slug": "manipur-gk-questions-for-manipur-public-service-commission-exams",
+      "title": "States PCS: Manipur GK Questions for Manipur Public Service Commission Exams",
+      "total_pages": 3,
+      "questions_per_page": 10,
+      "estimated_total": 30,
+      "url": "https://www.gktoday.in/quizbase/manipur-gk-questions-for-manipur-public-service-commission-exams/"
+    },
+    {
+      "slug": "maratha-empire-shivaji",
+      "title": "21. Maratha Empire",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/maratha-empire-shivaji/"
+    },
+    {
+      "slug": "marathi-current-affairs",
+      "title": "Current Affairs in Marathi [मराठी चालू घडामोडी 2026-27]",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/marathi-current-affairs/"
+    },
+    {
+      "slug": "media-and-entertainment-sector-mcqs-for-ssc-examination",
+      "title": "30. Media and Entertainment Sector",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/media-and-entertainment-sector-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "medieval-indian-coins-and-coinage",
+      "title": "2. Medieval Indian Coins and Coinage",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/medieval-indian-coins-and-coinage/"
+    },
+    {
+      "slug": "medieval-indian-history",
+      "title": "Medieval Indian History MCQs",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/medieval-indian-history/"
+    },
+    {
+      "slug": "medieval-world-history",
+      "title": "Medieval World History",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/medieval-world-history/"
+    },
+    {
+      "slug": "metals-and-mining-sector-mcqs-for-ssc-examination",
+      "title": "19. Metals and Mining Sector",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/metals-and-mining-sector-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "modern-indian-history-freedom-struggle",
+      "title": "40000+MCQS [Book-03 & 04] #Modern Indian History MCQs",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/modern-indian-history-freedom-struggle/"
+    },
+    {
+      "slug": "modern-world-history",
+      "title": "Modern World History",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/modern-world-history/"
+    },
+    {
+      "slug": "money-markets-monetary-policy-mcqs-for-ssc-examination",
+      "title": "35. Money Markets & Monetary Policy",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/money-markets-monetary-policy-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "monthly-current-affairs-quiz-may-2020",
+      "title": "Current Affairs Quiz - May, 2020",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/monthly-current-affairs-quiz-may-2020/"
+    },
+    {
+      "slug": "mppsc",
+      "title": "States PCS: Madhya Pradesh GK Questions For MPPSC Examinations",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/mppsc/"
+    },
+    {
+      "slug": "mughal-empire-architecture-arts-culture-literature",
+      "title": "20. Mughal Empire: Society, Culture, Arts, Architecture & Literature",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/mughal-empire-architecture-arts-culture-literature/"
+    },
+    {
+      "slug": "mughal-empire-history-mcqs",
+      "title": "18. Mughal Empire: Political History",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/mughal-empire-history-mcqs/"
+    },
+    {
+      "slug": "mughal-empire-polity-administration-economy",
+      "title": "19. Mughal Empire: Polity, Administration & Economy",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/mughal-empire-polity-administration-economy/"
+    },
+    {
+      "slug": "muhammad-ghori-foundation-of-delhi-sultanate",
+      "title": "6. Muhammad Ghori & Foundation of Delhi Sultanate",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/muhammad-ghori-foundation-of-delhi-sultanate/"
+    },
+    {
+      "slug": "nagaland-gk-questions-for-nagaland-public-service-commission-examinations",
+      "title": "States PCS: Nagaland GK Questions for Nagaland PSC Examinations",
+      "total_pages": 3,
+      "questions_per_page": 10,
+      "estimated_total": 30,
+      "url": "https://www.gktoday.in/quizbase/nagaland-gk-questions-for-nagaland-public-service-commission-examinations/"
+    },
+    {
+      "slug": "notable-economists-india-and-world-mcqs-for-ssc-examination",
+      "title": "2. Notable Economists - India and World",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/notable-economists-india-and-world-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "oceanography-coral-reefs-tides-and-waves",
+      "title": "Oceanography - Coral Reefs, Tides and Waves",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/oceanography-coral-reefs-tides-and-waves/"
+    },
+    {
+      "slug": "oceanography-major-oceans-ocean-bottom-relief-ocean-deposits",
+      "title": "Oceanography - Major Oceans, Ocean Bottom Relief, Ocean Deposits",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/oceanography-major-oceans-ocean-bottom-relief-ocean-deposits/"
+    },
+    {
+      "slug": "oceanography-ocean-currents-coastal-climate",
+      "title": "Oceanography - Ocean Currents, Coastal Climate",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/oceanography-ocean-currents-coastal-climate/"
+    },
+    {
+      "slug": "oceanography-ocean-temperature-density-salinity",
+      "title": "Oceanography - Ocean Temperature, Density, Salinity",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/oceanography-ocean-temperature-density-salinity/"
+    },
+    {
+      "slug": "odisha-gk-general-studies-for-opsc-and-other-odisha-exams",
+      "title": "States PCS: Odisha GK & General Studies for OPSC and other Odisha Exams",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/odisha-gk-general-studies-for-opsc-and-other-odisha-exams/"
+    },
+    {
+      "slug": "oil-and-gas-sector-mcqs-for-ssc-examination",
+      "title": "20. Oil and Gas Sector",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/oil-and-gas-sector-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "oil-seeds-horticulture-and-plantation-crops-mcqs-for-ssc-examination",
+      "title": "8. Oil Seeds, Horticulture and Plantation Crops",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/oil-seeds-horticulture-and-plantation-crops-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "peoples-resistance-before-1857",
+      "title": "10. Resistance Before 1857",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/peoples-resistance-before-1857/"
+    },
+    {
+      "slug": "pharmaceuticals-industry-mcqs-for-ssc-examination",
+      "title": "21. Pharmaceuticals Industry",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/pharmaceuticals-industry-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "physical-geography-important-archipelagos-coral-reefs-atolls",
+      "title": "Physical Geography - Important Seas, Archipelagos, Coral Reefs, Atolls",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physical-geography-important-archipelagos-coral-reefs-atolls/"
+    },
+    {
+      "slug": "physical-geography-important-coasts-and-beaches",
+      "title": "Physical Geography - Important Coasts and Beaches",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physical-geography-important-coasts-and-beaches/"
+    },
+    {
+      "slug": "physical-geography-important-islands-gulfs-bays-isthmuses-glaciers-canyons",
+      "title": "Physical Geography - Important Islands, Gulfs, Bays, Isthmuses, Glaciers, Canyons",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physical-geography-important-islands-gulfs-bays-isthmuses-glaciers-canyons/"
+    },
+    {
+      "slug": "physical-geography-important-mountain-ranges-mountains-hills-plateaus-mountain-passes-volcanoes",
+      "title": "Physical Geography - Important Mountain Ranges, Mountains, Hills, Plateaus, Mountain Passes, Volcanoes",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physical-geography-important-mountain-ranges-mountains-hills-plateaus-mountain-passes-volcanoes/"
+    },
+    {
+      "slug": "physical-geography-important-plains-and-deserts-",
+      "title": "Physical Geography - Important Plains and Deserts",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physical-geography-important-plains-and-deserts-/"
+    },
+    {
+      "slug": "physical-geography-important-rivers-river-islands-deltas-and-lakes",
+      "title": "Physical Geography - Important Rivers, River Islands, Deltas and Lakes",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physical-geography-important-rivers-river-islands-deltas-and-lakes/"
+    },
+    {
+      "slug": "physical-geography-various-landforms",
+      "title": "Physical Geography - Various Landforms",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physical-geography-various-landforms/"
+    },
+    {
+      "slug": "physical-geography-weathering-mass-wasting-and-erosion",
+      "title": "Physical Geography - Weathering, Mass wasting and Erosion",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physical-geography-weathering-mass-wasting-and-erosion/"
+    },
+    {
+      "slug": "physical-geography-world-soils-major-biomes",
+      "title": "Physical Geography - World Soils, Major Biomes",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physical-geography-world-soils-major-biomes/"
+    },
+    {
+      "slug": "physics-gk-01-introduction-to-physics",
+      "title": "Physics GK 01 - Introduction to Physics",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-01-introduction-to-physics/"
+    },
+    {
+      "slug": "physics-gk-02-units",
+      "title": "Physics GK 02 - Units",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-02-units/"
+    },
+    {
+      "slug": "physics-gk-03-kinematics",
+      "title": "Physics GK 03 - Kinematics",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-03-kinematics/"
+    },
+    {
+      "slug": "physics-gk-04-motion-friction",
+      "title": "Physics GK 04 - Motion & Friction",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-04-motion-friction/"
+    },
+    {
+      "slug": "physics-gk-05-work-energy-and-power",
+      "title": "Physics GK 05 - Work, Energy and Power",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-05-work-energy-and-power/"
+    },
+    {
+      "slug": "physics-gk-06-gravitation",
+      "title": "Physics GK 06 - Gravitation",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-06-gravitation/"
+    },
+    {
+      "slug": "physics-gk-07-satellites",
+      "title": "Physics GK 07 - Satellites",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-07-satellites/"
+    },
+    {
+      "slug": "physics-gk-08-general-properties-of-matter",
+      "title": "Physics GK 08 - General Properties of Matter",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-08-general-properties-of-matter/"
+    },
+    {
+      "slug": "physics-gk-09-pressure",
+      "title": "Physics GK 09 - Pressure",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-09-pressure/"
+    },
+    {
+      "slug": "physics-gk-10-floatation",
+      "title": "Physics GK 10 - Floatation",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-10-floatation/"
+    },
+    {
+      "slug": "physics-gk-11-surface-tension-capillarity",
+      "title": "Physics GK 11 - Surface Tension & Capillarity",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-11-surface-tension-capillarity/"
+    },
+    {
+      "slug": "physics-gk-12-density",
+      "title": "Physics GK 12 - Density",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-12-density/"
+    },
+    {
+      "slug": "physics-gk-13-viscosity",
+      "title": "Physics GK 13 - Viscosity",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-13-viscosity/"
+    },
+    {
+      "slug": "physics-gk-14-simple-harmonic-motion-shm",
+      "title": "Physics GK 14 - Simple Harmonic Motion (SHM)",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-14-simple-harmonic-motion-shm/"
+    },
+    {
+      "slug": "physics-gk-15-mechanical-electromagnetic-waves",
+      "title": "Physics GK 15 - Mechanical & Electromagnetic Waves",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-15-mechanical-electromagnetic-waves/"
+    },
+    {
+      "slug": "physics-gk-16-sound-waves",
+      "title": "Physics GK 16 - Sound Waves",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-16-sound-waves/"
+    },
+    {
+      "slug": "physics-gk-17-heat-heat-transmission",
+      "title": "Physics GK 17 - Heat & Heat Transmission",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-17-heat-heat-transmission/"
+    },
+    {
+      "slug": "physics-gk-18-thermodynamics",
+      "title": "Physics GK 18 - Thermodynamics",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-18-thermodynamics/"
+    },
+    {
+      "slug": "physics-gk-19-light-and-human-eye",
+      "title": "Physics GK 19 - Light and Human Eye",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-19-light-and-human-eye/"
+    },
+    {
+      "slug": "physics-gk-20-electricity",
+      "title": "Physics GK 20 - Electricity",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-20-electricity/"
+    },
+    {
+      "slug": "physics-gk-21-electrochemical-cell",
+      "title": "Physics GK 21 - Electrochemical Cell",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-21-electrochemical-cell/"
+    },
+    {
+      "slug": "physics-gk-22-magnetism",
+      "title": "Physics GK 22 - Magnetism",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-22-magnetism/"
+    },
+    {
+      "slug": "physics-gk-23-atomic-and-nuclear-physics-basics",
+      "title": "Physics GK 23 - Atomic and Nuclear Physics Basics",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-23-atomic-and-nuclear-physics-basics/"
+    },
+    {
+      "slug": "physics-gk-24-electronics-basics",
+      "title": "Physics GK 24 - Electronics Basics",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/physics-gk-24-electronics-basics/"
+    },
+    {
+      "slug": "places-in-news-current-affairs",
+      "title": "Places in News Current Affairs MCQs",
+      "total_pages": 8,
+      "questions_per_page": 10,
+      "estimated_total": 80,
+      "url": "https://www.gktoday.in/quizbase/places-in-news-current-affairs/"
+    },
+    {
+      "slug": "political-history-of-vijayanagar-empire",
+      "title": "15. Vijayanagara Empire",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/political-history-of-vijayanagar-empire/"
+    },
+    {
+      "slug": "polity-administration-in-delhi-sultanate",
+      "title": "13. Delhi Sultanate: Polity, Administration & Economy",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/polity-administration-in-delhi-sultanate/"
+    },
+    {
+      "slug": "portuguese-dutch-in-india",
+      "title": "4. Dutch and Danes Companies",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/portuguese-dutch-in-india/"
+    },
+    {
+      "slug": "pre-congress-organizations",
+      "title": "26. Freedom Struggle - Important Organizations",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/pre-congress-organizations/"
+    },
+    {
+      "slug": "pulp-and-paper-industry-mcqs-for-ssc-examination",
+      "title": "26. Pulp and Paper Industry",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/pulp-and-paper-industry-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "punjab-gk-questions-for-ppsc-examinations",
+      "title": "States PCS: Punjab GK Questions for PPSC Examinations",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/punjab-gk-questions-for-ppsc-examinations/"
+    },
+    {
+      "slug": "rajasthan-gk-questions-for-rpsc-ras-examinations",
+      "title": "States PCS: Rajasthan GK Questions for RPSC (RAS) Examinations",
+      "total_pages": 2,
+      "questions_per_page": 10,
+      "estimated_total": 20,
+      "url": "https://www.gktoday.in/quizbase/rajasthan-gk-questions-for-rpsc-ras-examinations/"
+    },
+    {
+      "slug": "real-estate-construction-sector-mcqs-for-ssc-examination",
+      "title": "22. Real Estate & Construction Sector",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/real-estate-construction-sector-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "relations-with-princely-states",
+      "title": "14. Relations with Princely States",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/relations-with-princely-states/"
+    },
+    {
+      "slug": "reports-and-indices-current-affairs",
+      "title": "Reports and Indices Current Affairs MCQs",
+      "total_pages": 8,
+      "questions_per_page": 10,
+      "estimated_total": 80,
+      "url": "https://www.gktoday.in/quizbase/reports-and-indices-current-affairs/"
+    },
+    {
+      "slug": "research-development-sector-mcqs-for-ssc-examination",
+      "title": "34. Research & Development Sector",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/research-development-sector-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "retail-wholesale-trade-mcqs-for-ssc-examination",
+      "title": "31. Retail & Wholesale Trade",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/retail-wholesale-trade-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "sayyid-dynasty-1414-51",
+      "title": "10. Sayyid and Lodi Dynasties",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/sayyid-dynasty-1414-51/"
+    },
+    {
+      "slug": "science-technology-current-affairs",
+      "title": "Science & Technology Current Affairs MCQs",
+      "total_pages": 8,
+      "questions_per_page": 10,
+      "estimated_total": 80,
+      "url": "https://www.gktoday.in/quizbase/science-technology-current-affairs/"
+    },
+    {
+      "slug": "sikkim-gk-questions-for-sikkim-public-service-commission-exams",
+      "title": "States PCS: Sikkim GK Questions for Sikkim Public Service Commission Exams",
+      "total_pages": 2,
+      "questions_per_page": 10,
+      "estimated_total": 20,
+      "url": "https://www.gktoday.in/quizbase/sikkim-gk-questions-for-sikkim-public-service-commission-exams/"
+    },
+    {
+      "slug": "socio-economic-condition-in-18th-century-india",
+      "title": "2. Socio-economic Condition in 18th century India",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/socio-economic-condition-in-18th-century-india/"
+    },
+    {
+      "slug": "socio-economic-issues-mcqs-for-ssc-examination",
+      "title": "48. Socio-economic Issues MCQs for SSC Examination",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/socio-economic-issues-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "socio-religious-reform-movements",
+      "title": "25. Socio-Religious Reform Movements",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/socio-religious-reform-movements/"
+    },
+    {
+      "slug": "sports-current-affairs",
+      "title": "Sports Current Affairs MCQs",
+      "total_pages": 8,
+      "questions_per_page": 10,
+      "estimated_total": 80,
+      "url": "https://www.gktoday.in/quizbase/sports-current-affairs/"
+    },
+    {
+      "slug": "sports-gk",
+      "title": "Sports GK MCQs",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/sports-gk/"
+    },
+    {
+      "slug": "states-pcs-chhattisgarh-gk-for-cgpsc-exams",
+      "title": "States PCS: Chhattisgarh GK for CGPSC Exams",
+      "total_pages": 2,
+      "questions_per_page": 10,
+      "estimated_total": 20,
+      "url": "https://www.gktoday.in/quizbase/states-pcs-chhattisgarh-gk-for-cgpsc-exams/"
+    },
+    {
+      "slug": "states-pcs-jharkhand-gk-for-jpsc-and-other-jharkhand-state-exams",
+      "title": "States PCS: Jharkhand GK for JPSC and other Jharkhand State Exams",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/states-pcs-jharkhand-gk-for-jpsc-and-other-jharkhand-state-exams/"
+    },
+    {
+      "slug": "states-pcs-meghalaya-gk-for-meghalaya-psc-exams",
+      "title": "States PCS: Meghalaya GK for Meghalaya PSC Exams",
+      "total_pages": 3,
+      "questions_per_page": 10,
+      "estimated_total": 30,
+      "url": "https://www.gktoday.in/quizbase/states-pcs-meghalaya-gk-for-meghalaya-psc-exams/"
+    },
+    {
+      "slug": "states-pcs-mizoram-gk-for-mizoram-psc-exams",
+      "title": "States PCS: Mizoram GK for Mizoram PSC Exams",
+      "total_pages": 3,
+      "questions_per_page": 10,
+      "estimated_total": 30,
+      "url": "https://www.gktoday.in/quizbase/states-pcs-mizoram-gk-for-mizoram-psc-exams/"
+    },
+    {
+      "slug": "states-pcs-uttarakhand-gk-for-ukpsc-exams",
+      "title": "States PCS: Uttarakhand GK for UKPSC Exams",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/states-pcs-uttarakhand-gk-for-ukpsc-exams/"
+    },
+    {
+      "slug": "steel-industry-mcqs-for-ssc-examination",
+      "title": "23. Steel Industry",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/steel-industry-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "subhash-chandra-bose-azad-hind",
+      "title": "30. Subhash Chandra Bose and Azad Hind",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/subhash-chandra-bose-azad-hind/"
+    },
+    {
+      "slug": "sugar-industry-mcqs-for-ssc-examination",
+      "title": "25. Sugar Industry",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/sugar-industry-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "summits-and-conferences-in-current-affairs",
+      "title": "Summits and Conferences in Current Affairs MCQs",
+      "total_pages": 8,
+      "questions_per_page": 10,
+      "estimated_total": 80,
+      "url": "https://www.gktoday.in/quizbase/summits-and-conferences-in-current-affairs/"
+    },
+    {
+      "slug": "telangana-gk-questions-for-telangana-state-public-service-commission",
+      "title": "States PCS: Telangana GK Questions for Telangana State Public Service Commission",
+      "total_pages": 2,
+      "questions_per_page": 10,
+      "estimated_total": 20,
+      "url": "https://www.gktoday.in/quizbase/telangana-gk-questions-for-telangana-state-public-service-commission/"
+    },
+    {
+      "slug": "telecommunications-sector-mcqs-for-ssc-examination",
+      "title": "32. Telecommunications Sector",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/telecommunications-sector-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "telugu-current-affairs",
+      "title": "Current Affairs in Telugu [తెలుగులో కరెంట్ అఫైర్స్ ] -2026-2027]",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/telugu-current-affairs/"
+    },
+    {
+      "slug": "textiles-industry-mcqs-for-ssc-examination",
+      "title": "24. Textiles Industry",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/textiles-industry-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "the-revolt-of-1857",
+      "title": "11. The Revolt of 1857",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/the-revolt-of-1857/"
+    },
+    {
+      "slug": "timeline-of-key-freedom-struggle-events-1905-1947",
+      "title": "27. Freedom Struggle - Important Events [1905-1947]",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/timeline-of-key-freedom-struggle-events-1905-1947/"
+    },
+    {
+      "slug": "tnpsc",
+      "title": "States PCS: Tamil Nadu GK Questions for TNPSC Examinations",
+      "total_pages": 2,
+      "questions_per_page": 10,
+      "estimated_total": 20,
+      "url": "https://www.gktoday.in/quizbase/tnpsc/"
+    },
+    {
+      "slug": "tourism-and-hospitality-mcqs-for-ssc-examination",
+      "title": "33. Tourism and Hospitality",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/tourism-and-hospitality-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "transport-sector-mcqs-for-ssc-examination",
+      "title": "39. Transport Sector",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/transport-sector-mcqs-for-ssc-examination/"
+    },
+    {
+      "slug": "tripura-gk-questions-for-tripura-public-service-examinations",
+      "title": "States PCS: Tripura GK Questions for Tripura Public Service Examinations",
+      "total_pages": 2,
+      "questions_per_page": 10,
+      "estimated_total": 20,
+      "url": "https://www.gktoday.in/quizbase/tripura-gk-questions-for-tripura-public-service-examinations/"
+    },
+    {
+      "slug": "tughlaq-dynasty-1320-1413",
+      "title": "9. Tughlaq dynasty (1320–1413)",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/tughlaq-dynasty-1320-1413/"
+    },
+    {
+      "slug": "uttar-pradesh-gk-questions-for-uppsc-examinations",
+      "title": "States PCS: Uttar Pradesh GK Questions for UPPSC Examinations",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/uttar-pradesh-gk-questions-for-uppsc-examinations/"
+    },
+    {
+      "slug": "various-states-in-india-in-18th-century",
+      "title": "1. Various States in India in 18th century",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/various-states-in-india-in-18th-century/"
+    },
+    {
+      "slug": "west-bengal-gk-questions-for-wbpsc-examinations",
+      "title": "States PCS: West Bengal GK Questions for WBPSC Examinations",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/west-bengal-gk-questions-for-wbpsc-examinations/"
+    },
+    {
+      "slug": "working-class-left-movements",
+      "title": "33. Working Class & Left Movements",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/working-class-left-movements/"
+    },
+    {
+      "slug": "world-geography",
+      "title": "40000+MCQS [Book-07 & 08] #World & Physical Geography MCQs",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/world-geography/"
+    },
+    {
+      "slug": "world-geography-continents-and-country-trivia",
+      "title": "World Geography - Continents and Country Trivia",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/world-geography-continents-and-country-trivia/"
+    },
+    {
+      "slug": "world-history-quiz-questions",
+      "title": "World History MCQs",
+      "total_pages": 5,
+      "questions_per_page": 10,
+      "estimated_total": 50,
+      "url": "https://www.gktoday.in/quizbase/world-history-quiz-questions/"
+    },
+    {
+      "slug": "ww-ii-and-nationalist-response",
+      "title": "32. Peasant & Tribal Movements 1857-1947",
+      "total_pages": 1,
+      "questions_per_page": 5,
+      "estimated_total": 5,
+      "url": "https://www.gktoday.in/quizbase/ww-ii-and-nationalist-response/"
+    }
+  ]
+}

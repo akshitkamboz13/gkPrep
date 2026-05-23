@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "29-gupta-empire-art-architecture",
+    "title": "27. Gupta Art, Architecture",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:52:44"
+  },
+  "questions": [
+    {
+      "id": 1804,
+      "question": "The University of Nalanda was set up by which Gupta ruler?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kumargupta I"
+        },
+        {
+          "label": "B",
+          "text": "Chandragupta II"
+        },
+        {
+          "label": "C",
+          "text": "Samudragupta"
+        },
+        {
+          "label": "D",
+          "text": "Kumargupta II"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Kumargupta I"
+      },
+      "explanation": "The University of Nalanda was established at Badagoan,Bihar in the 5th century during the reign of the Gupta emperor Kumaragupta I."
+    },
+    {
+      "id": 1883,
+      "question": "The famous Konark Sun temple was built by whom?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Narshimhadeva I"
+        },
+        {
+          "label": "B",
+          "text": "Angabhima deva I"
+        },
+        {
+          "label": "C",
+          "text": "Konkanivarman"
+        },
+        {
+          "label": "D",
+          "text": "Narsimhavarman II"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Narshimhadeva I"
+      },
+      "explanation": "The 13th-century famous Konark Sun temple was built by King Narshimhadeva I (of the Eastern Ganga dynasty) at Konark, Odisha around AD1250."
+    },
+    {
+      "id": 1918,
+      "question": "Which among the following is known as the earliest example of Panchayatana style of temple?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dashavatara temple at Deogarh"
+        },
+        {
+          "label": "B",
+          "text": "Temple at Pathari"
+        },
+        {
+          "label": "C",
+          "text": "Shatrughneshwara temple at Bhubaneshwar"
+        },
+        {
+          "label": "D",
+          "text": "Lakshmana temple at Sirpur"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Dashavatara temple at Deogarh"
+      },
+      "explanation": "The Dashavatara Temple or Vishnu Temple also called Gupta temple at Deogarh. It was built in the Gupta Period (320 to c. 600 AD ). Archaeologists have inferred that it is the earliest known Panchayatana temple in North India. A hindu temple is a Panchayatana one when the main shrine is surrounded by four subsidiary shrines."
+    },
+    {
+      "id": 2087,
+      "question": "Which of the following are the famous temples of Gupta empire?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mukund Darra Temple, Kota"
+        },
+        {
+          "label": "B",
+          "text": "Dasavtar Temple, Jhansi"
+        },
+        {
+          "label": "C",
+          "text": "Vishnu Temple, Tigawa"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "All of the above"
+      },
+      "explanation": "The famous temples of Gupta Age are as follows: a) Vishnu Temple, Tigawa(Jabalpur) b) Shiva Temple, Bhumara(Nagaud) c) Parvati Temple, Nachria Kuthara d) Dasavtar Temple, Deogarh(Jhansi) e) Shiva Temple, Koh(Nagaland) f) Bhitragaon Temple, Bhitragaon g) Lakshman Temple, Kanpur(Brick made) h) Lakshman Temple, Sirpur (Raipur) i) Mukund Darra Temple, Kota j) Dhammekh Temple, Sarnath k) Jarasangh’s Sitting, Rajgrih (Bihar)"
+    },
+    {
+      "id": 2088,
+      "question": "Iron Pillar in Delhi was built during which dynasty?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Samudragupta"
+        },
+        {
+          "label": "B",
+          "text": "Chandragupta II"
+        },
+        {
+          "label": "C",
+          "text": "Kumargupta I"
+        },
+        {
+          "label": "D",
+          "text": "Skandgupta"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Chandragupta II"
+      },
+      "explanation": "As per Natya-darpana ( by Vishakadata), the Iron pillar had been put up by Chandragupta II himself after defeating Vahilakas. He designated that pillar as a memory of the victory. The pillar is made of 98% wrought iron and has stood more than 1,600 years without rusting or decomposing. The pillar is located in the Quwwat-ul Mosque. The pillar is 23 feet 8 inches high and 16 inches in diameter. It weighs about 3000 kilograms and was dedicated to the God Vishnu."
+    }
+  ]
+}

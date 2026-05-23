@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-july-2023",
+    "title": "Current Affairs Quiz - July, 2023",
+    "page": 1,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:47:06",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:55:52"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Sutirtha Mukherjee and Ayhika Mukherjee are associated with which sports?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Badminton"
+        },
+        {
+          "label": "B",
+          "text": "Tennis"
+        },
+        {
+          "label": "C",
+          "text": "Table Tennis"
+        },
+        {
+          "label": "D",
+          "text": "Squash"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Table Tennis"
+      },
+      "explanation": "Sutirtha Mukherjee and Ayhika Mukherjee claimed its maiden women’s doubles title in the WTT Contender Tunis. The pair thus became the first Indian table tennis players to clinch a WTT Contender title this year. The Indian duo defeated the Japanese pair of Miyuu Kihara and Miwa Harimoto 3-1."
+    },
+    {
+      "id": 2,
+      "question": "Which country approved ‘National Research Foundation (NRF) Bill, 2023’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "USA"
+        },
+        {
+          "label": "B",
+          "text": "India"
+        },
+        {
+          "label": "C",
+          "text": "Japan"
+        },
+        {
+          "label": "D",
+          "text": "Australia"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "India"
+      },
+      "explanation": "The Union Cabinet of India approved the introduction of the National Research Foundation (NRF) Bill, 2023 in the Parliament. The approved Bill will pave the way to establish National Research Foundation (NRF) that will promote Research and Development (R&D) and promote a culture of research and innovation throughout India’s universities, colleges, research institutions, and R&D laboratories."
+    },
+    {
+      "id": 3,
+      "question": "Which Union Ministry launched the ‘Report Fish Disease(RFD)’ App?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Fisheries, Animal Husbandry and Dairying"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Environment, Forest and Climate Change"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Science and Technology"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Defence"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ministry of Fisheries, Animal Husbandry and Dairying"
+      },
+      "explanation": "Union Minister for Fisheries, Animal Husbandry and Dairying, Parshottam Rupala launched the ‘Report Fish Disease(RFD)’ App. The app has been developed by ICAR-NBFGR under National Surveillance Programme for Aquatic Animal Diseases (NSPAAD), funded under Pradhan Mantri Matsya Sampada Yojana. It is a centralized platform that integrates fish farmers, field-level officers, and fish health experts."
+    },
+    {
+      "id": 4,
+      "question": "‘Pregnant Workers Fairness Act’ has been enacted in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "USA"
+        },
+        {
+          "label": "B",
+          "text": "India"
+        },
+        {
+          "label": "C",
+          "text": "Japan"
+        },
+        {
+          "label": "D",
+          "text": "China"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "USA"
+      },
+      "explanation": "Recently, Pregnant Workers Fairness Act (PWFA) has been enacted and brought into effect in the United States. This legislation ensures that millions of pregnant workers throughout the country will benefit from enhanced social protections. The law mandates to offer “reasonable accommodations” to employees in the workplace for medical conditions related to the entire period from pregnancy to postpartum recovery."
+    },
+    {
+      "id": 5,
+      "question": "Which is the world’s second-largest rainforest after the Amazon?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Congo"
+        },
+        {
+          "label": "B",
+          "text": "Western Ghats"
+        },
+        {
+          "label": "C",
+          "text": "Australiasia"
+        },
+        {
+          "label": "D",
+          "text": "Sundland"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Congo"
+      },
+      "explanation": "The Congo, which is the world’s second-largest rainforest after Amazon, continues to retreat according to recent report. The forest is spread across six African countries, the largest of which is the Democratic Republic of the Congo, has lost half a million hectares (mha) of forest last year, according to the report."
+    },
+    {
+      "id": 6,
+      "question": "‘Musompo Trading Centre’ is associated with which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "DRC"
+        },
+        {
+          "label": "B",
+          "text": "Canada"
+        },
+        {
+          "label": "C",
+          "text": "Egypt"
+        },
+        {
+          "label": "D",
+          "text": "Argentina"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "DRC"
+      },
+      "explanation": "Musompo Trading Centre is a government-backed depot in Democratic Republic of Congo (DRC) that was set up to prevent rigging of the purity reading of illegally mined ore brought in by informal miners. This initiative aims to eliminate intermediary mercenaries by providing testing and storage services for ore on behalf of the miners."
+    },
+    {
+      "id": 7,
+      "question": "Which term refers to the collective genetic material of bacteria and fungi present in samples taken from the environment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Meta genomes"
+        },
+        {
+          "label": "B",
+          "text": "Enviro genomes"
+        },
+        {
+          "label": "C",
+          "text": "AMR genomes"
+        },
+        {
+          "label": "D",
+          "text": "Resistance genomes"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Meta genomes"
+      },
+      "explanation": "Metagenomes refer to the collective genetic material of bacteria and fungi present in samples taken from the environment. A study that analyzed 1,589 metagenomes from 26 countries had indicated that the high prevalence of antibiotic resistance in resource-limited settings contributes to ARG-related fatalities."
+    },
+    {
+      "id": 8,
+      "question": "Which institution released the ‘Guidelines for Promoting Community Boiler for Cluster of Small-Scale Industries’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NITI Aayog"
+        },
+        {
+          "label": "B",
+          "text": "CPCB"
+        },
+        {
+          "label": "C",
+          "text": "FCI"
+        },
+        {
+          "label": "D",
+          "text": "NABARD"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "CPCB"
+      },
+      "explanation": "The Central Pollution Control Board (CPCB) has released draft guidelines titled ‘Guidelines for Promoting Community Boiler for Cluster of Small-Scale Industries’. These guidelines aim to encourage the use of community boilers in clusters of small-scale industries."
+    },
+    {
+      "id": 9,
+      "question": "Which Union Ministry launched the ‘Scheme for Expansion and Modernization of Fire Services in the States’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Home Affairs"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Defence"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Youth Affairs and Sports"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Family and Health Affairs"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ministry of Home Affairs"
+      },
+      "explanation": "The Ministry of Home Affairs has initiated the “Scheme for Expansion and Modernization of Fire Services in the States” with a total budget of Rs. 5,000 Crore. A sum of Rs. 500 crore from the overall budget has been allocated to incentivize States based on their implementation of legal and infrastructure-related reforms."
+    },
+    {
+      "id": 10,
+      "question": "What is the name of the platform, which allow farmers to sell their surplus produce across state borders?",
+      "options": [
+        {
+          "label": "A",
+          "text": "E NAM State Portal"
+        },
+        {
+          "label": "B",
+          "text": "Market Yard of National Importance"
+        },
+        {
+          "label": "C",
+          "text": "E Surplus Seva"
+        },
+        {
+          "label": "D",
+          "text": "E Market Katha"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Market Yard of National Importance"
+      },
+      "explanation": "Market Yard of National Importance (MNI) platform aims to allow farmers from participating states to sell their surplus produce across state borders, creating digital ecosystems that utilize the expertise of different segments in the agriculture value chain. An Expert Committee recently submitted a report on the MNI platform, recommending the implementation framework, legal framework, inter-state license reciprocity, dispute resolution mechanism, and rollout strategy."
+    }
+  ]
+}

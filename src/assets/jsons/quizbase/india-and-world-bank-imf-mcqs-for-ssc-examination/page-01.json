@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "india-and-world-bank-imf-mcqs-for-ssc-examination",
+    "title": "45. India and World Bank & IMF MCQs for SSC Examination",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:14:48"
+  },
+  "questions": [
+    {
+      "id": 5450,
+      "question": "World Bank Headquarters located at:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Switzerland"
+        },
+        {
+          "label": "B",
+          "text": "Washington DC"
+        },
+        {
+          "label": "C",
+          "text": "New York"
+        },
+        {
+          "label": "D",
+          "text": "Paris"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Washington DC"
+      },
+      "explanation": "World Bank is one of five institutions created at the Breton Woods Conference in 1944. World Bank is part of the United Nations system, but its governance structure is different. World Bank’s headquarter is situated at Washington DC."
+    },
+    {
+      "id": 7819,
+      "question": "Which among the following are called “Breton Wood Twins”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IBRD & IMF"
+        },
+        {
+          "label": "B",
+          "text": "IDA & IFC"
+        },
+        {
+          "label": "C",
+          "text": "IDA & MIGA"
+        },
+        {
+          "label": "D",
+          "text": "IMF & IDA"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "IBRD & IMF"
+      },
+      "explanation": "The planners at Breton Woods established the International Monetary Fund (IMF) and the International Bank for Reconstruction and Development (IBRD), which today is part of the World Bank Group"
+    },
+    {
+      "id": 8224,
+      "question": "Which institution publishes the World Economic Outlook Report?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Federal Reserve Bank"
+        },
+        {
+          "label": "B",
+          "text": "World Bank"
+        },
+        {
+          "label": "C",
+          "text": "International Monetary Fund"
+        },
+        {
+          "label": "D",
+          "text": "International Finance Corporation"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "International Monetary Fund"
+      },
+      "explanation": "The International Monetary Fund was established in 1944. The IMF has 190 member countries. The World Economic Outlook Report is published by the IMF biannually. The report provides analyses and projections of the global economy. The WEO was first published in 1980. Updates to the report are typically released in January and July."
+    },
+    {
+      "id": 8615,
+      "question": "Which organization aids members in balance of payments problems?",
+      "options": [
+        {
+          "label": "A",
+          "text": "World Bank"
+        },
+        {
+          "label": "B",
+          "text": "International Monetary Fund"
+        },
+        {
+          "label": "C",
+          "text": "Asian Development Bank"
+        },
+        {
+          "label": "D",
+          "text": "World Economic Forum"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "International Monetary Fund"
+      },
+      "explanation": "The International Monetary Fund was created in 1944 at the Bretton Woods Conference. Its main function is to provide temporary financial assistance to member countries facing balance of payments deficits. The IMF uses facilities like Stand-By Arrangements and Extended Fund Facility. Membership includes 190 countries as of 2023. The IMF also conducts economic surveillance and policy advice, but direct financial support for balance of payments stability is its core function."
+    },
+    {
+      "id": 8809,
+      "question": "What is a key financial power of the World Bank?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The right to set pegged currency parities"
+        },
+        {
+          "label": "B",
+          "text": "The right to issue bonds for development loans"
+        },
+        {
+          "label": "C",
+          "text": "The right to purchase gold below market rate"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "The right to issue bonds for development loans"
+      },
+      "explanation": "The World Bank has issued bonds in global markets since 1947. Bonds are issued in various currencies and formats, including domestic and Eurobonds. Funds raised through these bonds finance development loans and projects in member countries. The World Bank holds triple-A credit ratings by Moody’s and S&P. Over 180 member countries are eligible for World Bank development financing."
+    }
+  ]
+}

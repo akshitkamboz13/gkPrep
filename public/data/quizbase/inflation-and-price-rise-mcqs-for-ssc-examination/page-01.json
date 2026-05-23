@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "inflation-and-price-rise-mcqs-for-ssc-examination",
+    "title": "50. Inflation and Price Rise MCQs for SSC Examination",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:25:04"
+  },
+  "questions": [
+    {
+      "id": 3275,
+      "question": "A persistent fall in the general price level of goods and services is known as __:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Deflation"
+        },
+        {
+          "label": "B",
+          "text": "Disinflation"
+        },
+        {
+          "label": "C",
+          "text": "Stagflation"
+        },
+        {
+          "label": "D",
+          "text": "Depression"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Deflation"
+      },
+      "explanation": "Inflation refers to rise in general price level of goods and services, deflation is fall in general price level of goods and services. Deflation is inflation in negative zone, i.e. a decrease in the general price level of goods and services."
+    },
+    {
+      "id": 5086,
+      "question": "The Core inflation is different from the general inflation because of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Core Inflation is caused by the supply Shock in certain essential commodities"
+        },
+        {
+          "label": "B",
+          "text": "Core Inflation is the sudden increase in certain items of food grains"
+        },
+        {
+          "label": "C",
+          "text": "Core Inflation is the inflation rate of a particular basket of commodities"
+        },
+        {
+          "label": "D",
+          "text": "Core Inflation is just a misnomer"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Core Inflation is the inflation rate of a particular basket of commodities"
+      },
+      "explanation": "Core Inflation is the rate of inflation calculated to exclude certain items that are subject to sudden and short-lived price movements, mainly food and energy. Core inflation is considered a better indicator of overall long-term than un-adjusted headline inflation."
+    },
+    {
+      "id": 5271,
+      "question": "During inflation, how do banks usually set their loan prices?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A decreasing trend"
+        },
+        {
+          "label": "B",
+          "text": "Constant level"
+        },
+        {
+          "label": "C",
+          "text": "No relation to inflation"
+        },
+        {
+          "label": "D",
+          "text": "An increasing trend"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "An increasing trend"
+      },
+      "explanation": "Inflation reduces currency purchasing power and drives general price increases. Banks respond by raising loan prices due to higher costs, including increased wages and operational expenditures. Central banks often hike interest rates during inflation to control rising prices. Higher interest rates result in increased loan pricing by banks to maintain profit margins."
+    },
+    {
+      "id": 7680,
+      "question": "Which term refers to a steady rise in prices, income, output, and employment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Expansion"
+        },
+        {
+          "label": "B",
+          "text": "Boom"
+        },
+        {
+          "label": "C",
+          "text": "Recession"
+        },
+        {
+          "label": "D",
+          "text": "Depression"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Expansion"
+      },
+      "explanation": "The expansion phase in the business cycle involves sustained increases in GDP, income, output, employment, and often prices. It follows a recovery and precedes a peak. The National Bureau of Economic Research tracks expansion periods in economic cycles. Expansion differs from recession, which indicates economic decline, and from depression, which indicates prolonged downturn."
+    },
+    {
+      "id": 7808,
+      "question": "Which among the following is an anti-inflationary measure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stagflation"
+        },
+        {
+          "label": "B",
+          "text": "Hyper inflation"
+        },
+        {
+          "label": "C",
+          "text": "Disinflation"
+        },
+        {
+          "label": "D",
+          "text": "Deflation"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Disinflation"
+      },
+      "explanation": "Disinflation means the decrease in the rate of inflation. It is a slowdown in the rate of increase of price levels of goods and services. This is different from deflation, in the way that Disinflation is only a marginal and short term decrease in rate of inflation."
+    }
+  ]
+}

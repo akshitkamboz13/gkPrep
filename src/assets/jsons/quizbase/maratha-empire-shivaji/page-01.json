@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "maratha-empire-shivaji",
+    "title": "21. Maratha Empire",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:26:48"
+  },
+  "questions": [
+    {
+      "id": 2828,
+      "question": "The lowest in rank in the Maratha infantry was of__?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nayak"
+        },
+        {
+          "label": "B",
+          "text": "Hawaldar"
+        },
+        {
+          "label": "C",
+          "text": "Zumladar"
+        },
+        {
+          "label": "D",
+          "text": "Hazari"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Hawaldar"
+      },
+      "explanation": "Hawaldar was the lowest in rank in the Maratha Infantry."
+    },
+    {
+      "id": 2865,
+      "question": "Which among the following terms was used for the Royal cavalry of the Maratha Army System?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Shiledars"
+        },
+        {
+          "label": "B",
+          "text": "The Bargirs"
+        },
+        {
+          "label": "C",
+          "text": "The Hazari"
+        },
+        {
+          "label": "D",
+          "text": "The Subedars"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "The Bargirs"
+      },
+      "explanation": "Bargir was the Royal cavalry of the Maratha army system. There were two kinds of cavalry viz. Bargirs and the Shiledars. Bargirs were provided horses from the state and thus, the horses were property of the royal household and were looked after by state o"
+    },
+    {
+      "id": 4514,
+      "question": "The famous “Treaty of Purandhar” was signed between Shivaji and which among the following in 1665?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jaswant Singh"
+        },
+        {
+          "label": "B",
+          "text": "Jai Singh"
+        },
+        {
+          "label": "C",
+          "text": "Shaista Khan"
+        },
+        {
+          "label": "D",
+          "text": "Aurangzeb"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Jai Singh"
+      },
+      "explanation": "The treaty of Purandhar was signed on Jun 11th 1665 between Rajput ruler Jai Singh-I who was the commander of Mughal army and Maratha ruler Shivaji."
+    },
+    {
+      "id": 4782,
+      "question": "Shivaji had formed a council of eight ministers that administered the Maratha empire. The council was named as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nyaya Pradhan"
+        },
+        {
+          "label": "B",
+          "text": "Ashta Sena"
+        },
+        {
+          "label": "C",
+          "text": "Ashta Siddhi"
+        },
+        {
+          "label": "D",
+          "text": "Ashta Pradhan"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Ashta Pradhan"
+      },
+      "explanation": "Ashta Pradhan was a council of eight ministers that administered the Maratha empire. The council was formed in 1674 by founding Emperor Chhatrapati Shivaji.The term Ashta Pradhan literally translates to “the Prime Eight”, from the Sanskrit ashta (“eight”) and pradhan (“prime”). The body discharged the functions of a modern council of ministers; this is regarded as one of the first successful instances of ministerial delegation in India. The council is credited with having implemented good governance practices in the Maratha heartland, as well as for the success of the military campaigns against the Mughal Empire."
+    },
+    {
+      "id": 4840,
+      "question": "Who among the following was not included in the “Asta Pradhan” of Shivaji?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sumant"
+        },
+        {
+          "label": "B",
+          "text": "Majmudar"
+        },
+        {
+          "label": "C",
+          "text": "Vakiyanavis"
+        },
+        {
+          "label": "D",
+          "text": "Vakeel"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Vakeel"
+      },
+      "explanation": "Ashta Pradhan Pantpradhan or Peshwa – Prime Minister, general administration of the Empire. Amatya – Finance Minister, managing accounts of the Empire. Sacheev – Secretary, preparing royal edicts. Mantri – Interior Minister, managing internal affairs especially intelligence and espionage. Senapati – Commander-in-Chief, managing the forces and defense of the Empire. Sumant – Foreign Minister, to manage relationships with other sovereigns. Nyayadhish – Chief Justice, dispensing justice on civil and criminal matters. Panditrao – High Priest, managing internal religious matters."
+    }
+  ]
+}

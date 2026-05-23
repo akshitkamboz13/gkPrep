@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: January 6, 2026",
+    "date": "2026-01-06",
+    "year": "2026",
+    "month": "01-january",
+    "day": 6,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 03:19:14",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:56:06"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "The Salal Hydroelectric Project is located on which river?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ravi"
+        },
+        {
+          "label": "B",
+          "text": "Jhelum"
+        },
+        {
+          "label": "C",
+          "text": "Chenab"
+        },
+        {
+          "label": "D",
+          "text": "Indus"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Chenab"
+      },
+      "explanation": "The Union Minister directed sediment removal at the Salal Power Project in Jammu and Kashmir to maximise water use amid the Indus Waters Treaty between India and Pakistan being kept in abeyance. Salal is a 690 Megawatt (MW) run-of-the-river hydroelectric project on the Chenab River in Reasi district. It is owned by National Hydroelectric Power Corporation (NHPC). It was India’s first hydropower project under the Indus Waters Treaty regime in Kashmir. The dam is 130 metres high at 1627 feet above mean sea level. Jammu and Kashmir gets 12.5 percent power, while the rest goes to the Northern Grid supplying multiple northern states."
+    },
+    {
+      "id": 2,
+      "question": "Taimoor is an air-launched cruise missile developed by which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iran"
+        },
+        {
+          "label": "B",
+          "text": "Israel"
+        },
+        {
+          "label": "C",
+          "text": "Iraq"
+        },
+        {
+          "label": "D",
+          "text": "Pakistan"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Pakistan"
+      },
+      "explanation": "Pakistan Air Force recently conducted a successful flight test of the indigenously developed Taimoor Weapon System. Taimoor is an air-launched cruise missile developed by Pakistan. It is designed to hit enemy land and sea targets with high precision. It uses subsonic turbojet propulsion, enabling efficient long-range flight. The missile has a strike range of up to 600 kilometres with a conventional warhead. Its stealth features include a box-shaped fuselage, X-type tail, and foldable wings. It flies at very low altitude to evade enemy air and missile defence systems."
+    },
+    {
+      "id": 3,
+      "question": "Design Linked Incentive (DLI) Scheme is implemented by which ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Commerce and Industry"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Heavy Industries"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Science and Technology"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Electronics and Information Technology"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Ministry of Electronics and Information Technology"
+      },
+      "explanation": "The Design Linked Incentive (DLI) Scheme strengthens India’s position in the high-value chip design segment of the global semiconductor value chain. It supports India’s goal of building a strong fabless semiconductor ecosystem. The scheme is implemented by the Ministry of Electronics and Information Technology (MeitY) under the Semicon India Programme. It aims to reduce import dependence, improve supply chain resilience, and increase domestic value addition. Start-ups and Micro, Small and Medium Enterprises (MSMEs) get financial incentives and design infrastructure support."
+    },
+    {
+      "id": 4,
+      "question": "Which legal framework provides the basis for notification of diseases in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Epidemic Diseases Act, 1897"
+        },
+        {
+          "label": "B",
+          "text": "National Health Policy, 2017"
+        },
+        {
+          "label": "C",
+          "text": "Disaster Management Act, 2005"
+        },
+        {
+          "label": "D",
+          "text": "Public Health Act, 1955"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Epidemic Diseases Act, 1897"
+      },
+      "explanation": "Delhi government plans to declare rabies a notifiable disease to strengthen disease surveillance and early outbreak detection. A notifiable disease is legally required to be reported to government health authorities. Timely notification helps monitor disease trends and provides early warning of outbreaks. The Epidemic Diseases Act, 1897 gives the legal basis for notifying diseases in India. Diseases are notified based on incidence, severity, communicability, outbreak potential, and risk of international spread."
+    },
+    {
+      "id": 5,
+      "question": "What is the IUCN conservation status of the Bactrian camel, that was recently seen in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Endangered"
+        },
+        {
+          "label": "B",
+          "text": "Critically Endangered"
+        },
+        {
+          "label": "C",
+          "text": "Vulnerable"
+        },
+        {
+          "label": "D",
+          "text": "Least Concern"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Critically Endangered"
+      },
+      "explanation": "Ladakh’s double-humped Bactrian camels will debut at the 77th Republic Day parade, highlighting their unique heritage. Scientifically known as Camelus bactrianus, they are large even-toed ungulates called Ladakh’s “silent warriors”. They are native to Central Asia, ranging from Afghanistan to China, mainly in the Mongolian steppes and Gobi Desert. In India, small populations survive in the high-altitude cold desert of Nubra Valley, Ladakh. They are mainly herbivores and are listed as Critically Endangered by the International Union for Conservation of Nature (IUCN)."
+    }
+  ]
+}

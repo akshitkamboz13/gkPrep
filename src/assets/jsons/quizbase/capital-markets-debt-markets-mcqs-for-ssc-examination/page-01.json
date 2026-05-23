@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "capital-markets-debt-markets-mcqs-for-ssc-examination",
+    "title": "36. Capital Markets & Debt Markets",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:00:45"
+  },
+  "questions": [
+    {
+      "id": 544,
+      "question": "Which bank's stock is excluded from Bank NIFTY as of February 2026?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bank of India"
+        },
+        {
+          "label": "B",
+          "text": "Kotak Mahindra Bank"
+        },
+        {
+          "label": "C",
+          "text": "Punjab National Bank"
+        },
+        {
+          "label": "D",
+          "text": "Yes Bank"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Bank of India"
+      },
+      "explanation": "Bank NIFTY is an index that includes 14 of the most liquid and large-cap Indian banking stocks as of February 2026. The constituents are HDFC Bank Ltd. (22.02%), ICICI Bank Ltd. (18.18%), State Bank of India (10.42%), Axis Bank Ltd. (10.05%), Kotak Mahindra Bank Ltd. (8.85%), Federal Bank Ltd. (5.02%), IndusInd Bank Ltd. (4.15%), Bank of Baroda (3.86%), IDFC First Bank Ltd. (3.78%), AU Small Finance Bank Ltd. (3.76%). Bank of India is excluded."
+    },
+    {
+      "id": 3042,
+      "question": "Which of the following currencies is not included in the Special Drawing Rights (SDR) Currency Basket?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indian Rupee"
+        },
+        {
+          "label": "B",
+          "text": "British Pound"
+        },
+        {
+          "label": "C",
+          "text": "Japanese Yen"
+        },
+        {
+          "label": "D",
+          "text": "Chinese Renminbi"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Indian Rupee"
+      },
+      "explanation": "The SDR basket now consists of the following five currencies: U.S. dollar 41.73%, Euro 30.93%, Renminbi (Chinese Yuan) 10.92%, Japanese Yen (8.33%), British Pound (8.09%)."
+    },
+    {
+      "id": 5266,
+      "question": "In the capital market, simultaneous purchase and sale of securities to reduce the loss on purchase is known as __?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Arbitrage"
+        },
+        {
+          "label": "B",
+          "text": "Hedging"
+        },
+        {
+          "label": "C",
+          "text": "Trend following"
+        },
+        {
+          "label": "D",
+          "text": "Shorting"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Arbitrage"
+      },
+      "explanation": "Arbitrage is a type of trade in which a security is simultaneously bought and sold, in different markets. This type of trade takes advantage of the difference in prices of the same financial instrument being offered on different exchanges."
+    },
+    {
+      "id": 5276,
+      "question": "Which among the following is the highest credit risk rating that can be awarded to any company by CRISIL?",
+      "options": [
+        {
+          "label": "A",
+          "text": "AAA"
+        },
+        {
+          "label": "B",
+          "text": "AAA+"
+        },
+        {
+          "label": "C",
+          "text": "AA+"
+        },
+        {
+          "label": "D",
+          "text": "A++"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "AAA"
+      },
+      "explanation": "CRISIL was the first credit rating agency in India, formed in the year1988. In 2005, it became a subsidiary of American company S&P Global. The highest credit risk rating awarded to any company is ‘AAA’ and the lowest is ‘D’."
+    },
+    {
+      "id": 5490,
+      "question": "Which organization currently calculates and publishes LIBOR?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intercontinental Exchange (ICE) and Refinitiv"
+        },
+        {
+          "label": "B",
+          "text": "Bank of England"
+        },
+        {
+          "label": "C",
+          "text": "European Banking Federation"
+        },
+        {
+          "label": "D",
+          "text": "European Central Bank"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Intercontinental Exchange (ICE) and Refinitiv"
+      },
+      "explanation": "Intercontinental Exchange (ICE) Benchmark Administration took over LIBOR calculation in 2014. Refinitiv publishes LIBOR data. The British Bankers’ Association managed LIBOR calculations from 1986 until 2014. Discontinuation of LIBOR was announced in 2017, with USD, EUR, CHF, and JPY LIBOR ceasing in phases between 2021 and 2023. ICE and Refinitiv are based in the United Kingdom."
+    }
+  ]
+}

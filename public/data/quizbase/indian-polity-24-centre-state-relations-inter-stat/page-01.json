@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-24-centre-state-relations-inter-stat",
+    "title": "Centre-State Relations & Inter-state Relations",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:20:39"
+  },
+  "questions": [
+    {
+      "id": 435,
+      "question": "In which year, the Government of India had set up the Sarkaria Commission on Centre-State relations?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1980"
+        },
+        {
+          "label": "B",
+          "text": "1983"
+        },
+        {
+          "label": "C",
+          "text": "1987"
+        },
+        {
+          "label": "D",
+          "text": "1992"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "1983"
+      },
+      "explanation": "Sarkaria Commission was set up in June 1983 by the central government to examine the relationship and balance of power between state and central governments in the country and suggest changes within the framework of Constitution of India. The Commission was so named as it was headed by Justice Rajinder Singh Sarkaria, a retired judge of the Supreme Court of India. The other two members of the committee were Shri B Sivaraman and Dr SR Sen."
+    },
+    {
+      "id": 503,
+      "question": "Constitution of India guarantees which of the following to the states of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Territorial Integrity"
+        },
+        {
+          "label": "B",
+          "text": "Sovereignty"
+        },
+        {
+          "label": "C",
+          "text": "Right to secede from Union"
+        },
+        {
+          "label": "D",
+          "text": "None of them"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "None of them"
+      },
+      "explanation": "The Constitution of India does not guarantee any of the above to the states."
+    },
+    {
+      "id": 6146,
+      "question": "Which schedule of the Indian Constitution divides the legislative powers between the Union and states?",
+      "options": [
+        {
+          "label": "A",
+          "text": "6th schedule"
+        },
+        {
+          "label": "B",
+          "text": "7th schedule"
+        },
+        {
+          "label": "C",
+          "text": "8th schedule"
+        },
+        {
+          "label": "D",
+          "text": "9th schedule"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "7th schedule"
+      },
+      "explanation": "7th schedule divided the various subjects of legislative powers into three lists viz. Union List, Concurrent List and State List."
+    },
+    {
+      "id": 7004,
+      "question": "For which of the following purpose, Rajamanar Committee was constituted ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Industrial Licensing"
+        },
+        {
+          "label": "B",
+          "text": "Direct taxes"
+        },
+        {
+          "label": "C",
+          "text": "Centre State Fiscal Relations"
+        },
+        {
+          "label": "D",
+          "text": "InDirect taxes"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Centre State Fiscal Relations"
+      },
+      "explanation": "A Centre-State Relations Inquiry Committee was set up by the then DMK Government of Tamil Nadu on 2nd September, 1969 under the Chairmanship of Dr. P.V. Rajamanar to consider the entire question regarding relationship that should subsist between the Centre and the States in a federal set up."
+    },
+    {
+      "id": 7339,
+      "question": "Within their respective spheres, the union and the state legislatures are made supreme and they should not encroach on the sphere reserved for other. This concept is known as which of the following ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Doctrine of colorable legislation"
+        },
+        {
+          "label": "B",
+          "text": "Doctrine of pith and substance"
+        },
+        {
+          "label": "C",
+          "text": "Doctrine of double effect"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Doctrine of pith and substance"
+      },
+      "explanation": "According to the Doctrine of pith and substance, within their respective spheres, the union and the state legislatures are made supreme and they should not encroach on the sphere reserved for other."
+    }
+  ]
+}

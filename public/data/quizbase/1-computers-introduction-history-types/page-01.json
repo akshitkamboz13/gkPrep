@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "1-computers-introduction-history-types",
+    "title": "1. Computers - Introduction, History, Types",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:50:17"
+  },
+  "questions": [
+    {
+      "id": 4653,
+      "question": "Which company introduced NetBIOS in 1983?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dell"
+        },
+        {
+          "label": "B",
+          "text": "IBM"
+        },
+        {
+          "label": "C",
+          "text": "Compaq"
+        },
+        {
+          "label": "D",
+          "text": "SyteK Inc"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "SyteK Inc"
+      },
+      "explanation": "SyteK Inc. developed the NetBIOS protocol in 1983. NetBIOS stands for Network Basic Input/Output System. The protocol was later adopted by IBM for networking in their PC Network. SyteK Inc. was later renamed Hughes LAN Systems Inc. Microsoft integrated NetBIOS into its operating systems for network communication."
+    },
+    {
+      "id": 4665,
+      "question": "Which company developed the Rational Unified Process (RUP) framework?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Microsoft"
+        },
+        {
+          "label": "B",
+          "text": "IBM"
+        },
+        {
+          "label": "C",
+          "text": "Compaq"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "IBM"
+      },
+      "explanation": "The Rational Unified Process (RUP) was developed by Rational Software Corporation, which was acquired by IBM in 2003. IBM continued to maintain and distribute RUP after this acquisition. RUP is a widely used iterative software development process framework in the software industry."
+    },
+    {
+      "id": 4672,
+      "question": "A hybrid computer is the one which exhibits the features of __?",
+      "options": [
+        {
+          "label": "A",
+          "text": "analog computer"
+        },
+        {
+          "label": "B",
+          "text": "digital computer"
+        },
+        {
+          "label": "C",
+          "text": "both analog and digital computer"
+        },
+        {
+          "label": "D",
+          "text": "mainframe computer"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "both analog and digital computer"
+      },
+      "explanation": "Hybrid computers are those computers which exhibit features of both the analog computers and digital computers."
+    },
+    {
+      "id": 4675,
+      "question": "Which of the following best represents the main feature of the sixth generation of computers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Artificial Intelligence"
+        },
+        {
+          "label": "B",
+          "text": "Integrated Circuits"
+        },
+        {
+          "label": "C",
+          "text": "Vacuum Tubes"
+        },
+        {
+          "label": "D",
+          "text": "Transistors"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Artificial Intelligence"
+      },
+      "explanation": "The sixth generation of computers, still in its developing stage and largely theoretical as of now, is renowned for its emphasis on Artificial Intelligence. The concept includes AI systems, robotics, nanotechnology, ubiquitous computing, and quantum computation. The aim is to create machines that can learn, adapt and act based on accumulating knowledge."
+    },
+    {
+      "id": 4677,
+      "question": "Which of the following generation of computers is associated with artificial intelligence?",
+      "options": [
+        {
+          "label": "A",
+          "text": "First"
+        },
+        {
+          "label": "B",
+          "text": "Third"
+        },
+        {
+          "label": "C",
+          "text": "Fifth"
+        },
+        {
+          "label": "D",
+          "text": "Seventh"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Fifth"
+      },
+      "explanation": "The discussion around the Fifth Generation computers includes new computer programming and architecture; semantics of programming languages; relational databases, linguistics theory, artificial intelligence, interference systems and so on."
+    }
+  ]
+}

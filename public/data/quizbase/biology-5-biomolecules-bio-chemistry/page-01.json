@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-5-biomolecules-bio-chemistry",
+    "title": "5. Biomolecules & Bio-chemistry",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:59:46"
+  },
+  "questions": [
+    {
+      "id": 4228,
+      "question": "Deficiency of Vitamin D causes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rickets"
+        },
+        {
+          "label": "B",
+          "text": "Night blindness"
+        },
+        {
+          "label": "C",
+          "text": "Goitre"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Rickets"
+      },
+      "explanation": "Deficiency of Vitamin D can lead to a loss of bone density, which can result in osteoporosis and fractures (broken bones). In children the deficient of Vitamin D can cause rickets."
+    },
+    {
+      "id": 4271,
+      "question": "The terms Hypoglycemia and Hyperglycemia are related to which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Body Fat"
+        },
+        {
+          "label": "B",
+          "text": "Blood Sugar"
+        },
+        {
+          "label": "C",
+          "text": "Metabolism of sugar galactose"
+        },
+        {
+          "label": "D",
+          "text": "Respiration"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Blood Sugar"
+      },
+      "explanation": "Hypoglycemia: low blood sugar Hyperglycemia: High blood sugar"
+    },
+    {
+      "id": 4273,
+      "question": "Which part of the Human Body stores Glycogen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Liver"
+        },
+        {
+          "label": "B",
+          "text": "Intestine"
+        },
+        {
+          "label": "C",
+          "text": "Pancreas"
+        },
+        {
+          "label": "D",
+          "text": "Skin"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Liver"
+      },
+      "explanation": "In liver Simple sugars (monosaccharides) which are in excess are converted into complex polysaccharides like glycogen"
+    },
+    {
+      "id": 4348,
+      "question": "Calcitriol is the biologically active form of which among the following Vitamins?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vitamin B"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin C"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin D"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin E"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Vitamin D"
+      },
+      "explanation": "Calcitriol is the biologically active form of Vitamin D. It is normally made in the kidney. It is used to treat diseases like hypoparathyroidism, osteoporosis, osteomalacia, and familial hypophosphatemia."
+    },
+    {
+      "id": 4412,
+      "question": "Which among the following is not present in pure sugar ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbon"
+        },
+        {
+          "label": "B",
+          "text": "Hydrogen"
+        },
+        {
+          "label": "C",
+          "text": "Nitrogen"
+        },
+        {
+          "label": "D",
+          "text": "Oxygen"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Nitrogen"
+      },
+      "explanation": "Pure Sugar is sucrose C12H22O11."
+    }
+  ]
+}

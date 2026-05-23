@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-24-birds",
+    "title": "24. Birds",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:58:13"
+  },
+  "questions": [
+    {
+      "id": 10577,
+      "question": "Bubo bubo is the scientific name of which of the following species?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hen"
+        },
+        {
+          "label": "B",
+          "text": "Peacock"
+        },
+        {
+          "label": "C",
+          "text": "Eagle"
+        },
+        {
+          "label": "D",
+          "text": "Owl"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Owl"
+      },
+      "explanation": "Bubo bubo is the scientific name of owl. The Bubo bubo or the Eurasian eagle-owl is a species of eagle-owl that resides in much of Eurasia."
+    },
+    {
+      "id": 10599,
+      "question": "The term “Gypsophils” is associated with the people who have liking for which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vultures"
+        },
+        {
+          "label": "B",
+          "text": "Eagles"
+        },
+        {
+          "label": "C",
+          "text": "Hawks"
+        },
+        {
+          "label": "D",
+          "text": "Falcons"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Vultures"
+      },
+      "explanation": "The term “Gypsophils” is associated with the people who have liking for vultures."
+    },
+    {
+      "id": 19850,
+      "question": "Why do birds not experience respiratory issues while flying at high altitudes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Their lungs are larger relative to body size"
+        },
+        {
+          "label": "B",
+          "text": "They fly inactively at high altitudes"
+        },
+        {
+          "label": "C",
+          "text": "None of the above is correct"
+        },
+        {
+          "label": "D",
+          "text": "Birds possess additional air sacs"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Birds possess additional air sacs"
+      },
+      "explanation": "Birds have unique respiratory systems with extra air sacs that provide continuous airflow and efficient oxygen exchange, even at high altitudes where air is thinner. These adaptations help birds avoid respiratory trouble during flight."
+    },
+    {
+      "id": 29239,
+      "question": "Anatomically, the beak of birds is equivalent of which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Teeth"
+        },
+        {
+          "label": "B",
+          "text": "Cheeks"
+        },
+        {
+          "label": "C",
+          "text": "Jaws"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Jaws"
+      },
+      "explanation": "The beak, bill or rostrum is an external anatomical structure of birds that is used for eating and for preening, manipulating objects, killing prey, fighting, probing for food, etc. All beaks are composed of two jaws, generally known as the upper mandible (or maxilla) and lower mandible (or mandible)."
+    },
+    {
+      "id": 34498,
+      "question": "When compared to the mammals, birds are less sensitive to temporary deprivation of water, because? (UPSC Prelims 1990)",
+      "options": [
+        {
+          "label": "A",
+          "text": "The water requirement per unit weight is less in birds than in mammals."
+        },
+        {
+          "label": "B",
+          "text": "Absorption of water from the gut is more efficient in birds than in mammals."
+        },
+        {
+          "label": "C",
+          "text": "Urea excretion in mammals entails a greater loss of water than that in birds."
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "The water requirement per unit weight is less in birds than in mammals."
+      },
+      "explanation": "When compared to the mammals, birds are less sensitive to temporary deprivation of water, because the water requirement per unit weight is less in birds than in mammals."
+    }
+  ]
+}

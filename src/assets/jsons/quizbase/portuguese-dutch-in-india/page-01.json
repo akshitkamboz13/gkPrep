@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "portuguese-dutch-in-india",
+    "title": "4. Dutch and Danes Companies",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:32:23"
+  },
+  "questions": [
+    {
+      "id": 4844,
+      "question": "Which among the following was the first establishment of Dutch in current territories of Odisha?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Calcutta"
+        },
+        {
+          "label": "B",
+          "text": "Chinsura"
+        },
+        {
+          "label": "C",
+          "text": "Pippli"
+        },
+        {
+          "label": "D",
+          "text": "Balasore"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Pippli"
+      },
+      "explanation": "Pippli was the first place where the Dutch had established themselves in current territories of Odisha. It was soon abandoned for Balasore."
+    },
+    {
+      "id": 4913,
+      "question": "Who were the first to start a joint stock company to trade with India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Portuguese"
+        },
+        {
+          "label": "B",
+          "text": "Dutch"
+        },
+        {
+          "label": "C",
+          "text": "French"
+        },
+        {
+          "label": "D",
+          "text": "Danish"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Dutch"
+      },
+      "explanation": "To maximize profits, the Dutch East India Company established the world’s first stock market in Amsterdam on March 20, 1602, in which investors could speculate on commodity futures and buy stock in the trading company. It was the Dutch East India Company to start a joint stock company to trade with India"
+    },
+    {
+      "id": 5406,
+      "question": "The first factory by the Dutch was established at which among the following places?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Surat"
+        },
+        {
+          "label": "B",
+          "text": "Machilipatnam"
+        },
+        {
+          "label": "C",
+          "text": "Negapatnam"
+        },
+        {
+          "label": "D",
+          "text": "Pulicat"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Machilipatnam"
+      },
+      "explanation": "The Dutch East India Company was created in 1602 as “United East India Company” and its first permanent trading post was in Indonesia. In India, they established the first factory in Masulipattanam in 1605, followed by Pulicat in 1610, Surat in 1616, Bimilipatam in 1641 and Chinsura in 1653."
+    },
+    {
+      "id": 8543,
+      "question": "For which of the following commodities , the Dutch wanted to barter cotton piece goods in the Indonesian Archipelago?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tobacco"
+        },
+        {
+          "label": "B",
+          "text": "Rice"
+        },
+        {
+          "label": "C",
+          "text": "Pepper and Spices"
+        },
+        {
+          "label": "D",
+          "text": "Silk"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Pepper and Spices"
+      },
+      "explanation": "The Dutch founded their first factory in Masulipatnam (Present day Andhra Pradesh) in the year 1605. Silk, cotton, indigo, rice, opium were the main trading commodities of the Dutch. They never wanted to build empire in India. The Spice island of Indonesia and peeper were their main attraction."
+    },
+    {
+      "id": 8880,
+      "question": "In which year first fleet of Dutch reached in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1498"
+        },
+        {
+          "label": "B",
+          "text": "1510"
+        },
+        {
+          "label": "C",
+          "text": "1550"
+        },
+        {
+          "label": "D",
+          "text": "1595"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1595"
+      },
+      "explanation": "In 1595, first fleet of Dutch reached in India under the leadership of Cornelis De Hastman. The first Dutch factory was set up in Masulipatam (Present Andhra Pradesh). They never wanted to build empire in India. The Spice island of Indonesia and peeper were their main attraction."
+    }
+  ]
+}

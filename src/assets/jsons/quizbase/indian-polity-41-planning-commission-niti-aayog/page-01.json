@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-41-planning-commission-niti-aayog",
+    "title": "Planning Commission & NITI Aayog",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:22:19"
+  },
+  "questions": [
+    {
+      "id": 5244,
+      "question": "Who among the following was the First Deputy Chairman of Planning Commission?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gulzari Lal Nanda"
+        },
+        {
+          "label": "B",
+          "text": "V.T. Krishnamachari"
+        },
+        {
+          "label": "C",
+          "text": "C.M. Trivedi"
+        },
+        {
+          "label": "D",
+          "text": "Ashok Mehta"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Gulzari Lal Nanda"
+      },
+      "explanation": "The first deputy chairperson of the planning commission was former Prime minister of India Gulzarilal Nanda from 17 February 1953 to 21 September 1963."
+    },
+    {
+      "id": 7194,
+      "question": "Who among the following is responsible for devising the best ways to utilize available resources of States?",
+      "options": [
+        {
+          "label": "A",
+          "text": "National Development Council"
+        },
+        {
+          "label": "B",
+          "text": "State Legislature"
+        },
+        {
+          "label": "C",
+          "text": "Zonal councils"
+        },
+        {
+          "label": "D",
+          "text": "Inter state council"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Zonal councils"
+      },
+      "explanation": "Zonal councils are statutory bodies established under the State’s Reorganisation Act 1956. They are only deliberative and advisory bodies. They are responsible for devising the best ways to utilize available resources of States."
+    },
+    {
+      "id": 11278,
+      "question": "which among the following established the Planning commission in 1950 as an extra constitutional body through a resoltion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prime Minister"
+        },
+        {
+          "label": "B",
+          "text": "Parliament"
+        },
+        {
+          "label": "C",
+          "text": "Lok Sabha"
+        },
+        {
+          "label": "D",
+          "text": "Cabinet"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Cabinet"
+      },
+      "explanation": "The Planning Commission was an institution in the Government of India, which was responsible to formulate India's Five-Year Plans. It was established on 15 March 1950, with Prime Minister Jawaharlal Nehru as the Chairman."
+    },
+    {
+      "id": 29814,
+      "question": "Which of the following lists has the subject ‘planning’ figure ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "State List"
+        },
+        {
+          "label": "B",
+          "text": "Concurrent List"
+        },
+        {
+          "label": "C",
+          "text": "Residuary List"
+        },
+        {
+          "label": "D",
+          "text": "Union List"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Concurrent List"
+      },
+      "explanation": "Planning figure is included in concurrent list. The Concurrent List or List-III (Seventh Schedule) is a list of 52 items (though the last item is numbered 47) given in the Seventh Schedule to the Constitution of India. The legislative section is divided into three lists: Union List, State List and Concurrent List."
+    },
+    {
+      "id": 46014,
+      "question": "In which year the Modi Government scrapped the Planning Commission of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2013"
+        },
+        {
+          "label": "B",
+          "text": "2014"
+        },
+        {
+          "label": "C",
+          "text": "2015"
+        },
+        {
+          "label": "D",
+          "text": "2016"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "2014"
+      },
+      "explanation": "In the year 2014 on 13th of August the Modi Government scrapped the 65- year-old Planning Commission of India and announced that it would be replaced by a new body called NITI Aayog."
+    }
+  ]
+}

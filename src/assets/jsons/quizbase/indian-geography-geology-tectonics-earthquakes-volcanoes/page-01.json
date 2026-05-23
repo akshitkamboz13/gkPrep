@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-geography-geology-tectonics-earthquakes-volcanoes",
+    "title": "2. Geology, Tectonics, Earthquakes, Volcanoes in India",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:18:06"
+  },
+  "questions": [
+    {
+      "id": 4538,
+      "question": "The permanent seismological observatory has been installed at which among the following places in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Palanpur, Gujarat"
+        },
+        {
+          "label": "B",
+          "text": "Latur, Maharastra"
+        },
+        {
+          "label": "C",
+          "text": "Chamoli, Uttarakhand"
+        },
+        {
+          "label": "D",
+          "text": "Pune, Maharashtra"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Latur, Maharastra"
+      },
+      "explanation": "There is a permanent seismological observatory in Latur, Maharashtra. The first seismological observatory in India was established in Alipore (Calcutta) on December 1, 1898. This was after the Great Shillong earthquake of June 12, 1897."
+    },
+    {
+      "id": 9121,
+      "question": "Which among the following rock system in India is also known as storehouse of minerals?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Archaean Rock system"
+        },
+        {
+          "label": "B",
+          "text": "Dharwar system"
+        },
+        {
+          "label": "C",
+          "text": "The Cudappah system"
+        },
+        {
+          "label": "D",
+          "text": "The Vindhyan System"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Dharwar system"
+      },
+      "explanation": "Dharwar Rock System is special because it is the first metamorphic sedimentary rock in India. They are named Dharwar system because they were first studied in Dharwar region of Karnataka. But they are also found in the Aravallis, Tamil Nadu, Chotanagpur plateau, Meghalaya, Delhi, and the Himalayas region. Out of these, Chota Nagpur plateau is called the storehouse of minerals since it is rich in minerals such as mica, bauxite, copper, iron ore, etc."
+    },
+    {
+      "id": 9747,
+      "question": "Damodar and Sone river valley and Rajmahal hills in the eastern India are depository of the______?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cuddappa System Rocks"
+        },
+        {
+          "label": "B",
+          "text": "Dharwar System Rocks"
+        },
+        {
+          "label": "C",
+          "text": "Gondwana System Rocks"
+        },
+        {
+          "label": "D",
+          "text": "Vindhyan System Rocks"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Gondwana System Rocks"
+      },
+      "explanation": "Gondwana Rock System comprises the major coal deposits of India. This system contains famous Damuda and Panchet series which are famous for coal deposits (discussed below). The important coal bearing areas of this series are Raniganj, Jharia, Karanpur, and Bokaro of the Damodar basin in Odisha, and the Pench valley in Chhattisgarh and Madhya Pradesh, the jhingurda coal seam (Chhattisgarh)."
+    },
+    {
+      "id": 11623,
+      "question": "As per seismic zoning map of Government of India, Jaitapur site falls within which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zone II"
+        },
+        {
+          "label": "B",
+          "text": "Zone III"
+        },
+        {
+          "label": "C",
+          "text": "Zone IV"
+        },
+        {
+          "label": "D",
+          "text": "Zone V"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Zone III"
+      },
+      "explanation": "According to the Government of India's seismic zoning map, the Jaitapur site falls within zone III. The Jaitapur site is not considered earthquake-prone. The Bureau of Indian Standards (BIS) published a seismic zonation map of India in 1962. The map classifies the country into four seismic zones. Zone V is the most seismically active region.A seismic zone is an area of seismicity that may share a common cause. It may also be a region on a map where a common rate of seismicity is assumed for calculating probabilistic ground motions"
+    },
+    {
+      "id": 18414,
+      "question": "Which of the following states is located in Zone-V, the highest-risk seismic zone in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Karnataka"
+        },
+        {
+          "label": "D",
+          "text": "Assam"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Assam"
+      },
+      "explanation": "Zone-V is considered as Very High Damage Risk Zone. The region of Kashmir, the Western and Central Himalayas, North and Middle Bihar, the North-East Indian region and the Rann of Kutch fall in this zone."
+    }
+  ]
+}

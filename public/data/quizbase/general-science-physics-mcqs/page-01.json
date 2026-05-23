@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "general-science-physics-mcqs",
+    "title": "Physics MCQs",
+    "page": 1,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:50:44",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:13:24"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "The speed of Sound is maximum in which of the following ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Air at zero degree C"
+        },
+        {
+          "label": "B",
+          "text": "Air at 100 degree C"
+        },
+        {
+          "label": "C",
+          "text": "Water"
+        },
+        {
+          "label": "D",
+          "text": "Same in all"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Water"
+      },
+      "explanation": "The speed of sound in a medium is determined by the properties of that medium, primarily its density and elasticity. The speed of sound is fastest in solids, followed by liquids, and then gases. Let’s analyze the given options: [A] Air at zero degrees Celsius: The speed of sound in air increases with temperature. At lower temperatures, the molecules in the air have less kinetic energy, which results in a slower speed of sound. So, the speed of sound in air at 0°C is slower compared to higher temperatures. [B] Air at 100 degrees Celsius: As mentioned earlier, the speed of sound in air increases with temperature. So, the speed of sound in air at 100°C would be faster than at 0°C but still slower than in a solid or liquid. [C] Water: The speed of sound in water is significantly faster than in air. Water is denser and more elastic than air, which allows sound waves to travel through it more quickly. [D] same in all: This statement is not correct. The speed of sound varies depending on the medium. It is not constant and is definitely not maximum everywhere. So, among the given options, the maximum speed of sound would be in “Water” (Option C)."
+    },
+    {
+      "id": 2,
+      "question": "Which among the following strictly works on the principle of dipole movement of the water molecules?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Refrigerator"
+        },
+        {
+          "label": "B",
+          "text": "Microwave Oven"
+        },
+        {
+          "label": "C",
+          "text": "Air Conditioner"
+        },
+        {
+          "label": "D",
+          "text": "Electric Geyser"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Microwave Oven"
+      },
+      "explanation": "Microwave Oven strictly works on the principle of dipole movement of water molecule. A microwave oven is an electric oven that heats and cooks food by exposing it to electromagnetic radiation in the microwave frequency range."
+    },
+    {
+      "id": 3,
+      "question": "An object is executing uniform circular motion. Which of the following quantities remain(s) constant during the object’s motion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Velocity and acceleration"
+        },
+        {
+          "label": "B",
+          "text": "Speed and velocity"
+        },
+        {
+          "label": "C",
+          "text": "Speed and acceleration"
+        },
+        {
+          "label": "D",
+          "text": "Speed only"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Speed only"
+      },
+      "explanation": "The velocity of an object undergoing uniform circular motion is always changing (because the direction is always changing). Further, since the acceleration is centripetal, it must always point toward the center of the circle; so, as the object moves around the circle, the acceleration vector is also constantly changing direction. Notice that for an object in uniform circular motion, both the velocity and the acceleration are changing because the directions of these vectors are always changing, even though their magnitudes stay the same. In this question, only speed remains unchanged."
+    },
+    {
+      "id": 4,
+      "question": "Which among the following orbits are more prone to harms of space debris or space Junk in comparison to others?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Polar Sun Synchronous Orbit"
+        },
+        {
+          "label": "B",
+          "text": "Low Earth Orbit"
+        },
+        {
+          "label": "C",
+          "text": "Geosynchronous orbit"
+        },
+        {
+          "label": "D",
+          "text": "Geostationary Orbit"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Geostationary Orbit"
+      },
+      "explanation": "Low Earth Orbit (LEO) is more prone to space debris or space junk. This is because space debris is more concentrated in orbits closer to Earth. Most debris is within 2,000 km (1,200 miles) of Earth’s surface. Space debris orbits the Earth at tremendous speeds, about 15,700 miles per hour (25,265 kph) in low Earth orbit. In the event of a collision, it could cause significant damage to a satellite or spacecraft. Experts are concerned about the amount of space debris in regions that are too high to benefit from the cleansing effects of Earth’s atmosphere. They believe that if there is too much space junk in orbit, it could result in a chain reaction where more and more objects collide and create new space junk."
+    },
+    {
+      "id": 5,
+      "question": "Who among the following is credited to work for the unification of electricity, magnetism and optics field of Physics?",
+      "options": [
+        {
+          "label": "A",
+          "text": "James Clerk Maxwell"
+        },
+        {
+          "label": "B",
+          "text": "Michael Faraday"
+        },
+        {
+          "label": "C",
+          "text": "Haris Christian Oersted"
+        },
+        {
+          "label": "D",
+          "text": "Isaac Newton"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "James Clerk Maxwell"
+      },
+      "explanation": "James Clerk Maxwell made the efforts for the unification of electricity, magnetism and optics field of Physics. He showed that light is an electromagnetic wave. James Clerk Maxwell was a Scottish mathematician, physicist and is known best for his mathematical work on electromagnetism and on the behaviour of gases."
+    },
+    {
+      "id": 6,
+      "question": "An Electric generator is based on which of the following scientific principles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Faraday’s law of Electromagnetic Induction"
+        },
+        {
+          "label": "B",
+          "text": "Super Conductivity"
+        },
+        {
+          "label": "C",
+          "text": "Laws of Thermodynamics"
+        },
+        {
+          "label": "D",
+          "text": "Newton’s Law of Motion"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Faraday’s law of Electromagnetic Induction"
+      },
+      "explanation": "An Electric generator works on the principle of Faraday’s law of Electromagnetic Induction. An electric generator uses mechanical energy to generate electricity applying Faraday’s law of induction. It spins a coil at a constant rate in a magnetic field to induce an oscillating emf."
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is the unit of Velocity Gradient?(s=second)",
+      "options": [
+        {
+          "label": "A",
+          "text": "s2"
+        },
+        {
+          "label": "B",
+          "text": "s-1"
+        },
+        {
+          "label": "C",
+          "text": "s"
+        },
+        {
+          "label": "D",
+          "text": "s-2"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "s-1"
+      },
+      "explanation": "The unit of Velocity Gradient is s-1(per second) Velocity Gradient = Velocity/time Velocity gradient shows that how the velocity of a fluid changes between different points within the fluid."
+    },
+    {
+      "id": 8,
+      "question": "The magnitude of the resultant of two vectors is maximum in which of the following case?",
+      "options": [
+        {
+          "label": "A",
+          "text": "when vectors act in the same direction"
+        },
+        {
+          "label": "B",
+          "text": "when vectors act in the opposite direction"
+        },
+        {
+          "label": "C",
+          "text": "when vectors act at 90° to each other"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "when vectors act in the same direction"
+      },
+      "explanation": "The magnitude of the resultant of two vectors is maximum when vectors act in the same direction. The magnitude of the resultant of two vectors is minimum when vectors act in the opposite directions."
+    },
+    {
+      "id": 9,
+      "question": "What is the maximum height that can be attained by a projectile?",
+      "options": [
+        {
+          "label": "A",
+          "text": "equal to its maximum range"
+        },
+        {
+          "label": "B",
+          "text": "one half of its maximum range"
+        },
+        {
+          "label": "C",
+          "text": "one-fourth of its maximum range"
+        },
+        {
+          "label": "D",
+          "text": "twice of its maximum range"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "one-fourth of its maximum range"
+      },
+      "explanation": "The maximum height that can be attained by a projectile is equal to one-fourth of its maximum range."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is NOT correct about Vectors addition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vectors addition is associative"
+        },
+        {
+          "label": "B",
+          "text": "Vectors addition is commutative"
+        },
+        {
+          "label": "C",
+          "text": "Vectors of different natures can be added"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Vectors of different natures can be added"
+      },
+      "explanation": "Vectors addition is associative and commutative. But vectors of the same nature alone can be added. Example: a Force vector cannot be added to velocity vector as they are of different nature."
+    }
+  ]
+}

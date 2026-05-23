@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "28-gupta-empire-economy-numismatics",
+    "title": "26. Gupta Polity, Economy, Numismatics",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:52:40"
+  },
+  "questions": [
+    {
+      "id": 1818,
+      "question": "Vallabhi era is identical with which of the following era?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vikrama era"
+        },
+        {
+          "label": "B",
+          "text": "Gupta era"
+        },
+        {
+          "label": "C",
+          "text": "Harsha era"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Gupta era"
+      },
+      "explanation": "Vallabhi era is identical to the Gupta era. The Vallabhi era followed the Gupta era in 366 AD. The Gupta era was started by Chandragupta I in 319-320 AD. The Vallabhi era was used in the Saurashtra region of western India. Regional differences led to a slightly different calculation for converting Vallabhi era years to Common Era (CE). Vallabhi is also the name of an ancient city located in the Saurashtra peninsula of Gujarat, near Bhavnagar in western India. It was the capital of the Suryavanshi Maitraka Dynasty."
+    },
+    {
+      "id": 7490,
+      "question": "Which among the following is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "the gold coins issued by Guptas were having more Gold Content than Kushanas"
+        },
+        {
+          "label": "B",
+          "text": "The gold coins issued by Kushana were having more Gold content than Guptas"
+        },
+        {
+          "label": "C",
+          "text": "Both were having the same fraction of Gold"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "The gold coins issued by Kushana were having more Gold content than Guptas"
+      },
+      "explanation": "According to the Indian Archaeology, the gold coins were issued by different emperors. Kushanas issued gold coins that were being used to make trade relation easier. The Gupta emperors made the most aristocratic gold coins. The gold coins of Gupta rulers were better than Kushana rulers because Gupta used good quality gold for the coins. This indicates that Gupta coins were more expensive and high quality."
+    },
+    {
+      "id": 10335,
+      "question": "What was the name of the silver coins issued by Guptas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Karshapana"
+        },
+        {
+          "label": "B",
+          "text": "Rupaka"
+        },
+        {
+          "label": "C",
+          "text": "Dinara"
+        },
+        {
+          "label": "D",
+          "text": "Pana"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Rupaka"
+      },
+      "explanation": "The silver coins issued by the Guptas were called Rupaka. The silver coin was called Rupaka based on Sakas of Ujjaini weighing 32-36 grains. The Gupta gold coins are known as Dinars."
+    },
+    {
+      "id": 10392,
+      "question": "Which among the following is considered to be the official law book of the Guptas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Manusmriti"
+        },
+        {
+          "label": "B",
+          "text": "Parashara Smriti"
+        },
+        {
+          "label": "C",
+          "text": "Yajnavalkya Smriti"
+        },
+        {
+          "label": "D",
+          "text": "Vyasa Smriti"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Yajnavalkya Smriti"
+      },
+      "explanation": "Yajnavalkyasmriti, which is almost regarded as the official law book of Guptas, was composed also in Gupta era."
+    },
+    {
+      "id": 11392,
+      "question": "Which among the following is NOT a correct statement in context with the Gupta Era?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gupta era is known for extensive achievements in science, technology, engineering, art, dialectic, literature, logic, mathematics, astronomy, religion and philosophy"
+        },
+        {
+          "label": "B",
+          "text": "Gupta era crystallized the common elements of Hindu Culture"
+        },
+        {
+          "label": "C",
+          "text": "Maximum number of Gold Coins were issued in Gupta Era"
+        },
+        {
+          "label": "D",
+          "text": "The Gold Content of Gupta Era coins was maximum in comparison to previous major dynasties"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "The Gold Content of Gupta Era coins was maximum in comparison to previous major dynasties"
+      },
+      "explanation": "Although the Gupta rulers issued the largest number of gold coins, their gold content, particularly after Skandagupta was very low. This justifies the deteriorating economy in later gupta era."
+    }
+  ]
+}

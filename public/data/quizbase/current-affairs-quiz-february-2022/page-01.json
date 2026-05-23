@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-february-2022",
+    "title": "Current Affairs Quiz - February 2022",
+    "page": 1,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:46:31",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:51:56"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Masada Fortress, which was seen in the news, is located in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India"
+        },
+        {
+          "label": "B",
+          "text": "Sri Lanka"
+        },
+        {
+          "label": "C",
+          "text": "Israel"
+        },
+        {
+          "label": "D",
+          "text": "UAE"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Israel"
+      },
+      "explanation": "Masada Fortress, which is located in Israel, is a symbol of Jewish Heroism. Israel’s Ambassador to India Naor Gilon shared a video that showed the Masada Fortress in Israel illuminated with lights. It commemorates the India-Israel Ties, as the two countries celebrate 30 years of diplomatic relations. Earlier both the countries unveiled a commemorative logo."
+    },
+    {
+      "id": 2,
+      "question": "Which institution has developed an AI-based diagnosis technique using X-Ray named ‘COMiT-Net’ to screen COVID-19?",
+      "options": [
+        {
+          "label": "A",
+          "text": "AIIMS"
+        },
+        {
+          "label": "B",
+          "text": "IIT- Jodhpur"
+        },
+        {
+          "label": "C",
+          "text": "JIPMER"
+        },
+        {
+          "label": "D",
+          "text": "John Hopkins University"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "IIT- Jodhpur"
+      },
+      "explanation": "Researchers from the Indian Institute of Technology (IIT) Jodhpur have developed an Artificial Intelligence (AI)-based chest X-ray diagnosis technique using X-Ray that can detect COVID-19. The AI-based solution can be an alternative to the regular RT PCR tests conducted across the world. The Researchers from the institute proposed a deep learning-based algorithm, COMiT-Net, which can differentiate between a COVID-19 affected lung and a non-COVID affected lung."
+    },
+    {
+      "id": 3,
+      "question": "Sergio Mattarella has been elected as the President of which country for the second term?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brazil"
+        },
+        {
+          "label": "B",
+          "text": "Italy"
+        },
+        {
+          "label": "C",
+          "text": "France"
+        },
+        {
+          "label": "D",
+          "text": "Ukraine"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Italy"
+      },
+      "explanation": "Italian President Sergio Mattarella has been elected to a second term in the recent round of elections. Mattarella was reconfirmed with a broad majority, in the voting done by lawmakers and regional representatives. The 80-year old Jurist-Academic has been serving as the country’s President since 2015."
+    },
+    {
+      "id": 4,
+      "question": "Who is the first male Tennis star to win 21 Grand Slam titles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Roger Federer"
+        },
+        {
+          "label": "B",
+          "text": "Rafael Nadal"
+        },
+        {
+          "label": "C",
+          "text": "Novak Djokovic"
+        },
+        {
+          "label": "D",
+          "text": "Andre Agassi"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Rafael Nadal"
+      },
+      "explanation": "Ace Tennis player Rafael Nadal created history as he won a historic 21st Grand Slam title, defeating Russia’s Daniil Medvedev in the final of the Australian Open. The Spaniard became the first male tennis player to win 21 Grand Slam titles. He went ahead of Switzerland’s Roger Federer and Serbia’s Novak Djokovic-both tied at 20 each. Australian retired tennis player Margaret Court won 24 Grand Slam women’s singles titles."
+    },
+    {
+      "id": 5,
+      "question": "The Government of India has done ‘Conversion or Switch operations’ with which institution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "INTERPOL"
+        },
+        {
+          "label": "B",
+          "text": "Reserve Bank of India"
+        },
+        {
+          "label": "C",
+          "text": "International Court of Justice"
+        },
+        {
+          "label": "D",
+          "text": "World Bank"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Reserve Bank of India"
+      },
+      "explanation": "The Government of India has done ‘Conversion or Switch operations’ with the Reserve Bank of India, for an amount of ₹1,19,701 crore. The transaction involved buying back securities maturing in FY 2022-23, FY 2023-24 and FY 2024-25 from the Reserve Bank and issuing fresh securities for equivalent market value. This conversion will help to reduce the redemption pressure on the Government."
+    },
+    {
+      "id": 6,
+      "question": "Which state’s Chief Minister launched the ‘All India Federation for Social Justice’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "West Bengal"
+        },
+        {
+          "label": "B",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "C",
+          "text": "Kerala"
+        },
+        {
+          "label": "D",
+          "text": "Chhattisgarh"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Tamil Nadu"
+      },
+      "explanation": "The Tamil Nadu Chief Minister and the DMK Chief announced the launch of ‘All India Federation for Social Justice’. This federation will be represented by leaders of the depressed classes from all the states. The Chief Minister invited as many as 37 leaders across the country to join the federation. Tamil Nadu played a significant role in the legal battle, which ended in the apex court upholding the 27 per cent OBC quota in the all-India pool seats at state medical colleges."
+    },
+    {
+      "id": 7,
+      "question": "Indian Army signed contract with which company for manufacture of Konkurs-M missiles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "DRDO"
+        },
+        {
+          "label": "B",
+          "text": "Bharat Dynamics Ltd"
+        },
+        {
+          "label": "C",
+          "text": "Hindustan Aeronautics Ltd"
+        },
+        {
+          "label": "D",
+          "text": "Bharat Electronics Ltd"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Bharat Dynamics Ltd"
+      },
+      "explanation": "Bharat Dynamics Limited (BDL) and the Indian Army have signed a contract worth Rs 3,131.82 crore for the manufacture and supply of Konkurs-M anti-tank guided missiles. The missile with 75-4000 metre range can be launched either from the BMP-II tank or from a ground launcher. Konkurs-M is being manufactured under a license agreement with a Russian Original Equipment Manufacturer (OEM)."
+    },
+    {
+      "id": 8,
+      "question": "Which Indian state has developed a dedicated ‘Craft Map’, mapping all art forms of the state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Manipur"
+        },
+        {
+          "label": "C",
+          "text": "Sikkim"
+        },
+        {
+          "label": "D",
+          "text": "Gujarat"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Manipur"
+      },
+      "explanation": "Mission for Economic Empowerment of Traditional Artisans and Craftsmen (MEETAC), Manipur, and the National Institute of Design have created ‘Craft Map of Manipur’. It includes all art forms across the state such as the black earthenware crafted by the Tangkhul community without using a potter’s wheel, GI-tagged Manipuri half sari called ‘moirang phee’, ‘Thang’ knifes , products made from ‘kauna’, firm-stemmed grass among others."
+    },
+    {
+      "id": 9,
+      "question": "Which is the venue of the 2028 Olympic Games?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paris"
+        },
+        {
+          "label": "B",
+          "text": "Rome"
+        },
+        {
+          "label": "C",
+          "text": "Los Angeles"
+        },
+        {
+          "label": "D",
+          "text": "Moscow"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Los Angeles"
+      },
+      "explanation": "Los Angeles is the venue of the 2028 Olympic Games or the 2028 Summer Olympic Games. It is being referred as LA28. Paris is the venue of 2024 Olympic Games. Recently, the International Olympic Committee has approved a proposal to include surfing, skateboarding and sport climbing among the core sports for the 2028 Summer Games in Los Angeles."
+    },
+    {
+      "id": 10,
+      "question": "Which state launched the ‘Rajiv Gandhi Grameen Bhumiheen Krishi Mazdoor Nyay Yojana’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Punjab"
+        },
+        {
+          "label": "B",
+          "text": "Chhattisgarh"
+        },
+        {
+          "label": "C",
+          "text": "Uttarakhand"
+        },
+        {
+          "label": "D",
+          "text": "Andhra Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Chhattisgarh"
+      },
+      "explanation": "Chhattisgarh government launched the ‘Rajiv Gandhi Grameen Bhumiheen Krishi Mazdoor Nyay Yojana’. It is a financial assistance scheme of the Chhattisgarh government for landless labourers of rural areas with around 3.55 lakh beneficiaries receiving Rs 2,000 each in their bank accounts as the first instalment under the plan. It was launched by Congress Leader Rahul Gandhi."
+    }
+  ]
+}

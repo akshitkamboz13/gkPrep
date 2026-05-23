@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-19-overview-animal-kingdom",
+    "title": "19. Overview Animal Kingdom",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:57:46"
+  },
+  "questions": [
+    {
+      "id": 4295,
+      "question": "Plasmodium falciparum, which causes malaria in humans is kept in which among the following groups?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bacteria"
+        },
+        {
+          "label": "B",
+          "text": "Viruses"
+        },
+        {
+          "label": "C",
+          "text": "Protozoans"
+        },
+        {
+          "label": "D",
+          "text": "Fungi"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Protozoans"
+      },
+      "explanation": "Plasmodium, a tiny protozoan is responsible for malarial disease. Different species of Plasmodium (P. vivax, P. malaria and P. falciparum) are responsible for different types of malaria. Of these, malignant malaria caused by Plasmodium falciparum is the most serious one and can even be fatal."
+    },
+    {
+      "id": 8831,
+      "question": "Which among the following is largest animal Phylum?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mollusca"
+        },
+        {
+          "label": "B",
+          "text": "Arthropoda"
+        },
+        {
+          "label": "C",
+          "text": "Mammalia"
+        },
+        {
+          "label": "D",
+          "text": "Annelida"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Arthropoda"
+      },
+      "explanation": "An arthropod is an invertebrate animal having an exoskeleton, a segmented body, and paired jointed appendages. It is considered as the largest phylum in the animal kingdom with an estimated 85 percent of known species included in this phylum."
+    },
+    {
+      "id": 20124,
+      "question": "Which of the following ecosystems showcases the highest biodiversity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mangroves"
+        },
+        {
+          "label": "B",
+          "text": "Deserts"
+        },
+        {
+          "label": "C",
+          "text": "Coral Reefs"
+        },
+        {
+          "label": "D",
+          "text": "Alpine Meadows"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Coral Reefs"
+      },
+      "explanation": "The Coral Reef ecosystem showcases the highest biodiversity among the options provided. This is due to the ideal tropical environment in which they exist, offering a wide range of habitats, shelter, and nourishment for an astonishing array of marine life. In terms of biodiversity, they are second only to tropical rainforests. Interestingly, despite covering less than 1% of the ocean floor, coral reefs support about 25% of all known marine species."
+    },
+    {
+      "id": 20295,
+      "question": "Which of the following fauna is used nowadays to monitor the Lead pollution in the city?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Blue peafowl"
+        },
+        {
+          "label": "B",
+          "text": "Pigeon"
+        },
+        {
+          "label": "C",
+          "text": "Butterfly"
+        },
+        {
+          "label": "D",
+          "text": "Forest owlet"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Pigeon"
+      },
+      "explanation": "Pigeons have become useful bioindicators for lead pollution due to their widespread presence in cities and their ability to accumulate and retain heavy metals, including lead, in their tissues. Researchers have found that the feathers, blood, and tissues of pigeons can provide valuable information about the levels of lead exposure in the environment. Lead pollution in cities can come from various sources, including lead-based paints, industrial emissions, and traffic-related sources. Pigeons, being urban birds, are exposed to these sources and can accumulate lead over time. By studying lead levels in pigeon populations, scientists can gain insights into the extent of lead pollution in a city and assess its potential risks to both wildlife and humans."
+    },
+    {
+      "id": 30413,
+      "question": "Entomology is associated with the study of which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Behavior of human beings"
+        },
+        {
+          "label": "B",
+          "text": "Insects"
+        },
+        {
+          "label": "C",
+          "text": "The origin and history of technical and scientific terms"
+        },
+        {
+          "label": "D",
+          "text": "The formation of rocks"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Insects"
+      },
+      "explanation": "Entomology is the scientific study of insects, a branch of zoology. In the past the term \"insect\" was more vague, and historically the definition of entomology included the study of terrestrial animals in other arthropod groups or other phyla, such as arachnids, myriapods, earthworms, land snails, and slugs."
+    }
+  ]
+}

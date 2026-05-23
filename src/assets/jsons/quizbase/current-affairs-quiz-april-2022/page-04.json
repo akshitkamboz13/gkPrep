@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-april-2022",
+    "title": "Current Affairs Quiz - April 2022",
+    "page": 4,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:45:53",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:47:24"
+  },
+  "questions": [
+    {
+      "id": 31,
+      "question": "East Timor, which was seen in the news, was recognised by the UN in which year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1982"
+        },
+        {
+          "label": "B",
+          "text": "1992"
+        },
+        {
+          "label": "C",
+          "text": "2002"
+        },
+        {
+          "label": "D",
+          "text": "2012"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "2002"
+      },
+      "explanation": "East Timor, also known as Timor Leste, which has recently held its presidential election, was officially recognised by the United Nations in the year 2002. East Timor is situated in the eastern half of Timor Island, while the western half of the island is part of Indonesia. The territory was colonised by Portugal in the 18th century and when the Portuguese withdrew in 1975, Indonesia invaded and annexed East Timor as its 27th province till 2002."
+    },
+    {
+      "id": 32,
+      "question": "‘Vidya Samiksha Kendra’ or ‘Command and Control Centre 2.0’ is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "West Bengal"
+        },
+        {
+          "label": "B",
+          "text": "Telangana"
+        },
+        {
+          "label": "C",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "D",
+          "text": "Gujarat"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Gujarat"
+      },
+      "explanation": "Prime Minister Narendra Modi recently visited the Command and Control Centre set up by the Education Department of Gujarat. The Command and Control Centre 2.0 or ‘Vidya Samiksha Kendra’ was inaugurated in Gandhi Nagar in 2021. It is a surveillance system which tracks enrolment, attendance, learning outcomes, drop-outs, school accreditation. It also monitors schools, teachers and block and cluster resource centre co-ordinators."
+    },
+    {
+      "id": 33,
+      "question": "What is the food-grain production target announced for crop year 2022-23?",
+      "options": [
+        {
+          "label": "A",
+          "text": "278 million tonnes"
+        },
+        {
+          "label": "B",
+          "text": "328 million tonnes"
+        },
+        {
+          "label": "C",
+          "text": "378 million tonnes"
+        },
+        {
+          "label": "D",
+          "text": "428 million tonnes"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "328 million tonnes"
+      },
+      "explanation": "The ‘National Conference on Agriculture: Kharif Campaign 2022’ was inaugurated by Union Agriculture Minister Narendra Singh Tomar. During the event, the government announced a food-grain production target of 328 million tonnes for 2022-23. Kharif food-grain production target has been fixed at 163.15 million tonnes, while Rabi food-grain production target has been kept at 164.85 million tonnes. Total food grain production has increased by 25% in the last 6 years from 251.54 to 316.01 million tonnes."
+    },
+    {
+      "id": 34,
+      "question": "‘National Apprenticeship Mela’ has been organised under which mission?",
+      "options": [
+        {
+          "label": "A",
+          "text": "PM Rozgar Yojana"
+        },
+        {
+          "label": "B",
+          "text": "Skill India"
+        },
+        {
+          "label": "C",
+          "text": "Make in India"
+        },
+        {
+          "label": "D",
+          "text": "Start up India"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Skill India"
+      },
+      "explanation": "Skill India, in association with the Directorate General of Training (DGT), is organising a day-long ‘Apprenticeship Mela’ across the country in more than over 700 locations. The initiative aims to support hiring of more than one lakh apprentices. It will assist employers in hiring the right talent and develop it further with training and providing practical skill-sets."
+    },
+    {
+      "id": 35,
+      "question": "Which major economy has signed an agreement on security cooperation with the Solomon Islands?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Russia"
+        },
+        {
+          "label": "B",
+          "text": "China"
+        },
+        {
+          "label": "C",
+          "text": "India"
+        },
+        {
+          "label": "D",
+          "text": "USA"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "China"
+      },
+      "explanation": "China and the Solomon Islands have recently signed an inter-governmental framework agreement on security cooperation. The agreement seeks to enhance social stability and long-term tranquility in the Solomon Islands. The countries announced that the cooperation is not targeted at any third country, serving the common interests of the South Pacific region."
+    },
+    {
+      "id": 36,
+      "question": "Arjun Halakurki, Sunil Kumar and Neeraj, who were seen in the news, are associated with which sports?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hockey"
+        },
+        {
+          "label": "B",
+          "text": "Tennis"
+        },
+        {
+          "label": "C",
+          "text": "Wrestling"
+        },
+        {
+          "label": "D",
+          "text": "Table Tennis"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Wrestling"
+      },
+      "explanation": "In the Asian championships being held in Ulan Baatar (Capital city of Mongolia), Greco-Roman wrestlers Arjun Halakurki, Sunil Kumar and Neeraj won bronze medals. Five more Greco categories, freestyle and women’s wrestling are yet to follow in the competition. Greco-Roman category is seen as a weak link in Indian wrestling as No Greco-Roman wrestler qualified for Tokyo."
+    },
+    {
+      "id": 37,
+      "question": "Which institution launched Fincluvation, to encourage Start-ups to develop Financial Products?",
+      "options": [
+        {
+          "label": "A",
+          "text": "RBI"
+        },
+        {
+          "label": "B",
+          "text": "NPCI"
+        },
+        {
+          "label": "C",
+          "text": "NITI Aayog"
+        },
+        {
+          "label": "D",
+          "text": "IPPB"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "IPPB"
+      },
+      "explanation": "India Post Payments Bank (IPPB) launched Fincluvation, to encourage Start-ups to develop Financial Products. It is a joint initiative to collaborate with the financial technology (fintech) start-up community to co-create solutions for financial inclusion. The mentors will guide the start-ups to create products to the customer needs with operating models of IPPB and Department of Posts."
+    },
+    {
+      "id": 38,
+      "question": "Which state government has partnered with NIXI-CSC Data Services Centre to establish a world-class data centre in the state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assam"
+        },
+        {
+          "label": "B",
+          "text": "Tripura"
+        },
+        {
+          "label": "C",
+          "text": "West Bengal"
+        },
+        {
+          "label": "D",
+          "text": "Telangana"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Tripura"
+      },
+      "explanation": "The Tripura government has inked a memorandum of understanding (MoU) with NIXI-CSC Data Services Centre to establish an international standard Data Centre at Indranagar, headquarters of IT Bhavan in the state. NIXI-CSC Data Services Centre is the joint venture of National Internet Exchange of India (NIXI) and CSE e-governance services Ltd. The company will invest Rs 150 crore for setting up the Data Centre while the state government will provide space."
+    },
+    {
+      "id": 39,
+      "question": "Phobos is the natural satellite/moon of which planet?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Venus"
+        },
+        {
+          "label": "B",
+          "text": "Mars"
+        },
+        {
+          "label": "C",
+          "text": "Jupiter"
+        },
+        {
+          "label": "D",
+          "text": "Saturn"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Mars"
+      },
+      "explanation": "The Perseverance Mars rover of National Aeronautics and Space Administration (NASA) has captured the eclipse involving Mars. It captured Phobos, Mars’ potato-shaped moon or satellite, crossing the face of the Sun. The eclipse was captured with Perseverance’s Mastcam-Z camera. It lasted a little above 40 seconds, shorter than a solar eclipse involving Earth’s Moon, as Phobos is about 157 times smaller than Earth’s Moon. Deimos, Mars’ another Moon is still smaller."
+    },
+    {
+      "id": 40,
+      "question": "As per RBI Guidelines, what is the minimum Net-owned fund required for NBFCs to issue Credit Cards?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rs 10 Crores"
+        },
+        {
+          "label": "B",
+          "text": "Rs 50 Crores"
+        },
+        {
+          "label": "C",
+          "text": "Rs 100 Crores"
+        },
+        {
+          "label": "D",
+          "text": "Rs 500 Crores"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Rs 100 Crores"
+      },
+      "explanation": "As per a recent notification from the Central Bank, Non-banking finance companies (NBFC) will need approval from the Reserve Bank of India (RBI) to issue credit cards. Any finance company including non-deposit taking one will require a Net-owned fund of Rs 100 crore for entering the credit card business. Regional rural banks can issue credit cards in collaboration with their sponsor bank or other banks. Further, financially sound scheduled urban cooperative Banks (UCBs) with minimum net worth of Rs 100 crore which are core banking system enabled (CBS) enabled can issue credit cards, subject to some conditions."
+    }
+  ]
+}

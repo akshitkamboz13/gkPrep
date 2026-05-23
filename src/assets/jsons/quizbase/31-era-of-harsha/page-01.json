@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "31-era-of-harsha",
+    "title": "29. Era of Harsha",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:53:13"
+  },
+  "questions": [
+    {
+      "id": 1778,
+      "question": "The title “Paramasaugata” was adopted by ___?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bhaskar Varman"
+        },
+        {
+          "label": "B",
+          "text": "Shashanka"
+        },
+        {
+          "label": "C",
+          "text": "Rajya Vardhana"
+        },
+        {
+          "label": "D",
+          "text": "Harsha"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Rajya Vardhana"
+      },
+      "explanation": "The title \"Paramasaugata\" was adopted by Rajyavardhana. Rajyavardhana was the eldest son of Prabhakarvardhana and a member of the Pushyabhuti dynasty. He ascended the throne after his father's death and was succeeded by his younger brother, Harsha. Rajyavardhana is mentioned as Parama-Saugata in Harsha's Madhuvana and Banskhera inscriptions."
+    },
+    {
+      "id": 1855,
+      "question": "Who among the following is the author of ‘Harshacharita’ ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Banabhatta"
+        },
+        {
+          "label": "B",
+          "text": "Hiuen Tsang"
+        },
+        {
+          "label": "C",
+          "text": "Harshavardhan"
+        },
+        {
+          "label": "D",
+          "text": "Bhaskarvarman"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Banabhatta"
+      },
+      "explanation": "Banabhatta was the court poet of Harshavardhana, who wrote Harshacharita and Kadambari. Harshacharita is an important historical work narratted the incidents of the earlier part of Harsha’s reign."
+    },
+    {
+      "id": 1856,
+      "question": "Who among the following was the founder of Pushyabhuti Dynasty ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pushyabhuti"
+        },
+        {
+          "label": "B",
+          "text": "Prabhakar Vardhan"
+        },
+        {
+          "label": "C",
+          "text": "Aditya vardhan"
+        },
+        {
+          "label": "D",
+          "text": "Harshavardhan"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Pushyabhuti"
+      },
+      "explanation": "According to Banabhatta, Pushyabhuti was the founder of Pushyabhuti Dynasty."
+    },
+    {
+      "id": 1857,
+      "question": "Who was the brother-in-law of Harshavardhan ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Grahavarmana"
+        },
+        {
+          "label": "B",
+          "text": "Banabhatta"
+        },
+        {
+          "label": "C",
+          "text": "Devgupta"
+        },
+        {
+          "label": "D",
+          "text": "Bhaskarvarman"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Grahavarmana"
+      },
+      "explanation": "The sister of Harshavardhan, Rajyasri was married to Grahavarmana, King of Kanauj. He was the last ruler of Kanauj belonging to the Maukhari royal dynasty."
+    },
+    {
+      "id": 1858,
+      "question": "Who assassinated Grahavarmana, the brother in law of Harshavardhan ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shashanka of Gauda"
+        },
+        {
+          "label": "B",
+          "text": "Kirtivarman"
+        },
+        {
+          "label": "C",
+          "text": "Chandragupta"
+        },
+        {
+          "label": "D",
+          "text": "Narsimhavarman"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Shashanka of Gauda"
+      },
+      "explanation": "Shashanka of Gauda assassinated Grahavarmana and imprisoned his wife Rajyasri ( who was sister of Harshavardhana)."
+    }
+  ]
+}

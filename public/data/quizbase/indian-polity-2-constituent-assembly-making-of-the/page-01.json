@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-2-constituent-assembly-making-of-the",
+    "title": "Constituent Assembly & Making of the Constitution",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:20:10"
+  },
+  "questions": [
+    {
+      "id": 2957,
+      "question": "Who among the following was the chairperson of the Provincial Constitution Committee of the Constituent Assembly?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jawaharlal Nehru"
+        },
+        {
+          "label": "B",
+          "text": "Sardar Vallabhbhai Patel"
+        },
+        {
+          "label": "C",
+          "text": "Dr. B.R. Ambedkar"
+        },
+        {
+          "label": "D",
+          "text": "J.B. Kripalani"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Sardar Vallabhbhai Patel"
+      },
+      "explanation": "The constituent assembly appointed a number of committees to deal with different tasks of constitution. Sardar Vallabhbhai Patel was the chairperson of the Provincial Constitution Committee."
+    },
+    {
+      "id": 6084,
+      "question": "Who among the following headed the Advisory Committee on Fundamental Rights, Minorities and Tribal and Excluded Areas a committee under the Constituent Assembly?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jawahar Lal Nehru"
+        },
+        {
+          "label": "B",
+          "text": "Vallabhbhai Patel"
+        },
+        {
+          "label": "C",
+          "text": "H C Mukherjee"
+        },
+        {
+          "label": "D",
+          "text": "Maulana Azad"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Vallabhbhai Patel"
+      },
+      "explanation": "The Advisory Committee on Fundamental Rights, Minorities and Tribal and Excluded Areas was headed by Sardar Vallabhbhai Patel. Patel presented the committee's recommendations on political safeguards for minorities sans separate electorates which were adopted by the Constituent Assembly."
+    },
+    {
+      "id": 6340,
+      "question": "Who among the following was the Constitutional Advisor to the Constituent Assembly ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sachidanand Sinha"
+        },
+        {
+          "label": "B",
+          "text": "B N Rao"
+        },
+        {
+          "label": "C",
+          "text": "H N Kunzuru"
+        },
+        {
+          "label": "D",
+          "text": "V N Menon"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "B N Rao"
+      },
+      "explanation": "Sir Benegal Narsing Rau (1887-1953) or Sir B. N. Rau served as the Constitutional Adviser to the Constituent Assembly. His task was to advise the assembly on general structure of democratic framework of India's Constitution."
+    },
+    {
+      "id": 6341,
+      "question": "On which date Indian Constitution was finally signed by the members of the constituent assembly ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "November 26, 1949"
+        },
+        {
+          "label": "B",
+          "text": "January 24, 1950"
+        },
+        {
+          "label": "C",
+          "text": "January 26, 1950"
+        },
+        {
+          "label": "D",
+          "text": "January 24, 1949"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "January 24, 1950"
+      },
+      "explanation": "The Constitution was then finally signed by members of the Constituent Assembly on 24th January 1950 and came into effect on the 26th of January, 1950."
+    },
+    {
+      "id": 6342,
+      "question": "By which among the following ways, the Constitution Assembly generally arrived at decisions on various provisions of the Constitution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Simple Majority"
+        },
+        {
+          "label": "B",
+          "text": "Two Third Majority"
+        },
+        {
+          "label": "C",
+          "text": "Consensus"
+        },
+        {
+          "label": "D",
+          "text": "Casting Vote"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Consensus"
+      },
+      "explanation": "The first Constitution Assembly of India generally arrived at decisions on various provisions of the Constitution of India through consensus."
+    }
+  ]
+}

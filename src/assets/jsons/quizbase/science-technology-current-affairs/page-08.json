@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "science-technology-current-affairs",
+    "title": "Science & Technology Current Affairs MCQs",
+    "page": 8,
+    "total_pages": 8,
+    "generated_at": "2026-05-02 07:01:04",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:31:23"
+  },
+  "questions": [
+    {
+      "id": 71,
+      "question": "The Proba-3 Mission is launched by which space agency?",
+      "options": [
+        {
+          "label": "A",
+          "text": "National Aeronautics and Space Administration (NASA)"
+        },
+        {
+          "label": "B",
+          "text": "Japan Aerospace Exploration Agency (JAXA)"
+        },
+        {
+          "label": "C",
+          "text": "Indian Space Research Organisation (ISRO)"
+        },
+        {
+          "label": "D",
+          "text": "European Space Agency (ESA)"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "European Space Agency (ESA)"
+      },
+      "explanation": "Proba-3 recently made news after European Space Agency lost contact with one of its two spacecraft. It is European Space Agency’s first mission focused on precision formation flying, where two satellites operate in extremely accurate coordination. The mission aims to create an artificial solar eclipse to study the Sun’s outer atmosphere (corona). This helps scientists observe the faint solar corona, which is normally hidden by the Sun’s intense brightness. The mission includes two small satellites: a Coronagraph spacecraft and an Occulter spacecraft shaped like the solar disc."
+    },
+    {
+      "id": 72,
+      "question": "What kind of disease is “Hutchinson-Gilford Progeria Syndrome (HGPS)” that was recently seen in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Viral disease"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial disease"
+        },
+        {
+          "label": "C",
+          "text": "Fungal disease"
+        },
+        {
+          "label": "D",
+          "text": "Genetic disorder"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Genetic disorder"
+      },
+      "explanation": "United States-based Sentynl Therapeutics, part of Zydus Lifesciences, has partnered with South Korea’s PRG S&T to develop Progerinin, a drug for Hutchinson-Gilford Progeria Syndrome (HGPS). Hutchinson-Gilford Progeria Syndrome (HGPS) is an extremely rare genetic disorder that causes rapid aging in children. The disease is caused by a mutation in the LMNA (Lamin A) gene, which normally produces lamin A protein for maintaining cell structure. This mutation leads to the formation of an abnormal protein called progerin, which damages the cell nucleus. The damaged cells die early, resulting in premature aging of the body."
+    },
+    {
+      "id": 73,
+      "question": "The Minor Planet Center (MPC) operates under which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NASA (National Aeronautics and Space Administration)"
+        },
+        {
+          "label": "B",
+          "text": "ESA (European Space Agency)"
+        },
+        {
+          "label": "C",
+          "text": "IAU (International Astronomical Union)"
+        },
+        {
+          "label": "D",
+          "text": "ISRO (Indian Space Research Organisation)"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "IAU (International Astronomical Union)"
+      },
+      "explanation": "The Minor Planet Centre (MPC) recently announced discovery of 15 new moons, 4 around Jupiter and 11 around Saturn. It is the global centre for collecting and storing data on small solar system bodies. It operates under the International Astronomical Union (IAU) at the Smithsonian Astrophysical Observatory in Cambridge, Massachusetts, United States. Astronomers send new findings to MPC, where data is verified and orbits are calculated. It assigns official names or designations to newly discovered objects. It tracks asteroids, comets, and outer planet moons."
+    },
+    {
+      "id": 74,
+      "question": "Which state has launched the “Amaravati Quantum Valley (AQV)” initiative?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "B",
+          "text": "Kerala"
+        },
+        {
+          "label": "C",
+          "text": "Karnataka"
+        },
+        {
+          "label": "D",
+          "text": "Andhra Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Andhra Pradesh"
+      },
+      "explanation": "Chief Minister N Chandrababu Naidu unveiled a plan to develop Amaravati as a global hub for quantum computing. The initiative, Amaravati Quantum Valley (AQV), aims to place Andhra Pradesh among the top 5 global quantum hubs by 2030, leveraging the National Quantum Mission. The first quantum computer is set to be launched on April 14, marking a major milestone. The ecosystem will include hardware manufacturing, algorithm development, research, and innovation labs, supported by 8 dedicated research towers. The state plans to develop core technologies locally (cryogenics, photonics, advanced electronics) to reduce import dependence and achieve end-to-end capabilities."
+    },
+    {
+      "id": 75,
+      "question": "Which institute has developed energy-efficient bricks for passive cooling in buildings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IIT Ahmedabad"
+        },
+        {
+          "label": "B",
+          "text": "IIT Bombay"
+        },
+        {
+          "label": "C",
+          "text": "IIT Roorkee"
+        },
+        {
+          "label": "D",
+          "text": "IIT Guwahati"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "IIT Guwahati"
+      },
+      "explanation": "Researchers at Indian Institute of Technology Guwahati developed energy-efficient bricks for passive cooling in buildings. The bricks use Phase Change Materials (PCM) to regulate indoor temperature. During the day, PCM melts to absorb heat, and at night, it solidifies to release stored heat gradually. The PCM used is OM35 with a melting point of 35°C, suitable for tropical climates. Porous biochar is used to prevent leakage by absorbing and holding molten PCM within the bricks. These bricks can reduce indoor wall temperature by about 3°C and lower cooling energy demand by 10–20%."
+    },
+    {
+      "id": 76,
+      "question": "Mission MITRA, under the Gaganyaan programme, has been conducted at which place?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Leh"
+        },
+        {
+          "label": "B",
+          "text": "Visakhapatnam"
+        },
+        {
+          "label": "C",
+          "text": "Chennai"
+        },
+        {
+          "label": "D",
+          "text": "Bengaluru"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Leh"
+      },
+      "explanation": "As part of Gaganyaan mission, the Indian Space Research Organisation is conducting Mission MITRA (Mapping of Interoperable Traits and Response Assessment) in Leh from April 2 to April 9, 2026. Mission MITRA is a first-of-its-kind team behavioral study, developed jointly by ISRO and the Institute of Aerospace Medicine, aimed at evaluating crew safety and performance in human spaceflight. The study focuses on team communication, adaptability to stress, psychological resilience, and mutual support, which are critical for mission success. Leh’s high-altitude environment (approx 3,500 metres), hypoxia, low temperature, and isolation serve as a natural analog for spaceflight operations."
+    },
+    {
+      "id": 77,
+      "question": "India’s first Prototype Fast Breeder Reactor (PFBR) is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "B",
+          "text": "Karnataka"
+        },
+        {
+          "label": "C",
+          "text": "Kerala"
+        },
+        {
+          "label": "D",
+          "text": "Andhra Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Tamil Nadu"
+      },
+      "explanation": "India’s first indigenous Prototype Fast Breeder Reactor (PFBR) at Kalpakkam, Tamil Nadu, has successfully attained criticality. A Fast Breeder Reactor (FBR) produces more fissile fuel than it consumes using fast neutrons. Criticality is the stage where a self-sustaining nuclear chain reaction is achieved. The 500 Megawatt Electric (MWe) PFBR is developed by Bharatiya Nabhikiya Vidyut Nigam Limited (BHAVINI). It uses Uranium-Plutonium Mixed Oxide fuel and liquid sodium as coolant. It supports India’s three-stage nuclear programme, enabling Thorium-232 to Uranium-233 conversion for long-term energy security."
+    },
+    {
+      "id": 78,
+      "question": "Which organization has launched a new artificial intelligence model, Muse Spark, under its Superintelligence Labs initiative?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Microsoft"
+        },
+        {
+          "label": "B",
+          "text": "Amazon"
+        },
+        {
+          "label": "C",
+          "text": "Meta"
+        },
+        {
+          "label": "D",
+          "text": "Google"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Meta"
+      },
+      "explanation": "Meta has launched a new artificial intelligence model, Muse Spark, under its Superintelligence Labs initiative. Muse Spark can perform tasks such as calorie estimation, object visualisation, and answering user queries. The model is currently available on Meta AI chatbot and will be expanded to WhatsApp, Instagram, and Facebook. Meta has acknowledged the feedback and plans to improve future versions of the model."
+    },
+    {
+      "id": 79,
+      "question": "The Bacille Calmette-Guérin (BCG) vaccine is a live attenuated vaccine used to protect against which disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Japanese Encephalitis"
+        },
+        {
+          "label": "B",
+          "text": "Tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Dengue"
+        },
+        {
+          "label": "D",
+          "text": "Malaria"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Tuberculosis"
+      },
+      "explanation": "India supplied 13 tonnes of Bacille Calmette-Guérin (BCG) vaccines and related materials to Afghanistan’s Ministry of Public Health. The Bacille Calmette-Guérin (BCG) vaccine is a live attenuated vaccine used to protect against tuberculosis (TB). It is the only licensed vaccine for TB and is widely administered to newborns worldwide. The vaccine was developed by Albert Calmette and Camille Guérin at the Pasteur Institute and first used in 1921. Its main aim is to prevent severe childhood TB, including TB meningitis and disseminated TB. It also provides partial protection against diseases like leprosy and Buruli ulcer."
+    },
+    {
+      "id": 80,
+      "question": "Recently, India launched indigenously developed Silicon Photonics solutions at which institute?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IIT Ahmedabad"
+        },
+        {
+          "label": "B",
+          "text": "IIT Bombay"
+        },
+        {
+          "label": "C",
+          "text": "IIT Madras"
+        },
+        {
+          "label": "D",
+          "text": "IIT Roorkee"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "IIT Madras"
+      },
+      "explanation": "Recently, India launched indigenously developed Silicon Photonics solutions at Indian Institute of Technology Madras, marking progress in technological self-reliance. The launch was led by the Ministry of Electronics and Information Technology. Two key innovations were introduced: Silicon Photonics Process Design Kit (PDK) and Programmable Photonic Integrated Circuit (PPIC) Test Engine. These were developed at the Centre of Excellence for Compound Photonics and Photonic Integrated Circuits Systems (CoE-CPPICS). The initiative supports research, industry, startups, and defence sectors as a shared national facility."
+    }
+  ]
+}

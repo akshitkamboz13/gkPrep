@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physical-geography-important-plains-and-deserts-",
+    "title": "Physical Geography - Important Plains and Deserts",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:29:23"
+  },
+  "questions": [
+    {
+      "id": 4467,
+      "question": "The grasslands called “Pampas” are found in which among the following regions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "South Africa"
+        },
+        {
+          "label": "B",
+          "text": "South America"
+        },
+        {
+          "label": "C",
+          "text": "Australia"
+        },
+        {
+          "label": "D",
+          "text": "Europe"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "South America"
+      },
+      "explanation": "Pampas are located in South America, covering more than 1,200,000 square kilometers. The Pampas are found in Argentina, Uruguay, and Brazil. The word \"pampa\" comes from the Quechua word for \"plain\". The Pampas are fertile, low-lying grasslands with a temperate climate. They receive 600 to 1,200 mm of precipitation annually. The Pampas are home to roughly 400 species of birds and 100 other species. Grasslands are transitional biomes, meaning they are found between deserts and forests. They cover a quarter of the Earth's land and can be found on every continent except Antarctica."
+    },
+    {
+      "id": 5174,
+      "question": "In which among the following states of United States, “Death Valley” is located?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Miami"
+        },
+        {
+          "label": "B",
+          "text": "Pennsylvania"
+        },
+        {
+          "label": "C",
+          "text": "texas"
+        },
+        {
+          "label": "D",
+          "text": "California"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "California"
+      },
+      "explanation": "California is known as Death Valley. This is because Death Valley is a desert valley in Eastern California, in the northern Mojave Desert, bordering the Great Basin Desert."
+    },
+    {
+      "id": 5953,
+      "question": "What is normally found in the western side of the continents situated near tropics?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mountains"
+        },
+        {
+          "label": "B",
+          "text": "Deserts"
+        },
+        {
+          "label": "C",
+          "text": "Rivers"
+        },
+        {
+          "label": "D",
+          "text": "Lakes"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Deserts"
+      },
+      "explanation": "Deserts are generally towards the western side of the continents in the subtropics. This is mainly because the region has prevailing of easterly winds in the subtropics which doesn’t carry the winds with moisture."
+    },
+    {
+      "id": 5964,
+      "question": "Prairies are the grasslands typically found in ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "North America"
+        },
+        {
+          "label": "B",
+          "text": "South America"
+        },
+        {
+          "label": "C",
+          "text": "Africa"
+        },
+        {
+          "label": "D",
+          "text": "Asia"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "North America"
+      },
+      "explanation": "The temperate grasslands of North America are known as the Prairies (Fig. 9.1). It is a region of flat, gently sloping or hilly land. For the most part, prairies are treeless but, near the low lying plains, flanking river valleys, woodlands can be found. Tall grass, upto two metres high, dominates, the landscape. It is actually a “sea of grass"
+    },
+    {
+      "id": 11247,
+      "question": "The mean elevation of Antarctica is near to which among the following values?",
+      "options": [
+        {
+          "label": "A",
+          "text": "4500 ft"
+        },
+        {
+          "label": "B",
+          "text": "5500 ft"
+        },
+        {
+          "label": "C",
+          "text": "6500 ft"
+        },
+        {
+          "label": "D",
+          "text": "7500 ft"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "7500 ft"
+      },
+      "explanation": "Mean elevation is 7516 ft and it is the continent with highest mean elevation."
+    }
+  ]
+}

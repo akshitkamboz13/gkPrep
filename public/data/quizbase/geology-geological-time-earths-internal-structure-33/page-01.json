@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "geology-geological-time-earths-internal-structure-33",
+    "title": "Geology - Earth Movements, Latitude, Longitude and Time",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:13:33"
+  },
+  "questions": [
+    {
+      "id": 4294,
+      "question": "One minute of arc of latitude along any meridian is also known as__?",
+      "options": [
+        {
+          "label": "A",
+          "text": "One Degree"
+        },
+        {
+          "label": "B",
+          "text": "One Mile"
+        },
+        {
+          "label": "C",
+          "text": "One Nautical Mile"
+        },
+        {
+          "label": "D",
+          "text": "One mach"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "One Nautical Mile"
+      },
+      "explanation": "One Nautical Mile is the unit of length corresponding approximately to one minute of arc of latitude along any meridian. By international agreement it is exactly 1,852 metres (approximately 6,076 feet)."
+    },
+    {
+      "id": 4333,
+      "question": "How much of longitude account for one hour?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10 degree"
+        },
+        {
+          "label": "B",
+          "text": "15 degree"
+        },
+        {
+          "label": "C",
+          "text": "20 degree"
+        },
+        {
+          "label": "D",
+          "text": "25 degree"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "15 degree"
+      },
+      "explanation": "1 hour is equal to 15 degress. 360 degrees is equal to 24 hours and when we divide 360 by 24 we get each hour equal to 15 degree."
+    },
+    {
+      "id": 4499,
+      "question": "\"Medicine line” is another name of which among the following circles of latitude?",
+      "options": [
+        {
+          "label": "A",
+          "text": "17th Parallel North"
+        },
+        {
+          "label": "B",
+          "text": "39th Parallel North"
+        },
+        {
+          "label": "C",
+          "text": "49th Parallel North"
+        },
+        {
+          "label": "D",
+          "text": "59th Parallel North"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "49th Parallel North"
+      },
+      "explanation": "49th parallel was nicknamed the Medicine Line because of its seemingly magical ability to prevent U.S. soldiers from crossing it during expeditions in 1800’s. The 49th parallel north crosses Europe, Asia, the Pacific Ocean, North America, and the Atlantic Ocean."
+    },
+    {
+      "id": 4519,
+      "question": "On around which among the following dates, Earth is at it’s farthest from the Sun?",
+      "options": [
+        {
+          "label": "A",
+          "text": "January 4"
+        },
+        {
+          "label": "B",
+          "text": "July 4"
+        },
+        {
+          "label": "C",
+          "text": "June 21"
+        },
+        {
+          "label": "D",
+          "text": "December 22"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "July 4"
+      },
+      "explanation": "Perihelion is the point when Earth is closest to Sun and it occurs around 3rd January. The distance is 147.5 million kms. Aphelion is the point when Earth is farthest from the Sun and it occurs on July 4. The distance is 152.5 million Kms."
+    },
+    {
+      "id": 5386,
+      "question": "Which of the following observations about Equinox is / are correct? It occurs twice a year The length of day and night is nearly equal all over the world Equinox marks the transition from winter to spring all over world Select the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1"
+        },
+        {
+          "label": "B",
+          "text": "1 & 2"
+        },
+        {
+          "label": "C",
+          "text": "2 & 3"
+        },
+        {
+          "label": "D",
+          "text": "1, 2 & 3"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "1 & 2"
+      },
+      "explanation": "The equinox occurs twice a year, around March 20th and September 22nd, when the tilt of the Earth's axis is not inclined towards or away from the sun. On the day of the equinox, the center of the sun and the Earth's equator are in the same plane. This alignment causes the sun's rays to shine directly on the equator, leading to nearly equal periods of day and night all over the world. During the equinox, the sun rises due east and sets due west, its rays shining directly on the equator. The equinox marks the transition from winter to spring in the northern hemisphere and from summer to autumn in the southern hemisphere."
+    }
+  ]
+}

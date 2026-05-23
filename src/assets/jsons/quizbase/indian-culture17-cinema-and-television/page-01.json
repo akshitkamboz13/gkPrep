@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-culture17-cinema-and-television",
+    "title": "Indian Culture:17-Television and Media",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:16:32"
+  },
+  "questions": [
+    {
+      "id": 94702,
+      "question": "Who published Udant Martand?",
+      "options": [
+        {
+          "label": "A",
+          "text": "James Hickey"
+        },
+        {
+          "label": "B",
+          "text": "Jugal Kishor Sharma"
+        },
+        {
+          "label": "C",
+          "text": "Annie Besant"
+        },
+        {
+          "label": "D",
+          "text": "Richard Jhonson"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Jugal Kishor Sharma"
+      },
+      "explanation": "Udant Marthand (from Hindi, \"The Rising Sun\") was the first Hindi-language newspaper to be published in India. Launched on 30 May 1826 from Calcutta (now Kolkata), Pt. Every Tuesday Jugal Kishore Shukla Weekly. It was closed on 4 December 1827 due to the financial crisis."
+    },
+    {
+      "id": 94703,
+      "question": "In which year, print media started in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1970"
+        },
+        {
+          "label": "B",
+          "text": "1871"
+        },
+        {
+          "label": "C",
+          "text": "1780"
+        },
+        {
+          "label": "D",
+          "text": "1601"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "1780"
+      },
+      "explanation": "Indian media has been active since the late 18th century. Printing media began in India in 1780. Radio broadcasts began in 1927. India's media is one of the oldest in the world. It dates back to and before the reign of Ashoka. Many media outlets are controlled by large corporations, which monetize their advertising, registration, and marketing of patents."
+    },
+    {
+      "id": 94704,
+      "question": "Bombay Herald used to publish in which language?",
+      "options": [
+        {
+          "label": "A",
+          "text": "English"
+        },
+        {
+          "label": "B",
+          "text": "Hindi"
+        },
+        {
+          "label": "C",
+          "text": "Marathi"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "English"
+      },
+      "explanation": "Originally published in 1789 as the \"Bombay Herald\", the name of the newspaper was changed to \"Bombay Gazette\" in 1791. It remained the city's leading newspaper for a long time and covered important events such as the first session of the Indian National Congress in 1885. The Bombay Gazette and the Bombay Courier were the first English-language English-language newspapers published in Bombay (now Mumbai)."
+    },
+    {
+      "id": 94705,
+      "question": "In which year The Telegraph was started?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1982"
+        },
+        {
+          "label": "B",
+          "text": "1972"
+        },
+        {
+          "label": "C",
+          "text": "1980"
+        },
+        {
+          "label": "D",
+          "text": "1950"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "1982"
+      },
+      "explanation": "The Telegraph is the English newspaper founded and continuously published in Kolkata since 7 July 1982."
+    },
+    {
+      "id": 94706,
+      "question": "Hindustan or Hindustan Dainik was launched by __",
+      "options": [
+        {
+          "label": "A",
+          "text": "Madan Mohan Malviya"
+        },
+        {
+          "label": "B",
+          "text": "Mahatma Gandhi"
+        },
+        {
+          "label": "C",
+          "text": "Lala Lajpat Rai"
+        },
+        {
+          "label": "D",
+          "text": "Sardar Vallabhbhai Patel"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Madan Mohan Malviya"
+      },
+      "explanation": "Madan Mohan Malviya was one of the founders of Barat Scouts and Guides. He also founded an influential English newspaper, Leader, in 1919, published in Allahabad. He was also Chairman of the Hindustan Times from 1924 to 1946. His efforts led to the launch of its Hindi-language Hindustan Dainik in 1936."
+    }
+  ]
+}

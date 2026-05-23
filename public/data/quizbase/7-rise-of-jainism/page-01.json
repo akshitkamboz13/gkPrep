@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "7-rise-of-jainism",
+    "title": "7. Rise of Jainism",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:55:05"
+  },
+  "questions": [
+    {
+      "id": 6,
+      "question": "Nābhivarṣa is the historical name of which of the following countries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India"
+        },
+        {
+          "label": "B",
+          "text": "Myanmar"
+        },
+        {
+          "label": "C",
+          "text": "China"
+        },
+        {
+          "label": "D",
+          "text": "Egypt"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "India"
+      },
+      "explanation": "According to some historical sources, the term Nābhivarṣa was used for India prior to its name Bharatvarsa. The name is derived from King Nabhi, who was father of Rishabhanatha, the first Tirthankara in Jainism."
+    },
+    {
+      "id": 1741,
+      "question": "Who among the following was the 23rd Jain Tirthankara ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nemi Natha"
+        },
+        {
+          "label": "B",
+          "text": "Mahavira"
+        },
+        {
+          "label": "C",
+          "text": "Parshvanath"
+        },
+        {
+          "label": "D",
+          "text": "Malinath"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Parshvanath"
+      },
+      "explanation": "Lord Parshvanath was the 23rd Jain Tirthankara who lived around 872-772 BCE. He was born to King Ashvasena and Queen Vama of Kashi/Varanasi as a royal prince. He gave up worldly comforts and became an ascetic at age 30 in search of spiritual awakening. He attained Kevala Jnana under a Dhaataki tree near Varanasi after 83 days of deep penance. His main teachings were non-violence, not stealing, not lying and non-attachment to possessions. His iconic symbol is a snake or serpent sheltering him."
+    },
+    {
+      "id": 1764,
+      "question": "With which among the following places, the twenty third Jain Tirthankara was associated?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vaishali"
+        },
+        {
+          "label": "B",
+          "text": "Kausambi"
+        },
+        {
+          "label": "C",
+          "text": "Varanasi"
+        },
+        {
+          "label": "D",
+          "text": "Sravasti"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Varanasi"
+      },
+      "explanation": "The 23rd Jain Tirthankara, Lord Parshvanath was closely associated with Varanasi. He was born there to the ruling king and queen. After becoming an ascetic, he travelled widely but eventually returned to Varanasi for meditation and penance. He attained enlightenment under a tree on Sammet Shikhar near Varanasi. A famous Parshvanath temple stands at that site even today, which remains an important place of pilgrimage for Jains worldwide."
+    },
+    {
+      "id": 1828,
+      "question": "In Pali texts, who among the following is referred to as Nigantha Nataputta?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gautam Buddha"
+        },
+        {
+          "label": "B",
+          "text": "Mahavira"
+        },
+        {
+          "label": "C",
+          "text": "Parshvanatha"
+        },
+        {
+          "label": "D",
+          "text": "Rishabha"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Mahavira"
+      },
+      "explanation": "In Pali Buddhist texts, most notably the Sutta Pitaka, Lord Mahavira is referred and addressed as ‘Nigantha Nataputta’. Nigantha means one without any bonds or ties. Nataputta means son of Jnatri clan to which Mahavira belonged. This name referred to Mahavira's state as an ascetic who had renounced worldly pleasures and ties. The term contrasts Buddhism's middle path to Jainism's ascetic path to moksha or liberation."
+    },
+    {
+      "id": 1838,
+      "question": "Who was the first Tirthankara in Jainism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rishabhanatha"
+        },
+        {
+          "label": "B",
+          "text": "Parsavanath"
+        },
+        {
+          "label": "C",
+          "text": "Mahavira"
+        },
+        {
+          "label": "D",
+          "text": "Munisuvrata"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Rishabhanatha"
+      },
+      "explanation": "According to Jain belief, the first Tirthankara was Lord Rishabhanatha who lived millions of years ago in the ancient city of Ayodhya. As per legend, he was born to King Nabhi Raja and Queen Marudevi. At age 30, he renounced his princely comforts to become a monk. Eventually he attained Kevala Jnana and became the first sage to preach Jain values of non-violence, truth etc. Jains consider him to be a founder of their faith and ethical order."
+    }
+  ]
+}

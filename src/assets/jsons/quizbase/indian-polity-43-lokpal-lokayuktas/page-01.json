@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-43-lokpal-lokayuktas",
+    "title": "Lokpal & Lokayuktas",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:22:29"
+  },
+  "questions": [
+    {
+      "id": 6826,
+      "question": "What is the concept of Lokpal / Lokayukta Office in India based upon?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Parliamentary Commissioner in the United Kingdom"
+        },
+        {
+          "label": "B",
+          "text": "Ombudsman in the Scandinavian countries"
+        },
+        {
+          "label": "C",
+          "text": "Council of State in France"
+        },
+        {
+          "label": "D",
+          "text": "Council of State in Germany"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ombudsman in the Scandinavian countries"
+      },
+      "explanation": "The Lokpal and Lokayukta Office in India was conceptualized based on the Office of Ombudsman in Scandinavian nations. These Ombudsman roles serve as governmental watchdogs, participating in the regulation of public administration."
+    },
+    {
+      "id": 8513,
+      "question": "The establishment of LokPal in India was recommended by the Administrative Reforms Commission (1966) on the lines of Ombudsman in the following countries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Finland & Norway"
+        },
+        {
+          "label": "B",
+          "text": "Finland, Denmark & Norway"
+        },
+        {
+          "label": "C",
+          "text": "Finland, Norway, Denmark & Switzerland"
+        },
+        {
+          "label": "D",
+          "text": "Finland, England & Norway"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Finland, Denmark & Norway"
+      },
+      "explanation": "The establishment of LokPal in India was recommended by the Administrative Reforms Commission (1966) on the lines of Ombudsman in Finland, Denmark and Norway."
+    },
+    {
+      "id": 8514,
+      "question": "Which among the following was the first state in India to constitute an institution of Lokayukta?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Karnataka"
+        },
+        {
+          "label": "B",
+          "text": "Kerala"
+        },
+        {
+          "label": "C",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "D",
+          "text": "Rajasthan"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Maharashtra"
+      },
+      "explanation": "Maharashtra was the first state in India to establish the Lokayukta institution in 1971: When The Lokayukta and Upa-Lokayuktas Act was enacted in 1971, and the institution came into effect on October 25, 1972. Why The act was established in response to recommendations from the Administrative Reforms Commission (ARC), which was set up in 1966 to review India's public administration system. What The Lokayukta is a state-level anti-corruption agency that addresses public grievances about corruption, nepotism, and other maladministration. The Lokayukta is independent of the state's political and public administration."
+    },
+    {
+      "id": 17505,
+      "question": "Which of the following is not the member of Selection Committee for appointment of Lokpal?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chairperson of Law Commission of India"
+        },
+        {
+          "label": "B",
+          "text": "Leader of Opposition in Lok Sabha"
+        },
+        {
+          "label": "C",
+          "text": "Speaker of Lok Sabha"
+        },
+        {
+          "label": "D",
+          "text": "Prime Minister"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Chairperson of Law Commission of India"
+      },
+      "explanation": "The selection committee consists of: the Prime Minister (Chairperson); the Speaker of the House of the People (Member); the Leader of Opposition in the House of the People (Member); the Chief Justice of India or a Judge of the Supreme Court nominated by him Member; (e) one eminent jurist, as recommended by the Chairperson and Members referred to in clauses (a) to (d) above, to be nominated by the President—Member."
+    },
+    {
+      "id": 46221,
+      "question": "What is the term of appointment of a Swedish ombudsman?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5 years"
+        },
+        {
+          "label": "B",
+          "text": "2 years"
+        },
+        {
+          "label": "C",
+          "text": "4 years"
+        },
+        {
+          "label": "D",
+          "text": "3 years"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "4 years"
+      },
+      "explanation": "The Swedish Ombudsman is appointed by the Parliament for a period of four years. He/she is allowed to be removed only by the Parliament on the ground of Parliament's loss of confidence in him/her."
+    }
+  ]
+}

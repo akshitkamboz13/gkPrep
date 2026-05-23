@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "states-pcs-mizoram-gk-for-mizoram-psc-exams",
+    "title": "States PCS: Mizoram GK for Mizoram PSC Exams",
+    "page": 2,
+    "total_pages": 3,
+    "generated_at": "2026-05-02 07:03:06",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:33:10"
+  },
+  "questions": [
+    {
+      "id": 11,
+      "question": "Which type of soil is most prevalent in the hilly regions of Mizoram and supports traditional jhum (shifting) cultivation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Laterite soil"
+        },
+        {
+          "label": "B",
+          "text": "Red loamy soil"
+        },
+        {
+          "label": "C",
+          "text": "Black soil"
+        },
+        {
+          "label": "D",
+          "text": "Alluvial soil"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Red loamy soil"
+      },
+      "explanation": "Red loamy soils, formed under tropical monsoon, are predominant in Mizoram and well-suited for jhum cultivation practiced in the region’s hills."
+    },
+    {
+      "id": 12,
+      "question": "Which river serves as the natural boundary between Mizoram and Bangladesh?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Karnaphuli"
+        },
+        {
+          "label": "B",
+          "text": "Barak"
+        },
+        {
+          "label": "C",
+          "text": "Tuirial"
+        },
+        {
+          "label": "D",
+          "text": "Tlawng"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Karnaphuli"
+      },
+      "explanation": "Karnaphuli River originates in Mizoram, forms part of the Mizoram-Bangladesh natural boundary, and flows into Bangladesh."
+    },
+    {
+      "id": 13,
+      "question": "Which is the largest and most agriculturally productive valley in Mizoram?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Serchhip Valley"
+        },
+        {
+          "label": "B",
+          "text": "Champhai Valley"
+        },
+        {
+          "label": "C",
+          "text": "Lunglei Valley"
+        },
+        {
+          "label": "D",
+          "text": "Aizawl Valley"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Champhai Valley"
+      },
+      "explanation": "Champhai Valley is Mizoram’s largest and most fertile valley, famous for rice and grape cultivation and serving as a major agricultural hub."
+    },
+    {
+      "id": 14,
+      "question": "Which is the largest natural lake in Mizoram, formed due to tectonic activity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Palak Lake"
+        },
+        {
+          "label": "B",
+          "text": "Tam Dil"
+        },
+        {
+          "label": "C",
+          "text": "Rih Dil"
+        },
+        {
+          "label": "D",
+          "text": "Tortori Lake"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Palak Lake"
+      },
+      "explanation": "Palak Lake (Palak Dil) is Mizoram’s largest natural lake, created by tectonic activity and located in Saiha district."
+    },
+    {
+      "id": 15,
+      "question": "Which mountain range extends north to south and is primarily responsible for the rugged terrain of Mizoram?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lushai Hills"
+        },
+        {
+          "label": "B",
+          "text": "Garo Hills"
+        },
+        {
+          "label": "C",
+          "text": "Khasi Hills"
+        },
+        {
+          "label": "D",
+          "text": "Mikir Hills"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Lushai Hills"
+      },
+      "explanation": "Lushai Hills, part of the Patkai range, run north to south and define Mizoram’s distinctive rugged topography."
+    },
+    {
+      "id": 16,
+      "question": "Which country does Mizoram share its eastern international border with?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bangladesh"
+        },
+        {
+          "label": "B",
+          "text": "Myanmar"
+        },
+        {
+          "label": "C",
+          "text": "Assam"
+        },
+        {
+          "label": "D",
+          "text": "Tripura"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Myanmar"
+      },
+      "explanation": "Mizoram shares a 510 km border with Myanmar to the east and southeast."
+    },
+    {
+      "id": 17,
+      "question": "Which of the following best describes the predominant climate type of Mizoram, influenced by its elevation and the monsoon?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tropical Wet and Dry"
+        },
+        {
+          "label": "B",
+          "text": "Arid Steppe"
+        },
+        {
+          "label": "C",
+          "text": "Alpine"
+        },
+        {
+          "label": "D",
+          "text": "Humid Subtropical"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Humid Subtropical"
+      },
+      "explanation": "Mizoram has a humid subtropical climate, marked by heavy monsoon rainfall, moderate temperatures due to elevation, and dense forests."
+    },
+    {
+      "id": 18,
+      "question": "Which pass in Mizoram serves as a key trade and travel route to Myanmar’s Chin State?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hnahlan Pass"
+        },
+        {
+          "label": "B",
+          "text": "Zokhawthar Pass"
+        },
+        {
+          "label": "C",
+          "text": "Vaphai Pass"
+        },
+        {
+          "label": "D",
+          "text": "Tuipang Pass"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Hnahlan Pass"
+      },
+      "explanation": "Hnahlan Pass in Champhai district facilitates major border trade and direct connectivity between Mizoram and Chin State, Myanmar under India’s Act East policy."
+    },
+    {
+      "id": 19,
+      "question": "Which national park in Mizoram is situated around the state’s highest peak, Phawngpui?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phawngpui National Park"
+        },
+        {
+          "label": "B",
+          "text": "Murlen National Park"
+        },
+        {
+          "label": "C",
+          "text": "Tawi Wildlife Sanctuary"
+        },
+        {
+          "label": "D",
+          "text": "Dampa Tiger Reserve"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Phawngpui National Park"
+      },
+      "explanation": "Phawngpui National Park is located around Phawngpui peak, the highest point in Mizoram, and is also called Blue Mountain National Park."
+    },
+    {
+      "id": 20,
+      "question": "Which type of forest covers the largest area in Mizoram as a result of its tropical monsoon climate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Deciduous forest"
+        },
+        {
+          "label": "B",
+          "text": "Evergreen forest"
+        },
+        {
+          "label": "C",
+          "text": "Thorn forest"
+        },
+        {
+          "label": "D",
+          "text": "Montane forest"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Evergreen forest"
+      },
+      "explanation": "Tropical evergreen forests dominate Mizoram due to high rainfall and humidity, supporting dense biodiversity."
+    }
+  ]
+}

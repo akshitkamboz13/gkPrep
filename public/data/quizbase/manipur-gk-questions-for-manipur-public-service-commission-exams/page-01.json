@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "manipur-gk-questions-for-manipur-public-service-commission-exams",
+    "title": "States PCS: Manipur GK Questions for Manipur Public Service Commission Exams",
+    "page": 1,
+    "total_pages": 3,
+    "generated_at": "2026-05-02 05:57:25",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:24:28"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which dynasty ruled Manipur prior to its status as a princely state under British India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sankar dynasty"
+        },
+        {
+          "label": "B",
+          "text": "Tripuri dynasty"
+        },
+        {
+          "label": "C",
+          "text": "Ahom dynasty"
+        },
+        {
+          "label": "D",
+          "text": "Meitei kingdom"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Meitei kingdom"
+      },
+      "explanation": "The Meitei kingdom, also known as the Kingdom of Kangleipak, was the ruling power in Manipur before British colonization in the 19th century."
+    },
+    {
+      "id": 2,
+      "question": "Which queen of Manipur is famed for leading the resistance against the British during the Anglo-Manipur War of 1891?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Queen Kumudini"
+        },
+        {
+          "label": "B",
+          "text": "Queen Pramodini"
+        },
+        {
+          "label": "C",
+          "text": "Queen Linthoingambi"
+        },
+        {
+          "label": "D",
+          "text": "Queen Tamphasana"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Queen Linthoingambi"
+      },
+      "explanation": "Queen Linthoingambi, wife of King Ningthoukhomba of Manipur, is renowned for her resistance during invasions, notably disguising herself as king to repel raiders. She is a legendary figure in Manipuri history and folklore, with her exploits chronicled in the Ningthourol Lambuba."
+    },
+    {
+      "id": 3,
+      "question": "Which freedom fighter from Manipur is known for his involvement with the Indian National Army (INA) alongside Subhas Chandra Bose?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rani Gaidinliu"
+        },
+        {
+          "label": "B",
+          "text": "Hijam Irabot Singh"
+        },
+        {
+          "label": "C",
+          "text": "Maharaja Tikendrajit Singh"
+        },
+        {
+          "label": "D",
+          "text": "Colonel Shaukat Malik"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Colonel Shaukat Malik"
+      },
+      "explanation": "Colonel Shaukat Malik of the INA hoisted the national flag at Moirang, Manipur in 1944; Tikendrajit Singh opposed the British earlier, but INA’s key Manipur link is Malik at Moirang."
+    },
+    {
+      "id": 4,
+      "question": "Which World War II battle between INA and British forces took place in Manipur in 1944?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Battle of Kohima"
+        },
+        {
+          "label": "B",
+          "text": "The Battle of Imphal"
+        },
+        {
+          "label": "C",
+          "text": "The Battle of Aizawl"
+        },
+        {
+          "label": "D",
+          "text": "The Battle of Dimapur"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "The Battle of Imphal"
+      },
+      "explanation": "The Battle of Imphal occurred in Manipur in 1944, marking a decisive halt to the Japanese and INA advance into India."
+    },
+    {
+      "id": 5,
+      "question": "Which script was traditionally used to write the Meitei language in Manipur before the adoption of the Bengali script for official purposes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assamese script"
+        },
+        {
+          "label": "B",
+          "text": "Devanagari"
+        },
+        {
+          "label": "C",
+          "text": "Odia script"
+        },
+        {
+          "label": "D",
+          "text": "Meitei Mayek"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Meitei Mayek"
+      },
+      "explanation": "Meitei Mayek is the indigenous script of Manipur, replaced by Bengali script during colonial rule and now revived for cultural preservation."
+    },
+    {
+      "id": 6,
+      "question": "Which British official was killed in Manipur during the 1891 rebellion, prompting a severe colonial crackdown?",
+      "options": [
+        {
+          "label": "A",
+          "text": "James Wallace Quinton"
+        },
+        {
+          "label": "B",
+          "text": "Frank Allen Brown"
+        },
+        {
+          "label": "C",
+          "text": "Henry Cotton"
+        },
+        {
+          "label": "D",
+          "text": "Charles John Lyall"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "James Wallace Quinton"
+      },
+      "explanation": "Chief Commissioner James Wallace Quinton was killed by Manipuri rebels in 1891, leading to British military intervention and execution of local leaders."
+    },
+    {
+      "id": 7,
+      "question": "Which classical dance form, originating in the royal courts of Manipur, is closely associated with Vaishnavite traditions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Raslila"
+        },
+        {
+          "label": "B",
+          "text": "Kuchipudi"
+        },
+        {
+          "label": "C",
+          "text": "Sattriya"
+        },
+        {
+          "label": "D",
+          "text": "Odissi"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Raslila"
+      },
+      "explanation": "Raslila developed in Manipuri royal courts after the adoption of Vaishnavism and is based on Krishna’s life."
+    },
+    {
+      "id": 8,
+      "question": "In which year did Manipur officially merge with the Indian Union after independence?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1956"
+        },
+        {
+          "label": "B",
+          "text": "1949"
+        },
+        {
+          "label": "C",
+          "text": "1972"
+        },
+        {
+          "label": "D",
+          "text": "1950"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "1949"
+      },
+      "explanation": "Manipur merged with India on 21 September 1949 after the Instrument of Accession was signed by the Maharaja."
+    },
+    {
+      "id": 9,
+      "question": "Which is the largest freshwater lake in Manipur, also considered the largest in Northeast India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dzukou Lake"
+        },
+        {
+          "label": "B",
+          "text": "Loktak Lake"
+        },
+        {
+          "label": "C",
+          "text": "Pumlen Lake"
+        },
+        {
+          "label": "D",
+          "text": "Umiam Lake"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Loktak Lake"
+      },
+      "explanation": "Loktak Lake, in Manipur’s Bishnupur district, is Northeast India’s largest freshwater lake; it features phumdis and houses Keibul Lamjao National Park, home to the rare sangai deer."
+    },
+    {
+      "id": 10,
+      "question": "Which mountain range forms the boundary between Manipur and Myanmar?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zomi Hills"
+        },
+        {
+          "label": "B",
+          "text": "Kabaw Hills"
+        },
+        {
+          "label": "C",
+          "text": "Patkai Range"
+        },
+        {
+          "label": "D",
+          "text": "Naga Hills"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Patkai Range"
+      },
+      "explanation": "The Patkai Range forms Manipur’s eastern boundary with Myanmar and is part of the Purvanchal system."
+    }
+  ]
+}

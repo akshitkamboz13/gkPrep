@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "india-under-east-india-company",
+    "title": "8. East India Company Rule - Revenue, Reforms Etc.",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:14:58"
+  },
+  "questions": [
+    {
+      "id": 4733,
+      "question": "During the times of Governor-General Lord Ellenborough, which among the following acts declared slavery as illegal?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Act VI"
+        },
+        {
+          "label": "B",
+          "text": "Act V"
+        },
+        {
+          "label": "C",
+          "text": "Act III"
+        },
+        {
+          "label": "D",
+          "text": "Act VIII"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Act V"
+      },
+      "explanation": "The Act V of 1843 declared slavery as illegal during the tenure of Governor-General Lord Ellenborough."
+    },
+    {
+      "id": 4784,
+      "question": "Who among the following introduced the subsidiary alliance system in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lord Clive"
+        },
+        {
+          "label": "B",
+          "text": "Lord Wellesley"
+        },
+        {
+          "label": "C",
+          "text": "Lord Cunningham"
+        },
+        {
+          "label": "D",
+          "text": "Lord Canning"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Lord Wellesley"
+      },
+      "explanation": "The doctrine of subsidiary alliance was introduced by Lord Wellesley, British Governor-General of India from 1798 to 1805. The Nizam of Hyderabad was the first to enter into such an alliance in 1798.Tipu Sultan of Mysore refused to do so, but after the British victory in the Fourth Anglo-Mysore War, Mysore was forced to become a subsidiary state in 1799. The Nawab of Awadh was the next to accept the Subsidiary Alliance, in 1801."
+    },
+    {
+      "id": 4824,
+      "question": "During the company rule, the Hindu Widows Remarriage Act was drafted by__ ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lord Canning"
+        },
+        {
+          "label": "B",
+          "text": "Lord Dalhousie"
+        },
+        {
+          "label": "C",
+          "text": "Lord Hardinge"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Lord Dalhousie"
+      },
+      "explanation": "The Hindu Widows’ Remarriage Act, 1856, also Act XV, 1856, enacted on 25 July 1856, legalized the remarriage of Hindu widows in all jurisdictions of India under East India Company rule was drafted by Lord Dalhousie."
+    },
+    {
+      "id": 4845,
+      "question": "Under which among the following treaties, the British East India Company secured the Diwani right of Bengal, Bihar and Orissa ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alinagar"
+        },
+        {
+          "label": "B",
+          "text": "Faizabad"
+        },
+        {
+          "label": "C",
+          "text": "Allahabad"
+        },
+        {
+          "label": "D",
+          "text": "Benaras"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Allahabad"
+      },
+      "explanation": "Treaty of Allahabad ( 16 August 1765), it was the outcome of the Battle of Buxar (1764). Robert Clive (Governor General of Bengal) made a separate treaty with Mughal Emperor Shah Alam II and Nawab of Awadh Shuja-ud-daullah. A/c to this treaty, Mughal Emperor granted Fiscal Rights (Diwani) to the East India Company at Bengal, Bihar and Orissa."
+    },
+    {
+      "id": 4848,
+      "question": "Who said that British established a robber state in Bengal between 1765 and 1772 ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "G. W. Forrest"
+        },
+        {
+          "label": "B",
+          "text": "Lord Macaulay"
+        },
+        {
+          "label": "C",
+          "text": "K. M. Panikkar"
+        },
+        {
+          "label": "D",
+          "text": "Nand Lal Chatterji"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "K. M. Panikkar"
+      },
+      "explanation": "K.M. Panikkar was an Indian scholar, journalist, historian, administrator and diplomat. He wrote that between 1765-1772, British had “established a robber state where, without reference to the rights of the others, they freely plundered and looted under the cover of thier rights”."
+    }
+  ]
+}

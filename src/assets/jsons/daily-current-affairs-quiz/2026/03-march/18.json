@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: March 18, 2026",
+    "date": "2026-03-18",
+    "year": "2026",
+    "month": "03-march",
+    "day": 18,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 03:13:34",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:52:46"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What kind of disease is “Hutchinson-Gilford Progeria Syndrome (HGPS)” that was recently seen in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Viral disease"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial disease"
+        },
+        {
+          "label": "C",
+          "text": "Fungal disease"
+        },
+        {
+          "label": "D",
+          "text": "Genetic disorder"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Genetic disorder"
+      },
+      "explanation": "United States-based Sentynl Therapeutics, part of Zydus Lifesciences, has partnered with South Korea’s PRG S&T to develop Progerinin, a drug for Hutchinson-Gilford Progeria Syndrome (HGPS). Hutchinson-Gilford Progeria Syndrome (HGPS) is an extremely rare genetic disorder that causes rapid aging in children. The disease is caused by a mutation in the LMNA (Lamin A) gene, which normally produces lamin A protein for maintaining cell structure. This mutation leads to the formation of an abnormal protein called progerin, which damages the cell nucleus. The damaged cells die early, resulting in premature aging of the body."
+    },
+    {
+      "id": 2,
+      "question": "A new estuarine fish species named Butis bargabhimae was recently discovered in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assam"
+        },
+        {
+          "label": "B",
+          "text": "Odisha"
+        },
+        {
+          "label": "C",
+          "text": "West Bengal"
+        },
+        {
+          "label": "D",
+          "text": "Kerala"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "West Bengal"
+      },
+      "explanation": "Scientists in West Bengal have discovered a new estuarine fish species named Butis bargabhimae in the Rupnarayan River, a tributary of the Hooghly River near Tamluk, West Bengal. Butis bargabhimae belongs to the butid family, commonly known as gudgeon goby, which usually live in brackish water where rivers meet the sea. The species is unique because it has interorbital scales (scales between the eyes), unlike most related fish which have smooth areas there. It also has additional auxiliary scales across its body, making it structurally distinct. The fish shows clear light and dark bands on its pectoral fins, which are absent in similar species."
+    },
+    {
+      "id": 3,
+      "question": "Which state government has launched Gaudham Yojana to manage stray and abandoned cattle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jharkhand"
+        },
+        {
+          "label": "B",
+          "text": "Chhattisgarh"
+        },
+        {
+          "label": "C",
+          "text": "Bihar"
+        },
+        {
+          "label": "D",
+          "text": "Madhya Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Chhattisgarh"
+      },
+      "explanation": "In March 2026, Chhattisgarh Chief Minister Vishnu Deo Sai launched the Gaudham Yojana at Bilaspur to manage stray and abandoned cattle. The scheme aims to set up 1,460 Gaudhams (cattle shelters) across the state with about 10 shelters in each development block. Each shelter will have a capacity of around 200 cattle and all will be named Surabhi Gaudham. In the first phase, 29 Gaudhams across 11 districts were virtually inaugurated. These centres will also provide training in animal husbandry, green fodder cultivation, and value-added products (VAP) from cow dung."
+    },
+    {
+      "id": 4,
+      "question": "Exercise Sea Dragon 2026 was hosted by which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "United States"
+        },
+        {
+          "label": "B",
+          "text": "Australia"
+        },
+        {
+          "label": "C",
+          "text": "India"
+        },
+        {
+          "label": "D",
+          "text": "Japan"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "United States"
+      },
+      "explanation": "The Indian Navy deployed a P-8I maritime patrol aircraft to Guam to join the US-led Sea Dragon anti-submarine warfare (ASW) exercise 2026. The exercise includes QUAD partners: United States, India, Australia, Japan, and also New Zealand. Multiple P-8 aircraft participate, enabling better coordination due to similar systems, sensors, and data-link capabilities. The drill improves ASW skills by training crews from simulated targets to real submarine detection with 200+ flight hours. Joint classroom sessions are also conducted to refine tactics and coordination. The deployment comes as India ensures safe passage of merchant ships in the Arabian Sea for energy security."
+    },
+    {
+      "id": 5,
+      "question": "The ‘Desh ka Prakriti Parikshan Abhiyan’ was launched by which ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Health and Family Welfare"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Ayush"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Science and Technology"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Tribal Affairs"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ministry of Ayush"
+      },
+      "explanation": "The Ministry of Ayush launched the “Desh ka Prakriti Parikshan Abhiyan” campaign to create awareness about ‘Prakriti’ in Ayurveda. The campaign aimed to assess individuals’ Prakriti for a positive approach towards their health. Assessment was conducted via a mobile application developed with guidance from Institute of Genomics and Integrative Biology (IGIB), a unit of Council of Scientific and Industrial Research (CSIR), following Ayurveda principles. More than 1,40,69,556 Indian citizens aged 18+ have undergone Prakriti assessment with the support of 1,85,704 volunteers including students, teachers, practitioners, and medical officers."
+    }
+  ]
+}

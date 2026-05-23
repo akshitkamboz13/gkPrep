@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-culture01-religion-and-philosophy",
+    "title": "Indian Culture: 01-Religion and Philosophy",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:15:04"
+  },
+  "questions": [
+    {
+      "id": 614,
+      "question": "Lal Ded (Lalla Yogeshwari) was a practitioner of which of the following traditions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tibetan Buddhism"
+        },
+        {
+          "label": "B",
+          "text": "Kashmir Shaivism"
+        },
+        {
+          "label": "C",
+          "text": "Sri Sampradaya"
+        },
+        {
+          "label": "D",
+          "text": "Smartism"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Kashmir Shaivism"
+      },
+      "explanation": "Lal Ded, better known as Lalla Yogeshwari, ranks as a great mystic poetess of the 14th century. She was an ardent practitioner of Kashmir Shaivism that is also known as Trika Shastra founded by Vasu Gupta."
+    },
+    {
+      "id": 1887,
+      "question": "Which among the following Mudra is the gesture of Buddha as depicted in his first sermon?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Abhaya Mudra"
+        },
+        {
+          "label": "B",
+          "text": "Dhyana Mudra"
+        },
+        {
+          "label": "C",
+          "text": "Dharmachakra Mudra"
+        },
+        {
+          "label": "D",
+          "text": "Bhumisparsa Mudra"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Dharmachakra Mudra"
+      },
+      "explanation": "The sermon Buddha gave to the five monks was his first sermon, called the Dhammacakkappavattana Sutta. The Seated Buddha from Gandhara is an early statue of the Buddha made in Gandhara, in modern Pakistan, in the 2nd or 3rd century The pose, which was to become one of a number of standard ones, shows Buddha as a teacher setting the wheel of Dharma in motion (Dharmachakra Mudra). Buddha did this following his enlightenment and after delivering his first sermon at the deer park at Sarnath near Varanasi in Uttar Pradesh."
+    },
+    {
+      "id": 2020,
+      "question": "Who among the following was propounder of the Madhyamika Philosophy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bhadrabahu"
+        },
+        {
+          "label": "B",
+          "text": "Parshwanath"
+        },
+        {
+          "label": "C",
+          "text": "Sheelbhadra"
+        },
+        {
+          "label": "D",
+          "text": "Nagarjuna"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Nagarjuna"
+      },
+      "explanation": "Nagarjuna (ca. 2nd or 3rd century) was a patriarch of Mahayana and the founder of Madhyamika School."
+    },
+    {
+      "id": 2991,
+      "question": "Which of the following statements is incorrect about the Lingayatism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It was founded by the 12th-century philosopher and statesman Basava"
+        },
+        {
+          "label": "B",
+          "text": "It is a distinct Shaivite religious tradition in India"
+        },
+        {
+          "label": "C",
+          "text": "Lingayat thinkers rejected the custodial hold of Brahmins over the Vedas and the shastras"
+        },
+        {
+          "label": "D",
+          "text": "Contemporary Lingayatism is influential in North India, especially in the state of Jammu & Kashmir"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Contemporary Lingayatism is influential in North India, especially in the state of Jammu & Kashmir"
+      },
+      "explanation": "Fourth statement is incorrect because Contemporary Lingayatism is influential in South India, especially in the state of Karnataka."
+    },
+    {
+      "id": 3219,
+      "question": "Which of the following monasteries is known as Galden Namgey Lhatse?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hemis Monastery"
+        },
+        {
+          "label": "B",
+          "text": "Tawang Monastery"
+        },
+        {
+          "label": "C",
+          "text": "Bomdila Monastery"
+        },
+        {
+          "label": "D",
+          "text": "Namdroling Monastery"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Tawang Monastery"
+      },
+      "explanation": "Tawang monastery is the largest of its kind in the country and is one of the largest monasteries in Asia. It is said to be one of the biggest Buddhist monasteries in the world outside of Lhasa, Tibet. It is also known by another Tibetan name, 'Galden Namgey Lhatse', which means 'celestial paradise in a clear night'."
+    }
+  ]
+}

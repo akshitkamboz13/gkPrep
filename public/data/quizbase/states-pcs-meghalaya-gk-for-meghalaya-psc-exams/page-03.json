@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "states-pcs-meghalaya-gk-for-meghalaya-psc-exams",
+    "title": "States PCS: Meghalaya GK for Meghalaya PSC Exams",
+    "page": 3,
+    "total_pages": 3,
+    "generated_at": "2026-05-02 07:02:58",
+    "total_questions": 1,
+    "scraped_at": "2026-05-02 12:33:05"
+  },
+  "questions": [
+    {
+      "id": 21,
+      "question": "Which community-based conservation initiative in Meghalaya enforces restrictions on logging and supports reforestation efforts?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Seng Khasi Movement"
+        },
+        {
+          "label": "B",
+          "text": "Hima"
+        },
+        {
+          "label": "C",
+          "text": "Nokma Practice"
+        },
+        {
+          "label": "D",
+          "text": "Jaintia Sacred Groves"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Hima"
+      },
+      "explanation": "Hima are traditional Khasi administrative units in Meghalaya that manage forests, often limiting tree cutting and promoting ecological restoration."
+    }
+  ]
+}

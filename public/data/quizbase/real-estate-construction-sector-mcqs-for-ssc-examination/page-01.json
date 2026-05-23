@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "real-estate-construction-sector-mcqs-for-ssc-examination",
+    "title": "22. Real Estate & Construction Sector",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:32:49"
+  },
+  "questions": [
+    {
+      "id": 57980,
+      "question": "What is the contribution of real estate sector to India’s GDP?",
+      "options": [
+        {
+          "label": "A",
+          "text": "7%"
+        },
+        {
+          "label": "B",
+          "text": "13%"
+        },
+        {
+          "label": "C",
+          "text": "15.5%"
+        },
+        {
+          "label": "D",
+          "text": "18%"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "13%"
+      },
+      "explanation": "The real estate sector in India is projected to contribute around 13% to the nation’s GDP by 2025. According to government and industry reports, the sector’s share was about 7% in 2021 and is gradually increasing. The sector’s value was estimated at US$200 billion in 2021, with projections reaching US$1 trillion by 2030."
+    },
+    {
+      "id": 57991,
+      "question": "What is the total intital corpus of the Affordable housing fund created with NHB?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3000 crores"
+        },
+        {
+          "label": "B",
+          "text": "10000 crores"
+        },
+        {
+          "label": "C",
+          "text": "8000 crores"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "10000 crores"
+      },
+      "explanation": "The government of India has created an Affordable Housing Fund (AHF) in the National Housing Bank (NHB) with an initial corpus of Rs 10,000 crore (US$ 1.43 billion) using priority sector lending shortfall of banks/financial institutions for micro-financing of the HFCs."
+    },
+    {
+      "id": 57992,
+      "question": "What is the full form of REIT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Real Estate Increment Trusts"
+        },
+        {
+          "label": "B",
+          "text": "Real Estate Investment Trusts"
+        },
+        {
+          "label": "C",
+          "text": "Real Estates Information Trusts"
+        },
+        {
+          "label": "D",
+          "text": "Real Ending Investment Trusts"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Real Estate Investment Trusts"
+      },
+      "explanation": "REIT stand for Real Estate Investment Trust. A real estate investment trust (REIT) is a company that owns, operates, or finances income-generating real estate. It is modeled after mutual funds, REITs pool the capital of numerous investors."
+    },
+    {
+      "id": 57995,
+      "question": "Which organization releases the RESIDEX India Index?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NITI Aayog"
+        },
+        {
+          "label": "B",
+          "text": "National Housing Bank"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Housing and Urban Poverty Alleviation"
+        },
+        {
+          "label": "D",
+          "text": "Reserve Bank of India"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "National Housing Bank"
+      },
+      "explanation": "RESIDEX is India’s first official housing price index launched by the National Housing Bank in July 2007. The index tracks residential property prices across Indian cities quarterly. It is maintained and released by the National Housing Bank. RESIDEX was developed at the request of the Ministry of Finance. The index now covers 50 cities across 18 States and Union Territories."
+    },
+    {
+      "id": 57996,
+      "question": "When was National Housing bank set up?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1988"
+        },
+        {
+          "label": "B",
+          "text": "1989"
+        },
+        {
+          "label": "C",
+          "text": "1987"
+        },
+        {
+          "label": "D",
+          "text": "1991"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "1988"
+      },
+      "explanation": "The National Housing bank was set up in 1988 under the National Housing Bank Act, 1987. It is a wholly owned subsidiary of Reserve Bank of India (RBI)."
+    }
+  ]
+}

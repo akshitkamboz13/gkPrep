@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-44-gst-and-gst-council",
+    "title": "GST and GST Council",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:22:33"
+  },
+  "questions": [
+    {
+      "id": 47321,
+      "question": "Which of the following is the highest tax slab of GST?",
+      "options": [
+        {
+          "label": "A",
+          "text": "12%"
+        },
+        {
+          "label": "B",
+          "text": "18%"
+        },
+        {
+          "label": "C",
+          "text": "20%"
+        },
+        {
+          "label": "D",
+          "text": "28%"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "28%"
+      },
+      "explanation": "Goods and Service Tax (GST) are divided into four different tax slabs for collection of tax i.e, 5%, 12%, 18% and 28%."
+    },
+    {
+      "id": 47322,
+      "question": "GST is a type of which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Direct tax"
+        },
+        {
+          "label": "B",
+          "text": "Indirect tax"
+        },
+        {
+          "label": "C",
+          "text": "It depends on the goods and services"
+        },
+        {
+          "label": "D",
+          "text": "It depends on the associate states"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Indirect tax"
+      },
+      "explanation": "Goods and Service tax is a type of indirect tax."
+    },
+    {
+      "id": 47323,
+      "question": "What type of GST will be applicable for the Interstate supply of goods?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CGST"
+        },
+        {
+          "label": "B",
+          "text": "IGST"
+        },
+        {
+          "label": "C",
+          "text": "SGST"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "IGST"
+      },
+      "explanation": "Integrated Goods and Services Tax (IGST) will be applicable for the Interstate supply of goods."
+    },
+    {
+      "id": 47324,
+      "question": "Who among the following was appointed the head of the first committee to design a GST model?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vijay Kelkar"
+        },
+        {
+          "label": "B",
+          "text": "Asim Dasgupta"
+        },
+        {
+          "label": "C",
+          "text": "Pranab Mukherjee"
+        },
+        {
+          "label": "D",
+          "text": "V.P. Singh"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Asim Dasgupta"
+      },
+      "explanation": "In 1999, the Vajpayee government appointed Asim Dasgupta as the head of the first committee to design a GST model."
+    },
+    {
+      "id": 47325,
+      "question": "What is the full form of ISD which is related to GST?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Input Service Distributor"
+        },
+        {
+          "label": "B",
+          "text": "Indian Standard Data"
+        },
+        {
+          "label": "C",
+          "text": "Income Strength Distribution"
+        },
+        {
+          "label": "D",
+          "text": "Inter State Delivery"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Input Service Distributor"
+      },
+      "explanation": "ISD stands for Input Service Distributor. It is mentioned in Section 2(61) of the CGST/SGST Act."
+    }
+  ]
+}

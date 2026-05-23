@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "16-administration-of-mauryas",
+    "title": "16. Administration of Mauryas",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:51:32"
+  },
+  "questions": [
+    {
+      "id": 1831,
+      "question": "In the revenue department of Mauryas, who among the following was in-charge of the collection of all revenues in the empire?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sannidhatri"
+        },
+        {
+          "label": "B",
+          "text": "Pradeshta"
+        },
+        {
+          "label": "C",
+          "text": "Yukta"
+        },
+        {
+          "label": "D",
+          "text": "Samahatra"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Samahatra"
+      },
+      "explanation": "The officers Samaharta and Sanidatta were in charge of tax collection during the Mauryan Empire. They were also responsible for the royal treasury. The Mauryan Empire had a highly centralized administration. The Emperor was the supreme power and was assisted by a Council of Ministers. To collect taxes, the emperor set up a system of officials who were sent to all parts of the empire. The emperor also appointed governors and family members to control the officials. The main source of revenue was land tax. Revenue was also collected on irrigation, shops, customs, forests, ferry, mines, and pastures. License fees were collected from artisans and fines were charged in the law courts. The tax from manual laborers was levied in such a way that they had to work free for one day each month."
+    },
+    {
+      "id": 1956,
+      "question": "In the Mauryan empire, the post Devatadhyaksha is related to –",
+      "options": [
+        {
+          "label": "A",
+          "text": "Store House"
+        },
+        {
+          "label": "B",
+          "text": "Crown Lands"
+        },
+        {
+          "label": "C",
+          "text": "Customs"
+        },
+        {
+          "label": "D",
+          "text": "Religious Institutions"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Religious Institutions"
+      },
+      "explanation": "Devatadhyaksha was appointed to perform the duties related to religious institutions."
+    },
+    {
+      "id": 1958,
+      "question": "As per the officials mentioned in the Arthashastra, the duties related to Crown lands was performed by whom ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kosadhyaksha"
+        },
+        {
+          "label": "B",
+          "text": "Hastyadhyaksha"
+        },
+        {
+          "label": "C",
+          "text": "Lohadhyaksha"
+        },
+        {
+          "label": "D",
+          "text": "Sitadhyaksha"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Sitadhyaksha"
+      },
+      "explanation": "Sitadhyaksha was responsible for the maintenance of Crown lands."
+    },
+    {
+      "id": 1959,
+      "question": "In the Maurya empire, who looked after Markets and check wrong practices?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Samsthadhyaksha"
+        },
+        {
+          "label": "B",
+          "text": "Sitadhyaksha"
+        },
+        {
+          "label": "C",
+          "text": "Akaradhyaksha"
+        },
+        {
+          "label": "D",
+          "text": "Manadhyaksha"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Samsthadhyaksha"
+      },
+      "explanation": "In the Mauryan Empire, Samsthadhyaksha looked after the Markets and check wrong practices."
+    },
+    {
+      "id": 1960,
+      "question": "In the Maurya empire, who was the superintendent of Ports ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pattanadhyaksha"
+        },
+        {
+          "label": "B",
+          "text": "Manadhyaksha"
+        },
+        {
+          "label": "C",
+          "text": "Kosadhyaksha"
+        },
+        {
+          "label": "D",
+          "text": "Ganikadhyaksha"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Pattanadhyaksha"
+      },
+      "explanation": "As per the officials mentioned in the Arthashastra, Pattanadhyaksha was the superintendent of Ports."
+    }
+  ]
+}

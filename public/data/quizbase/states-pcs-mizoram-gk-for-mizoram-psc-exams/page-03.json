@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "states-pcs-mizoram-gk-for-mizoram-psc-exams",
+    "title": "States PCS: Mizoram GK for Mizoram PSC Exams",
+    "page": 3,
+    "total_pages": 3,
+    "generated_at": "2026-05-02 07:03:06",
+    "total_questions": 3,
+    "scraped_at": "2026-05-02 12:33:15"
+  },
+  "questions": [
+    {
+      "id": 21,
+      "question": "Which traditional shifting cultivation practice is commonly followed by the hill tribes of Mizoram?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ponna"
+        },
+        {
+          "label": "B",
+          "text": "Podu"
+        },
+        {
+          "label": "C",
+          "text": "Jhum"
+        },
+        {
+          "label": "D",
+          "text": "Khumri"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Jhum"
+      },
+      "explanation": "Jhum cultivation involves clearing forest land for crops, widely used by Mizoram tribes; it’s a form of shifting agriculture common to Northeast India."
+    },
+    {
+      "id": 22,
+      "question": "Which wildlife sanctuary in Mizoram is renowned for its population of hoolock gibbons?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dampa Wildlife Sanctuary"
+        },
+        {
+          "label": "B",
+          "text": "Murlen National Park"
+        },
+        {
+          "label": "C",
+          "text": "Tawi Wildlife Sanctuary"
+        },
+        {
+          "label": "D",
+          "text": "Ngengpui Wildlife Sanctuary"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Dampa Wildlife Sanctuary"
+      },
+      "explanation": "Dampa Wildlife Sanctuary in western Mizoram is notable for its significant hoolock gibbon population and rich biodiversity."
+    },
+    {
+      "id": 23,
+      "question": "Which traditional Mizo belief system promotes the conservation of forests through the maintenance of sacred groves?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Christianity"
+        },
+        {
+          "label": "B",
+          "text": "Animism"
+        },
+        {
+          "label": "C",
+          "text": "Buddhism"
+        },
+        {
+          "label": "D",
+          "text": "Hinduism"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Animism"
+      },
+      "explanation": "Mizo Animism involved worshipping nature deities and preserving sacred groves, aiding forest conservation before Christianity’s spread."
+    }
+  ]
+}

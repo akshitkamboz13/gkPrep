@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-53-important-laws-on-corruption",
+    "title": "Important Laws on Corruption",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:23:18"
+  },
+  "questions": [
+    {
+      "id": 46566,
+      "question": "Which section of IPC pertains to a public servant unlawfully buying or bidding for property?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Section 169"
+        },
+        {
+          "label": "B",
+          "text": "Section 170"
+        },
+        {
+          "label": "C",
+          "text": "Section 171"
+        },
+        {
+          "label": "D",
+          "text": "Section 172"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Section 169"
+      },
+      "explanation": "Section 169 of the Indian Penal Code of 1860 pertains to a public servant unlawfully buying or bidding for property. The public servant shall be punished with imprisonment of upto two years or with fine or both."
+    },
+    {
+      "id": 46568,
+      "question": "In which year the Benami Transactions (Prohibition) Act was passed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1986"
+        },
+        {
+          "label": "B",
+          "text": "1987"
+        },
+        {
+          "label": "C",
+          "text": "1988"
+        },
+        {
+          "label": "D",
+          "text": "1990"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "1988"
+      },
+      "explanation": "The Benami Transactions (Prohibition) Act was passed in 1988. The Act prohibits any purchase of property in false name of another person who does not pay for the property (benami transaction) except when a person purchases property in his wife’s or unmarried daughter’s name."
+    },
+    {
+      "id": 46569,
+      "question": "Which of the following authorities are established through the Benami Transactions (Prohibition) Act?1. Initiating Officer2. Approving Authority3. Administrator4. Adjudicating AuthoritySelect the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1 & 2"
+        },
+        {
+          "label": "B",
+          "text": "Only 2 & 3"
+        },
+        {
+          "label": "C",
+          "text": "Only 2, 3 & 4"
+        },
+        {
+          "label": "D",
+          "text": "1, 2, 3 & 4"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1, 2, 3 & 4"
+      },
+      "explanation": "The following authorities are established through the Benami Transactions (Prohibition) Act, 1988: (1) Initiating Officer, (2) Approving Authority, (3) Administrator and (4) Adjudicating Authority."
+    },
+    {
+      "id": 46570,
+      "question": "How many sections are there in the Benami Transactions (Prohibition) Act, 1988?",
+      "options": [
+        {
+          "label": "A",
+          "text": "7"
+        },
+        {
+          "label": "B",
+          "text": "8"
+        },
+        {
+          "label": "C",
+          "text": "9"
+        },
+        {
+          "label": "D",
+          "text": "10"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "9"
+      },
+      "explanation": "The Benami Transactions (Prohibition) Act of the year 1988 is a small piece of legislation, consisting of 9 sections with only three substantive sections — sections 3, 4 and 5."
+    },
+    {
+      "id": 46571,
+      "question": "In which year the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act was enacted?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2014"
+        },
+        {
+          "label": "B",
+          "text": "2015"
+        },
+        {
+          "label": "C",
+          "text": "2016"
+        },
+        {
+          "label": "D",
+          "text": "2017"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "2015"
+      },
+      "explanation": "The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act was enacted in the year 2015. The Act aims to curb circulation of black money or undisclosed foreign assets and income and imposes tax and penalty on such income."
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-april-2021",
+    "title": "Current Affairs Quiz - April, 2021",
+    "page": 5,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:45:51",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:47:12"
+  },
+  "questions": [
+    {
+      "id": 41,
+      "question": "Which institution is to conduct ‘Bank Customers’ Satisfaction Survey’ on bank mergers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NITI Aayog"
+        },
+        {
+          "label": "B",
+          "text": "RBI"
+        },
+        {
+          "label": "C",
+          "text": "SEBI"
+        },
+        {
+          "label": "D",
+          "text": "Finance Ministry"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "RBI"
+      },
+      "explanation": "The Reserve Bank of India (RBI) has decided to conduct a customer satisfaction survey to find out the impact of the recent mergers of public sector banks. The ‘Bank Customers’ Satisfaction Survey’ will cover a total of 20,000 respondents from 21 states. As many as 22 questions would be asked to assess if the merger was positive from the point of customer services."
+    },
+    {
+      "id": 42,
+      "question": "What is the name of community service centre, which is a web-based interface for data related to India’s first solar space mission?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Surya Kiran Support Cell"
+        },
+        {
+          "label": "B",
+          "text": "Aditya-L1 Support Cell"
+        },
+        {
+          "label": "C",
+          "text": "Sun Network"
+        },
+        {
+          "label": "D",
+          "text": "Big Data Centre"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Aditya-L1 Support Cell"
+      },
+      "explanation": "A dedicated community service centre named Aditya-L1 Support Cell (AL1SC) has been set up by Indian Space Research Organisation (ISRO) and Aryabhatta Research Institute of Observational Sciences (ARIES). This service centre would bring all data pertaining to the India’s first solar space mission onto a single web-based interface. It has been set up in ARIES transit campus at Haldwani – Uttarakhand."
+    },
+    {
+      "id": 43,
+      "question": "What is India’s rank in Chandler Good Government Index (CGGI)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "14"
+        },
+        {
+          "label": "B",
+          "text": "49"
+        },
+        {
+          "label": "C",
+          "text": "100"
+        },
+        {
+          "label": "D",
+          "text": "150"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "49"
+      },
+      "explanation": "India has been ranked at 49th position in Chandler Good Government Index (CGGI). Finland has topped the index. The index ranks 104 countries, under which each country is measured across over 50 open data points. It is based in seven pillars which are leadership and foresight; robust laws and policies; strong institutions; financial stewardship; attractive marketplace; global influence and reputation; and helping people rise."
+    },
+    {
+      "id": 44,
+      "question": "On which date, UN observes International Chernobyl Disaster Remembrance Day?",
+      "options": [
+        {
+          "label": "A",
+          "text": "April 20"
+        },
+        {
+          "label": "B",
+          "text": "April 26"
+        },
+        {
+          "label": "C",
+          "text": "April 30"
+        },
+        {
+          "label": "D",
+          "text": "May 1"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "April 26"
+      },
+      "explanation": "The Chernobyl nuclear disaster took place in the year 1986. Every year the United Nations observes April 26 as the International Chernobyl Disaster Remembrance Day. This year marks the 30th anniversary of the nuclear disaster. This day is dedicated to raise awareness of regarding the risks of nuclear energy and the consequences of Chernobyl disaster."
+    },
+    {
+      "id": 45,
+      "question": "Which organisation developed ‘Crystal blade technology’ for aero engines?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ISRO"
+        },
+        {
+          "label": "B",
+          "text": "HAL"
+        },
+        {
+          "label": "C",
+          "text": "BEL"
+        },
+        {
+          "label": "D",
+          "text": "DRDO"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "DRDO"
+      },
+      "explanation": "In a first of its kind, the Defence Research and Development Organisation (DRDO), has developed single crystal blade technology. This has been developed for Hindustan Aeronautics Limited (HAL) to be used for their helicopter development programme. 60 blades under the newly developed technology have been supplied to HAL."
+    },
+    {
+      "id": 46,
+      "question": "Indo-German project ‘Pyrasol’, which was seen in the news recently, is associated with which field?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reduce Carbon Emission"
+        },
+        {
+          "label": "B",
+          "text": "Urban Waste Management"
+        },
+        {
+          "label": "C",
+          "text": "Eradication of Malaria"
+        },
+        {
+          "label": "D",
+          "text": "Improve Nutrition in women"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Urban Waste Management"
+      },
+      "explanation": "Indo-German project ‘Pyrasol’ was launched to transform urban organic waste into biochar and energy in smart cities. It was awarded to CSIR-CLRI by the Indo-German Science & Technology Centre. It aims for joint processing of Fibrous Organic Waste (FOW) and Sewage Sludge (SS) of Indian smart cities into Biochar. The foundation stone of the Integrated Solar Dryer and Pyrolysis pilot was recently laid at CSIR-CLRI, Chennai, Tamil Nadu."
+    },
+    {
+      "id": 47,
+      "question": "Union Cabinet approved the signing of an agreement, between India and which country / countries for preventing Customs offences?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Australia"
+        },
+        {
+          "label": "B",
+          "text": "USA and Japan"
+        },
+        {
+          "label": "C",
+          "text": "UK and Northern Ireland"
+        },
+        {
+          "label": "D",
+          "text": "Brazil and South Korea"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "UK and Northern Ireland"
+      },
+      "explanation": "The Union Cabinet, chaired by the Prime Minister Narendra Modi has approved the signing of an agreement between India and the United Kingdom and Northern Ireland, for sharing information and preventing Customs offences. The proposed agreement is expected to facilitate trade and ensure faster customs clearance between the three countries."
+    },
+    {
+      "id": 48,
+      "question": "What is “B.1.617”, which is seen in the news recently?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Air to Air Missile"
+        },
+        {
+          "label": "B",
+          "text": "New Planet"
+        },
+        {
+          "label": "C",
+          "text": "COVID 19 Variant"
+        },
+        {
+          "label": "D",
+          "text": "Hydrogen fuel cell"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "COVID 19 Variant"
+      },
+      "explanation": "B.1.617 is a variant of the COVID 19 disease, which was first found in India. Recently, the World Health Organisation (WHO) has stated that the B.1.617 variant of the COVID 19, has been detected in more than 17 countries across the globe. So far, this new virus has claimed more than 3.11 million lives across the globe"
+    },
+    {
+      "id": 49,
+      "question": "As per the recent report of the Asian Development Bank, what is the estimated growth rate of India in FY 22?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5.4%"
+        },
+        {
+          "label": "B",
+          "text": "7.5%"
+        },
+        {
+          "label": "C",
+          "text": "9.2%"
+        },
+        {
+          "label": "D",
+          "text": "11%"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "11%"
+      },
+      "explanation": "The Asian Development Bank has recently released a report titled Developing Asia’s Economic Outlook. As per the report, India’s economy is expected to grow 11% in fiscal year (FY) 2021-22. This growth is backed by a strong vaccination drive which is undertaken in India. At the same time, the report warned that the surge in cases may lead to economic risks."
+    },
+    {
+      "id": 50,
+      "question": "India recently agreed to establish “2+2 ministerial dialogue” between foreign and defence ministers, with which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "UK"
+        },
+        {
+          "label": "B",
+          "text": "France"
+        },
+        {
+          "label": "C",
+          "text": "Russia"
+        },
+        {
+          "label": "D",
+          "text": "Brazil"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Russia"
+      },
+      "explanation": "India and Russia recently agreed to establish a “2+2 ministerial dialogue” between foreign and defence ministers, to promote the bilateral strategic partnership. Russian President and Indian Prime Minister had a telephonic, wherein they reviewed bilateral cooperation, especially in the area of space exploration and renewable energy sector, focussing hydrogen economy."
+    }
+  ]
+}

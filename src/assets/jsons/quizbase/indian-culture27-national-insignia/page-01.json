@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-culture27-national-insignia",
+    "title": "Indian Culture:27: National Insignia",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:17:30"
+  },
+  "questions": [
+    {
+      "id": 10669,
+      "question": "In which year, Peacock was declared National Bird of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1958"
+        },
+        {
+          "label": "B",
+          "text": "1960"
+        },
+        {
+          "label": "C",
+          "text": "1963"
+        },
+        {
+          "label": "D",
+          "text": "1965"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "1963"
+      },
+      "explanation": "The Indian peacock or Pavo cristatus was declared the national bird of India in 1963. It was made the national bird because of its rich religious and legendary involvement in Indian traditions."
+    },
+    {
+      "id": 29815,
+      "question": "When was the first Bharat Ratna Award given?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 January 1954"
+        },
+        {
+          "label": "B",
+          "text": "26 January 1954"
+        },
+        {
+          "label": "C",
+          "text": "15 August 1954"
+        },
+        {
+          "label": "D",
+          "text": "2 October 1954"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "2 January 1954"
+      },
+      "explanation": "The first recipients of the Bharat Ratna were politician C. Rajagopalachari, philosopher Sarvepalli Radhakrishnan, and scientist C. V. Raman, who was honoured on 2nd January, 1954. Since then, the award has been bestowed on 45 individuals, including 12 who were awarded posthumously."
+    },
+    {
+      "id": 31217,
+      "question": "Who among the following wrote the national song of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bankim Chandra Chatterjee"
+        },
+        {
+          "label": "B",
+          "text": "Rabindranath Tagore"
+        },
+        {
+          "label": "C",
+          "text": "Lord Mountbatten"
+        },
+        {
+          "label": "D",
+          "text": "Ishwar Chandra Vidyasagar"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Bankim Chandra Chatterjee"
+      },
+      "explanation": "The national song is called \"Vande Mataram...\". The first Political occasion when it was sung was the 1896 session of the Indian National Congress. It was written by Bankim Chandra Chatterjee."
+    },
+    {
+      "id": 31218,
+      "question": "Who among the following wrote the national anthem of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mahatma Gandhi"
+        },
+        {
+          "label": "B",
+          "text": "Jawarharlal Nehru"
+        },
+        {
+          "label": "C",
+          "text": "Bankim Chandra Chatterjee"
+        },
+        {
+          "label": "D",
+          "text": "Rabindranath Tagore"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Rabindranath Tagore"
+      },
+      "explanation": "The song is called \"Jana gana mana...\". Only the first stanza (out of the five stanzas) forms the National Anthem; its playing time is 52 seconds. It was first sung on 27 December, 1911. It waswritten by Rabindranath Tagore."
+    },
+    {
+      "id": 33655,
+      "question": "Who among the following wrote the National Anthem? (UPSC Prelims 1985)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rabindranath Tagore"
+        },
+        {
+          "label": "B",
+          "text": "Bankim Chandra Chatterji"
+        },
+        {
+          "label": "C",
+          "text": "Mohammed Iqbal"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Rabindranath Tagore"
+      },
+      "explanation": "Jana Gana Mana is the national anthem of India. Originally written in Bengali, it is the first of five stanzas of a poem written and later set to notations by Rabindranath Tagore. It was first sung in the Calcutta Session of the Indian National Congress on December 27, 1911."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-17-parliamentary-committees-forums-a",
+    "title": "Parliamentary Committees, Forums and Parliamentary Group",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:19:50"
+  },
+  "questions": [
+    {
+      "id": 8305,
+      "question": "Which among the following is a correct combination of members in Joint Committee on Office of Profit ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "15 from Lok Sabha and 10 from Rajya Sabha =Total 25 members"
+        },
+        {
+          "label": "B",
+          "text": "15 from Lok Sabha and 15 from Rajya Sabha = Total 30 members"
+        },
+        {
+          "label": "C",
+          "text": "20 from Lok Sabha and 10 from Rajya Sabha = Total 30 members"
+        },
+        {
+          "label": "D",
+          "text": "15 from Lok Sabha and 7 from Rajya Sabha = Total 22 members"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "15 from Lok Sabha and 10 from Rajya Sabha =Total 25 members"
+      },
+      "explanation": "The Joint Committee on Office of Profit is constituted in pursuance of a Government motion adopted by Lok Sabha and concurred in by Rajya Sabha. It consists of 15 members. Ten members are elected from Lok Sabha and five members from Rajya Sabha, who are elected from amongst the members of the respective Houses according to the principle of proportional representation by means of single transferable vote. The Committee is constituted for the duration of each Lok Sabha. The main functions of the Committee are examine the composition and character of the Committees appointed by the Central and State Governments and to recommend what offices should disqualify and what offices should not disqualify a person for being chosen as, and for being, a member of either House of Parliament under article 102 of the Constitution. The Reports of the Committee are presented to Lok Sabha and laid on the Table of Rajya Sabha."
+    },
+    {
+      "id": 8440,
+      "question": "Which among the following committees of Lok Sabha is assisted by Comptroller & Auditor General of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Estimates committee"
+        },
+        {
+          "label": "B",
+          "text": "Public Accounts Committee"
+        },
+        {
+          "label": "C",
+          "text": "Joint Committee of salary and allowances"
+        },
+        {
+          "label": "D",
+          "text": "Joint committee of Offices of Profit"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Public Accounts Committee"
+      },
+      "explanation": "Public Accounts Committee examines the annual audit reports of the Comptroller and Auditor General of India (CAG), which are laid before the Parliament by the President."
+    },
+    {
+      "id": 8914,
+      "question": "Which among the following is a correct function of Public Accounts Committee?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It works under President of India and creates accounts for various ministries"
+        },
+        {
+          "label": "B",
+          "text": "It works under Comptroller and Auditor General of India and prepares accounts"
+        },
+        {
+          "label": "C",
+          "text": "It is a parliamentary committee which gives report on nonplan expenditures of the government"
+        },
+        {
+          "label": "D",
+          "text": "It is a parliamentary committee which scrutinizes the report of the Comptroller & Auditor General of India"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "It is a parliamentary committee which scrutinizes the report of the Comptroller & Auditor General of India"
+      },
+      "explanation": "Public Accounts Committee examines the annual audit reports of the Comptroller and Auditor General of India (CAG), which are laid before the Parliament by the President."
+    },
+    {
+      "id": 16820,
+      "question": "Which of the following committees of parliament considers the question of contempt of the House?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Select Committee"
+        },
+        {
+          "label": "B",
+          "text": "Committee on privileges"
+        },
+        {
+          "label": "C",
+          "text": "Committee on petitions"
+        },
+        {
+          "label": "D",
+          "text": "None of them"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Committee on privileges"
+      },
+      "explanation": "Both Lok Sabha and Rajya Sabha have their Committee on Privileges. The Lok Sabha committee has 15 members, while the Rajya Sabha committee has 10 members. The members are nominated by the Speaker / Chairman as the case may be. The functions of this committee are semi-judicial in nature including examination of breach of privileges of the House. The committee recommends appropriate action."
+    },
+    {
+      "id": 16885,
+      "question": "Which of the following is the main objective of Parliamentary Language Committee?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Recommend on making the progressive use of the Hindi language for the official purposes of the union"
+        },
+        {
+          "label": "B",
+          "text": "Looking into the linguistic demands for new states and make suggestions in that regard"
+        },
+        {
+          "label": "C",
+          "text": "Identify the endangered languages and make recommendations to protect and preserve them"
+        },
+        {
+          "label": "D",
+          "text": "Examine the vernacular education and make recommendations for effective implementation of three language formula"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Recommend on making the progressive use of the Hindi language for the official purposes of the union"
+      },
+      "explanation": "Article 344: initially at 5 years of commencement of constitution and thereafter every 10 years, the President will constitute Parliamentary Language Committee to recommend on making the progressive use of the Hindi language for the official purposes of the union."
+    }
+  ]
+}

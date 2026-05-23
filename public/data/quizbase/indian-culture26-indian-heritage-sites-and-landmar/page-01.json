@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-culture26-indian-heritage-sites-and-landmar",
+    "title": "Indian Culture:26: Indian Cultural Heritage Sites and Landmarks",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:17:26"
+  },
+  "questions": [
+    {
+      "id": 3086,
+      "question": "This temple is 150 year old temple situated in Kavi Kamboi in Gujarat. It is flanked by the Arabian Sea on one side and the Bay of Cambay on the other. The Shivalinga present here can be seen only during low-tide hours. In the above given description, which temple is being talked about?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Somnath temple"
+        },
+        {
+          "label": "B",
+          "text": "Stambheshwar Mahadev temple"
+        },
+        {
+          "label": "C",
+          "text": "Dwarkadhish temple"
+        },
+        {
+          "label": "D",
+          "text": "Nageshwar Temple"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Stambheshwar Mahadev temple"
+      },
+      "explanation": "Stambheshwar Mahadev temple is 150 year old temple situated in Kavi Kamboi in Gujarat. It is flanked by the Arabian Sea on one side and the Bay of Cambay on the other. The Shivalinga present here can be seen only during low-tide hours."
+    },
+    {
+      "id": 5016,
+      "question": "Castle Naggar heritage site is located in __:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Punjab"
+        },
+        {
+          "label": "C",
+          "text": "Odisha"
+        },
+        {
+          "label": "D",
+          "text": "Haryana"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Himachal Pradesh"
+      },
+      "explanation": "Naggar Castle is a medieval castle, located in Kullu, Himachal Pradesh. It was Built by Raja Sidh Singh of Kullu in around 1460 A.D. It was the official seat of kings for centuries."
+    },
+    {
+      "id": 5023,
+      "question": "Akshardham temple, which is situated in Delhi, is revered for which Hindu deity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Swaminarayan"
+        },
+        {
+          "label": "B",
+          "text": "Shiva"
+        },
+        {
+          "label": "C",
+          "text": "Krishna"
+        },
+        {
+          "label": "D",
+          "text": "Ganesh"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Swaminarayan"
+      },
+      "explanation": "The temple is located near the banks of the Yamuna River. The temple was opened to the general public on 6th November 2005. It holds the Guinness World Record for the World’s Largest Comprehensive Hindu Temple."
+    },
+    {
+      "id": 5025,
+      "question": "Where is the Tagore Centre for the Study of Culture and Civilization ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shimla"
+        },
+        {
+          "label": "B",
+          "text": "Kolkata"
+        },
+        {
+          "label": "C",
+          "text": "Chennai"
+        },
+        {
+          "label": "D",
+          "text": "Dehrdun"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Shimla"
+      },
+      "explanation": "To pay a befitting tribute to the man of letters, Nobel Laureate, Gurudev Rabindranath Tagore, on his 150th birth anniversary, the Government of India has set up a ‘Tagore Centre for the Study of Culture and Civilization’ (TCSCC) at the Indian Institute of Advanced Study (IIAS), Shimla. The objectives of the Centre include: to encourage the study of Tagore’s work; support translations of Tagore’s work into other Indian languages; promote comparative study of his work with poets, artists and writers in other parts of India and the world; study the elements of his Humanist philosophy and his cosmopolitanism; and explore his concerns regarding the relationship between science and society."
+    },
+    {
+      "id": 5030,
+      "question": "Which of the following was the birth place of Guru Nanak ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shakargarh"
+        },
+        {
+          "label": "B",
+          "text": "Sultanpur"
+        },
+        {
+          "label": "C",
+          "text": "Nankana Sahib"
+        },
+        {
+          "label": "D",
+          "text": "Shahkot"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Nankana Sahib"
+      },
+      "explanation": "Nankana Sahib was the birth place of Guru Nanak, the founder of Sikh religion. He was born in 1469 in a khatri family. He had strong faith in worship of Nirakar Brahma."
+    }
+  ]
+}

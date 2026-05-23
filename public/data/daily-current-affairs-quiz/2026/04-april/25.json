@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: April 25, 2026",
+    "date": "2026-04-25",
+    "year": "2026",
+    "month": "04-april",
+    "day": 25,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 02:25:25",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:51:00"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Lower Lake (Chhota Talaab), that was recently seen in news, is located in which city?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bhopal"
+        },
+        {
+          "label": "B",
+          "text": "Mumbai"
+        },
+        {
+          "label": "C",
+          "text": "Chennai"
+        },
+        {
+          "label": "D",
+          "text": "Hyderabad"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Bhopal"
+      },
+      "explanation": "Recently, the National Green Tribunal directed the Madhya Pradesh Pollution Control Board to inspect the Lower Lake and submit a detailed report. The Lower Lake (Chhota Talaab) is a man-made lake located in Bhopal. It was built in 1794 by Chote Khan, a minister of Nawab Hayat Muhammad Khan. Along with the Upper Lake (Bada Talaab), it forms the Bhoj Wetland, which is a Ramsar site. The Lower Lake lies east of the Upper Lake and is separated by the Pul Pukhta (Lower Lake Bridge). Both lakes are arranged in a terraced system, with interconnected water levels."
+    },
+    {
+      "id": 2,
+      "question": "Kheoni Wildlife Sanctuary, where the honey badger (Ratel) was recently spotted, is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "B",
+          "text": "Gujarat"
+        },
+        {
+          "label": "C",
+          "text": "Madhya Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Uttar Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Madhya Pradesh"
+      },
+      "explanation": "Recently, the presence of the honey badger (ratel) was confirmed in the Kheoni Wildlife Sanctuary. The honey badger is a small but extremely strong mammal belonging to the weasel family. It has a wide distribution across sub-Saharan Africa, West Asia, and the Indian subcontinent. Kheoni Wildlife Sanctuary is located in Madhya Pradesh and is connected to Ratapani Tiger Reserve via wildlife corridors."
+    },
+    {
+      "id": 3,
+      "question": "NAMASTE scheme is jointly implemented by which ministries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Environment, Forest and Climate Change and Ministry of Finance"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Social Justice and Empowerment and the Ministry of Housing and Urban Affairs"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Health and Family Welfare and Ministry of Law and Justice"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Finance and Ministry of Home Affairs"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ministry of Social Justice and Empowerment and the Ministry of Housing and Urban Affairs"
+      },
+      "explanation": "Recently, the Union Minister stated that the NAMASTE Scheme has shown measurable success in eliminating hazardous manual sanitation practices. NAMASTE (National Action for Mechanised Sanitation Ecosystem) aims to improve the safety, health, and dignity of sanitation workers. It is jointly implemented by the Ministry of Social Justice and Empowerment and the Ministry of Housing and Urban Affairs. The implementing agency is National Safai Karmacharis Finance Development Corporation. The scheme runs from FY 2023–24 to FY 2025–26."
+    },
+    {
+      "id": 4,
+      "question": "International Seed Day is celebrated on which day every year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "April 24"
+        },
+        {
+          "label": "B",
+          "text": "April 25"
+        },
+        {
+          "label": "C",
+          "text": "April 26"
+        },
+        {
+          "label": "D",
+          "text": "April 27"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "April 26"
+      },
+      "explanation": "International Seed Day is celebrated on 26 April every year to promote seed sovereignty, biodiversity conservation, and farmers’ rights. It also recalls concerns over corporate control of seeds, particularly linked to Iraqi Order 81. In 2026, the focus is on local climate-resilient seeds and their role in tackling climate change. Traditional varieties like tangrashal paddy (West Bengal) and toor (red gram) in Maharashtra are highlighted. The day emphasises the role of pastoralists as custodians of biodiversity, helping in seed dispersal across regions."
+    },
+    {
+      "id": 5,
+      "question": "Srivilliputhur–Meghamalai Tiger Reserve is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Odisha"
+        },
+        {
+          "label": "B",
+          "text": "Karnataka"
+        },
+        {
+          "label": "C",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "D",
+          "text": "Tamil Nadu"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Tamil Nadu"
+      },
+      "explanation": "Recently, a special polling station was set up inside the Srivilliputhur–Meghamalai Tiger Reserve for just five voters, highlighting electoral accessibility in remote areas. The reserve is located in Tamil Nadu within the ecologically sensitive Western Ghats. It was formed by merging the Grizzled Squirrel Wildlife Sanctuary and Megamalai Wildlife Sanctuary. It acts as a vital wildlife corridor connecting Periyar Tiger Reserve and Kalakkad-Mundanthurai Tiger Reserve. The reserve is sustained by major rivers such as Vaigai, Suruliyaru, and Shanmuganathi."
+    }
+  ]
+}

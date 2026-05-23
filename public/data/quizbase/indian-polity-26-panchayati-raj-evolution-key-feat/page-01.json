@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-26-panchayati-raj-evolution-key-feat",
+    "title": "Evolution of Panchayati Raj",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:20:50"
+  },
+  "questions": [
+    {
+      "id": 4561,
+      "question": "Constitution (73rd Amendment) Act, 1992 makes provisions for a 3-tier system of Panchayati Raj for all the States having population of above__:",
+      "options": [
+        {
+          "label": "A",
+          "text": "15 Lakh"
+        },
+        {
+          "label": "B",
+          "text": "20 Lakh"
+        },
+        {
+          "label": "C",
+          "text": "25 Lakh"
+        },
+        {
+          "label": "D",
+          "text": "30 Lakh"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "20 Lakh"
+      },
+      "explanation": "The Constitution (73rd Amendment) Act, 1992 makes the following salient provisions: To provide 3-tier system of Panchayati Raj for all the States having population of over 20 Lakhs. To hold Panchayat Elections regularly every 5 years. To provide reservation of seats for Scheduled Castes, Scheduled Tribes and Women (not less than 33%) To appoint State Finance Commission to make recommendations as regards the financial powers of the Panchayats. To constitute District Planning Committee to prepare draft development plan for the district as a whole."
+    },
+    {
+      "id": 5871,
+      "question": "In which five year plan, the Panchayati Raj System was introduced in India for the first time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1st"
+        },
+        {
+          "label": "B",
+          "text": "2nd"
+        },
+        {
+          "label": "C",
+          "text": "5th"
+        },
+        {
+          "label": "D",
+          "text": "6th"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "2nd"
+      },
+      "explanation": "The institution of Panchayati Raj was inaugurated by Jawaharlal Nehru on October 2, 1959 in Nagaur District of Rajasthan. Nine days later, Andhra Pradesh became the second state to launch Panchayati Raj at Shadnagar near Hyderabad."
+    },
+    {
+      "id": 6093,
+      "question": "Balwantrai Mehta, a pioneer of Panchayati Raj and a distinguished freedom fighter, was Chief minister of which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maharastra"
+        },
+        {
+          "label": "B",
+          "text": "Gujarat"
+        },
+        {
+          "label": "C",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Madya Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Gujarat"
+      },
+      "explanation": "BBalwantrai Mehta was one of the legendry freedom fighters of the country who participated in the Bardoli Satyagraha. He is best known as second Chief Minister of Gujarat.He is credited for pioneering the concept the Panchayati Raj in India and also known as Father of Panchayati Raj in India."
+    },
+    {
+      "id": 6220,
+      "question": "The Three tier system of panchayati raj was adopted by which state for the first time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "B",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Bihar"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Rajasthan"
+      },
+      "explanation": "The institution of Panchayati Raj was inaugurated by Jawaharlal Nehru on October 2, 1959 in Nagaur District of Rajasthan. Nine days later, Andhra Pradesh became the second state to launch Panchayati Raj at Shadnagar near Hyderabad."
+    },
+    {
+      "id": 6449,
+      "question": "A three tier Panchayat is envisaged for states having population above __________?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10 lakhs"
+        },
+        {
+          "label": "B",
+          "text": "15 lakhs"
+        },
+        {
+          "label": "C",
+          "text": "20 lakhs"
+        },
+        {
+          "label": "D",
+          "text": "25 lakhs"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "20 lakhs"
+      },
+      "explanation": "A three tier Panchayat is envisaged for states having population above 20 lakhs. However, a state having a population less than 20 lakh may not constitute panchayats at the intermediate level."
+    }
+  ]
+}

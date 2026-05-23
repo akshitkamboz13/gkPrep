@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "environment-ecology-biodiversity-mcqs",
+    "title": "Environment & Biodiversity MCQs",
+    "page": 3,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:50:12",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:11:59"
+  },
+  "questions": [
+    {
+      "id": 21,
+      "question": "Which of the following is true about Convention on Migratory Species? It covers only avians which migrates It is under the United Nations Environment Program. Select the correct answer from the codes given below",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 only"
+        },
+        {
+          "label": "B",
+          "text": "2 only"
+        },
+        {
+          "label": "C",
+          "text": "Both"
+        },
+        {
+          "label": "D",
+          "text": "None"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "2 only"
+      },
+      "explanation": "The Convention on Migratory Species was enforced in 1983 in Bonn, Germany and aims to protect all terrestrial, avian and aquatic migratory species. It is the only such legally binding treaty and is under UNEP."
+    },
+    {
+      "id": 22,
+      "question": "Which of the following is true about Asiatic Elephant? Its IUCN status is endangered It is under the first schedule of Wildlife Protection Act 1972 Select the correct answer from the codes given below",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 only"
+        },
+        {
+          "label": "B",
+          "text": "2 only"
+        },
+        {
+          "label": "C",
+          "text": "Both"
+        },
+        {
+          "label": "D",
+          "text": "None"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Both"
+      },
+      "explanation": "Asiatic Elephant is found in India, Srilanka, Indonesia etc. Its IUCN status is Endangered and it is given protection under the schedule 1 of the Wildlife Protection Act 1972."
+    },
+    {
+      "id": 23,
+      "question": "Which of the following are the basic components of the Ecosystem?1) Autotrophs2) Heterotrophs3) Non-Living MatterSelect the correct answer from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1 & 2"
+        },
+        {
+          "label": "B",
+          "text": "Only 2"
+        },
+        {
+          "label": "C",
+          "text": "Only 1 & 3"
+        },
+        {
+          "label": "D",
+          "text": "1, 2 & 3"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1, 2 & 3"
+      },
+      "explanation": "Each Ecosystem is unique, but all the ecosystems have three basic components:1) Autotrophs – Example: Trees, Grass2) Heterotrophs- Example- Animals, Human Beings3) Non-Living Matter- Example- soil, Sediments, and other organic matter."
+    },
+    {
+      "id": 24,
+      "question": "Which of the following statements are correct with respect to population?1. Birth and emigration lead to increase in population.2. Death and immigration lead to decrease in population.Select the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1"
+        },
+        {
+          "label": "B",
+          "text": "Only 2"
+        },
+        {
+          "label": "C",
+          "text": "Both 1 & 2"
+        },
+        {
+          "label": "D",
+          "text": "Neither 1 & 2"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Neither 1 & 2"
+      },
+      "explanation": "Population is a group of organisms which are usually of the same species, occupying a defined area during a specific time. Birth and immigration lead to increase in population. Death and emigration lead to decrease in population."
+    },
+    {
+      "id": 25,
+      "question": "Which of the following statements are correct about aquatic ecosystems?1. In an aquatic ecosystem, phytoplanktons are the primary producers.2. Phytoplanktons are eaten by zoo planktons which is eaten by fishes and fishes are eaten by pelicans.Select the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1"
+        },
+        {
+          "label": "B",
+          "text": "Only 2"
+        },
+        {
+          "label": "C",
+          "text": "Both 1 & 2"
+        },
+        {
+          "label": "D",
+          "text": "Neither 1 & 2"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Both 1 & 2"
+      },
+      "explanation": "In an aquatic ecosystem, phytoplanktons are the primary producers. Phytoplanktons are eaten by zoo planktons which is eaten by fishes and fishes are eaten by pelicans."
+    },
+    {
+      "id": 26,
+      "question": "Which of the following are the necessary feature of a pollutant for biomagnification to occur?1. Long-lived2. Mobile2. Insoluble in fats3. Biologically activeSelect the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1, 2 & 3"
+        },
+        {
+          "label": "B",
+          "text": "Only 2, 3 & 4"
+        },
+        {
+          "label": "C",
+          "text": "Only 1, 2 & 4"
+        },
+        {
+          "label": "D",
+          "text": "1, 2, 3 & 4"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Only 1, 2 & 4"
+      },
+      "explanation": "The necessary feature of a pollutant for biomagnification to occur are as follows: the pollutant should be long-lived, mobile, soluble in fats, biologically active. Short-lived pollutants will be broken down before they become dangerous. Immobility ensures that it will stay in one place and is unlikely to be taken up by organisms. If the pollutant is soluble in water, it will be excreted by the organism."
+    },
+    {
+      "id": 27,
+      "question": "Which of the following statements are correct with respect to Sedimentary Cycle?1. Phosphorus, calcium and magnesium circulate by means of the sedimentary cycle.2. The agents of sedimentary cycle include erosion, sedimentation, mountain building, volcanic activity and biological transport through the excreta of marine birds.Select the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1"
+        },
+        {
+          "label": "B",
+          "text": "Only 2"
+        },
+        {
+          "label": "C",
+          "text": "Both 1 & 2"
+        },
+        {
+          "label": "D",
+          "text": "Neither 1 & 2"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Both 1 & 2"
+      },
+      "explanation": "Phosphorus, calcium and magnesium circulate by means of the sedimentary cycle. The agents of sedimentary cycle include erosion, sedimentation, mountain building, volcanic activity and biological transport through the excreta of marine birds."
+    },
+    {
+      "id": 28,
+      "question": "Consider the following statements regarding the Indian Estuarine Ecosystem: India has 14 major, 44 medium and 162 minor rivers drains into the sea through various estuaries. Major estuaries occur in the Bay of Bengal. Estuaries on the west coast are smaller. Which of the above statements is/are correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1 and 2"
+        },
+        {
+          "label": "B",
+          "text": "Only 2 and 3"
+        },
+        {
+          "label": "C",
+          "text": "Only 1 and 3"
+        },
+        {
+          "label": "D",
+          "text": "All Are Correct Statements"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "All Are Correct Statements"
+      },
+      "explanation": "India does have 14 major, 44 medium and 162 minor rivers that drain into the sea through various estuaries. Major estuaries do occur in the Bay of Bengal. Additionally, estuaries on the west coast are smaller. Therefore, all statements are correct."
+    },
+    {
+      "id": 29,
+      "question": "Which of the following are circular or semi-circular reefs that arise from subsiding seafloor platforms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fringing Reef"
+        },
+        {
+          "label": "B",
+          "text": "Barrier Reef"
+        },
+        {
+          "label": "C",
+          "text": "Atolls"
+        },
+        {
+          "label": "D",
+          "text": "Patch Reef"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Atolls"
+      },
+      "explanation": "An Atoll, sometimes called a coral atoll, is a ring-shaped coral reef. They rise from subsiding seafloor platforms as coral reef-building keeps ahead of subsidence. It is roughly circular and surrounds a large central lagoon."
+    },
+    {
+      "id": 30,
+      "question": "Arrange the following places with respect to the richness in species diversity:1) Gulf of Kachchh2) Lakshadweep Islands3) Andaman and Nicobar Islands4) Gulf of MannarSelect the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 2, 3, 4"
+        },
+        {
+          "label": "B",
+          "text": "2, 3, 1, 4"
+        },
+        {
+          "label": "C",
+          "text": "3, 2, 4, 1"
+        },
+        {
+          "label": "D",
+          "text": "3, 4, 2, 1"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "3, 2, 4, 1"
+      },
+      "explanation": "Among the four major reef areas found in India, the Andaman and Nicobar Islands are found to be very rich in species diversity followed by the Lakshadweep Islands, the Gulf of Mannar, and finally the Gulf of Kachchh."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-culture05-ancient-architecture",
+    "title": "Indian Culture:05-Ancient Architecture",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:15:28"
+  },
+  "questions": [
+    {
+      "id": 1977,
+      "question": "Who built a temple of Augustus at Muzris?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Romans"
+        },
+        {
+          "label": "B",
+          "text": "Cholas"
+        },
+        {
+          "label": "C",
+          "text": "Pandyas"
+        },
+        {
+          "label": "D",
+          "text": "Cheras"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Romans"
+      },
+      "explanation": "Muzris was an ancient port city in what is now the modern state of Kerala. It was an important trading center in antiquity. There are indications that there may have been a temple dedicated to the Roman emperor Augustus built at Muzris during his reign, reflecting the trade connections between Rome and southern India at that time. However, the exact details and nature of this temple are not well attested in the available historical sources."
+    },
+    {
+      "id": 3270,
+      "question": "Which of the following features of Indian temples resembles pylons of the Egyptian temples?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lat"
+        },
+        {
+          "label": "B",
+          "text": "Vimana"
+        },
+        {
+          "label": "C",
+          "text": "Gopura"
+        },
+        {
+          "label": "D",
+          "text": "Shikhara"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Gopura"
+      },
+      "explanation": "Buddhists, Jains, and Hindus have directed an almost equal attention to the Gopura or gateways o f their towns and temples. These, both in form and purpose, resemble the pylons of the Egyptian temples."
+    },
+    {
+      "id": 5028,
+      "question": "Which among the following Kings built the Kailashnath Temple of Ellora ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rashtrakuta king Krishna I"
+        },
+        {
+          "label": "B",
+          "text": "Narasimhavarman II"
+        },
+        {
+          "label": "C",
+          "text": "Rashtrakuta king Krishna II"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Rashtrakuta king Krishna I"
+      },
+      "explanation": "Rashtrakuta king, krishna-1 had built the kailash temple of ellora. It is considered as the wonder of rock-out architecture. Kailasanath Temple is a famous temple, one of the 34 monasteries and temples, known collectively as the Ellora Caves, extending over more than 2 km, that were dug side by side in the wall of a high basalt cliff in the complex located at Ellora, Maharashtra, India."
+    },
+    {
+      "id": 5053,
+      "question": "The Pagodas at Mahabalipuram had been constructed by ___?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cholas"
+        },
+        {
+          "label": "B",
+          "text": "Chalukyas of Kalyani"
+        },
+        {
+          "label": "C",
+          "text": "Pallavas"
+        },
+        {
+          "label": "D",
+          "text": "Pandyas"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Pallavas"
+      },
+      "explanation": "Pallava dynasty: the reign of Narasimhavarman I : constructed five rath temples at the port town of Mamllapuram (Mahabalipuram) These are now known as seven raths or Pagodas."
+    },
+    {
+      "id": 5057,
+      "question": "Which among the following is the hallmark feature of the Dravida style of temple architecture?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shikara"
+        },
+        {
+          "label": "B",
+          "text": "Gopura"
+        },
+        {
+          "label": "C",
+          "text": "Vimana"
+        },
+        {
+          "label": "D",
+          "text": "Mandapa"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Vimana"
+      },
+      "explanation": "Vimana is a term for the tower above the Garbhagriha or Sanctum sanctorum in a Hindu temple in Dravidian style."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: January 16, 2026",
+    "date": "2026-01-16",
+    "year": "2026",
+    "month": "01-january",
+    "day": 16,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 05:25:37",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:55:38"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Asola-Bhatti Wildlife Sanctuary, that was recently seen in news, is located on which hill range?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vindhya"
+        },
+        {
+          "label": "B",
+          "text": "Aravalli"
+        },
+        {
+          "label": "C",
+          "text": "Shivalik"
+        },
+        {
+          "label": "D",
+          "text": "Satpura"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Aravalli"
+      },
+      "explanation": "The Delhi government stated that more than 6,500 monkeys rescued by civic bodies from residential and commercial areas were shifted to Asola-Bhatti Wildlife Sanctuary in the last five years. Asola-Bhatti Wildlife Sanctuary covers about 32.71 square kilometres on the Southern Delhi Ridge of the Aravalli hill range along the Delhi–Haryana border. It extends across southern Delhi and parts of Faridabad and Gurugram districts of Haryana. The sanctuary is part of the Northern Aravalli Leopard Wildlife Corridor."
+    },
+    {
+      "id": 2,
+      "question": "Konda Reddi Tribe is primarily found in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Karnataka"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Odisha"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Andhra Pradesh"
+      },
+      "explanation": "A fire, reportedly due to a short circuit, destroyed at least 38 thatched houses of the Konda Reddi tribe in Sarlanka village, Prathipadu Mandal, Kakinada district, Andhra Pradesh. Konda Reddis are a Particularly Vulnerable Tribal Group (PVTG) living along both banks of the Godavari River in hilly and forest areas of East Godavari, West Godavari, and Khammam districts of Andhra Pradesh. Their language is Telugu spoken in a pure, unique accent. They follow Folk Hinduism with local deity worship."
+    },
+    {
+      "id": 3,
+      "question": "Which bank won the ‘Best Fintech & DPI Adoption’ award at the Indian Banks’ Association (IBA) Banking Technology Awards?",
+      "options": [
+        {
+          "label": "A",
+          "text": "State Bank of India"
+        },
+        {
+          "label": "B",
+          "text": "Karnataka Bank"
+        },
+        {
+          "label": "C",
+          "text": "Bank of Baroda"
+        },
+        {
+          "label": "D",
+          "text": "HDFC Bank"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Karnataka Bank"
+      },
+      "explanation": "Karnataka Bank won the Best Fintech & DPI (Digital Public Infrastructure) Adoption award at the Indian Banks’ Association (IBA) Banking Technology Awards. It was adjudged runner-up in Best Tech Talent category. The bank also received Special Mention for Best Technology Bank, Best Digital Financial Inclusion, and Best Digital Sales. The recognition highlights the bank’s focus on digital innovation, technology talent, and customer-centric banking solutions. Karnataka Bank reaffirmed its commitment to expanding digital capabilities to meet evolving customer needs."
+    },
+    {
+      "id": 4,
+      "question": "The Global Risk Report 2026 was released by which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "World Bank"
+        },
+        {
+          "label": "B",
+          "text": "International Monetary Fund"
+        },
+        {
+          "label": "C",
+          "text": "United Nations Development Programme"
+        },
+        {
+          "label": "D",
+          "text": "World Economic Forum"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "World Economic Forum"
+      },
+      "explanation": "The Global Risk Report 2026 was released by the World Economic Forum (WEF). It identifies geoeconomic confrontation as the most significant global risk. In the short term (2026–2028), key risks include geoeconomic confrontation, state-based armed conflicts, extreme weather events, and rising societal polarisation. In the long term (up to 2036), major risks are extreme weather events, biodiversity loss, and ecosystem collapse. India faces major risks like cyber insecurity, inequality, and weak public services. Geoeconomic confrontation means using trade, technology, sanctions, and investment controls for strategic advantage."
+    },
+    {
+      "id": 5,
+      "question": "What is the ‘Miyawaki method’ that was recently seen in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A technique of terrace farming"
+        },
+        {
+          "label": "B",
+          "text": "A method of urban waste management"
+        },
+        {
+          "label": "C",
+          "text": "A method of dense afforestation in small areas using native species"
+        },
+        {
+          "label": "D",
+          "text": "A technique of hydroponic cultivation"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "A method of dense afforestation in small areas using native species"
+      },
+      "explanation": "The Miyawaki method is increasingly used in cities where green cover has declined over decades, and it is often seen in recent urban greening drives. It is an afforestation technique developed in the 1970s by Japanese botanist Akira Miyawaki. Trees and shrubs are planted very close together, also called the pot plantation method. Only native species are planted, creating a resilient and balanced ecosystem. Forests grow nearly 10 times faster and become very dense with high biodiversity. Recent municipal projects have used this method to convert polluted and barren urban land into green spaces, reducing pollution, improving soil, and enhancing ecological balance."
+    }
+  ]
+}

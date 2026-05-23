@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "chemistry-gk-03-elements",
+    "title": "Chemistry-3-Elements",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:01:09"
+  },
+  "questions": [
+    {
+      "id": 4977,
+      "question": "Which of the following is the most active chemically?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chlorine"
+        },
+        {
+          "label": "B",
+          "text": "Flourine"
+        },
+        {
+          "label": "C",
+          "text": "Lithium"
+        },
+        {
+          "label": "D",
+          "text": "Iodine"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Flourine"
+      },
+      "explanation": "Fluorine is most active because it has the highest electronegativity."
+    },
+    {
+      "id": 4985,
+      "question": "Which among the following is a Noble Gas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nitrogen"
+        },
+        {
+          "label": "B",
+          "text": "Hydrogen"
+        },
+        {
+          "label": "C",
+          "text": "Oxygen"
+        },
+        {
+          "label": "D",
+          "text": "Helium"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Helium"
+      },
+      "explanation": "The noble gases are the chemical elements in group 18 of the periodic table. They are the most stable due to having the maximum number of valence electrons their outer shell can hold. This chemical series contains helium, neon, argon, krypton, xenon, and radon."
+    },
+    {
+      "id": 5007,
+      "question": "White Phosphorous is represented by which among the following symbols?",
+      "options": [
+        {
+          "label": "A",
+          "text": "P1"
+        },
+        {
+          "label": "B",
+          "text": "P2"
+        },
+        {
+          "label": "C",
+          "text": "P3"
+        },
+        {
+          "label": "D",
+          "text": "P4"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "P4"
+      },
+      "explanation": "The most important form of elemental phosphorus from the perspective of applications and chemical literature is white phosphorus. It consists of tetrahedral P4 molecules, in which each atom is bound to the other three atoms by a single bond. This P4 tetrahedron is also present in liquid and gaseous phosphorus up to the temperature of 800 °C when it starts decomposing to P2 molecules"
+    },
+    {
+      "id": 5010,
+      "question": "Which among the following is the correct decreasing of bio elements in Human Body?",
+      "options": [
+        {
+          "label": "A",
+          "text": "oxygen, hydrogen, Carbon, nitrogen, calcium, and phosphorus"
+        },
+        {
+          "label": "B",
+          "text": "oxygen, carbon, nitrogen, hydrogen, calcium, and phosphorus"
+        },
+        {
+          "label": "C",
+          "text": "oxygen, carbon, hydrogen, nitrogen, calcium, and phosphorus"
+        },
+        {
+          "label": "D",
+          "text": "carbon, oxygen, hydrogen, nitrogen, calcium, and phosphorus"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "oxygen, carbon, hydrogen, nitrogen, calcium, and phosphorus"
+      },
+      "explanation": "In the human body the most common bio-elements (in decreasing order of occurrence) are oxygen, carbon, hydrogen, nitrogen, calcium, and phosphorus. Other bio-elements include sodium, potassium, magnesium, and copper."
+    },
+    {
+      "id": 6118,
+      "question": "Which element is responsible for the bright red color observed during the bursting of firecrackers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Strontium"
+        },
+        {
+          "label": "B",
+          "text": "Sodium"
+        },
+        {
+          "label": "C",
+          "text": "Sulfur"
+        },
+        {
+          "label": "D",
+          "text": "Magnesium"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Strontium"
+      },
+      "explanation": "The bright red color in fireworks is due to the presence of Strontium salts. The Strontium atom, upon yielding its energy in a quick burst upon heating, emits a brilliant red light. In fact, such properties of elements are used to identify them in a flame test, a classic method in chemistry labs across the globe."
+    }
+  ]
+}

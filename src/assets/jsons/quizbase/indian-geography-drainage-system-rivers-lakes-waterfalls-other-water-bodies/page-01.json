@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-geography-drainage-system-rivers-lakes-waterfalls-other-water-bodies",
+    "title": "6. Drainage System, Rivers, Lakes, Waterfalls, Other Water Bodies",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:18:02"
+  },
+  "questions": [
+    {
+      "id": 618,
+      "question": "Bharachukki Falls are in which state of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Karnataka"
+        },
+        {
+          "label": "B",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Telangana"
+        },
+        {
+          "label": "D",
+          "text": "Tamil Nadu"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Karnataka"
+      },
+      "explanation": "The Bharachukki Falls is situated at a distance of about 130 km from Bangalore. This waterfall is actually a part of the Shivanasamudram Falls."
+    },
+    {
+      "id": 2024,
+      "question": "The Sankosh river forms boundary between which of the following two states?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bihar and West Bengal"
+        },
+        {
+          "label": "B",
+          "text": "Assam and Arunachal Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Assam and West Bengal"
+        },
+        {
+          "label": "D",
+          "text": "Bihar and Jharkhand"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Assam and West Bengal"
+      },
+      "explanation": "The Sankosh River flows between the Indian states of Assam and West Bengal, serving as a natural boundary. This important river also has tributaries in Bhutan. Originating in the glacial regions of the eastern Himalayas, it merges with the Brahmaputra River, contributing to its sheer volume and making it a significant part of the region's ecosystem. This river is crucial for local inhabitants and has great strategic importance."
+    },
+    {
+      "id": 2761,
+      "question": "Which of the following is the longest river that originates in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brahmaputra"
+        },
+        {
+          "label": "B",
+          "text": "Ganga"
+        },
+        {
+          "label": "C",
+          "text": "Yamuna"
+        },
+        {
+          "label": "D",
+          "text": "Godavari"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ganga"
+      },
+      "explanation": "The Ganga River, originating from the Gangotri glacier in Uttarakhand, is the longest river in India. Its course runs through several states in India before it debouches into the Bay of Bengal. It spans over an impressive 2,525 kilometres, playing a vital role not just as a geographical feature but holding immense historical, cultural, and religious significance to millions of people."
+    },
+    {
+      "id": 2937,
+      "question": "Umiam Lake, also known as Barapani Lake, is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Meghalaya"
+        },
+        {
+          "label": "B",
+          "text": "Assam"
+        },
+        {
+          "label": "C",
+          "text": "Sikkim"
+        },
+        {
+          "label": "D",
+          "text": "Tripura"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Meghalaya"
+      },
+      "explanation": "Umiam Lake is a reservoir located in the hills 15 km to the North of Shillong in the state of Meghalaya, India. The lake serves as a major tourist attraction for the state of Meghalaya. It is also a popular destination for water sport and adventure facilities. Tourists visit this spot for kayaking, water cycling, scooting and boating."
+    },
+    {
+      "id": 4258,
+      "question": "Sutlej river originates from which of the following lakes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lake Mansarovar"
+        },
+        {
+          "label": "B",
+          "text": "Pangong Lake"
+        },
+        {
+          "label": "C",
+          "text": "Ebi Lake"
+        },
+        {
+          "label": "D",
+          "text": "Lake Rakshastal"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Lake Rakshastal"
+      },
+      "explanation": "Lake Rakshastal is located in close proximity of the Lake Manasarovar on its west side. Though its a salt water lake, the Sutlej river originates at the northwestern tip of lake Rakshastal."
+    }
+  ]
+}

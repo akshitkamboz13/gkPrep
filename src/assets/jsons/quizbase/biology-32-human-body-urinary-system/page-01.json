@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-32-human-body-urinary-system",
+    "title": "32. Human Body - Urinary System",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:58:58"
+  },
+  "questions": [
+    {
+      "id": 4347,
+      "question": "Nephron is the basic structural and functional unit of which among the following organs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nervous System"
+        },
+        {
+          "label": "B",
+          "text": "Liver"
+        },
+        {
+          "label": "C",
+          "text": "Pancreas"
+        },
+        {
+          "label": "D",
+          "text": "Kidney"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Kidney"
+      },
+      "explanation": "Nephrons are the basic structural and functional units of the kidneys. Each human kidney contains about 1,200,000 nephrons. Nephrons are made up of a renal corpuscle and a renal tubule. The renal corpuscle is the initial filtering component, and the renal tubule processes and carries away the filtered fluid. Nephrons regulate water and soluble substances in the blood by filtering the blood, reabsorbing what is needed, and excreting the rest as urine. This function is vital for homeostasis of blood volume, blood pressure, and plasma osmolarity."
+    },
+    {
+      "id": 5503,
+      "question": "In which among the following organ, “Bowman’s Capsule” is found?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Liver"
+        },
+        {
+          "label": "B",
+          "text": "Kidney"
+        },
+        {
+          "label": "C",
+          "text": "Heart"
+        },
+        {
+          "label": "D",
+          "text": "Small intestine"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Kidney"
+      },
+      "explanation": "Each kidney is made of tube like structures called nephrons (renal tubules). A nephron is the structural and functional unit of the kidney. The cup-shaped upper end called Bowman’s capsule, has a network of capillaries within it called glomerulus. Glomerulus is a knot of capillaries formed from the artery which brings blood containing wastes and excess of water to the kidney. Bowman’s capsule leads into a tubular structure."
+    },
+    {
+      "id": 7048,
+      "question": "Where does the formation of Urea takes place in our body ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pancreas"
+        },
+        {
+          "label": "B",
+          "text": "Kidney"
+        },
+        {
+          "label": "C",
+          "text": "Liver"
+        },
+        {
+          "label": "D",
+          "text": "Lungs"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Liver"
+      },
+      "explanation": "The formation of Urea takes place in Liver. Urea which is also known as carbamide, is a waste product of many living organisms. It is the major organic component of human urine."
+    },
+    {
+      "id": 7880,
+      "question": "What would be the percentage of Glucose in the Urine of a healthy person?",
+      "options": [
+        {
+          "label": "A",
+          "text": "less than 1%"
+        },
+        {
+          "label": "B",
+          "text": "More than 1%"
+        },
+        {
+          "label": "C",
+          "text": "More than 0.1%"
+        },
+        {
+          "label": "D",
+          "text": "0%"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "0%"
+      },
+      "explanation": "The percentage of Glucose in the Urine of a healthy person is zero. A higher measurement could be a sign of a health problem. Diabetes is the most common cause of elevated glucose levels in humans."
+    },
+    {
+      "id": 20514,
+      "question": "Urea is one of the major constituents of Urine in our body. In which among the following organs, Urea is formed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kidneys"
+        },
+        {
+          "label": "B",
+          "text": "Urinary Bladder"
+        },
+        {
+          "label": "C",
+          "text": "Urethra"
+        },
+        {
+          "label": "D",
+          "text": "Liver"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Liver"
+      },
+      "explanation": "Urea is a nitrogenous waste that is produced in the liver; urine is produced in the kidney. We note here that Uric acid is excreted as a crystal to conserve water by many terrestrial animals. However, humans and earthworms release nitrogenous waste in the form of urea."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "money-markets-monetary-policy-mcqs-for-ssc-examination",
+    "title": "35. Money Markets & Monetary Policy",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:27:27"
+  },
+  "questions": [
+    {
+      "id": 546,
+      "question": "What is the number of members in the Monetary Policy Committee (MPC)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "4"
+        },
+        {
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "label": "C",
+          "text": "6"
+        },
+        {
+          "label": "D",
+          "text": "7"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "6"
+      },
+      "explanation": "Monetary Policy Committee (MPC) committee comprises six members - three officials of the Reserve Bank of India and three external members nominated by the Government of India."
+    },
+    {
+      "id": 2910,
+      "question": "Which of the following is/are Money Market Instruments?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Treasury Bills"
+        },
+        {
+          "label": "B",
+          "text": "Commercial Papers"
+        },
+        {
+          "label": "C",
+          "text": "Certificate of Deposits"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "All of the above"
+      },
+      "explanation": "Money market securities are debt issues with maturities of one year or less. Treasury Bills, Certificate of Deposit as well as Commercial papers are money market instruments."
+    },
+    {
+      "id": 2911,
+      "question": "What is the Bank Rate in relation to RBI and commercial banks?",
+      "options": [
+        {
+          "label": "A",
+          "text": "RBI lends long-term loans to banks without requiring collateral or repurchase agreement"
+        },
+        {
+          "label": "B",
+          "text": "RBI lends short-term loans to banks with government securities as collateral"
+        },
+        {
+          "label": "C",
+          "text": "Commercial banks lend to customers"
+        },
+        {
+          "label": "D",
+          "text": "Banks borrow overnight funds from RBI"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "RBI lends long-term loans to banks without requiring collateral or repurchase agreement"
+      },
+      "explanation": "The Bank Rate is the interest rate at which the Reserve Bank of India lends long-term funds to commercial banks without any collateral or repurchase agreement. The RBI notifies the Bank Rate, and it is generally above the Repo Rate. The Bank Rate has been used by RBI since the Reserve Bank of India Act, 1934, to manage liquidity and regulate money supply."
+    },
+    {
+      "id": 5270,
+      "question": "Interest rate risk falls under which risk category?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Credit risk"
+        },
+        {
+          "label": "B",
+          "text": "Liquidity risk"
+        },
+        {
+          "label": "C",
+          "text": "Market risk"
+        },
+        {
+          "label": "D",
+          "text": "Operational risk"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Market risk"
+      },
+      "explanation": "Interest rate risk refers to potential losses from fluctuations in interest rates. It is classified as a type of market risk. Changes in interest rates can directly impact the value of securities such as bonds. Market risk includes other elements such as equity risk and currency risk and is distinguished from credit risk, liquidity risk, or operational risk."
+    },
+    {
+      "id": 5653,
+      "question": "Which among the following would most likely follow if the Reserve Bank of India effects selling of the securities?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The cash resources at the disposal of the commercial banks increase."
+        },
+        {
+          "label": "B",
+          "text": "The cash resources at the disposal of the commercial banks get diminished."
+        },
+        {
+          "label": "C",
+          "text": "The cash resources of the commercial banks remain unchanged"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "The cash resources at the disposal of the commercial banks get diminished."
+      },
+      "explanation": "The Reserve Bank of India starts selling the Government Securities, on behalf of the Government. Either the commercial banks or retail investors buy the securities, resulting in decrease of cash resources at the disposal of the commercial banks."
+    }
+  ]
+}

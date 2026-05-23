@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-9-fundamental-duties",
+    "title": "Amendment of Constitution and Basic Structure Doctrine",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:24:35"
+  },
+  "questions": [
+    {
+      "id": 4606,
+      "question": "Which part of the Indian Constitution deals with its amendment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Part XX"
+        },
+        {
+          "label": "B",
+          "text": "Part VIII"
+        },
+        {
+          "label": "C",
+          "text": "Part XIII"
+        },
+        {
+          "label": "D",
+          "text": "Part XIX"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Part XX"
+      },
+      "explanation": "Part XX of the Constitution of India has only one article that is Article 368 that deals with the amendment of the Constitution."
+    },
+    {
+      "id": 6036,
+      "question": "The amendment of the constitution can be initiated in which of the following? Lok Sabha Rajya Sabha State Assemblies Select the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1"
+        },
+        {
+          "label": "B",
+          "text": "Only 1 or 2"
+        },
+        {
+          "label": "C",
+          "text": "Only 1 or 3"
+        },
+        {
+          "label": "D",
+          "text": "1 or 2 or 3"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Only 1 or 2"
+      },
+      "explanation": "A constitution amendment bill can be introduced in any house of the parliament. A bill for the purpose of amendment of constitution can NOT be introduced in any state legislature."
+    },
+    {
+      "id": 6455,
+      "question": "Under article 368 the Indian Constitution provide methods of Amendment of different portions of the constitution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "2"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "4"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "3"
+      },
+      "explanation": "The three methods of amendment of the constitution are as follows: By Simple Majority of Parliament Some changes such as admission, formation of new states and making changes into territorial boundaries of the states, abolition and creation of legislative councils etc. can be done like any other ordinary law by simple majority. By Special Majority of the Parliament Most of the provisions of the constitution need to be amended by special majority i.e. majority of more than 50% of total membership and 2/3rd members present and voting. Some of the amendments included in it are Fundamental Rights, Directive Principles etc. By Special Majority of the Parliament and Ratification by half of the State Legislatures There are a few provisions in which interest of the states and federal features of the constitution may be involved. Such bills first need to be passed on both the houses of the parliament and then need to secure ratification by half of the state legislatures. Examples include those related to Centre-State Relations, Election of the President etc."
+    },
+    {
+      "id": 6546,
+      "question": "Which among the following is true regarding amendments of the constitution with provisions which affect the federal character of the constitution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They can be amended by a simple majority"
+        },
+        {
+          "label": "B",
+          "text": "They can be amended by a 2/3 majority of both the houses of parliament"
+        },
+        {
+          "label": "C",
+          "text": "They can be amended by not only a 2/3 majority of the parliament but also ratification by at least 1/2 of the states"
+        },
+        {
+          "label": "D",
+          "text": "All are correct"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "They can be amended by not only a 2/3 majority of the parliament but also ratification by at least 1/2 of the states"
+      },
+      "explanation": "The amendments which affect the federal character of the constitution need to be passed by special majority of the parliament and also need ratification by half of the State Legislatures."
+    },
+    {
+      "id": 7265,
+      "question": "Who among the following reserves the right to initiate the Constitutional Amendment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Supreme Court of India"
+        },
+        {
+          "label": "B",
+          "text": "Parliamnet of India"
+        },
+        {
+          "label": "C",
+          "text": "President of India"
+        },
+        {
+          "label": "D",
+          "text": "Union council of ministers"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Parliamnet of India"
+      },
+      "explanation": "Constitutional Amendment can be initiated in any house of the parliament i.e. Rajya Sabha or Lok Sabha."
+    }
+  ]
+}

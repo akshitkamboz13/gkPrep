@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "historians-and-historiography-of-medieval-india",
+    "title": "1. Sources of Medieval Indian History",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:14:13"
+  },
+  "questions": [
+    {
+      "id": 2846,
+      "question": "Chachnama is the oldest chronicle of which of the following regions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kashmir"
+        },
+        {
+          "label": "B",
+          "text": "Gandhar"
+        },
+        {
+          "label": "C",
+          "text": "Sindh"
+        },
+        {
+          "label": "D",
+          "text": "Punjab"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Sindh"
+      },
+      "explanation": "At the time of Arab Invasions, Sindh was under Raja Dahir who reigned till 712 AD from his capital Brahamanabad. He was the last Hindu Ruler of Sindh and parts of Modern Punjab (Pakistan). The Arab conquest of Sindh is mentioned in the oldest Chronicle of Sindh called Chachnama."
+    },
+    {
+      "id": 2852,
+      "question": "Which of the following battles is subject matter of Alha Khand, a 12th Century epic poetic work in Hindi?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Battle of Mandsaur"
+        },
+        {
+          "label": "B",
+          "text": "Battle of Chittor"
+        },
+        {
+          "label": "C",
+          "text": "Battle of Mahoba"
+        },
+        {
+          "label": "D",
+          "text": "Battles of Tarain"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Battle of Mahoba"
+      },
+      "explanation": "Paradidev (Parmal) who fought Prithviraj Chauhan-III in 1182 AD in the Battle of Mahoba. This battle is the subject matter of the Alha Khand (c. 12th Century) is an early poetic work in Hindi which consists of a number of ballads describing the brave acts"
+    },
+    {
+      "id": 2992,
+      "question": "In 1293 A.D., Marco Polo, an Italian traveller, visited which Indian Kingdom?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kakatiya"
+        },
+        {
+          "label": "B",
+          "text": "Satavahana"
+        },
+        {
+          "label": "C",
+          "text": "Pandyan"
+        },
+        {
+          "label": "D",
+          "text": "Chera"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Kakatiya"
+      },
+      "explanation": "In 1293 A.D., Marco Polo, an Italian traveller visited Motupalli, a famous sea port during Kakatiya Dynasty. He wrote about the prosperity and power of the kingdom under Rudrammadevi. Polo visited India twice, in 1287-78 and 1291-92. He landed on the Coromandel Coast in 1292 after a two-year trip by sea across the Indian Ocean. He joined the Tamil Pandya kingdom around Tanjore. Polo wrote about his experiences in the book The book of Sir Marco Polo. He described the Kakatiya Empire's extensive diamond and muslin exports. He said that these exports were likely used by his patron, the Great Kublai Khan of Yuan China."
+    },
+    {
+      "id": 2996,
+      "question": "Who among the following is associated with translation of Rajatarangini in Persian?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dara Shikoh"
+        },
+        {
+          "label": "B",
+          "text": "Zain-ul-Abidin"
+        },
+        {
+          "label": "C",
+          "text": "Abdul Razzaq Jilani"
+        },
+        {
+          "label": "D",
+          "text": "Bande Nawaz"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Zain-ul-Abidin"
+      },
+      "explanation": "Rajatarangini is a metrical legendary and historical chronicle of the north-western Indian subcontinent, particularly the kings of Kashmir. It was written in Sanskrit by Kashmiri historian Kalhana in the 12th century CE. It was translated into Persian by the orders of the later Muslim ruler Zain-ul-Abidin."
+    },
+    {
+      "id": 3003,
+      "question": "Kamal-ud-Din Abd-ur-Razzaq ibn Ishaq Samarqandi, a Persian Islamic Scholar, visited which Indian city during early 1440s?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Surat"
+        },
+        {
+          "label": "B",
+          "text": "Calicut"
+        },
+        {
+          "label": "C",
+          "text": "Chennai"
+        },
+        {
+          "label": "D",
+          "text": "Chinsurah"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Calicut"
+      },
+      "explanation": "Calicut is a metropolitan city in the state of Kerala in southern India on the Malabar Coast. Kamal-ud-Din Abd-ur-Razzaq ibn Ishaq Samarqandi visited Calicut in early 1440s. He wrote a narrative of what he saw in Calicut which is valuable as information on Calicut's society and culture."
+    }
+  ]
+}

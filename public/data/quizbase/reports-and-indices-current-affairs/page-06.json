@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "reports-and-indices-current-affairs",
+    "title": "Reports and Indices Current Affairs MCQs",
+    "page": 6,
+    "total_pages": 8,
+    "generated_at": "2026-05-02 07:00:31",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:30:46"
+  },
+  "questions": [
+    {
+      "id": 51,
+      "question": "Which organization released the Financial Sector Assessment (FSA) Report 2025?",
+      "options": [
+        {
+          "label": "A",
+          "text": "United Nations Environment Programme"
+        },
+        {
+          "label": "B",
+          "text": "World Bank"
+        },
+        {
+          "label": "C",
+          "text": "International Monetary Fund"
+        },
+        {
+          "label": "D",
+          "text": "United Nations Development Programme"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "World Bank"
+      },
+      "explanation": "The World Bank released the Financial Sector Assessment (FSA) Report 2025. The report stated that India must boost financial sector reforms and private capital mobilisation to become a USD 30-trillion economy by 2047. It praised India’s world-class digital public infrastructure and government programmes for improving access to financial services for both men and women. The FSA noted that India’s financial system has become more resilient, diversified, and inclusive since the 2017 FSAP. It welcomed India’s regulatory expansion on cooperative banks and Non-Banking Financial Companies (NBFCs) through scale-based regulation."
+    },
+    {
+      "id": 52,
+      "question": "According to India Ratings & Research (Ind-Ra), what is India’s projected GDP growth rate for the second quarter (July–September) of FY26?",
+      "options": [
+        {
+          "label": "A",
+          "text": "6.8%"
+        },
+        {
+          "label": "B",
+          "text": "6.9%"
+        },
+        {
+          "label": "C",
+          "text": "7.1%"
+        },
+        {
+          "label": "D",
+          "text": "7.2%"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "7.2%"
+      },
+      "explanation": "India Ratings & Research (Ind-Ra) projected India’s GDP growth at 7.2% for Q2 FY26 (July–September), driven by strong private consumption and a resilient services sector. India’s GDP grew 5.6% in Q2 FY25 and 7.8% in Q1 FY26, the fastest in five quarters. The National Statistical Office (NSO) will release official GDP data on November 28, 2025. Growth was supported by steady real income rise among both upper- and lower-income groups. From the supply side, growth came from a resilient services sector and manufacturing exports aided by a favourable base effect. Retail inflation eased faster than expected, boosting real wages and consumption."
+    },
+    {
+      "id": 53,
+      "question": "Which organisation released the Global Antibiotic Resistance Surveillance Report (GLASS) 2025?",
+      "options": [
+        {
+          "label": "A",
+          "text": "United Nations Children’s Fund (UNICEF)"
+        },
+        {
+          "label": "B",
+          "text": "World Health Organization (WHO)"
+        },
+        {
+          "label": "C",
+          "text": "Food and Agriculture Organization (FAO)"
+        },
+        {
+          "label": "D",
+          "text": "United Nations Development Programme (UNDP)"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "World Health Organization (WHO)"
+      },
+      "explanation": "The WHO released the Global Antibiotic Resistance Surveillance Report 2025 (GLASS), highlighting that Antimicrobial Resistance (AMR) in India remains one of the highest globally. The report revealed that one in three bacterial infections in India in 2023 was resistant to common antibiotics, far above the global average of one in six. Experts observed that India’s surveillance data—mainly from tertiary hospitals—overestimates national resistance levels, as primary and secondary care settings are underrepresented. The WHO urged India to expand nationwide surveillance and strengthen antibiotic stewardship. The report acknowledged India’s initiatives, including the National Programme on AMR Containment and Kerala’s AMRITH, which reduced over-the-counter antibiotic sales and showed early declines in AMR."
+    },
+    {
+      "id": 54,
+      "question": "Which organization released the Global Methane Status Report 2025?",
+      "options": [
+        {
+          "label": "A",
+          "text": "United Nations Development Programme (UNDP)"
+        },
+        {
+          "label": "B",
+          "text": "International Energy Agency"
+        },
+        {
+          "label": "C",
+          "text": "United Nations Environment Programme (UNEP)"
+        },
+        {
+          "label": "D",
+          "text": "World Bank"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "United Nations Environment Programme (UNEP)"
+      },
+      "explanation": "India, the world’s third-largest methane emitter, faces pressure to cut agricultural emissions as global methane levels continue rising despite improved 2030 projections. The United Nations Environment Programme (UNEP) released the Global Methane Status Report on November 17 at COP30, Belem, noting that methane cuts remain far below the 30% reduction target from 2020 levels. India emitted about 31 million tonnes of methane in 2020 (9% of global emissions), with agriculture, particularly livestock and rice cultivation, as the main contributors. Current Indian climate commitments lack agriculture-specific methane reduction measures."
+    },
+    {
+      "id": 55,
+      "question": "Which organization released the 2024 Antimicrobial Resistance Research & Surveillance Network (AMRSN) report?",
+      "options": [
+        {
+          "label": "A",
+          "text": "World Health Organization"
+        },
+        {
+          "label": "B",
+          "text": "NITI Aayog"
+        },
+        {
+          "label": "C",
+          "text": "Indian Council of Medical Research"
+        },
+        {
+          "label": "D",
+          "text": "All India Institute of Medical Sciences Delhi"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Indian Council of Medical Research"
+      },
+      "explanation": "The Indian Council of Medical Research (ICMR) released its annual 2024 report titled Antimicrobial Resistance Research & Surveillance Network (AMRSN) on rising antibiotic resistance in India. Common infections like urinary tract infections (UTIs), pneumonia, sepsis, and diarrhoeal illnesses are increasingly harder to treat as routine antibiotics fail. Drugs such as fluoroquinolones, third-generation cephalosporins, carbapenems, and piperacillin-tazobactam are rapidly losing effectiveness. Gram-negative bacteria dominate hospital infections: E. coli (UTIs, bloodstream), Klebsiella pneumoniae (pneumonia, sepsis), Acinetobacter baumannii, and Pseudomonas aeruginosa show high resistance. Experts warn urgent antibiotic stewardship and rational prescribing are essential to prevent common infections from becoming untreatable."
+    },
+    {
+      "id": 56,
+      "question": "Which organization has released the Annual Groundwater Quality Report 2025?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Central Water Commission (CWC)"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Environment, Forest and Climate Change"
+        },
+        {
+          "label": "C",
+          "text": "Indian Council of Agricultural Research (ICAR)"
+        },
+        {
+          "label": "D",
+          "text": "Central Ground Water Board (CGWB)"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Central Ground Water Board (CGWB)"
+      },
+      "explanation": "The Annual Ground Water Quality Report 2025 was released by the Central Ground Water Board (CGWB) under the Ministry of Jal Shakti, Government of India. The report analysed around 15,000 groundwater samples collected across India in 2024. 13–15% of total samples showed uranium contamination, exceeding Bureau of Indian Standards (BIS) drinking water limits. In Delhi, 24 out of 83 samples exceeded uranium parameters; contamination was above 30 parts per billion (PPB) in pre- and post-monsoon samples. Northwestern India—Punjab, Haryana, Delhi, parts of Rajasthan, and Uttar Pradesh—emerged as uranium contamination hotspots due to geogenic factors, groundwater depletion, and aquifer characteristics."
+    },
+    {
+      "id": 57,
+      "question": "Which organization has published The State of the World’s Land and Water Resources for Food and Agriculture (SOLAW) 2025?",
+      "options": [
+        {
+          "label": "A",
+          "text": "World Bank"
+        },
+        {
+          "label": "B",
+          "text": "United Nations Environment Programme (UNEP)"
+        },
+        {
+          "label": "C",
+          "text": "Food and Agriculture Organization (FAO)"
+        },
+        {
+          "label": "D",
+          "text": "International Fund for Agricultural Development (IFAD)"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Food and Agriculture Organization (FAO)"
+      },
+      "explanation": "FAO (Food and Agriculture Organization) publishes The State of the World’s Land and Water Resources for Food and Agriculture (SOLAW) 2025 every two years. SOLAW 2025 highlights the untapped potential of land, soil, and water to improve sustainable agricultural production, food security, ecosystem services, and resilience. By 2050, agriculture must produce 50% more food, feed, and fibre compared to 2012 and use 25% more freshwater, while expanding farmland is no longer feasible. More than 60% of human-induced land degradation occurs on agricultural lands. Agriculture accounts for more than 70% of global freshwater withdrawal. Intensive farming and excessive chemical use cause pollution and depletion of soil, land, and water resources."
+    },
+    {
+      "id": 58,
+      "question": "Which institution released the Roadmap on Transforming India into a leading Quantum-Powered Economy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indian Institute of Science (IISc), Bengaluru"
+        },
+        {
+          "label": "B",
+          "text": "Department of Science & Technology"
+        },
+        {
+          "label": "C",
+          "text": "Indian Space Research Organisation (ISRO)"
+        },
+        {
+          "label": "D",
+          "text": "NITI Aayog"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "NITI Aayog"
+      },
+      "explanation": "NITI Aayog’s Frontier Tech Hub released a Roadmap on Transforming India into a Quantum-Powered Economy to guide India’s leadership in quantum technologies. Quantum technologies are set to transform healthcare, finance, logistics, materials, energy, and national security. The roadmap leverages the National Quantum Mission and outlines R&D acceleration, commercialization, talent development, and ecosystem building. It emphasizes collective action across policymakers, scientists, entrepreneurs, investors, and states for a globally trusted, competitive quantum economy. Global partnerships, infrastructure expansion, and exportable solutions are key to India becoming a quantum technology leader by 2047."
+    },
+    {
+      "id": 59,
+      "question": "Which two organizations jointly released the Universal Health Coverage (UHC) Global Monitoring Report 2025?",
+      "options": [
+        {
+          "label": "A",
+          "text": "World Health Organization and United Nations International Children’s Emergency Fund"
+        },
+        {
+          "label": "B",
+          "text": "World Health Organization and World Bank Group"
+        },
+        {
+          "label": "C",
+          "text": "United Nations Development Programme and World Bank"
+        },
+        {
+          "label": "D",
+          "text": "International Monetary Fund and World Health Organization"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "World Health Organization and World Bank Group"
+      },
+      "explanation": "UHC Global Monitoring Report 2025 was jointly released by the World Health Organization (WHO) and World Bank Group. The report analyses global progress towards Universal Health Coverage (UHC), tracking access to essential health services and financial protection. It highlights improvements in health service coverage and reductions in financial hardship due to out-of-pocket (OOP) health expenses since 2000. The report identifies persistent inequalities, with the poorest and most vulnerable populations facing the greatest barriers to UHC. It provides recommendations for governments, including expanding public health investments, reducing OOP costs, strengthening primary care, and promoting equitable access to essential services."
+    },
+    {
+      "id": 60,
+      "question": "According to the latest World Anti-Doping Agency (WADA) report, which country recorded the highest number of doping violations in 2024?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Russia"
+        },
+        {
+          "label": "B",
+          "text": "China"
+        },
+        {
+          "label": "C",
+          "text": "India"
+        },
+        {
+          "label": "D",
+          "text": "France"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "India"
+      },
+      "explanation": "Indian athletes topped the global doping charts for the third consecutive year in 2024, recording 260 adverse analytical findings (AAFs), according to the latest World Anti-Doping Agency (WADA) report. India’s positivity rate was 3.6%, the highest among countries conducting 5,000+ tests. The National Anti-Doping Agency (NADA) conducted 7,113 tests in 2024 (6,576 urine samples and 537 blood samples). Out of these, 253 urine samples and 7 blood samples tested positive for prohibited substances. NADA attributed India’s high ranking partly to intensified testing and stronger detection mechanisms, not necessarily a surge in doping prevalence."
+    }
+  ]
+}

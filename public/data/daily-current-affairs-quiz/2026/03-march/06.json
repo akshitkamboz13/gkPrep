@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: March 6, 2026",
+    "date": "2026-03-06",
+    "year": "2026",
+    "month": "03-march",
+    "day": 6,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 02:31:16",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:53:18"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Shtil missile is developed by which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Russia"
+        },
+        {
+          "label": "B",
+          "text": "Israel"
+        },
+        {
+          "label": "C",
+          "text": "China"
+        },
+        {
+          "label": "D",
+          "text": "India"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Russia"
+      },
+      "explanation": "The Ministry of Defence signed contracts worth Rs 5,083 crore for defence acquisitions. Procurement includes six Advanced Light Helicopters (ALH) Mk-III in Maritime Role for the Indian Coast Guard. Contracts also cover Surface-to-Air Vertical Launch (SAM) Shtil missiles for the Indian Navy. Shtil missile is a medium-range, ship-based, vertical-launch surface-to-air missile system developed by Russia. It primarily uses the 9M317ME semi-active radar homing (SARH) missile."
+    },
+    {
+      "id": 2,
+      "question": "What is ‘Takydromus ultapanensis’ that was recently seen in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Newly discovered species of Lizard"
+        },
+        {
+          "label": "B",
+          "text": "Medicinal plant"
+        },
+        {
+          "label": "C",
+          "text": "A new type of virus"
+        },
+        {
+          "label": "D",
+          "text": "Newly discovered species of butterfly"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Newly discovered species of Lizard"
+      },
+      "explanation": "Researchers have discovered a new species of Asian grass lizard named Takydromus ultapanensis. The species was found in the Ultapani Reserve Forest located in Kokrajhar district, within Assam’s Manas Biosphere landscape. Unlike many related lizard species found in montane or subtropical habitats, T. ultapanensis inhabits lowland, semi-evergreen forests mixed with waterlogged grasslands and fern patches. Researchers observed the lizards basking on fern bushes in small open patches crisscrossed by seasonal water channels. The discovery emphasizes the biodiversity significance of Assam’s Manas Biosphere landscape and the need for protection of its unique habitats."
+    },
+    {
+      "id": 3,
+      "question": "Which state government launched Project HANUMAN to address human-wildlife conflict?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Odisha"
+        },
+        {
+          "label": "C",
+          "text": "Gujarat"
+        },
+        {
+          "label": "D",
+          "text": "Jharkhand"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Andhra Pradesh"
+      },
+      "explanation": "Andhra Pradesh government launched Project HANUMAN to address human-wildlife conflict. HANUMAN stands for Healing and Nurturing Units for Monitoring, Aid and Nursing of Wildlife. The initiative aims to rescue, treat, rehabilitate, and monitor injured wildlife, strengthening conservation and rapid response systems. Human-wildlife conflict in Andhra Pradesh is rising: 2,107 cases recorded in 2025-2026, with nearly Rs 4 crore paid as compensation."
+    },
+    {
+      "id": 4,
+      "question": "Which state government launched the fifth edition of the herSTART programme for women entrepreneurs in March 2026?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Karnataka"
+        },
+        {
+          "label": "B",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "C",
+          "text": "Bihar"
+        },
+        {
+          "label": "D",
+          "text": "Gujarat"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Gujarat"
+      },
+      "explanation": "Gujarat Chief Minister Bhupendra Patel launched the fifth edition of the herSTART programme for women entrepreneurs at Gujarat University. The university’s convention centre was named Vidyagauri Nilkanth Sabhapuram in honor of Vidyagauri Nilkanth, the first Gujarati woman graduate. The state government is committed to women-led development, following the vision of Prime Minister Narendra Modi. The herSTART programme, run by the Gujarat University Startup and Entrepreneurship Council, provides incubation, mentorship, and market access support to women-led startups."
+    },
+    {
+      "id": 5,
+      "question": "Which district in Chhattisgarh has become a model for community-led water conservation through the ‘Jal Sanchay Jan Bhagidari’ initiative?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bastar"
+        },
+        {
+          "label": "B",
+          "text": "Korea"
+        },
+        {
+          "label": "C",
+          "text": "Durg"
+        },
+        {
+          "label": "D",
+          "text": "Raipur"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Korea"
+      },
+      "explanation": "Korea district, Chhattisgarh has become a model for community-led water conservation through the ‘Jal Sanchay Jan Bhagidari’ initiative. The initiative is part of the Aawa Paani Jhoki movement, where farmers voluntarily dedicate 5% of their agricultural land for groundwater recharge. Farmers create small recharge ponds and terraced pits to capture rainwater, allowing it to seep into soil and replenish groundwater. Structures improve soil moisture, reduce erosion, and ensure steady groundwater recharge."
+    }
+  ]
+}

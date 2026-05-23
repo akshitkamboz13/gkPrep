@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: April 3, 2026",
+    "date": "2026-04-03",
+    "year": "2026",
+    "month": "04-april",
+    "day": 3,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 02:33:08",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:52:00"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Rebate of State and Central Taxes and Levies (RoSCTL) Scheme is related to which sector?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Agriculture"
+        },
+        {
+          "label": "B",
+          "text": "Textile"
+        },
+        {
+          "label": "C",
+          "text": "IT Services"
+        },
+        {
+          "label": "D",
+          "text": "Banking"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Textile"
+      },
+      "explanation": "The Ministry of Textiles has extended the Rebate of State and Central Taxes and Levies (RoSCTL) Scheme for exports of apparel, garments, and made-ups up to 30th September 2026 to promote textile exports. The RoSCTL Scheme has been operational since 2019 and aims to enhance the competitiveness of Indian textile exports in the global market. The scheme provides reimbursement of all embedded State and Central taxes and levies that are not otherwise refunded under any other mechanism. The RoSCTL Scheme was introduced as a successor to the Rebate of State Levies (RoSL) Scheme, which covered only State taxes and levies."
+    },
+    {
+      "id": 2,
+      "question": "The Central Government has recently mandated petrol pumps to supply E20 fuel. What does E20 fuel represent?",
+      "options": [
+        {
+          "label": "A",
+          "text": "20% petrol + 80% ethanol"
+        },
+        {
+          "label": "B",
+          "text": "20% ethanol + 80% petrol"
+        },
+        {
+          "label": "C",
+          "text": "50% ethanol + 50% petrol"
+        },
+        {
+          "label": "D",
+          "text": "100% ethanol"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "20% ethanol + 80% petrol"
+      },
+      "explanation": "The Central Government has mandated petrol pumps to supply E20 fuel with a minimum octane rating of 95 RON to promote cleaner and more efficient fuel usage. E20 fuel is a blended fuel consisting of 20% ethanol and 80% petrol, aimed at reducing dependence on fossil fuels. Ethanol used in E20 is a biofuel derived from renewable crops such as sugarcane, maize, and grains, making it environmentally sustainable. E20 fuel has a higher octane rating (minimum 95 RON) compared to regular petrol in India, which typically has an octane rating of 91–92 RON."
+    },
+    {
+      "id": 3,
+      "question": "The Antariksh Venture Capital Fund is regulated by which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reserve Bank of India"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Finance"
+        },
+        {
+          "label": "C",
+          "text": "Securities and Exchange Board of India"
+        },
+        {
+          "label": "D",
+          "text": "NITI Aayog"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Securities and Exchange Board of India"
+      },
+      "explanation": "India’s Antariksh Venture Capital Fund will start investing in space startups from FY2027 to boost the private space sector. It is a close-ended fund registered with Securities and Exchange Board of India as a Category II Alternative Investment Fund (AIF). Key investor is Indian National Space Promotion and Authorization Centre under the Department of Space. The fund is sponsored by SIDBI Venture Capital Limited. The objective is to provide capital for space startups, support scaling, and promote commercialization of technologies."
+    },
+    {
+      "id": 4,
+      "question": "YUVIKA programme is an initiative of which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indian Space Research Organisation"
+        },
+        {
+          "label": "B",
+          "text": "Defence Research and Development Organisation"
+        },
+        {
+          "label": "C",
+          "text": "Department of Science and Technology"
+        },
+        {
+          "label": "D",
+          "text": "Council of Scientific and Industrial Research"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Indian Space Research Organisation"
+      },
+      "explanation": "Indian Space Research Organisation conducts the YUva VIgyani KAryakram (YUVIKA) to promote scientific temper among school students. The YUVIKA (YUva VIgyani KAryakram) programme is an initiative of the Indian Space Research Organisation (ISRO). The programme provides foundational knowledge in space technology, space science, and space applications, with special focus on students from rural areas. Its objective is to create awareness about emerging trends in science and encourage students to pursue Science, Technology, Engineering and Mathematics (STEM) careers."
+    },
+    {
+      "id": 5,
+      "question": "Rice’s whale, that was recently seen in news, is endemic to which region?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Europe"
+        },
+        {
+          "label": "B",
+          "text": "South Africa"
+        },
+        {
+          "label": "C",
+          "text": "Australia"
+        },
+        {
+          "label": "D",
+          "text": "Gulf of Mexico"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Gulf of Mexico"
+      },
+      "explanation": "Rice’s Whale is a baleen whale belonging to the family Balaenopteridae and is closely related to Bryde’s whales. It was recognised as a distinct species in 2021, separate from other Bryde’s whales globally. It is the only whale species found year-round in the Gulf of Mexico. Its diet mainly consists of silver-rag driftfish. Major threats include oil drilling, vessel strikes, noise pollution, oil spills, and climate change. According to International Union for Conservation of Nature, it is classified as Critically Endangered."
+    }
+  ]
+}

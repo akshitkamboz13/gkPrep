@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-21-fishes-molluscs",
+    "title": "21. Fishes & Mollusks",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:57:59"
+  },
+  "questions": [
+    {
+      "id": 5164,
+      "question": "Which among the following fishes does not have Central Nervous System?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dog Fish"
+        },
+        {
+          "label": "B",
+          "text": "Cuttle Fish"
+        },
+        {
+          "label": "C",
+          "text": "Jelly Fish"
+        },
+        {
+          "label": "D",
+          "text": "Star Fish"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Jelly Fish"
+      },
+      "explanation": "Jellyfish and sea jellies are the informal common names given to the medusa-phase of certain gelatinous members of the sub-phylum Medusozoa. Jellyfish do not have specialized systems for osmoregulation, respiration and circulation, and do not have a central nervous system."
+    },
+    {
+      "id": 5913,
+      "question": "Which among following is not a Fish?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cuttle Fish"
+        },
+        {
+          "label": "B",
+          "text": "Gold Fish"
+        },
+        {
+          "label": "C",
+          "text": "Dog Fish"
+        },
+        {
+          "label": "D",
+          "text": "Zebra Fish"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Cuttle Fish"
+      },
+      "explanation": "Cuttlefish or cuttles are marine molluscs of the order Sepiida. related to the octopus and squid and characterized by a thick internal calcified shell called the cuttlebone."
+    },
+    {
+      "id": 5922,
+      "question": "Zebrafish, which has been genetically modified in Glofish to be sold as a pet is native to which among the following countries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India and Sri Lanka"
+        },
+        {
+          "label": "B",
+          "text": "Australia & New Zealand"
+        },
+        {
+          "label": "C",
+          "text": "India and Pakistan"
+        },
+        {
+          "label": "D",
+          "text": "Japan"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "India and Sri Lanka"
+      },
+      "explanation": "The zebrafish is a freshwater fish belonging to the minnow family. It is native to South Asia, it is a popular aquarium fish, frequently sold under the trade name zebra danio. It belongs to India and Sri Lanka."
+    },
+    {
+      "id": 6855,
+      "question": "Which among the following is a Mollusc?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cuttle fish"
+        },
+        {
+          "label": "B",
+          "text": "Silver fish"
+        },
+        {
+          "label": "C",
+          "text": "Dog fish"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Cuttle fish"
+      },
+      "explanation": "Cuttle fish or cuttles are marine molluscs of the order Sepiida. Molluscs are an important phylum of invertebrate animals. It is the second-largest phylum of invertebrate animals after the Arthropoda."
+    },
+    {
+      "id": 9763,
+      "question": "Biologists have been able to demonstrate the hearing and sound sensory mechanism through the acoustico-lateralis system in which of the following vertebrates ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "amphibians"
+        },
+        {
+          "label": "B",
+          "text": "snakes"
+        },
+        {
+          "label": "C",
+          "text": "fishes"
+        },
+        {
+          "label": "D",
+          "text": "Birds"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "fishes"
+      },
+      "explanation": "Biologists have been able to demonstrate the hearing and sound sensory mechanism through the acoustico-lateralis system in fishes."
+    }
+  ]
+}

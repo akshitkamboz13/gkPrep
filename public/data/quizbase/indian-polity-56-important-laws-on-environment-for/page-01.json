@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-56-important-laws-on-environment-for",
+    "title": "Important Laws on Environment & Forests",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:23:35"
+  },
+  "questions": [
+    {
+      "id": 11856,
+      "question": "Which state has highest number of Ecologically Sensitive Zones in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "B",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Maharashtra"
+      },
+      "explanation": "Maharashtra is identified as having the maximum Ecologically Sensitive Zones (ESZs) under the Environment (Protection) Act, 1986. These zones are designated by the Ministry of Environment, Forests, and Climate Change to ensure necessary protection and regulation. Maharashtra's abundant biodiversity and varied geographical features contribute to its high number of ESZs."
+    },
+    {
+      "id": 16921,
+      "question": "The Panchayats (Extension to Scheduled Areas) Act (PESA) does not authorize the States give the Gram Sabhas power to regulate and restrict which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sale/consumption of liquor"
+        },
+        {
+          "label": "B",
+          "text": "Minor Forest Produce"
+        },
+        {
+          "label": "C",
+          "text": "Identify the beneficiary of the schemes"
+        },
+        {
+          "label": "D",
+          "text": "Manage mineral resources"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Manage mineral resources"
+      },
+      "explanation": "Panchayats (Extension to Scheduled Areas) Act (PESA) authorizes the States give the Gram Sabhas power to regulate and restrict sale/consumption of liquor; ownership of minor forest produce; power to prevent alienation of land and restore alienated land; power to manage village markets, control money lending to STs and power to manage village markets, control money lending to STs and Mandatory executive functions to approve plans of the Village Panchayats, identify beneficiaries for schemes, issue certificates of utilization of funds."
+    },
+    {
+      "id": 46713,
+      "question": "Where is the headquarters of Indian Council of Forestry Research and Education (ICFRE)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dehradun"
+        },
+        {
+          "label": "B",
+          "text": "Ranchi"
+        },
+        {
+          "label": "C",
+          "text": "Shimla"
+        },
+        {
+          "label": "D",
+          "text": "Bhopal"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Dehradun"
+      },
+      "explanation": "The Indian Council of Forestry Research and Education (ICFRE) is an autonomous organisation under the Ministry of Environment and Forests of government of India. It is headquartered in Dehradun."
+    },
+    {
+      "id": 46714,
+      "question": "The Indian Council of Forestry Research and Education (ICFRE) has how many research institutes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "8"
+        },
+        {
+          "label": "B",
+          "text": "9"
+        },
+        {
+          "label": "C",
+          "text": "10"
+        },
+        {
+          "label": "D",
+          "text": "11"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "9"
+      },
+      "explanation": "The Indian Council of Forestry Research and Education (ICFRE) has 9 research institutes and 4 advanced centres to cater to the research needs of different bio-geographical regions in India."
+    },
+    {
+      "id": 46715,
+      "question": "Where is the Forest Research Institute located?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Raipur"
+        },
+        {
+          "label": "B",
+          "text": "Jodhpur"
+        },
+        {
+          "label": "C",
+          "text": "Dehradun"
+        },
+        {
+          "label": "D",
+          "text": "Chennai"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Dehradun"
+      },
+      "explanation": "The Forest Research Institute is located in Dehradun, Uttrakhand. The Forest Research Institute (FRI) is an institute of the Indian Council of Forestry Research and Education."
+    }
+  ]
+}

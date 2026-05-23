@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-may-2024",
+    "title": "Current Affairs Quiz - May, 2024",
+    "page": 2,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:47:53",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:00:56"
+  },
+  "questions": [
+    {
+      "id": 11,
+      "question": "Red colobus monkeys, recently seen in news, primarily found in which region?",
+      "options": [
+        {
+          "label": "A",
+          "text": "African Savanna"
+        },
+        {
+          "label": "B",
+          "text": "Amazon Rainforest"
+        },
+        {
+          "label": "C",
+          "text": "Western Australia"
+        },
+        {
+          "label": "D",
+          "text": "Mississippi Valley"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "African Savanna"
+      },
+      "explanation": "Red colobus monkeys, belonging to genus Procolobus, inhabit African Savanna across West, Central, and East Africa. The Savanna’s diverse habitat offers ample trees and food sources like leaves and fruits. They serve as seed dispersers and prey for predators. Living in social groups, they exhibit striking features with reddish-brown fur. This species plays a vital ecological role in their habitat, vital for maintaining the balance in their ecosystem."
+    },
+    {
+      "id": 12,
+      "question": "Paliyar Tribe, recently in news, mainly resides in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "B",
+          "text": "Kerala"
+        },
+        {
+          "label": "C",
+          "text": "Karnataka"
+        },
+        {
+          "label": "D",
+          "text": "Maharashtra"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Tamil Nadu"
+      },
+      "explanation": "Recent research on Paliyar Tribals in Kodaikanal and Theni areas urges immediate government action for their upliftment. Derived from “Palaniyan” in Tamil, they’re also known as Paliyans, Pazhaiyarares, and Panaiyars. Distributed in Tamil Nadu districts, they speak Tamil and traditionally hunted and gathered. They worship Vanadevadai and Karuppan. They bury their dead on the western side of their residential area, avoiding cremation."
+    },
+    {
+      "id": 13,
+      "question": "What is ‘MQ-9B Predator’, recently seen in the news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A technique used to remove pest from crop"
+        },
+        {
+          "label": "B",
+          "text": "High Altitude Unmanned Aerial Vehicle"
+        },
+        {
+          "label": "C",
+          "text": "Nuclear Ballistic Submarine"
+        },
+        {
+          "label": "D",
+          "text": "Earth Observation Satellite"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "High Altitude Unmanned Aerial Vehicle"
+      },
+      "explanation": "India will acquire MQ-9B Predator drones from the US, deploying them in Tamil Nadu and Uttar Pradesh. Developed by General Atomics Aeronautical Systems, it’s a high-altitude, long-endurance armed UAV. Used by the US for surveillance and airstrikes, it has two variants: SkyGuardian and SeaGuardian. The latter has been utilized by the Indian Navy since 2020."
+    },
+    {
+      "id": 14,
+      "question": "Sanglaphu Lake, recently seen in the news, is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mizoram"
+        },
+        {
+          "label": "B",
+          "text": "Assam"
+        },
+        {
+          "label": "C",
+          "text": "Manipur"
+        },
+        {
+          "label": "D",
+          "text": "Sikkim"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Sikkim"
+      },
+      "explanation": "Sanglaphu Lake, or Sanglaphu Cho, opened to the public at Yumesamdong, Sikkim, at 5080m altitude. It’s renowned as the “Great Lake” with religious importance. Its emergence gained attention after the closure of Gurudongmar Lake due to a Glacial Lake Outburst Flood (GLOF). Located in the Dongkya range, Sanglaphu Mountain feeds Gurudongmar Lake, a source for the Teesta River."
+    },
+    {
+      "id": 15,
+      "question": "Which IIT has recently launched Secure IoT, India’s first indigenous microcontroller chip?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IIT Bombay"
+        },
+        {
+          "label": "B",
+          "text": "IIT Madras"
+        },
+        {
+          "label": "C",
+          "text": "IIT Kanpur"
+        },
+        {
+          "label": "D",
+          "text": "IIT Roorkee"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "IIT Madras"
+      },
+      "explanation": "India’s Mindgrove Technologies, incubated by IIT Madras, has launched Secure IoT, the nation’s first high-performance SoC (system on chip). Supported by Peak XV Partners, the chip enables Indian OEMs to integrate locally-made technology, reducing costs without sacrificing quality. Secure IoT, a system-on-chip, consolidates multiple electronic components into one, facilitating smaller and more efficient devices. This breakthrough marks a significant step towards India’s self-reliance in technology and innovation."
+    },
+    {
+      "id": 16,
+      "question": "What is ‘Leber congenital amaurosis’, recently seen in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A neurological disorder"
+        },
+        {
+          "label": "B",
+          "text": "A rare genetic eye disorder"
+        },
+        {
+          "label": "C",
+          "text": "A type of skin condition"
+        },
+        {
+          "label": "D",
+          "text": "A cardiovascular disease"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "A rare genetic eye disorder"
+      },
+      "explanation": "Researchers utilized CRISPR-Cas9 to restore vision in individuals with Leber congenital amaurosis (LCA), a rare genetic eye disorder causing blindness from birth. LCA affects 1 in 40,000 people, impairing light-sensitive cells due to a mutation in the CEP290 gene. The “BRILLIANCE” trial administered a single dose of CRISPR therapy, EDIT-101, which corrected the mutation, enabling proper function of the CEP290 protein, thus restoring vision by allowing the retina to perceive light."
+    },
+    {
+      "id": 17,
+      "question": "Recently, which state launched the ‘School on Wheels’ initiative?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Manipur"
+        },
+        {
+          "label": "B",
+          "text": "Assam"
+        },
+        {
+          "label": "C",
+          "text": "Mizoram"
+        },
+        {
+          "label": "D",
+          "text": "Nagaland"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Manipur"
+      },
+      "explanation": "Manipur’s government introduced “School on Wheels” to educate students in relief camps due to ethnic strife. Governor Anusuiya Uikey inaugurated the initiative, featuring a mobile school bus with library, computers, and sports gear. It aims to reach affected students, acknowledging the impact on education due to the strife starting May 3 last year. The scheme intends to provide necessary teaching to students in relief camps."
+    },
+    {
+      "id": 18,
+      "question": "Recently, Ministry of Agriculture & Farmers Welfare (MoA&FW) inaugurated a Krishi Integrated Command and Control Centre (ICCC) at which place?",
+      "options": [
+        {
+          "label": "A",
+          "text": "New Delhi"
+        },
+        {
+          "label": "B",
+          "text": "Hyderabad"
+        },
+        {
+          "label": "C",
+          "text": "Chennai"
+        },
+        {
+          "label": "D",
+          "text": "Lucknow"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "New Delhi"
+      },
+      "explanation": "The Ministry of Agriculture & Farmers Welfare launched a Krishi ICCC at Krishi Bhavan in New Delhi. The initiative utilizes tech like AI, remote sensing, and GIS for informed agricultural decision-making. It consolidates geospatial data from sources such as Digital Crop Survey and Unified Portal for Agricultural Statistics. The Krishi ICCC aims to monitor the farm sector effectively, enhancing productivity and market intelligence."
+    },
+    {
+      "id": 19,
+      "question": "Sonai Rupai Wildlife Sanctuary, recently seen in the news, is located in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assam"
+        },
+        {
+          "label": "B",
+          "text": "Manipur"
+        },
+        {
+          "label": "C",
+          "text": "Sikkim"
+        },
+        {
+          "label": "D",
+          "text": "Odisha"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Assam"
+      },
+      "explanation": "The National Green Tribunal (NGT) demands Assam’s Chief Secretary to identify officers responsible for allowing construction activities in Sonai Rupai Wildlife Sanctuary. Established in 1998, the sanctuary lies in Assam’s Sonitpur district, adjacent to the Great Himalayan Range. Its climate is subtropical, prone to heavy rains and flooding from rivers like Burhi Dihing and Namchang. NGT seeks accountability for jeopardizing this protected habitat."
+    },
+    {
+      "id": 20,
+      "question": "Bajrang Punia, who was in news recently, belongs to which sports?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tennis"
+        },
+        {
+          "label": "B",
+          "text": "Boxing"
+        },
+        {
+          "label": "C",
+          "text": "Wrestling"
+        },
+        {
+          "label": "D",
+          "text": "Badminton"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Wrestling"
+      },
+      "explanation": "United World Wrestling (UWW) provisionally suspended Bajrang Punia, Tokyo bronze medallist, until December 31, 2024, citing National Anti-Doping Agency (NADA) of India’s suspension. NADA suspended Punia after he refused an anti-dope test on April 23, 2024. Punia’s failure to respond to NADA’s notice further complicates his situation. If cleared by NADA, Punia might still compete in the 2024 Paris Olympics, beginning on July 26, 2024."
+    }
+  ]
+}

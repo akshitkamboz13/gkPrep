@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-40-biofertilizers-and-biofuels",
+    "title": "40. Biofertilizers and Biofuels",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:59:38"
+  },
+  "questions": [
+    {
+      "id": 20916,
+      "question": "The mosquito fern or Azolla is used as a biofertiliser because it__:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Multiplies very fast to produce massive biomass"
+        },
+        {
+          "label": "B",
+          "text": "Has association of nitrogen-fixing Rhizobium bacteria"
+        },
+        {
+          "label": "C",
+          "text": "Has association of nitrogen fixing bluegreen algae"
+        },
+        {
+          "label": "D",
+          "text": "Has association of mycorrhiza"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Has association of nitrogen fixing bluegreen algae"
+      },
+      "explanation": "Azolla, also known as mosquito fern, is used as a biofertilizer because it has a symbiotic relationship with nitrogen-fixing cyanobacteria. The cyanobacteria, Anabaena azollae, lives on the leaves of Azolla and can fix atmospheric nitrogen. This nitrogen-fixing ability increases the fertility of the soil and enhances crop yields. Azolla is a small aquatic fern that grows on the surface of water or moist soil. It is used as a biofertilizer for rice in Asia. Azolla can be grown as a green manure before transplanting rice or as an intercrop with the rice. Both practices are reported to increase the growth and yield of rice. Azolla is also used as animal feed, human food, medicine, and water purifier."
+    },
+    {
+      "id": 32765,
+      "question": "Which of the following is the main constituent of the Gobar gas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbon dioxide"
+        },
+        {
+          "label": "B",
+          "text": "Methane"
+        },
+        {
+          "label": "C",
+          "text": "Ethylene"
+        },
+        {
+          "label": "D",
+          "text": "Carbon monoxide"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Methane"
+      },
+      "explanation": "Biogas or Gobar gas is produced by the breakdown of organic matter in the absence of oxygen. It can be produced from raw materials such as agricultural waste, manure, municipal waste, plant material, sewage, green waste or food waste. It is a renewable energy source. It comprises primarily methane (CH4) and carbon dioxide (CO2) and may have small amounts of hydrogen sulphide (H2S), moisture and siloxanes. It is produced by anaerobic digestion."
+    },
+    {
+      "id": 35748,
+      "question": "Fertility of soil can be improved by which of the following methods? (UPSC Prelims 2000)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Removing dead earthworms"
+        },
+        {
+          "label": "B",
+          "text": "Adding dead earthworms"
+        },
+        {
+          "label": "C",
+          "text": "Adding living earthworms"
+        },
+        {
+          "label": "D",
+          "text": "Removing living earthworms and adding dead earthworms"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Adding living earthworms"
+      },
+      "explanation": "Worms help to increase the amount of air and water that gets into the soil. They break down organic matter, like leaves and grass into things that plants can use. When they eat, they leave behind castings that are a very valuable type of fertilizer. Earthworms are like free farm help."
+    },
+    {
+      "id": 35781,
+      "question": "Which one of the following organisms can serve as a biofertiliser for rice crop? (UPSC Prelims 2000)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Blue-green algae"
+        },
+        {
+          "label": "B",
+          "text": "Rhizobium sp"
+        },
+        {
+          "label": "C",
+          "text": "Mycorrhizal fungi"
+        },
+        {
+          "label": "D",
+          "text": "Azotobacter sp"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Blue-green algae"
+      },
+      "explanation": "Blue green algae is used as a biofertilizer in rice crop. Blue green algae has the nitrogen fixing ability which enhances the production of rice. Blue-green algae are not algae at all, but types of bacteria called cyanobacteria that are normally present in many lakes."
+    },
+    {
+      "id": 45390,
+      "question": "Which among the following branches of science deals with the scientific study of interaction of soils with vegetative matter?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pedology"
+        },
+        {
+          "label": "B",
+          "text": "Petrology"
+        },
+        {
+          "label": "C",
+          "text": "Hydrology"
+        },
+        {
+          "label": "D",
+          "text": "Edaphology"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Edaphology"
+      },
+      "explanation": "Edaphology is one of the two branches of soil sciences which deals with the scientific study of influence of soils on the vegetative matter such as plants."
+    }
+  ]
+}

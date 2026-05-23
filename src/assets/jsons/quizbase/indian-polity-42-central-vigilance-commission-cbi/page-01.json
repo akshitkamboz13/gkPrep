@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-42-central-vigilance-commission-cbi",
+    "title": "Central Vigilance Commission & CBI",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:22:24"
+  },
+  "questions": [
+    {
+      "id": 17578,
+      "question": "The Central Vigilance Commission submits an annual report on its activities to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Home Ministry"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Personnel, Public Grievances and Pensions"
+        },
+        {
+          "label": "C",
+          "text": "Parliament"
+        },
+        {
+          "label": "D",
+          "text": "President"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ministry of Personnel, Public Grievances and Pensions"
+      },
+      "explanation": "The Central Vigilance Commission submits an annual report on its activities to the Ministry of Personnel, Public Grievances and Pensions."
+    },
+    {
+      "id": 46132,
+      "question": "Central Vigilance Commission (CVC) was established in which year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1962"
+        },
+        {
+          "label": "B",
+          "text": "1963"
+        },
+        {
+          "label": "C",
+          "text": "1964"
+        },
+        {
+          "label": "D",
+          "text": "1965"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "1964"
+      },
+      "explanation": "The Central Vigilance Commission (CVC) was established in the year 1964. It was established on the recommendation of the Santhanam Committee on Prevention of Corruption (1962–64)."
+    },
+    {
+      "id": 46133,
+      "question": "In which year the Central Vigilance Commission (CVC) was given statutory status?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2001"
+        },
+        {
+          "label": "B",
+          "text": "2003"
+        },
+        {
+          "label": "C",
+          "text": "2006"
+        },
+        {
+          "label": "D",
+          "text": "2008"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "2003"
+      },
+      "explanation": "Initially the Central Vigilance Commission was neither a constitutional body nor a statutory body. In the year 2003, the Parliament enacted a law conferring statutory status on the CVC."
+    },
+    {
+      "id": 46134,
+      "question": "The Central Vigilance Commission (CVC) can consist of maximum how many members including the chairman?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2"
+        },
+        {
+          "label": "B",
+          "text": "3"
+        },
+        {
+          "label": "C",
+          "text": "4"
+        },
+        {
+          "label": "D",
+          "text": "5"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "3"
+      },
+      "explanation": "The Central Vigilance Commission (CVC) is a multi-member body. It consists of a Central Vigilance Commissioner who is the chairperson and not more than two vigilance commissioners."
+    },
+    {
+      "id": 46135,
+      "question": "Who appoints the Central Vigilance Commissioner?",
+      "options": [
+        {
+          "label": "A",
+          "text": "President"
+        },
+        {
+          "label": "B",
+          "text": "Parliament"
+        },
+        {
+          "label": "C",
+          "text": "Supreme court"
+        },
+        {
+          "label": "D",
+          "text": "Speaker"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "President"
+      },
+      "explanation": "The Central Vigilance Commissioner appointed by the president of India by warrant under his hand and seal on the recommendation of a three member committee consisting of the prime minister as its head."
+    }
+  ]
+}

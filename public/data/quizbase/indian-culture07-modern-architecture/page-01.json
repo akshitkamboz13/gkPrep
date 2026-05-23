@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-culture07-modern-architecture",
+    "title": "Indian Culture:07-Modern Architecture",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:15:39"
+  },
+  "questions": [
+    {
+      "id": 8712,
+      "question": "Nipponzon Myohoji Buddhist temple or commonly called Peace Pagoda or Shanti Stupa was established by who among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fuji Guru"
+        },
+        {
+          "label": "B",
+          "text": "Ashoka"
+        },
+        {
+          "label": "C",
+          "text": "King Devanampiyatissa"
+        },
+        {
+          "label": "D",
+          "text": "Mahatma Gandhi"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Fuji Guru"
+      },
+      "explanation": "Fujii was greatly inspired by his meeting with Mahatma Gandhi in 1931 and decided to devote his life to promoting non-violence."
+    },
+    {
+      "id": 8917,
+      "question": "Who among the following was instrumental in designing New Delhi in collaboration with Edwin Lutyens?",
+      "options": [
+        {
+          "label": "A",
+          "text": "John Abel"
+        },
+        {
+          "label": "B",
+          "text": "Thomas Warr Attwood"
+        },
+        {
+          "label": "C",
+          "text": "Simon Basil"
+        },
+        {
+          "label": "D",
+          "text": "Herbert Baker"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Herbert Baker"
+      },
+      "explanation": "Herber Baker was instrumental in designing New Delhi in collaboration with Edwin Lutyens. Lutyens also designed Viceroy's House, which is now known as the Rashtrapati Bhavan."
+    },
+    {
+      "id": 10519,
+      "question": "Watson’s Hotel or Esplanade Mansion, which is India’s oldest surviving cast Iron Building is located in which of the following cities?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mumbai"
+        },
+        {
+          "label": "B",
+          "text": "Kolkata"
+        },
+        {
+          "label": "C",
+          "text": "Surat"
+        },
+        {
+          "label": "D",
+          "text": "Chennai"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Mumbai"
+      },
+      "explanation": "Watson's Hotel, also known as Esplanade Mansion, is located in Mumbai. Built in 1867, it is recognized as India's oldest surviving cast iron building. The structure showcases Victorian Gothic architecture and was originally a luxury hotel. Its unique cast iron framework was sourced from the UK, reflecting the colonial era's architectural trends."
+    },
+    {
+      "id": 31242,
+      "question": "Which museum was designed by George Witter and was formerly known as Prince of Wales Museum?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dr. Ambedkar Sanghralaya"
+        },
+        {
+          "label": "B",
+          "text": "Mahatma Gandhi Sanghralaya"
+        },
+        {
+          "label": "C",
+          "text": "Chhatrapati Shivaji Vastu Sanghralaya"
+        },
+        {
+          "label": "D",
+          "text": "Veermata Sanghralaya"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Chhatrapati Shivaji Vastu Sanghralaya"
+      },
+      "explanation": "The foundation for Chhatrapati Shivaji Vastu Sanghralaya museum was laid by the Prince of Wales in 1905 and the building was completed in 1914. It also served as a Military Hospital for a short while during the First World War. The museum has an impressive collection of Indus Valley artifacts dating back to 2000 B.C. and Tibetan and Nepali art."
+    },
+    {
+      "id": 32924,
+      "question": "Who designed the city of Chandigarh?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Le Corbusier"
+        },
+        {
+          "label": "B",
+          "text": "Jacob Epstein"
+        },
+        {
+          "label": "C",
+          "text": "Rodhin Auguste"
+        },
+        {
+          "label": "D",
+          "text": "Ferdinand M. V. De Lesseps"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Le Corbusier"
+      },
+      "explanation": "Chandigarh is the dream city of India's first Prime Minister, Sh. Jawahar Lal Nehru. It was planned by the famous French architect Le Corbusier. It is located at the foothills of Shivaliks. It is known as one of the best experiments in urban planning and modern architecture in the twentieth century in India."
+    }
+  ]
+}

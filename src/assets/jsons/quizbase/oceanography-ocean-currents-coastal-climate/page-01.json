@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "oceanography-ocean-currents-coastal-climate",
+    "title": "Oceanography - Ocean Currents, Coastal Climate",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:28:24"
+  },
+  "questions": [
+    {
+      "id": 59144,
+      "question": "What are the large masses of surface water that circulate in regular patterns around the oceans called?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tides"
+        },
+        {
+          "label": "B",
+          "text": "Tsunamis"
+        },
+        {
+          "label": "C",
+          "text": "Ocean currents"
+        },
+        {
+          "label": "D",
+          "text": "Waves"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Ocean currents"
+      },
+      "explanation": "The movements of water in oceans can be categorized into currents, waves, and tides. Ocean currents are the large masses of surface water that circulate in regular patterns around the oceans."
+    },
+    {
+      "id": 59145,
+      "question": "Which among the following factors is/are responsible for ocean currents? Planetary winds Temperature Earth's Rotation Salinity Select the correct code from the options given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1 & 2"
+        },
+        {
+          "label": "B",
+          "text": "Only 1, 2 & 3"
+        },
+        {
+          "label": "C",
+          "text": "Only 3 & 4"
+        },
+        {
+          "label": "D",
+          "text": "1, 2, 3 & 4"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1, 2, 3 & 4"
+      },
+      "explanation": "Ocean currents are the large masses of surface water that circulate in regular patterns around the oceans.Factors responsible for Ocean Currents:The Planetary winds,Temperatures,Salinity,The earth s rotation,Obstruction from land"
+    },
+    {
+      "id": 59146,
+      "question": "What is the general distribution of winds in the lower atmosphere called?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cyclones"
+        },
+        {
+          "label": "B",
+          "text": "Planetary winds"
+        },
+        {
+          "label": "C",
+          "text": "Jet streams"
+        },
+        {
+          "label": "D",
+          "text": "Loo"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Planetary winds"
+      },
+      "explanation": "The general distribution of winds in the lower atmosphere is called as Planetary winds.The planetary winds are permanent winds that blow from one pressure belt to the other. Accordingly, they have been divided into - Tradewinds, Westerlies and Polar Easterlies"
+    },
+    {
+      "id": 59147,
+      "question": "Which among the following statements is/are correct about Ocean Currents? Warm currents flow from equatorial regions towards the polar regions and hence have a higher surface temperature. Cold currents flow from polar regions towards the equator and have a lower surface temperature Select the correct code from the options given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1"
+        },
+        {
+          "label": "B",
+          "text": "Only 2"
+        },
+        {
+          "label": "C",
+          "text": "Both 1 & 2"
+        },
+        {
+          "label": "D",
+          "text": "Neither 1 & 2"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Both 1 & 2"
+      },
+      "explanation": "Warm currents flow from equatorial regions towards the polar regions and hence have a higher surface temperature. These currents flow in the clockwise direction in the northern hemisphere and in the anti-clockwise direction in the southern hemisphere.Cold currents flow from polar regions towards the equator and have a lower surface temperature.They flow in the anti-clockwise direction in the northern hemisphere and in the clockwise direction in the southern hemisphere."
+    },
+    {
+      "id": 59148,
+      "question": "Which among the following statements is/are correct about Ocean Currents? Warm currents flow from equatorial regions towards the polar regions and hence have a higher surface temperature. They flow in the anti-clockwise direction in the northern hemisphere and in the clockwise direction in the southern hemisphere. Select the correct code from the options given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1"
+        },
+        {
+          "label": "B",
+          "text": "Only 2"
+        },
+        {
+          "label": "C",
+          "text": "Both 1 & 2"
+        },
+        {
+          "label": "D",
+          "text": "Neither 1 & 2"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Only 1"
+      },
+      "explanation": "Warm currents flow from equatorial regions towards the polar regions and hence have a higher surface temperature.These currents flow in the clockwise direction in the northern hemisphere and in the anti-clockwise direction in the southern hemisphere."
+    }
+  ]
+}

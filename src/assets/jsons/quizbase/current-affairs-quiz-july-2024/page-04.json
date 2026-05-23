@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-july-2024",
+    "title": "Current Affairs Quiz - July, 2024",
+    "page": 4,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:47:08",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:56:16"
+  },
+  "questions": [
+    {
+      "id": 31,
+      "question": "What is the name of the weight-loss drug recently approved by India’s drug regulator?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tirzepatide"
+        },
+        {
+          "label": "B",
+          "text": "Pyrazinamide"
+        },
+        {
+          "label": "C",
+          "text": "Mefloquine"
+        },
+        {
+          "label": "D",
+          "text": "Atovaquone"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Tirzepatide"
+      },
+      "explanation": "India’s drug regulator has approved tirzepatide, a ‘game-changing’ weight-loss drug. Both tirzepatide and semaglutide, FDA-approved, are polypeptides that boost GLP-1 and, in tirzepatide’s case, GIP, regulating weight and glucose levels. They target neurons and brain mechanisms to induce satiety, suitable for those with a BMI over 27 and related health conditions. Side effects include nausea, diarrhea, vomiting, and abdominal pain."
+    },
+    {
+      "id": 32,
+      "question": "Which country recently hosted the 45th Scientific Assembly of the Committee on Space Research (COSPAR) for the first time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nepal"
+        },
+        {
+          "label": "B",
+          "text": "South Korea"
+        },
+        {
+          "label": "C",
+          "text": "Bhutan"
+        },
+        {
+          "label": "D",
+          "text": "Maldives"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "South Korea"
+      },
+      "explanation": "The 45th Scientific Assembly of the Committee on Space Research (COSPAR) took place in Busan, South Korea, marking the country’s first hosting of this global conference. Attracting 3,000 participants from 60 nations, the event highlighted South Korea’s dedication to space exploration and international collaboration. Distinguished attendees included leaders from major space agencies, underscoring the significance of global interest in advancing space research and ambitious future projects."
+    },
+    {
+      "id": 33,
+      "question": "Chagos Archipelago, recently seen in the news, is located in which ocean?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indian Ocean"
+        },
+        {
+          "label": "B",
+          "text": "Pacific Ocean"
+        },
+        {
+          "label": "C",
+          "text": "Atlantic Ocean"
+        },
+        {
+          "label": "D",
+          "text": "Arctic Ocean"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Indian Ocean"
+      },
+      "explanation": "India’s external affairs minister affirmed support for Mauritius regarding the Chagos Archipelago, aligning with its decolonization stance. Located in the central Indian Ocean, about 1,000 miles south of India’s tip, this UK overseas territory was established on November 8, 1965. Key islands include Diego Garcia, hosting a strategic US military base. The archipelago experiences a tropical marine climate, moderated by trade winds, with high temperatures and humidity."
+    },
+    {
+      "id": 34,
+      "question": "Recently, where was the uncontacted mysterious tribe of Mashco-Piro spotted?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atacama Desert, Chile"
+        },
+        {
+          "label": "B",
+          "text": "Sundarbans mangrove forest, India"
+        },
+        {
+          "label": "C",
+          "text": "Peruvian Amazon, Peru"
+        },
+        {
+          "label": "D",
+          "text": "Acacia forest, Australia"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Peruvian Amazon, Peru"
+      },
+      "explanation": "The uncontacted Mashco Piro tribe was recently located in the remote Peruvian Amazon. With over 750 members, they are the largest uncontacted tribe in the Amazon and Southeast Asia. As nomadic hunter-gatherers, contact with them is prohibited to prevent disease spread. Established in 2002, the Madre de Dios Territorial Reserve was set up to protect their land, but much of it has been sold to companies for timber and other resources."
+    },
+    {
+      "id": 35,
+      "question": "Project ‘Strawberry’, recently seen in the news, is associated with which field?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Artificial Intelligence"
+        },
+        {
+          "label": "B",
+          "text": "Agriculture"
+        },
+        {
+          "label": "C",
+          "text": "Education"
+        },
+        {
+          "label": "D",
+          "text": "Health"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Artificial Intelligence"
+      },
+      "explanation": "OpenAI is developing a new AI model called Project ‘Strawberry’, an advanced reasoning technology believed to be the new name for Project Q*. This initiative aims to create AI capable of planning and logical reasoning, akin to human cognitive abilities. Unlike Large Language Models (LLMs) that struggle with common sense and multi-step logic, Strawberry models will excel in tasks requiring extended planning and action sequences, overcoming key LLM challenges."
+    },
+    {
+      "id": 36,
+      "question": "Pralay Missile, recently seen in the news, was developed by which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "DRDO"
+        },
+        {
+          "label": "B",
+          "text": "ISRO"
+        },
+        {
+          "label": "C",
+          "text": "JAXA"
+        },
+        {
+          "label": "D",
+          "text": "CNSA"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "DRDO"
+      },
+      "explanation": "Armenia’s interest in India’s Pralay missile presents a significant opportunity for India. The Pralay missile is a 350-500 km short-range, quasi-ballistic surface-to-surface missile with a 500-1,000 kg payload, developed by DRDO for defense needs. It features solid-fuel propulsion, inertial guidance, and a DSMAC seeker for terminal guidance. Capable of evasive maneuvers, it has various warhead options and a reduced radar signature."
+    },
+    {
+      "id": 37,
+      "question": "What is ‘Zebra Mussel’, recently seen in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Invasive species"
+        },
+        {
+          "label": "B",
+          "text": "Black hole"
+        },
+        {
+          "label": "C",
+          "text": "Asteroid"
+        },
+        {
+          "label": "D",
+          "text": "Critical mineral"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Invasive species"
+      },
+      "explanation": "Zebra mussels, an invasive species threatening aquatic ecosystems, have been found in the Colorado River for the first time. Native to the Caspian and Black Seas, they entered North America’s Great Lakes in the 1980s via ballast water from ships. These fingernail-sized mollusks, Dreissena polymorpha, attach to natural and manmade substrates. Identified by their ‘D’ shaped shells with black zigzag stripes, they grow up to two inches long."
+    },
+    {
+      "id": 38,
+      "question": "Recently, which two countries are planning to establish a Joint Crediting Mechanism for carbon trading and credit adjustment through a Memorandum of Cooperation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India and Japan"
+        },
+        {
+          "label": "B",
+          "text": "India and Russia"
+        },
+        {
+          "label": "C",
+          "text": "India and China"
+        },
+        {
+          "label": "D",
+          "text": "India and Australia"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "India and Japan"
+      },
+      "explanation": "India and Japan are planning to establish a Joint Crediting Mechanism (JCM) for carbon trading and credit adjustment through a Memorandum of Cooperation (MOC). The JCM will be created under Article 6.2 of the Paris Agreement and will aim to reduce emissions, promote low-carbon technologies, and encourage economic growth. The JCM will also facilitate the sharing of emission reduction credits, the spread of decarbonizing technologies, and the implementation of mitigation actions."
+    },
+    {
+      "id": 39,
+      "question": "Which state government has launched a comprehensive registry initiative to resolve long-standing issues related to Lal Dora properties in urban areas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Haryana"
+        },
+        {
+          "label": "B",
+          "text": "Punjab"
+        },
+        {
+          "label": "C",
+          "text": "Gujarat"
+        },
+        {
+          "label": "D",
+          "text": "Rajasthan"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Haryana"
+      },
+      "explanation": "The Haryana government launched a registry initiative to address issues related to Lal Dora properties in urban areas under the Chief Minister Urban Body Ownership Scheme. Established in 1908, Lal Dora lands were exempt from building bylaws, complicating ownership proof and transactions. The state aims to free villages from these restrictions, allowing property rights. The Svamitva Scheme will streamline ownership, with the Chief Minister distributing certificates and registries in Gurugram."
+    },
+    {
+      "id": 40,
+      "question": "Mukhya Mantri Bahan Beti Maiqui Swabalamban Protsahan Yojana, recently seen in the news, is associated with which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Haryana"
+        },
+        {
+          "label": "B",
+          "text": "Jharkhand"
+        },
+        {
+          "label": "C",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "D",
+          "text": "Gujarat"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Jharkhand"
+      },
+      "explanation": "Jharkhand Chief Minister Hemant Soren announced village-level camps to enroll women in the ‘Mukhya Mantri Bahan Beti Maiqui Swabalamban Protsahan Yojana,’ providing Rs 1,000 per month to women aged 21-49. At a Sahibganj district event, he unveiled projects worth Rs 88 crore. The scheme, approved on June 28, will benefit 45 lakh women and cost the state Rs 5,500 crore annually, aiming to empower and make women self-reliant."
+    }
+  ]
+}

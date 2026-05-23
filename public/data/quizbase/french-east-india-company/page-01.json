@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "french-east-india-company",
+    "title": "6. French East India Company",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:13:03"
+  },
+  "questions": [
+    {
+      "id": 4862,
+      "question": "Who among the following was the French explorer who visited court of Emperor Shah Jahan and left a detailed account of Takht-i-Taus (Peacock throne) ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jean-Baptiste Tavernier"
+        },
+        {
+          "label": "B",
+          "text": "Geronimo Verroneo"
+        },
+        {
+          "label": "C",
+          "text": "Pierre-Jean Grosley"
+        },
+        {
+          "label": "D",
+          "text": "Jean-Paul Dubois"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Jean-Baptiste Tavernier"
+      },
+      "explanation": "Jean-Baptiste Tavernier,a French jeweller and traveller of the Mughal period has left a detailed account of Takht-i-Taus (Peacock throne). Peacock throne was a dazzling and spectacular display of Mughal architecture. Its construction was undertaken by the Emperor Shah Jahan and he personally spent a great deal of time and energy in the designing of the Throne."
+    },
+    {
+      "id": 4916,
+      "question": "Which among the following is / are correct statements with respect to the French East India Company? 1. It was a private concern 2. It was chartered by King Louis XIV 3. It was abolished immediately after French Revolution Select the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1 & 2"
+        },
+        {
+          "label": "B",
+          "text": "Only 2 & 3"
+        },
+        {
+          "label": "C",
+          "text": "Only 1 & 3"
+        },
+        {
+          "label": "D",
+          "text": "Only 2"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Only 2"
+      },
+      "explanation": "It was a private concern – Incorrect This statement is not correct because the French East India Company was government backed concern while the English East India Company was a private concern. It was chartered by King Louis XIV – Correct This is a correct statement. The French East India Company was planned by Jean-Baptiste Colbert; was chartered by King Louis XIV for the purpose of trading in the Eastern Hemisphere. It was abolished immediately after French Revolution – Incorrect French East India Company was abolished in 1769, two decades earlier than the French Revolution."
+    },
+    {
+      "id": 6083,
+      "question": "Which among the following incidents established the supremacy of British over French in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Battle of Buxar"
+        },
+        {
+          "label": "B",
+          "text": "Battle of Wandiwash"
+        },
+        {
+          "label": "C",
+          "text": "Carnatic Wars"
+        },
+        {
+          "label": "D",
+          "text": "Battle of Chingleput"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Battle of Wandiwash"
+      },
+      "explanation": "The British forces under Sir Eyre Coote, defeated the French in the Battle of Wandiwash in 1760 and besieged Pondicherry. After Wandiwash, the French capital of Pondicherry fell to the British in 1761."
+    },
+    {
+      "id": 9093,
+      "question": "Whose concept was French East India Company?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Louis XIV"
+        },
+        {
+          "label": "B",
+          "text": "Louis XV"
+        },
+        {
+          "label": "C",
+          "text": "Jean-Baptiste Colbert"
+        },
+        {
+          "label": "D",
+          "text": "Hans Carl von Carlowitz"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Jean-Baptiste Colbert"
+      },
+      "explanation": "Jean-Baptiste Colbert was a French statesman and financial expert who served as the Minister of Finances under King Louis XIV of France."
+    },
+    {
+      "id": 10113,
+      "question": "Which among the following was the first French enclave of Pondicherry to merge with the Dominion of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mahe"
+        },
+        {
+          "label": "B",
+          "text": "Karaikal"
+        },
+        {
+          "label": "C",
+          "text": "Chandranagore"
+        },
+        {
+          "label": "D",
+          "text": "Pondicherry"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Pondicherry"
+      },
+      "explanation": "Pondicherry was the first French enclave of Pondicherry to merge with the Dominion of India."
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-december-2024",
+    "title": "Current Affairs Quiz - December, 2024",
+    "page": 1,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:46:25",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:51:13"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Atmanirbhar Clean Plant Programme (CPP) is primarily related to which sector?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Animal husbandry"
+        },
+        {
+          "label": "B",
+          "text": "Aquaculture"
+        },
+        {
+          "label": "C",
+          "text": "Horticulture"
+        },
+        {
+          "label": "D",
+          "text": "Forestry"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Horticulture"
+      },
+      "explanation": "India and Asian Development Bank (ADB) signed a $98 million loan to boost access to disease-free planting materials for horticulture farmers under the Atmanirbhar Clean Plant Programme. The Atmanirbhar Clean Plant Programme (CPP) is related to horticulture and aims to provide farmers with access to high-quality, virus-free planting material. It includes nine advanced Clean Plant Centers with diagnostic and tissue culture labs and a robust certification system for accountability and traceability. It ensures affordable access, engages women farmers, and develops region-specific plant varieties. It is implemented by the Ministry of Agriculture through National Horticulture Board (NHB) and the Indian Council of Agricultural Research, it aims to strengthen India’s global fruit market position."
+    },
+    {
+      "id": 2,
+      "question": "Which state government received the prestigious SKOCH Award for its initiative ‘Shaasan Aplya Daari’ (Government at your doorstep)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Karnataka"
+        },
+        {
+          "label": "D",
+          "text": "Gujarat"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Maharashtra"
+      },
+      "explanation": "Maharashtra’s ‘Shashan Aaplya Dari’ initiative won the SKOCH Award for its innovation and impact in governance. The program, meaning “government at your doorsteps,” delivers government schemes directly to people. It was launched in Satara in May 2023. More than 280 projects nationwide competed, showcasing its effectiveness. The initiative aligns with the UN’s Sustainable Development Goals and will evolve into ‘Shashan Aaplya Dari 2.0’ under Eknath Shinde’s guidance for further growth. The SKOCH Award is an award that recognizes people, projects, and institutions that work to improve India. It was established in 2003 and is considered one of the highest civilian honors in the country."
+    },
+    {
+      "id": 3,
+      "question": "What is the name of the newly declared district in Uttar Pradesh for the management of the 2025 Maha Kumbh in Prayagraj?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sangam Nagar"
+        },
+        {
+          "label": "B",
+          "text": "Maha Kumbh Mela"
+        },
+        {
+          "label": "C",
+          "text": "Triveni Nagar"
+        },
+        {
+          "label": "D",
+          "text": "Mela Puri"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Maha Kumbh Mela"
+      },
+      "explanation": "Uttar Pradesh government declared Maha Kumbh Mela area in Prayagraj as a new district on December 1, 2024. This decision, led by Chief Minister Yogi Adityanath, aims to streamline management for the Maha Kumbh Mela 2025. The district, named Maha Kumbh Mela, ensures smooth administration for the grand religious event from January 13 to February 26, 2025. The district’s boundaries cover revenue villages and the parade area. The Mela Adhikari will have powers of Executive Magistrate, District Magistrate, and Additional District Magistrate. This move is to ensure smooth operations for the grand religious event, promoting Indian culture."
+    },
+    {
+      "id": 4,
+      "question": "Exercise HARIMAU SHAKTI recently conducted between India and which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Australia"
+        },
+        {
+          "label": "B",
+          "text": "Japan"
+        },
+        {
+          "label": "C",
+          "text": "Malaysia"
+        },
+        {
+          "label": "D",
+          "text": "Singapore"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Malaysia"
+      },
+      "explanation": "The 4th India-Malaysia Joint Military Exercise HARIMAU SHAKTI conducted at Bentong camp, Pahang, Malaysia. It is scheduled from December 2 to 15, 2024. It involves 78 Indian personnel from the MAHAR Regiment and 123 Malaysian personnel from the Royal Malaysian Regiment. The exercise focuses on counter-insurgency operations in jungle terrain under the UN Mandate’s Chapter VII. It includes cross-training, simulated drills like Anti-MT Ambush, Recce Patrol, and terrorist area attacks. This annual event alternates between the two countries, enhancing interoperability, defence cooperation, and bilateral ties."
+    },
+    {
+      "id": 5,
+      "question": "Exercise CINBAX is recently conducted between which two countries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India and China"
+        },
+        {
+          "label": "B",
+          "text": "China and Russia"
+        },
+        {
+          "label": "C",
+          "text": "India and Cambodia"
+        },
+        {
+          "label": "D",
+          "text": "Japan and China"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "India and Cambodia"
+      },
+      "explanation": "The 1st edition of Joint Table Top Exercise, CINBAX, conducted at Foreign Training Node, Pune, between the Indian and Cambodian Armies. The exercise focuses on joint Counter Terrorism (CT) operations under the UN Charter, with personnel from both armies participating. The exercise has three phases: orientation, Table Top exercises, and finalization of plans. It aims to enhance trust, interoperability, and showcase India’s indigenous defense capabilities."
+    },
+    {
+      "id": 6,
+      "question": "What is the name of the AI-powered system launched by Indian Railways for inspecting and sorting linens?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aqua system"
+        },
+        {
+          "label": "B",
+          "text": "LISA system"
+        },
+        {
+          "label": "C",
+          "text": "AI-Linen Pro"
+        },
+        {
+          "label": "D",
+          "text": "SmartRail"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "LISA system"
+      },
+      "explanation": "Indian Railways introduced the AI-powered Linen Inspection and Sorting Assistant (LISA) to improve linen hygiene in air-conditioned coaches. LISA, developed by the Pune Division, operates at the Ghorpadi Integrated Coaching Complex (GICC). It ensures 100% quality inspection by detecting defects, stains, or damages in linens. AI technology enables precise and efficient inspection of large linen volumes. The system reduces manual labor, streamlines operations, and enhances passenger comfort. LISA supports cleaner, more hygienic travel experiences while modernizing linen management."
+    },
+    {
+      "id": 7,
+      "question": "Which ministry has launched the Platform for Effective Enforcement for No Child Labour (PENCIL) portal?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Labour and Employment"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Women and Child Development"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Home Affairs"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Defence"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ministry of Labour and Employment"
+      },
+      "explanation": "The PENCiL portal was launched by the Ministry of Labour and Employment to enforce the Child and Adolescent Labour (Prohibition and Regulation) Act, 1986. It has five components: Central Government, State Government, District Project Societies, Child Tracking System, and Complaint Corner. District Nodal Officers (DNOs) are appointed to ensure strict implementation of the Act. A model State Action Plan (SAP) guides State Governments in eradicating child labour, focusing on migrant, girl, and SC/ST children. The portal promotes efficient monitoring and grievance redressal to combat child labour effectively."
+    },
+    {
+      "id": 8,
+      "question": "What is the name of India’s first AI-powered app launched for accessibility audits in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "AccessNow"
+        },
+        {
+          "label": "B",
+          "text": "EnableAudit"
+        },
+        {
+          "label": "C",
+          "text": "InclusivityCheck"
+        },
+        {
+          "label": "D",
+          "text": "YesToAccess"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "YesToAccess"
+      },
+      "explanation": "The YesToAccess app, developed by the Association of People with Disability (APD), is India’s first AI-enabled tool for conducting accessibility audits. Launched during the International Day of Persons with Disabilities, it allows users to assess public spaces by photographing structures and analyzing features like ramps and signage. This initiative aims to promote barrier-free environments and enhance inclusivity, empowering citizens to contribute to accessibility improvements across India as part of the Accessible India Campaign."
+    },
+    {
+      "id": 9,
+      "question": "World Wildlife Conservation Day is observed every year on which day?",
+      "options": [
+        {
+          "label": "A",
+          "text": "December 3"
+        },
+        {
+          "label": "B",
+          "text": "December 4"
+        },
+        {
+          "label": "C",
+          "text": "December 5"
+        },
+        {
+          "label": "D",
+          "text": "December 6"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "December 4"
+      },
+      "explanation": "World Wildlife Conservation Day is observed on December 4 to raise awareness about protecting endangered flora and fauna. The day emphasizes the importance of wildlife conservation and encourages action to safeguard endangered species. India hosts four global biodiversity hotspots: Himalaya, Indo-Burma, Western Ghats-Sri Lanka, and Sundaland. With only 2.4% of the world’s land area, India supports 7-8% of recorded species, making it a megadiverse country."
+    },
+    {
+      "id": 10,
+      "question": "Kalughat Intermodal Terminal, which was recently received a five-star SVAGRIHA rating, is located in which state??",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gujarat"
+        },
+        {
+          "label": "B",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Bihar"
+        },
+        {
+          "label": "D",
+          "text": "West Bengal"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Bihar"
+      },
+      "explanation": "The Inland Waterways Authority of India’s Kalughat Intermodal Terminal in Bihar received a five-star SVAGRIHA rating. SVAGRIHA stands for Simple Versatile Affordable GRIHA. SVAGRIHA promotes green buildings and sustainability through the Green Rating for Integrated Habitat Assessment (GRIHA) system for small buildings. The rating applies to projects under 2500 sq.m. with 14 criteria across five categories: architecture & energy, water & waste, materials, landscape, and lifestyle. The terminal achieved this rating by using recyclable materials like fibre, recyclable glass, and eco-friendly fixtures. This project is part of the IWAI’s efforts to enhance National Waterway 1 on the River Ganga."
+    }
+  ]
+}

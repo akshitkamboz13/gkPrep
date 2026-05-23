@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physics-gk-16-sound-waves",
+    "title": "Physics GK 16 - Sound Waves",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:31:15"
+  },
+  "questions": [
+    {
+      "id": 5597,
+      "question": "Speed of sound is maximum in which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Solids"
+        },
+        {
+          "label": "B",
+          "text": "liquids"
+        },
+        {
+          "label": "C",
+          "text": "Gases"
+        },
+        {
+          "label": "D",
+          "text": "Vaccum"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Solids"
+      },
+      "explanation": "The speed of sound decreases when we go from solid to gaseous state."
+    },
+    {
+      "id": 6123,
+      "question": "When a tubelight breaks, a cracking sound is produced because ____?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pressure inside the lamp is less than atmospheric pressure"
+        },
+        {
+          "label": "B",
+          "text": "Pressure inside the lamp is more than atmospheric pressure"
+        },
+        {
+          "label": "C",
+          "text": "The lamp is filled with reactive gases"
+        },
+        {
+          "label": "D",
+          "text": "The lamp is filled with mercury vapour"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Pressure inside the lamp is less than atmospheric pressure"
+      },
+      "explanation": "A fluorescent lamp tube is filled with a gas containing low pressure mercury vapor and argon, xenon, neon, or krypton. The pressure inside the lamp is around 0.3% of atmospheric pressure."
+    },
+    {
+      "id": 6437,
+      "question": "Which among the following is true regarding Sound Waves?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They are longitudinal waves and material medium is not required for their propagation"
+        },
+        {
+          "label": "B",
+          "text": "They are transverse waves and material medium is required for their propagation"
+        },
+        {
+          "label": "C",
+          "text": "They are longitudinal waves and material medium is required for their propagation"
+        },
+        {
+          "label": "D",
+          "text": "They are transverse waves and material medium is not required for their propagation"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "They are longitudinal waves and material medium is required for their propagation"
+      },
+      "explanation": "The sound waves are longitudinal waves and material medium is not required for their propagation. The sound waves can travel through solid, liquid and gas."
+    },
+    {
+      "id": 6438,
+      "question": "Which among the following principle is used by Bats?",
+      "options": [
+        {
+          "label": "A",
+          "text": "RADAR (Radio Detective & Ranging"
+        },
+        {
+          "label": "B",
+          "text": "SONAR (Sound Navigation & Ranging"
+        },
+        {
+          "label": "C",
+          "text": "law of reflection"
+        },
+        {
+          "label": "D",
+          "text": "law of diffraction"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "SONAR (Sound Navigation & Ranging"
+      },
+      "explanation": "Bats use SONAR (Sound Navigation & Ranging).Sonar is a technique that uses sound propagation to navigate, communicate with or detect objects on or under the surface of the water, such as other vessels."
+    },
+    {
+      "id": 6975,
+      "question": "Which of the following waves can be used to measure the speed of a approaching car?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Light waves"
+        },
+        {
+          "label": "B",
+          "text": "Micro waves"
+        },
+        {
+          "label": "C",
+          "text": "Radio waves"
+        },
+        {
+          "label": "D",
+          "text": "Sound waves"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Radio waves"
+      },
+      "explanation": "Radio waves are a type of electromagnetic radiation with wavelengths in the electromagnetic spectrum longer than infrared light. Radio waves have frequencies as high as 300 gigahertz to as low as 30 hertz. It is used to measure the speed of an approaching car."
+    }
+  ]
+}

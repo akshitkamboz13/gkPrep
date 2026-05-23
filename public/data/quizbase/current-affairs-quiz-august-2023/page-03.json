@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "current-affairs-quiz-august-2023",
+    "title": "Current Affairs Quiz - August, 2023",
+    "page": 3,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:46:10",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 11:49:23"
+  },
+  "questions": [
+    {
+      "id": 21,
+      "question": "‘Vaquita porpoise’, which was recently seen in the news, is endemic to which region?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mexico"
+        },
+        {
+          "label": "B",
+          "text": "Australia"
+        },
+        {
+          "label": "C",
+          "text": "South Asia"
+        },
+        {
+          "label": "D",
+          "text": "West Africa"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Mexico"
+      },
+      "explanation": "Porpoises are a group of fully aquatic marine mammals. Although similar in appearance to dolphins, they are more closely related to narwhals and belugas. Vaquita porpoises are endemic to the northern end of the Gulf of California. The International Whaling Commission (IWC) released its inaugural ‘extinction alert,’ focusing on the vaquita porpoise, a species with a mere 10 remaining individuals located in the Gulf of California or Sea of Cortez in Mexico."
+    },
+    {
+      "id": 22,
+      "question": "India’s Defence Ministry has decided to replace Microsoft Operating System with which Operating system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maya"
+        },
+        {
+          "label": "B",
+          "text": "macOS"
+        },
+        {
+          "label": "C",
+          "text": "Kuku"
+        },
+        {
+          "label": "D",
+          "text": "Haiku"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Maya"
+      },
+      "explanation": "India’s Defence Ministry has decided to replace Microsoft Operating System (OS) in all its computers that can connect to the Internet with Maya. Maya, which has been developed by Indian government agencies within six months, and is aimed at preventing malware attacks by cybercriminals. The new OS will be backed by a protection system called Chakravyuh."
+    },
+    {
+      "id": 23,
+      "question": "How many medals were clinched by India in the World University Games (WUG) 2023?",
+      "options": [
+        {
+          "label": "A",
+          "text": "26"
+        },
+        {
+          "label": "B",
+          "text": "32"
+        },
+        {
+          "label": "C",
+          "text": "45"
+        },
+        {
+          "label": "D",
+          "text": "51"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "26"
+      },
+      "explanation": "India ended its World University Games (WUG) campaign with its best-ever performance, winning a record haul of 26 medals, including 11 gold. India finished at seventh spot with 11 gold, 5 silver and 10 bronze, the best ever standing in the medal tally."
+    },
+    {
+      "id": 24,
+      "question": "Which state has announced plans to construct a 6,134-crore dam at Hathnikund?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uttarakhand"
+        },
+        {
+          "label": "B",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "label": "C",
+          "text": "Haryana"
+        },
+        {
+          "label": "D",
+          "text": "Gujarat"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Haryana"
+      },
+      "explanation": "The Haryana state government has intended to construct a dam costing Rs 6,134 crore, to avoid another flooding event caused by the Yamuna in Delhi and nearby Haryana regions. This dam will feature a 14-km reservoir and will be situated 4.5 km ahead of the Hathnikund Barrage in the Yamunanagar district."
+    },
+    {
+      "id": 25,
+      "question": "As per recent data, what percent of greenhouse emissions is reduced by India in the last 14 years?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3 per cent"
+        },
+        {
+          "label": "B",
+          "text": "15 per cent"
+        },
+        {
+          "label": "C",
+          "text": "33 per cent"
+        },
+        {
+          "label": "D",
+          "text": "49 per cent"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "33 per cent"
+      },
+      "explanation": "India’s greenhouse emissions rate dropped by 33% between 2005 and 2019 in 14 years as renewable energy generation rose and forest cover increased, as per the latest assessment made for submission to the United Nations. The report’s findings showed India is on the way to meeting a commitment to the United Nations Convention on Climate Change (UNFCCC), to reduce emissions intensity by 45% from the 2005 level by 2030."
+    },
+    {
+      "id": 26,
+      "question": "Which country has introduced ‘Recognized Employer Pilot’ to tackle workforce deficits?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sri Lanka"
+        },
+        {
+          "label": "B",
+          "text": "India"
+        },
+        {
+          "label": "C",
+          "text": "Canada"
+        },
+        {
+          "label": "D",
+          "text": "Japan"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Canada"
+      },
+      "explanation": "The Canadian authorities have declared the initiation of the Recognized Employer Pilot in September to tackle workforce deficits. It aims to address labour shortages by simplifying hiring for compliant repeat employers under the Temporary Foreign Worker Program (TFWP)."
+    },
+    {
+      "id": 27,
+      "question": "What is the new timeline for shares to be listed post-IPO closure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Seven days"
+        },
+        {
+          "label": "B",
+          "text": "Five days"
+        },
+        {
+          "label": "C",
+          "text": "Three days"
+        },
+        {
+          "label": "D",
+          "text": "Two days"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Three days"
+      },
+      "explanation": "The Securities and Exchange Board of India (SEBI) has reduced the timeline for shares to be listed post-IPO closure from six days to three. This change, voluntary from September 1 and mandatory after December 1, aims to benefit both issuers and investors by providing quicker capital access and earlier investment liquidity."
+    },
+    {
+      "id": 28,
+      "question": "‘Kalyanamasthu and Shaadi Tohfa’ schemes are implemented by which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kerala"
+        },
+        {
+          "label": "B",
+          "text": "Karnataka"
+        },
+        {
+          "label": "C",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "D",
+          "text": "Odisha"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Andhra Pradesh"
+      },
+      "explanation": "Recently, Andhra Pradesh Chief Minister YS Jagan Mohan Reddy provided financial aid to qualified individuals under the ‘YSR Kalyanamasthu and YSR Shaadi Tohfa’ programs. The financial assistance is provided to parents from poor financial backgrounds to help them perform their children’s marriage after their education. The YSR Kalyanamasthu is meant for the girls belonging to SC, ST, BC and Minorities, disabled, construction worker families, while the YSR Shaadi Tohfa is for the Muslim girls."
+    },
+    {
+      "id": 29,
+      "question": "Which state ranked at the top in overall fiscal health scorecard as per FY 23 revised budget estimates?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "B",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "C",
+          "text": "Karnataka"
+        },
+        {
+          "label": "D",
+          "text": "Odisha"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Maharashtra"
+      },
+      "explanation": "Based on the FY23 revised budget estimates, Maharashtra tops the ranking in overall fiscal health scorecard, followed by Chhattisgarh, Orissa, Telangana and Jharkhand. Based on the FY24 first budget estimates, the top three states are Maharashtra, Chhattisgarh and Telangana, shows a report on the fiscal health of the key 17 states. It is based on the 4 fiscal parameters–fiscal deficit; own tax revenue, state debt levels (as a percentage of their individual gross state domestic product) and the interest payment to revenue receipts."
+    },
+    {
+      "id": 30,
+      "question": "Which state has sanctioned a scheme for Improving banking penetration in over 6000 panchyats?",
+      "options": [
+        {
+          "label": "A",
+          "text": "West Bengal"
+        },
+        {
+          "label": "B",
+          "text": "Odisha"
+        },
+        {
+          "label": "C",
+          "text": "Kerala"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Odisha"
+      },
+      "explanation": "With around 65 per cent of the total 6,798 panchayats in Odisha not have banking penetration, the state cabinet approved a scheme to open banking outlets in 4,373 panchayats with a budgetary support of Rs 500 crore. The scheme, aimed to improve financial inclusion, will be implemented in coordination with six public sector banks in a phased manner."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: February 11, 2026",
+    "date": "2026-02-11",
+    "year": "2026",
+    "month": "02-february",
+    "day": 11,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 03:57:44",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:54:27"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "HbA1c test, that was recently seen in news, is commonly used in India for diagnosing which disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type-2 diabetes"
+        },
+        {
+          "label": "B",
+          "text": "Dengue"
+        },
+        {
+          "label": "C",
+          "text": "Tuberculosis"
+        },
+        {
+          "label": "D",
+          "text": "Cholera"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Type-2 diabetes"
+      },
+      "explanation": "A new study shows that glycated hemoglobin (HbA1c), widely used in India to detect type-2 diabetes, may not always show the true blood glucose level. Hemoglobin A1c (HbA1c) is a blood test that tells the average blood sugar level of the last two to three months. The test measures the percentage of red blood cells (RBCs) whose hemoglobin is coated with glucose. This works because glucose sticks to hemoglobin for the full life of RBCs, which is about three months. A high HbA1c value means long-term high blood sugar, indicating diabetes. Diabetes can lead to heart, kidney, and nerve diseases."
+    },
+    {
+      "id": 2,
+      "question": "The SCALP missile (Storm Shadow) is jointly developed by France and which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Germany"
+        },
+        {
+          "label": "B",
+          "text": "Russia"
+        },
+        {
+          "label": "C",
+          "text": "China"
+        },
+        {
+          "label": "D",
+          "text": "United Kingdom"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "United Kingdom"
+      },
+      "explanation": "India and France are discussing a major deal to procure SCALP cruise missiles after their successful use by the Indian Air Force (IAF) in precision strikes during Operation Sindoor. SCALP, also called Storm Shadow, is a long-range, air-launched cruise missile developed jointly by France and the United Kingdom. It is used by several North Atlantic Treaty Organization (NATO) and allied air forces."
+    },
+    {
+      "id": 3,
+      "question": "Mons Mouton has been identified as a potential landing zone for which Indian mission?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chandrayaan-2"
+        },
+        {
+          "label": "B",
+          "text": "Chandrayaan-3"
+        },
+        {
+          "label": "C",
+          "text": "Chandrayaan-4"
+        },
+        {
+          "label": "D",
+          "text": "LUPEX Mission"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Chandrayaan-4"
+      },
+      "explanation": "Scientists from Indian Space Research Organisation (ISRO) Space Applications Centre (SAC) have selected Mons Mouton as the landing site for Chandrayaan-4, India’s first lunar sample return mission. Mons Mouton is a 6,000-metre-high mountain near the Moon’s South Pole with a largely flat peak suitable for safe landing. It lies in the South Circumpolar Region (SCR) and is named after NASA mathematician Melba Roy Mouton. The site is located on the rim of the South Pole–Aitken basin, the Moon’s oldest and largest impact basin. The region receives long-duration sunlight and has clear radio communication with Earth."
+    },
+    {
+      "id": 4,
+      "question": "What is the primary objective of the Kimberley Process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eliminate trade in conflict diamonds"
+        },
+        {
+          "label": "B",
+          "text": "Regulate global trade practices under the United Nations framework"
+        },
+        {
+          "label": "C",
+          "text": "Promote sustainable mining standards across resource-rich countries"
+        },
+        {
+          "label": "D",
+          "text": "None of the Above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Eliminate trade in conflict diamonds"
+      },
+      "explanation": "India has taken over as Chair of the Kimberley Process (KP) for the year 2026. The Kimberley Process is a global partnership of governments, civil society, and the diamond industry to stop the trade in conflict diamonds. The Kimberley Process has 60 participants representing 86 countries and covers over 99% of global rough diamond trade. The Kimberley Process Certification Scheme (KPCS) ensures each rough diamond shipment carries a conflict-free certificate in tamper-proof containers."
+    },
+    {
+      "id": 5,
+      "question": "Sansha Yongle Blue Hole (Dragon Hole), that was recently is located in which water body?",
+      "options": [
+        {
+          "label": "A",
+          "text": "South China Sea"
+        },
+        {
+          "label": "B",
+          "text": "Red Sea"
+        },
+        {
+          "label": "C",
+          "text": "Arabian Sea"
+        },
+        {
+          "label": "D",
+          "text": "Black Sea"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "South China Sea"
+      },
+      "explanation": "The Sansha Yongle Blue Hole, known as the Dragon Hole, is a massive underwater sinkhole in the South China Sea studied for over a decade. Blue holes are deep, steep underwater cavities formed in limestone areas and later filled by rising sea levels. Dragon Hole is the deepest known underwater sinkhole in the world at about 301.19 meters, deeper than Dean’s Blue Hole in the Bahamas. It lies around 25 kilometers from Discovery Reef and is called the “eye” of the South China Sea by local fishermen. The hole is almost vertical, with 130 meters width at the surface and 36 meters at the bottom."
+    }
+  ]
+}

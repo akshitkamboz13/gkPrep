@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-9-algae-fungi",
+    "title": "9. Algae & Fungi",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:00:10"
+  },
+  "questions": [
+    {
+      "id": 6608,
+      "question": "Which among the following plays a role in production of alcohol in beer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bacteria"
+        },
+        {
+          "label": "B",
+          "text": "Protozoan"
+        },
+        {
+          "label": "C",
+          "text": "virus"
+        },
+        {
+          "label": "D",
+          "text": "Yeast"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Yeast"
+      },
+      "explanation": "Yeast plays a role in production of alcohol in beer. Yeast is a little, single-cell organism and is one of the simplest forms of plant life. It is responsible for the fermentation process in beer."
+    },
+    {
+      "id": 6610,
+      "question": "Whch among the following are called scavengers of ecosystems?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bacteria"
+        },
+        {
+          "label": "B",
+          "text": "Fungi & Bacteria"
+        },
+        {
+          "label": "C",
+          "text": "Algae, Fungi & Bacteria"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Fungi & Bacteria"
+      },
+      "explanation": "Fungi & Bacteria are called scavengers of ecosystems. Scavengers keep the ecosystem free of the bodies of dead animals, or carrion. They break down the dead organic material and recycle it into the ecosystem as nutrients."
+    },
+    {
+      "id": 6959,
+      "question": "Actinomycetes are good source of which of the following ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vitamins"
+        },
+        {
+          "label": "B",
+          "text": "Antihistamines"
+        },
+        {
+          "label": "C",
+          "text": "Antibiotics"
+        },
+        {
+          "label": "D",
+          "text": "Antibodies"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Antibiotics"
+      },
+      "explanation": "The Actinobacteria are a phylum of Gram-positive bacteria. They can be terrestrial or aquatic. It is known to produce a wide variety of industrially and medically relevant compounds like Antibiotics, etc."
+    },
+    {
+      "id": 8976,
+      "question": "Which of the following organism grows on Common Bread?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bacterium"
+        },
+        {
+          "label": "B",
+          "text": "Yeast"
+        },
+        {
+          "label": "C",
+          "text": "Mucor"
+        },
+        {
+          "label": "D",
+          "text": "Virus"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Mucor"
+      },
+      "explanation": "Mucor is a microbial genus of approximately 40 species of moulds commonly found in soil, digestive systems, plant surfaces. They also grow on common bread. Mucor may cause infections in man, frogs, amphibians, cattle, and swine."
+    },
+    {
+      "id": 9772,
+      "question": "The “Red Tides” which are found in marine coastal areas such as “Florida red tide” that occurs in the Gulf of Mexico, is considered to be responsible for bioaccumulation and making local filter feeding organisms such as mussels and oysters toxic. Due to which of the following the “Red Tides” Occur?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bacteria"
+        },
+        {
+          "label": "B",
+          "text": "Algae"
+        },
+        {
+          "label": "C",
+          "text": "Fungi"
+        },
+        {
+          "label": "D",
+          "text": "Toxic Wastes of the Industries"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Algae"
+      },
+      "explanation": "Red tide is a common name for algal blooms. It is the large concentrations of aquatic microorganisms, such as protozoans and unicellular algae (e.g. dinoflagellates and diatoms). The upwelling of nutrients from the sea floor following massive storms, provides for the algae and triggers bloom events."
+    }
+  ]
+}

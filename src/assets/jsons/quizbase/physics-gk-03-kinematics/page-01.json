@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physics-gk-03-kinematics",
+    "title": "Physics GK 03 - Kinematics",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:29:58"
+  },
+  "questions": [
+    {
+      "id": 6487,
+      "question": "Which among the following has highest velocity ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hurricane"
+        },
+        {
+          "label": "B",
+          "text": "Tornado"
+        },
+        {
+          "label": "C",
+          "text": "Typhoon"
+        },
+        {
+          "label": "D",
+          "text": "Cyclone"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Tornado"
+      },
+      "explanation": "Tornadoes has the highest velocity and are more devastating compared to other types of cyclones. They generally occur in the pacific ocean."
+    },
+    {
+      "id": 10670,
+      "question": "Which among the following is measured by an Odometer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pressure"
+        },
+        {
+          "label": "B",
+          "text": "Height"
+        },
+        {
+          "label": "C",
+          "text": "Distance"
+        },
+        {
+          "label": "D",
+          "text": "Velocity"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Distance"
+      },
+      "explanation": "An odometer is an instrument used for measuring the distance. It measures distance traveled by a vehicle such as a bicycle or car. The device may be electronic, mechanical, or a combination of the two."
+    },
+    {
+      "id": 15468,
+      "question": "What is the distance covered by a bus moving at a speed of 72 km/hr in a duration of 5 seconds?",
+      "options": [
+        {
+          "label": "A",
+          "text": "50 meters"
+        },
+        {
+          "label": "B",
+          "text": "60 meters"
+        },
+        {
+          "label": "C",
+          "text": "74.5 meters"
+        },
+        {
+          "label": "D",
+          "text": "100 meters"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "100 meters"
+      },
+      "explanation": "The solution involves converting the speed of the bus from km/hr to m/sec. This conversion is achieved by the formula speed (m/sec) = speed (km/hr) * 5/18. Thus, the speed becomes 20 m/s. The distance travelled by the bus in 5 seconds is the product of speed and time which gives us 100 meters. Therefore, option [D] or option 4 is the correct answer."
+    },
+    {
+      "id": 15476,
+      "question": "A train travels at the speed of 180 km/hr. What is its speed in m/s?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5 m/s"
+        },
+        {
+          "label": "B",
+          "text": "30 m/s"
+        },
+        {
+          "label": "C",
+          "text": "40 m/s"
+        },
+        {
+          "label": "D",
+          "text": "50 m/s"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "50 m/s"
+      },
+      "explanation": "The speed of the train, given in kilometers per hour, is to be converted to meters per second. We use the conversion formula which states that 1 km/hr is equal to 5/18 m/s. Using the formula, we get (180 x 5)/18, which equals 50 m/s. This conversion is often applied in physics to accurately measure speed or velocity in different units for a variety of calculations, such as computation or comparison of speeds of different objects moving at varying velocities."
+    },
+    {
+      "id": 21084,
+      "question": "When you throw a ball with an angle to the horizontal (projectile); the ball has __:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uniform velocity in horizontal direction but uniform acceleration in vertical direction"
+        },
+        {
+          "label": "B",
+          "text": "Uniform acceleration in horizontal direction but uniform velocity in vertical direction"
+        },
+        {
+          "label": "C",
+          "text": "Uniform acceleration in both horizontal and vertical directions"
+        },
+        {
+          "label": "D",
+          "text": "Uniform velocity in both horizontal and vertical directions"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Uniform velocity in horizontal direction but uniform acceleration in vertical direction"
+      },
+      "explanation": "The motion of a projectile is two dimensional motion consisting of (i) horizontal motion and (ii) vertical motion. Hence, at any instant, the velocity of a projectile has two components (i) horizontal component and (ii) vertical component. The horizontal component remains unchanged throughout the flight as there is no acceleration in horizontal direction. The vertical component is continuously affected by the force of gravity. Thus, the horizontal motion is uniform motion but the vertical motion is uniformly accelerated motion.)"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-10-mosses-and-bryophytes",
+    "title": "10. Mosses and Bryophytes",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:57:04"
+  },
+  "questions": [
+    {
+      "id": 6958,
+      "question": "Which among the following: Ferns, Mosses, Algae and Fungi, contain chlorophyll?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ferns and Algae"
+        },
+        {
+          "label": "B",
+          "text": "Mosses and Algae"
+        },
+        {
+          "label": "C",
+          "text": "Algae, Ferns and Mosses"
+        },
+        {
+          "label": "D",
+          "text": "None of the given options"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Algae, Ferns and Mosses"
+      },
+      "explanation": "Chlorophyll, the photosynthetic pigment that gives plants their green color, is present in Algae, Ferns and Mosses, thus enabling them to convert sunlight to chemical energy through photosynthesis. Although fungi are a group of organisms often thought to be plants, they lack chlorophyll, and hence, they are non-photosynthetic, surviving instead on organic matter."
+    },
+    {
+      "id": 9190,
+      "question": "Non-vascular embryophytes are __:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pteridophytes"
+        },
+        {
+          "label": "B",
+          "text": "Algae"
+        },
+        {
+          "label": "C",
+          "text": "Bryophytes"
+        },
+        {
+          "label": "D",
+          "text": "Gymnosperms"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Bryophytes"
+      },
+      "explanation": "Bryophytes are an informal group consisting of three divisions of non-vascular land plants: the liverworts, hornworts and mosses. They play a vital role in regulating ecosystems because they provide an important buffer system for other plants."
+    },
+    {
+      "id": 29397,
+      "question": "In which of the following plants, gametophyte is considered prothallus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bryophyte"
+        },
+        {
+          "label": "B",
+          "text": "Thallophyta"
+        },
+        {
+          "label": "C",
+          "text": "Spermatophyte"
+        },
+        {
+          "label": "D",
+          "text": "Pteridophyta"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Pteridophyta"
+      },
+      "explanation": "Gametophyte is considered prothallus in Pteridophytes. Just as with seed plants and mosses, the life cycle of pteridophytes involves alternation of generations. This means that a diploid generation of the sporophyte, which produces spores is followed by a haploid generation i.e. the gametophyte or prothallus, which produces gametes."
+    },
+    {
+      "id": 89263,
+      "question": "Which of the following is not an example of bryophytes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Marchantia"
+        },
+        {
+          "label": "B",
+          "text": "Funaria"
+        },
+        {
+          "label": "C",
+          "text": "Sphagnum"
+        },
+        {
+          "label": "D",
+          "text": "Selaginella"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Selaginella"
+      },
+      "explanation": "Selaginella is not an example of bryophytes. Selaginella, Equisetum, Pteris, etc.are examples of Pteridophyta."
+    },
+    {
+      "id": 89344,
+      "question": "Which is the largest Bryophyta?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Funaria (Moss)"
+        },
+        {
+          "label": "B",
+          "text": "Marchantia"
+        },
+        {
+          "label": "C",
+          "text": "Megaceros"
+        },
+        {
+          "label": "D",
+          "text": "Dowsonia"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Dowsonia"
+      },
+      "explanation": "Dawsonia is a taxonomy of moss. They are the largest bryophytes. Dawsonia plants are generally known for being tall. It has thicker leaves than the common moss."
+    }
+  ]
+}

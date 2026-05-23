@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "development-of-police-and-military",
+    "title": "18. Development of Police and Military",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:10:48"
+  },
+  "questions": [
+    {
+      "id": 5722,
+      "question": "Fraser Commission was established for reforms in which among the following in 1902?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Army"
+        },
+        {
+          "label": "B",
+          "text": "eduction"
+        },
+        {
+          "label": "C",
+          "text": "Police"
+        },
+        {
+          "label": "D",
+          "text": "Civil service"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Police"
+      },
+      "explanation": "The Indian Police Commission of 1902-03, also known as the Frazer Commission, was established by the British government in India to reform the Indian police system. It was headed by Sir Andrew Frazer and was established by Lord Curzon. Its main goal was to improve the efficiency and effectiveness of the police force in India. One of its key recommendations was the establishment of a centralized police intelligence system, which was considered to be a major success in improving police intelligence gathering and analysis. The Commission also recommended the separation of the executive and judicial functions of the police, and the creation of a police training school. Overall, the Frazer Commission's recommendations had a significant impact on the Indian police system and many of its recommendations were implemented."
+    },
+    {
+      "id": 7548,
+      "question": "Who among the following was Commander-in-Chief, India, between 1902 and 1909 noted for large-scale reforms, the greatest of which was the merger of the three armies of the Presidencies into a unified force?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sir Charles Monro"
+        },
+        {
+          "label": "B",
+          "text": "Lord Kitchener"
+        },
+        {
+          "label": "C",
+          "text": "Beauchamp Duff"
+        },
+        {
+          "label": "D",
+          "text": "Canning"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Lord Kitchener"
+      },
+      "explanation": "Lord Kitchener, also known for Reconstruction of the disorganized Indian Army against the wishes of the viceroy Lord Curzon."
+    },
+    {
+      "id": 7973,
+      "question": "The Cachar Levy raised in 1835 is today known as which force?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Central Reserve Police Force"
+        },
+        {
+          "label": "B",
+          "text": "Rajputana Rifles"
+        },
+        {
+          "label": "C",
+          "text": "National Security Guards"
+        },
+        {
+          "label": "D",
+          "text": "Assam Rifles"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Assam Rifles"
+      },
+      "explanation": "The Cachar Levy was formed in Assam in 1835 by the British to counter tribal raids. It was later reconstituted and renamed as Assam Rifles, making it the oldest paramilitary force in India, primarily serving in the Northeast."
+    },
+    {
+      "id": 30118,
+      "question": "Which fabric was introduced by Sir H.B. Lumsden and W. Hodson in 1848 for the uniforms of British colonial troops in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Corduroy"
+        },
+        {
+          "label": "B",
+          "text": "Denim"
+        },
+        {
+          "label": "C",
+          "text": "Khaki"
+        },
+        {
+          "label": "D",
+          "text": "Silk"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Khaki"
+      },
+      "explanation": "Khaki was introduced by Sir H.B. Lumsden and W. Hodson in 1848 for the uniforms of British colonial troops in India. Lumsden originated the use of a strange new mud coloured uniform called khaki in 1848."
+    },
+    {
+      "id": 44728,
+      "question": "Lord Dalhousie shifted the headquarters of the Bengal artillery from Calcutta to which among the following places?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Noida"
+        },
+        {
+          "label": "B",
+          "text": "Guwalior"
+        },
+        {
+          "label": "C",
+          "text": "Meerut"
+        },
+        {
+          "label": "D",
+          "text": "Kochi"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Meerut"
+      },
+      "explanation": "Lord Dalhousie introduce many reforms in the military sector. He shifted the headquarters of the Bengal artillery to Meerut and the army headquarters later shifted to Shimla."
+    }
+  ]
+}

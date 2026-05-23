@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "biology-15-growth-in-plants",
+    "title": "15. Growth in Plants",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:57:24"
+  },
+  "questions": [
+    {
+      "id": 4371,
+      "question": "Which among the following plant hormone plays most important role in establishing dormancy in seeds?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ethylene"
+        },
+        {
+          "label": "B",
+          "text": "Gibberellic acid"
+        },
+        {
+          "label": "C",
+          "text": "Abscisic Acid"
+        },
+        {
+          "label": "D",
+          "text": "Auxin"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Abscisic Acid"
+      },
+      "explanation": "Abscisic Acid plays the most important role in establishing dormancy in seeds. Abscisic Acid has also been found to be present in metazoans, from sponges up to mammals including humans."
+    },
+    {
+      "id": 5590,
+      "question": "Ripening of fruits is because of which among the following plant hormones?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Auxin"
+        },
+        {
+          "label": "B",
+          "text": "Ethylene"
+        },
+        {
+          "label": "C",
+          "text": "Gibberellins"
+        },
+        {
+          "label": "D",
+          "text": "Carins"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ethylene"
+      },
+      "explanation": "Ripening is a process in fruits that causes them to become more palatable. Most fruits produce a gaseous compound called ethylene that starts the ripening process. Ethylene Gas Can be Used to Regulate Fruit Ripening."
+    },
+    {
+      "id": 5599,
+      "question": "The plant hormone Auxin is basically a ___?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Weak Organic Acid"
+        },
+        {
+          "label": "B",
+          "text": "Weak Inorganic Acid"
+        },
+        {
+          "label": "C",
+          "text": "Weak Organic base"
+        },
+        {
+          "label": "D",
+          "text": "Gaseous compound of carbon"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Weak Organic Acid"
+      },
+      "explanation": "Auxins are a class of plant hormones with some morphogen-like characteristics. Auxin is basically a Weak Organic Acid and It is produced in the stem tip that promotes the elongation in the cells."
+    },
+    {
+      "id": 5886,
+      "question": "Which among the following is a common end product of Anaerobic Respiration?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acetic Acid"
+        },
+        {
+          "label": "B",
+          "text": "Carbonic Acid"
+        },
+        {
+          "label": "C",
+          "text": "Lactic Acid"
+        },
+        {
+          "label": "D",
+          "text": "Hydrochloric Acid"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Lactic Acid"
+      },
+      "explanation": "Lactic Acid is a common end product of Anaerobic Respiration. Anaerobic respiration is the type of respiration through which cells can breakdown sugars to generate energy in the absence of oxygen."
+    },
+    {
+      "id": 6604,
+      "question": "Flowering in long day plants is related to which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Auxin"
+        },
+        {
+          "label": "B",
+          "text": "Gibberlin"
+        },
+        {
+          "label": "C",
+          "text": "Cytokinin"
+        },
+        {
+          "label": "D",
+          "text": "Ethylene"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Gibberlin"
+      },
+      "explanation": "Flowering in long day plants is related to Gibberlin. Long-day plants usually flower when the night length falls below their critical photoperiod. Many of our summer blooming flowers and garden vegetables are long day plants."
+    }
+  ]
+}

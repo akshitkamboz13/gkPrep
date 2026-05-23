@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: March 17, 2026",
+    "date": "2026-03-17",
+    "year": "2026",
+    "month": "03-march",
+    "day": 17,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 05:22:47",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:52:48"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "National Vaccination Day is observed in India every year on which day?",
+      "options": [
+        {
+          "label": "A",
+          "text": "15 March"
+        },
+        {
+          "label": "B",
+          "text": "16 March"
+        },
+        {
+          "label": "C",
+          "text": "17 March"
+        },
+        {
+          "label": "D",
+          "text": "18 March"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "16 March"
+      },
+      "explanation": "National Immunization Day, also called National Vaccination Day, is observed in India every year on 16 March. The day recognises the efforts of policymakers, healthcare workers, and stakeholders involved in vaccination programmes. It aims to promote awareness about the importance of immunisation in preventing diseases. The observance highlights India’s achievements in large-scale vaccination drives despite its huge population and high population density."
+    },
+    {
+      "id": 2,
+      "question": "Operation Thunder was led by which two international organizations?",
+      "options": [
+        {
+          "label": "A",
+          "text": "United Nations Environment Programme and World Wildlife Fund"
+        },
+        {
+          "label": "B",
+          "text": "INTERPOL and World Customs Organization"
+        },
+        {
+          "label": "C",
+          "text": "World Bank and Food and Agriculture Organization"
+        },
+        {
+          "label": "D",
+          "text": "World Wildlife Fund and World Bank"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "INTERPOL and World Customs Organization"
+      },
+      "explanation": "Operation Thunder is a large global operation against wildlife trafficking conducted in 134 countries. It was led by INTERPOL and World Customs Organization. Authorities made about 4,640 seizures of illegal wildlife and wildlife products. More than 30,000 live animals were rescued during the operation. Around 245 tonnes and 91,000 pieces of marine life were seized, including about 4,000 shark fins. About 10,500 butterflies, spiders and insects were seized, showing rising trafficking of smaller species."
+    },
+    {
+      "id": 3,
+      "question": "International Day of Mathematics is celebrated every year on which day?",
+      "options": [
+        {
+          "label": "A",
+          "text": "March 13"
+        },
+        {
+          "label": "B",
+          "text": "March 14"
+        },
+        {
+          "label": "C",
+          "text": "March 15"
+        },
+        {
+          "label": "D",
+          "text": "March 16"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "March 14"
+      },
+      "explanation": "International Day of Mathematics is celebrated every year on 14 March. The day highlights the importance of mathematics in daily life, science and technology. It has been celebrated globally since 2020 after proclamation by UNESCO. The celebrations are coordinated by International Mathematical Union with support from UNESCO. Schools, universities and research institutions organize competitions, exhibitions and public activities. The aim is to promote interest in mathematics and show its practical role in society and innovation."
+    },
+    {
+      "id": 4,
+      "question": "What is the name of India’s first cyber-security facility launched by Deloitte to protect connected infrastructure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CyberShield India"
+        },
+        {
+          "label": "B",
+          "text": "SecureNet Lab"
+        },
+        {
+          "label": "C",
+          "text": "ConnectSafe"
+        },
+        {
+          "label": "D",
+          "text": "DigiProtect Hub"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "ConnectSafe"
+      },
+      "explanation": "Deloitte India launched ConnectSafe, India’s first cyber-security facility focused on protecting human lives and critical infrastructure. The initiative shifts cyber security focus from data protection to safety of connected operational systems. It addresses growing cyber risks due to India’s rapidly expanding connected ecosystems in mobility, healthcare, manufacturing, energy, agriculture and digital infrastructure. The 4,500 sq ft facility simulates real-world cyber-attack scenarios.It helps organisations test and strengthen security systems without affecting live operations."
+    },
+    {
+      "id": 5,
+      "question": "The Jnanpith Award is given for excellence in which field?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Literature"
+        },
+        {
+          "label": "B",
+          "text": "Journalism"
+        },
+        {
+          "label": "C",
+          "text": "Science"
+        },
+        {
+          "label": "D",
+          "text": "Cinema"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Literature"
+      },
+      "explanation": "60th Jnanpith Award (2025) will be conferred on R. Vairamuthu. Jnanpith Award is the highest literary award in India. The award is presented by Bharatiya Jnanpith. R. Vairamuthu is a distinguished Tamil poet, lyricist and writer. He is recognised for creative depth, powerful poetic voice and contribution to Tamil literature. His writings focus on human emotions, social issues and nature. The selection committee meeting was chaired by Pratibha Ray."
+    }
+  ]
+}

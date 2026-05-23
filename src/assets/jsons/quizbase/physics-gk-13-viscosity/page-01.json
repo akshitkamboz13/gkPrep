@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physics-gk-13-viscosity",
+    "title": "Physics GK 13 - Viscosity",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:30:57"
+  },
+  "questions": [
+    {
+      "id": 11477,
+      "question": "Which among the following is the SI physical unit of dynamic viscosity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Poise"
+        },
+        {
+          "label": "B",
+          "text": "Pascal-second"
+        },
+        {
+          "label": "C",
+          "text": "Newton-second"
+        },
+        {
+          "label": "D",
+          "text": "Poise-second"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Pascal-second"
+      },
+      "explanation": "The SI unit for dynamic viscosity η is the Pascal-second (Pa-s). It corresponds to the force (N) per unit area (m2) divided by the rate of shear (s-1)."
+    },
+    {
+      "id": 26487,
+      "question": "What is the SI unit of viscosity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "candela"
+        },
+        {
+          "label": "B",
+          "text": "poiseiulle"
+        },
+        {
+          "label": "C",
+          "text": "Newton/m"
+        },
+        {
+          "label": "D",
+          "text": "No units"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "poiseiulle"
+      },
+      "explanation": "The SI unit of viscosity is poiseiulle (Pl). Its other units are N s m-2 or Pa s."
+    },
+    {
+      "id": 26488,
+      "question": "Which of these fluids has the highest viscosity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Water"
+        },
+        {
+          "label": "B",
+          "text": "Honey"
+        },
+        {
+          "label": "C",
+          "text": "Blood"
+        },
+        {
+          "label": "D",
+          "text": "Air"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Honey"
+      },
+      "explanation": "Viscosities of some common fluids: Water:1 Honey: 200 Blood: 2.7 Air: 0.017"
+    },
+    {
+      "id": 26489,
+      "question": "What happens to the viscosity of a liquid with increase in temperature?",
+      "options": [
+        {
+          "label": "A",
+          "text": "it increases"
+        },
+        {
+          "label": "B",
+          "text": "it decreases"
+        },
+        {
+          "label": "C",
+          "text": "it may increase or decrease"
+        },
+        {
+          "label": "D",
+          "text": "No change"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "it decreases"
+      },
+      "explanation": "The viscosity of liquids decreases with increase in temperature, while it increases in the case of gases."
+    },
+    {
+      "id": 26490,
+      "question": "What do we call the maximum velocity of a fluid in a tube for which the flow remains streamlined?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hyper velocity"
+        },
+        {
+          "label": "B",
+          "text": "critical velocity"
+        },
+        {
+          "label": "C",
+          "text": "stream velocity"
+        },
+        {
+          "label": "D",
+          "text": "laminar velocity"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "critical velocity"
+      },
+      "explanation": "The maximum velocity of a fluid in a tube for which the flow remains streamlined is called its critical velocity."
+    }
+  ]
+}

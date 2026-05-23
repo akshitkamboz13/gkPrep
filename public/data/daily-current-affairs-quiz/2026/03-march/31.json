@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: March 31, 2026",
+    "date": "2026-03-31",
+    "year": "2026",
+    "month": "03-march",
+    "day": 31,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 04:22:17",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:52:08"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Bab el-Mandeb Strait, that was recently seen in news, connects which water bodies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mediterranean Sea and Black Sea"
+        },
+        {
+          "label": "B",
+          "text": "Red Sea and Gulf of Aden"
+        },
+        {
+          "label": "C",
+          "text": "Arabian Sea and Gulf of Oman"
+        },
+        {
+          "label": "D",
+          "text": "Mediterranean Sea and Red Sea"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Red Sea and Gulf of Aden"
+      },
+      "explanation": "Bab el-Mandeb Strait is a strategic narrow waterway amid rising West Asia tensions. It is called the “Gate of Tears” due to frequent historical shipwrecks. It lies at the southern end of the Red Sea, between Yemen and the Horn of Africa. It connects the Red Sea to the Gulf of Aden and further to the Indian Ocean. It separates Arabia (Asia) from Africa and links to the Mediterranean via the Suez Canal."
+    },
+    {
+      "id": 2,
+      "question": "Who has been named ‘Para Archer of the Year 2025’ by World Archery?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Deepika Kumari"
+        },
+        {
+          "label": "B",
+          "text": "Sheetal Devi"
+        },
+        {
+          "label": "C",
+          "text": "Jyothi Surekha Vennam"
+        },
+        {
+          "label": "D",
+          "text": "Harvinder Singh"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Sheetal Devi"
+      },
+      "explanation": "Sheetal Devi has been named ‘Para Archer of the Year 2025’ by World Archery. She is a 19-year-old para archer from Jammu and Kashmir, known for competing without arms, making her achievements exceptional. She became the first and only female armless archer to win gold at the World Para Archery Championships. She won gold in the women’s compound individual event at Gwangju, South Korea. She also won a bronze medal at the Paris Paralympics in the mixed team event."
+    },
+    {
+      "id": 3,
+      "question": "The Morung education system is traditionally associated with which community?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bhil"
+        },
+        {
+          "label": "B",
+          "text": "Santhal"
+        },
+        {
+          "label": "C",
+          "text": "Naga"
+        },
+        {
+          "label": "D",
+          "text": "Toda"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Naga"
+      },
+      "explanation": "In the 132nd episode of Mann Ki Baat, Narendra Modi highlighted the Morung education system of the Naga tribes, bringing it into recent focus. The Morung is a traditional community-based indigenous education system that historically functioned as a youth dormitory and learning space where elders trained younger generations. It aims to preserve tribal heritage, oral traditions, and community values while promoting holistic development through a blend of traditional knowledge and modern education. The system follows elder-led learning, where knowledge is transmitted through storytelling, oral traditions, and lived experiences."
+    },
+    {
+      "id": 4,
+      "question": "“Energy Statistics India 2026” is released by which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NITI Aayog"
+        },
+        {
+          "label": "B",
+          "text": "Central Electricity Authority"
+        },
+        {
+          "label": "C",
+          "text": "National Statistics Office"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Power"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "National Statistics Office"
+      },
+      "explanation": "The National Statistics Office under the Ministry of Statistics and Programme Implementation released the “Energy Statistics India 2026”, providing a comprehensive dataset on India’s energy sector. The publication includes detailed information on reserves, capacity, production, consumption, and import-export of major energy resources such as coal, lignite, petroleum, natural gas, and renewable energy. It also presents energy balance tables, Sankey diagrams, and sustainable energy indicators aligned with international standards. The 33rd edition has expanded coverage by including credit flow to the energy sector, global energy statistics, and improved data on coal consumption, electricity usage patterns, and fuel distribution."
+    },
+    {
+      "id": 5,
+      "question": "Which city is the venue for 9th edition of India Pharma 2026 conference?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bengaluru"
+        },
+        {
+          "label": "B",
+          "text": "Hyderabad"
+        },
+        {
+          "label": "C",
+          "text": "Chennai"
+        },
+        {
+          "label": "D",
+          "text": "New Delhi"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "New Delhi"
+      },
+      "explanation": "The Department of Pharmaceuticals under the Ministry of Chemicals and Fertilizers, in collaboration with Federation of Indian Chambers of Commerce and Industry and Indian Pharmaceutical Alliance, will organise the 9th edition of India Pharma 2026 conference on April 13–14, 2026 in New Delhi. The conference aims to transform India’s pharmaceutical sector from a volume-driven model to a value- and innovation-led global industry. The theme “Discover in India: Leapfrogging Life-Sciences Innovation” focuses on boosting research, innovation, and global competitiveness in pharmaceuticals and life sciences. The event seeks to position India as a global hub for advanced drug research, innovation, and healthcare solutions."
+    }
+  ]
+}

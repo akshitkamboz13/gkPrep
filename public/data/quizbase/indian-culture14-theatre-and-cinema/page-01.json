@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-culture14-theatre-and-cinema",
+    "title": "Indian Culture:14-Theatre and Cinema",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:16:15"
+  },
+  "questions": [
+    {
+      "id": 2132,
+      "question": "Who was the first Indian to receive an Oscar?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bhanu Athaiya"
+        },
+        {
+          "label": "B",
+          "text": "Shabana Azmi"
+        },
+        {
+          "label": "C",
+          "text": "Satyajit Ray"
+        },
+        {
+          "label": "D",
+          "text": "Naseeruddin Shah"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Bhanu Athaiya"
+      },
+      "explanation": "Bhanu Athaiya, an eminent costume designer in Indian cinema, became the first Indian to clinch an Oscar. Her ideation and implementation of costumes grace over 100 films and spans over several decades from the 1950s. She collaborated with proficient filmmakers such as Guru Dutt, Yash Chopra, Raj Kapoor, Ashutosh Gowariker, including international directors like Conrad Rooks and Richard Attenborough. She also won two prestigious National Film Awards, in 1991 and 2002, demonstrating her exceptional skills and contribution to the film industry."
+    },
+    {
+      "id": 4373,
+      "question": "Which of the following bodies organizes the ‘Bharat Rang Mahotsav’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indian Council for Cultural Relations"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Culture"
+        },
+        {
+          "label": "C",
+          "text": "National School of Drama"
+        },
+        {
+          "label": "D",
+          "text": "Sahitya Academy"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "National School of Drama"
+      },
+      "explanation": "Bharat Rang Mahotsav’ was established in 1999 as an annual theatre festival of National School of Drama (NSD). Originally it was founded to show case, works of Indian theatre practitioners but later it got international fame and attracted international performers. Now it is acknowledged as the largest theatre festival of Asia. National School of Drama (NSD) is India’s premier theatre training institute operating under the aegis of Union Ministry of Culture"
+    },
+    {
+      "id": 5075,
+      "question": "Who among the following was known as Bengal’s Greata Garbo?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Suchitra Sen"
+        },
+        {
+          "label": "B",
+          "text": "Amaravati"
+        },
+        {
+          "label": "C",
+          "text": "Kanan Devi"
+        },
+        {
+          "label": "D",
+          "text": "Bharathi Shirodkor"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Suchitra Sen"
+      },
+      "explanation": "Legendary actress Suchitra Sen was popularly known as Bengal's Greata Garbo. Sen began her career with the Bengali film “Shesh Kothay” in 1952. She is well known for her role in Devdas and Aandhi. She died at the age of 82."
+    },
+    {
+      "id": 7650,
+      "question": "Who was the first recipient of Dadasaheb Phalke Award?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prithviraj kapoor"
+        },
+        {
+          "label": "B",
+          "text": "Raj kapoor"
+        },
+        {
+          "label": "C",
+          "text": "Devika Rani"
+        },
+        {
+          "label": "D",
+          "text": "Guru Dutt"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Devika Rani"
+      },
+      "explanation": "The first recipient of the Dadasaheb Phalke Award was actress Devika Rani, who was honoured at the 17th National Film Awards."
+    },
+    {
+      "id": 7970,
+      "question": "For which of the following the term Sandalwood is used?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kannada Cinema"
+        },
+        {
+          "label": "B",
+          "text": "Telugu Cinema"
+        },
+        {
+          "label": "C",
+          "text": "Tamil Cinema"
+        },
+        {
+          "label": "D",
+          "text": "South Indian Cinema"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Kannada Cinema"
+      },
+      "explanation": "Sandalwood is the term used for Kannad cinema. Tollywood is used for Telugu cinema. Kollywood is used for Tamil Cinema."
+    }
+  ]
+}

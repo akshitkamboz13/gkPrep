@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "35-changes-in-indian-economy-600-1000-ad",
+    "title": "33. Changes in Indian Economy (600-1000 AD)",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:53:35"
+  },
+  "questions": [
+    {
+      "id": 49033,
+      "question": "In the early medieval India, which of the following refers to tax levied upon the whole village?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bhoga"
+        },
+        {
+          "label": "B",
+          "text": "Kara"
+        },
+        {
+          "label": "C",
+          "text": "Hiranya"
+        },
+        {
+          "label": "D",
+          "text": "Pindka"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Pindka"
+      },
+      "explanation": "The land-grants of the early medieval period mention Bhaga, Bhoga, Kara and Hiranya as the chief sources of revenue to the donees. Pindaka was a tax which was levied upon the whole village."
+    },
+    {
+      "id": 49034,
+      "question": "Which of the following refers to a fine realised for 10 offences committed by the villagers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pindaka"
+        },
+        {
+          "label": "B",
+          "text": "Udranga"
+        },
+        {
+          "label": "C",
+          "text": "Dasaparadh"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Dasaparadh"
+      },
+      "explanation": "Dasaparadha refers to a fine which was realised for 10 offences committed by the villagers. Those offences included disobedience to the orders of the king, murder of a woman, intermixture of castes, adultery, theft, obscenity, assault, etc."
+    },
+    {
+      "id": 49035,
+      "question": "Which of the following probably meant extra cess over and above the fixed revenue of the state during the early medieval period?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hiranya"
+        },
+        {
+          "label": "B",
+          "text": "Pindaka"
+        },
+        {
+          "label": "C",
+          "text": "Udranga"
+        },
+        {
+          "label": "D",
+          "text": "Dasaparadha"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Udranga"
+      },
+      "explanation": "Udranga also called as Upaikara probably meant extra cess over and above the fixed revenue of the state during the early medieval period whereas Dasaparadha was a fine which was collected for 10 offences committed by the villagers."
+    },
+    {
+      "id": 49036,
+      "question": "Hiranya refers to which of the following form of tax during early medieval India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fine realized for 10 offences committed by the villagers."
+        },
+        {
+          "label": "B",
+          "text": "A lumpsum assessment in cash upon villages as distinguished from the grain share of the king assessed upon the individual cultivators."
+        },
+        {
+          "label": "C",
+          "text": "A periodical tax levied primarily upon agricultural land over and above the king\\'s normal share of the grain."
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "A lumpsum assessment in cash upon villages as distinguished from the grain share of the king assessed upon the individual cultivators."
+      },
+      "explanation": "Hiranya during the medieval times referred to lumpsum assessment in cash upon villages as distinguished from the grain share of the king assessed upon the individual cultivators."
+    },
+    {
+      "id": 49037,
+      "question": "Which of the following forms of industry were in vogue during the early medieval period?1. A great variety and different qualities of textiles were produced.2. Surashtra was famous for bell-metal and Vanga for tin industry.3. The art of the jeweller appears to have maintained its old level.Select the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1"
+        },
+        {
+          "label": "B",
+          "text": "Only 2"
+        },
+        {
+          "label": "C",
+          "text": "Only 1 & 3"
+        },
+        {
+          "label": "D",
+          "text": "1, 2 & 3"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "1, 2 & 3"
+      },
+      "explanation": "According to the record of the early medieval period a great variety and different qualities of textiles were produced. The Surashtra region was famous for bell-metal and Vanga for tin industry. However, the art of the jeweller appears to have maintained its old level."
+    }
+  ]
+}

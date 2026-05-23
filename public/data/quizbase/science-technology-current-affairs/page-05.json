@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "science-technology-current-affairs",
+    "title": "Science & Technology Current Affairs MCQs",
+    "page": 5,
+    "total_pages": 8,
+    "generated_at": "2026-05-02 07:01:04",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:31:15"
+  },
+  "questions": [
+    {
+      "id": 41,
+      "question": "Recently, which insect species has been identified as a potential bioindicator to track soil microplastics?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Honey bees"
+        },
+        {
+          "label": "B",
+          "text": "Carabid ground beetles"
+        },
+        {
+          "label": "C",
+          "text": "Fireflies"
+        },
+        {
+          "label": "D",
+          "text": "Termites"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Carabid ground beetles"
+      },
+      "explanation": "Researchers recently found that carabid ground beetles can act as bioindicators to track soil microplastics. They are commonly called ground beetles and belong to the Carabidae family. These beetles play a key role in the food web as both predators and prey species. They live in diverse habitats such as forests, grasslands, agricultural fields, wetlands, and urban areas. They thrive in temperate to tropical climates. Ecologically, they help in biological pest control and now aid in monitoring soil pollution."
+    },
+    {
+      "id": 42,
+      "question": "What type of exoplanet is “GJ 251c” that was recently seen in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gas giant"
+        },
+        {
+          "label": "B",
+          "text": "Ice giant"
+        },
+        {
+          "label": "C",
+          "text": "Mini-Neptune"
+        },
+        {
+          "label": "D",
+          "text": "Super-Earth"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Super-Earth"
+      },
+      "explanation": "In October 2025, scientists discovered a new exoplanet named GJ 251c, located less than 20 light-years from Earth. The discovery was made by an international team, including researchers from Penn State University (PSU), USA. The finding was published in The Astronomical Journal. GJ 251c is a super-Earth, about four times the mass of Earth and likely rocky in composition. It was detected using the radial-velocity method, with data from the Habitable Zone Planet Finder (HPF) at PSU’s Hobby-Eberly Telescope (HET). The discovery provides key insights into planetary formation and the search for potentially habitable exoplanets."
+    },
+    {
+      "id": 43,
+      "question": "Which country has achieved the world’s first conversion of thorium into uranium fuel inside a Thorium Molten Salt Reactor (TMSR)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bangladesh"
+        },
+        {
+          "label": "B",
+          "text": "China"
+        },
+        {
+          "label": "C",
+          "text": "Japan"
+        },
+        {
+          "label": "D",
+          "text": "India"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "China"
+      },
+      "explanation": "China has achieved the world’s first conversion of thorium into uranium fuel inside a Thorium Molten Salt Reactor (TMSR). It marks the first-ever experimental data on thorium operation from within a molten salt reactor. The 2 megawatt liquid-fuelled TMSR is currently the only operating reactor successfully using thorium fuel. A Molten Salt Reactor (MSR) is a fourth-generation nuclear reactor using molten salt as both coolant and fuel carrier instead of solid rods."
+    },
+    {
+      "id": 44,
+      "question": "What is the name of India’s first indigenous CAR-T Cell Therapy recently unveiled at the Emerging Science, Technology & Innovation Conclave 2025?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CARIND-1"
+        },
+        {
+          "label": "B",
+          "text": "NexCAR19"
+        },
+        {
+          "label": "C",
+          "text": "BioCure-India"
+        },
+        {
+          "label": "D",
+          "text": "None of the Above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "NexCAR19"
+      },
+      "explanation": "In a historic milestone, Prime Minister Narendra Modi unveiled NexCAR19, India’s first indigenous CAR-T Cell Therapy, at the Emerging Science, Technology & Innovation Conclave (ESTIC) 2025 in Delhi. It is developed by ImmunoACT, an IIT Bombay spin-off. It is supported by the Department of Biotechnology (DBT) and Biotechnology Industry Research Assistance Council (BIRAC). NexCAR19 is the world’s first humanised CAR-T therapy, truly “Made in India, for the world.” CAR-T Cell Therapy is an immunotherapy that reprograms a patient’s immune cells to fight blood cancers like Acute Lymphocytic Leukemia (ALL)."
+    },
+    {
+      "id": 45,
+      "question": "Which country has discovered a new bee species named Lucifer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Australia"
+        },
+        {
+          "label": "B",
+          "text": "Brazil"
+        },
+        {
+          "label": "C",
+          "text": "India"
+        },
+        {
+          "label": "D",
+          "text": "China"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Australia"
+      },
+      "explanation": "Australian scientists discovered a new native bee species named Lucifer. The species is scientifically called Megachile (Hackeriapis) Lucifer. It was first found in 2019 in Western Australia. This is the first new member of this bee group described in over 20 years. Australia has about 2,000 native bee species, with more than 300 yet to be scientifically named and described."
+    },
+    {
+      "id": 46,
+      "question": "What kind of disease is African Swine Fever (ASF) that was recently seen in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fungal disease"
+        },
+        {
+          "label": "B",
+          "text": "Viral disease"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial disease"
+        },
+        {
+          "label": "D",
+          "text": "None of the Above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Viral disease"
+      },
+      "explanation": "The Assam Government recently banned inter-district movement of live pigs to stop the spread of African Swine Fever (ASF), a rising concern in the region. African Swine Fever (ASF) is a highly contagious and deadly viral disease affecting pigs and wild boar, with mortality up to 90–100%. It is not zoonotic, meaning it does not infect humans or other livestock. First found in sub-Saharan Africa, ASF is now present across Europe, Asia and Africa, with India reporting its first cases in 2020 in Assam and Arunachal Pradesh."
+    },
+    {
+      "id": 47,
+      "question": "What is the name of India’s first indigenous CRISPR-based gene therapy for Sickle Cell Disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "SCD-CURE"
+        },
+        {
+          "label": "B",
+          "text": "GEN-EDIT 1"
+        },
+        {
+          "label": "C",
+          "text": "BIRSA 101"
+        },
+        {
+          "label": "D",
+          "text": "HematoGene"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "BIRSA 101"
+      },
+      "explanation": "India’s first indigenous CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats)-based gene therapy for Sickle Cell Disease (SCD), named BIRSA 101, was recently launched by the Union Minister of State (Independent Charge) for Science & Technology. It is developed by CSIR (Council of Scientific and Industrial Research) – Institute of Genomics and Integrative Biology (IGIB). BIRSA 101 uses CRISPR-Cas9 gene-editing technology to precisely correct the genetic mutation causing SCD. The therapy is administered as a one-time infusion, after which the body produces normal red blood cells instead of sickle-shaped ones."
+    },
+    {
+      "id": 48,
+      "question": "Where was India’s first all-composite airframe two-seater trainer aircraft, Hansa-3(NG), launched?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bengaluru"
+        },
+        {
+          "label": "B",
+          "text": "New Delhi"
+        },
+        {
+          "label": "C",
+          "text": "Hyderabad"
+        },
+        {
+          "label": "D",
+          "text": "Mumbai"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Bengaluru"
+      },
+      "explanation": "Union Minister of State (Independent Charge) for Science & Technology, Dr. Jitendra Singh, launched Hansa-3(NG), first indigenous all-composite two-seater trainer aircraft for Private Pilot License (PPL) and Commercial Pilot License (CPL) training at CSIR–National Aerospace Laboratories (NAL), Bengaluru. Hansa-3(NG) reduces foreign dependence and boosts aviation entrepreneurship. The aircraft will help flying clubs meet India’s growing demand for trained pilots."
+    },
+    {
+      "id": 49,
+      "question": "Leprosy (Hansen’s disease), that was recently seen in news, is caused by which agent?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bacteria"
+        },
+        {
+          "label": "B",
+          "text": "Virus"
+        },
+        {
+          "label": "C",
+          "text": "Fungus"
+        },
+        {
+          "label": "D",
+          "text": "Protozoa"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Bacteria"
+      },
+      "explanation": "The National Human Rights Commission (NHRC) reported that 97 central and state laws still have provisions discriminating against persons affected by leprosy. Leprosy (Hansen’s disease) is a chronic bacterial infection caused by bacteria Mycobacterium leprae affecting skin, peripheral nerves, and eyes, which can cause permanent disabilities if untreated. The bacteria spread through droplets from the nose and mouth during close, frequent contact with untreated cases. India’s prevalence rate decreased from 57.2 per 10,000 in 1981 to 0.57 per 10,000 in 2025, achieving national elimination status in 2005."
+    },
+    {
+      "id": 50,
+      "question": "What is Annatto, that was recently seen in news?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A natural food colour and flavouring agent"
+        },
+        {
+          "label": "B",
+          "text": "A type of fertilizer"
+        },
+        {
+          "label": "C",
+          "text": "A synthetic vitamin supplement"
+        },
+        {
+          "label": "D",
+          "text": "A synthetic antioxidant"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "A natural food colour and flavouring agent"
+      },
+      "explanation": "Council of Scientific and Industrial Research (CSIR) informed that CSIR–Central Food Technological Research Institute (CSIR–CFTRI), Mysuru worked on four Grant-in-Aid projects on annatto. Annatto is a natural food colour and flavour from seeds of the achiote tree (Bixa orellana), native to tropical Americas. Nearly 70% of natural food colours come from annatto, giving yellow-orange colour to cheese, butter, yogurt, sausages, smoked fish, ice cream, and baked goods. Colour comes from carotenoid pigments; seeds are ground into powder or paste or extracted as dye. It adds mild peppery, nutty and floral flavour; safe in normal amounts but may cause allergies."
+    }
+  ]
+}

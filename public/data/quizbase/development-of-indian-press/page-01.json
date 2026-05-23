@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "development-of-indian-press",
+    "title": "24. Indian Press & Literature in British Era",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:10:37"
+  },
+  "questions": [
+    {
+      "id": 437,
+      "question": "Who was called \"Liberator of India Press\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lord William Bentinck"
+        },
+        {
+          "label": "B",
+          "text": "Sir Charles Metcalfe"
+        },
+        {
+          "label": "C",
+          "text": "Lord Auckland"
+        },
+        {
+          "label": "D",
+          "text": "Lord Ellenborough"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Sir Charles Metcalfe"
+      },
+      "explanation": "Sir Charles Metcalfe (1835-36) is known to have given full liberty to the press and thus was known so. He had though a short tenure which ended quickly due to politics at home."
+    },
+    {
+      "id": 2974,
+      "question": "Which Viceroy passed the Vernacular Press Act and the Arms Act of 1878?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lord Lytton"
+        },
+        {
+          "label": "B",
+          "text": "Lord Mayo"
+        },
+        {
+          "label": "C",
+          "text": "Lord Dalhousie"
+        },
+        {
+          "label": "D",
+          "text": "Lord Hardinge"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Lord Lytton"
+      },
+      "explanation": "Lord Lytton served as Viceroy of India between 1876 and 1880. He has been criticised for his handling of the Great Famine of 1876–78 and the Second Anglo-Afghan War. He passed the Vernacular Press Act and the Arms Act of 1878."
+    },
+    {
+      "id": 4338,
+      "question": "The name of Barindra Ghosh is associated with which among the following newspapers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indian Opinion"
+        },
+        {
+          "label": "B",
+          "text": "Jugantar"
+        },
+        {
+          "label": "C",
+          "text": "Ghadar"
+        },
+        {
+          "label": "D",
+          "text": "Maharatta"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Jugantar"
+      },
+      "explanation": "Jugantar was a Bengali revolutionary paper founded in 1906 by Barindra kumar Ghosh, Abinash Bhattacharya and Bhupendranath Dutta."
+    },
+    {
+      "id": 4735,
+      "question": "Who among the following edited and published the newspaper Indian Mirror in 1861?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amitava Ghosh"
+        },
+        {
+          "label": "B",
+          "text": "Ravindranath Tagore"
+        },
+        {
+          "label": "C",
+          "text": "Sumit Ganguly"
+        },
+        {
+          "label": "D",
+          "text": "Manmohan Ghosh and Devendranath Tagore"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Manmohan Ghosh and Devendranath Tagore"
+      },
+      "explanation": "In 1861, the newspaper, Indian Mirror, was edited and published by Manmohan Ghosh and Devendranath Tagore from Calcutta."
+    },
+    {
+      "id": 4778,
+      "question": "Who among the following founded the Indian Society of Oriental Art to revive the ancient art traditions of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Abanindranath Tagore"
+        },
+        {
+          "label": "B",
+          "text": "Ravindranath Tagore"
+        },
+        {
+          "label": "C",
+          "text": "Surendranath Ganguly"
+        },
+        {
+          "label": "D",
+          "text": "Mukul Dey"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Abanindranath Tagore"
+      },
+      "explanation": "Abanidranath Tagore had founded Indian Society of Oriental Art in Kolkata to revive the ancient art traditions of India. He was the principal of government school of art and a great artist of modern India."
+    }
+  ]
+}

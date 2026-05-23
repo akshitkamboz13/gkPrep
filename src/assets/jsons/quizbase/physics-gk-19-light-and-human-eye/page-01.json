@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physics-gk-19-light-and-human-eye",
+    "title": "Physics GK 19 - Light and Human Eye",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:31:32"
+  },
+  "questions": [
+    {
+      "id": 3065,
+      "question": "Which of the following statements is incorrect about a Plane Mirror?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The focal length of a plane mirror is infinity"
+        },
+        {
+          "label": "B",
+          "text": "Its optical power is one"
+        },
+        {
+          "label": "C",
+          "text": "It forms a virtual image of a real object"
+        },
+        {
+          "label": "D",
+          "text": "It is used in constructing periscope"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Its optical power is one"
+      },
+      "explanation": "Second statement is incorrect because the optical power of plane mirror is zero."
+    },
+    {
+      "id": 4330,
+      "question": "What is the focal length of a concave lense with number -5D?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5 cm"
+        },
+        {
+          "label": "B",
+          "text": "10 cm"
+        },
+        {
+          "label": "C",
+          "text": "15 cm"
+        },
+        {
+          "label": "D",
+          "text": "20 cm"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "20 cm"
+      },
+      "explanation": "A concave lens is a type of lens that has a thinner center than edges, and it is sometimes called a diverging lens because it spreads out light rays that are parallel to its axis. The focal length of a lens is a measure of its ability to focus light, and it is defined as the distance from the lens to the point where the light rays converge. In the case of a concave lens with a power of -5D, the focal length would be equal to 1/5 of a meter, or 20 centimeters."
+    },
+    {
+      "id": 4344,
+      "question": "Which among the following radiations in the Sunlight causes tanning and sunburn?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ultraviolet"
+        },
+        {
+          "label": "B",
+          "text": "Visible"
+        },
+        {
+          "label": "C",
+          "text": "Infrared"
+        },
+        {
+          "label": "D",
+          "text": "Micro waves"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ultraviolet"
+      },
+      "explanation": "The sunlight that reaches the earth has ultraviolet A and ultraviolet B (UVA and UVB) rays. These ultraviolet rays are the main causes of damage to the skin from the sun. UVA and UVB rays affect the skin's sensitivity to sun exposure in different ways."
+    },
+    {
+      "id": 4414,
+      "question": "Which eye defect causes image focus in front of the retina?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Presbyopia"
+        },
+        {
+          "label": "B",
+          "text": "Hypertropia"
+        },
+        {
+          "label": "C",
+          "text": "Myopia"
+        },
+        {
+          "label": "D",
+          "text": "Hyperopia"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Myopia"
+      },
+      "explanation": "Myopia (short-sightedness) occurs when images are focused in front of the retina, causing distant objects to appear blurry. It is commonly due to an elongated eyeball or excessive corneal curvature. This defect is corrected using concave (diverging) lenses. Hyperopia, by contrast, focuses images behind the retina."
+    },
+    {
+      "id": 5498,
+      "question": "Which among the following kinds of lenses are used to treat Astigmatism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Convex Lens"
+        },
+        {
+          "label": "B",
+          "text": "Concave Lens"
+        },
+        {
+          "label": "C",
+          "text": "Bifocal Lens"
+        },
+        {
+          "label": "D",
+          "text": "Cylindrical"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Cylindrical"
+      },
+      "explanation": "Astigmatism is due to imperfect spherical nature of eye lens. The focal length of eye lens is in two orthogonal directions become different so they cannot see objects in two orthogonal directions simultaneously. This defect in direction can be removed by using cylindrical lens in a particular direction."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "title": "Daily Current Affairs Quiz: April 24, 2026",
+    "date": "2026-04-24",
+    "year": "2026",
+    "month": "04-april",
+    "day": 24,
+    "total_pages": 1,
+    "generated_at": "2026-05-02 02:25:57",
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 10:51:02"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "NARIT-AI has been launched by which state police?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gujarat"
+        },
+        {
+          "label": "B",
+          "text": "Rajasthan"
+        },
+        {
+          "label": "C",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "D",
+          "text": "Karnataka"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Gujarat"
+      },
+      "explanation": "The Narcotics Analysis and Retrieval Augmented Generation-based Investigation Tool (NARIT-AI) is an Artificial Intelligence-based system launched by the Gujarat Police to handle complex narcotics cases. It is designed to assist investigations under the Narcotic Drugs and Psychotropic Substances (NDPS) Act, aiming to improve efficiency and conviction rates. The tool was developed by the Western Railway Police, Vadodara Division in collaboration with Gradiante Creative Services. It operates on a closed database including Supreme Court and High Court judgments and legal codes such as Bharatiya Nyaya Sanhita (BNS), Bharatiya Nagarik Suraksha Sanhita (BNSS), and Bharatiya Sakshya Adhiniyam (BSA)."
+    },
+    {
+      "id": 2,
+      "question": "Online Gaming Authority of India (OGAI) functions under which ministry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ministry of Home Affairs"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Electronics and Information Technology"
+        },
+        {
+          "label": "C",
+          "text": "Ministry of Finance"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Youth Affairs and Sports"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Ministry of Electronics and Information Technology"
+      },
+      "explanation": "The Government of India has recently established the Online Gaming Authority of India (OGAI) under the Promotion and Regulation of Online Gaming Act, 2025 to regulate the growing online gaming sector. It functions under the Ministry of Electronics and Information Technology (MeitY) and become operational from May 1, 2026. The authority will act as a central regulator for online games, including esports, by introducing a system for registration and classification. It will determine whether a game qualifies as a money game and handle public grievances related to online gaming."
+    },
+    {
+      "id": 3,
+      "question": "Santiaguito Volcano, that was recently seen in news, is located in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "China"
+        },
+        {
+          "label": "B",
+          "text": "Malaysia"
+        },
+        {
+          "label": "C",
+          "text": "Guatemala"
+        },
+        {
+          "label": "D",
+          "text": "Indonesia"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Guatemala"
+      },
+      "explanation": "The Santiaguito Volcano is an active volcano located in western Guatemala near the city of Quetzaltenango. It was formed after the major 1902 eruption of the Santa María Volcano. It consists of a lava-dome complex and is among the most active volcanic regions in the world. The volcano frequently emits ash and smoke, indicating continuous volcanic activity. Occasionally, it produces lava flows and dangerous pyroclastic flows. Recently, an eruption forced hikers to flee as rocks and volcanic material were ejected into the air."
+    },
+    {
+      "id": 4,
+      "question": "A new fanged frog species named Limnonectes motijheel was recently discovered in which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tripura"
+        },
+        {
+          "label": "B",
+          "text": "Assam"
+        },
+        {
+          "label": "C",
+          "text": "Manipur"
+        },
+        {
+          "label": "D",
+          "text": "Arunachal Pradesh"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Arunachal Pradesh"
+      },
+      "explanation": "Recently, Indian scientists discovered a new fanged frog species named Limnonectes motijheel in the Namdapha Tiger Reserve, Arunachal pradesh, highlighting rich biodiversity in Northeast India. It is a newly identified species belonging to the genus Limnonectes, which now has six known species in India. The frog is named after Motijheel Lake, an area known for high amphibian diversity. It belongs to the group called fanged frogs, where males possess small fang-like projections in the lower jaw, possibly used for feeding or territorial behaviour. These frogs are generally found across South and Southeast Asia and show unique reproductive traits."
+    },
+    {
+      "id": 5,
+      "question": "The Curiosity rover mission was launched by which space organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "National Aeronautics and Space Administration (NASA)"
+        },
+        {
+          "label": "B",
+          "text": "China National Space Administration (CNSA)"
+        },
+        {
+          "label": "C",
+          "text": "European Space Agency (ESA)"
+        },
+        {
+          "label": "D",
+          "text": "Japan Aerospace Exploration Agency (JAXA)"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "National Aeronautics and Space Administration (NASA)"
+      },
+      "explanation": "Recently, the Curiosity rover of NASA detected a mix of organic molecules on Mars, strengthening evidence about the planet’s past habitability. The Curiosity rover mission was launched by the National Aeronautics and Space Administration (NASA). It was launched on November 26, 2011, the rover is a key component of the Mars Science Laboratory (MSL) mission to study Gale Crater on Mars. Its objectives include studying whether life ever existed, understanding Mars’ climate and geology, and preparing for future human missions."
+    }
+  ]
+}

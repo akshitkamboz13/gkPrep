@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-polity-34-elections-election-laws-in-india",
+    "title": "Elections & Election Laws in India",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:21:39"
+  },
+  "questions": [
+    {
+      "id": 6145,
+      "question": "The system of \"Proportional Representation\" is used in India to elect which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prime minister"
+        },
+        {
+          "label": "B",
+          "text": "Governor"
+        },
+        {
+          "label": "C",
+          "text": "President"
+        },
+        {
+          "label": "D",
+          "text": "Members of Parliament"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "President"
+      },
+      "explanation": "In India, President, Vice President, Members of Rajya Sabha and Members of state legislative councils are elected by Proportional Respresentation."
+    },
+    {
+      "id": 6768,
+      "question": "Article 326 of Indian Constitution originally granted electoral franchise to every Indian Citizen who has not been declared a bankrupt, criminal, insane, or a non resident and has attained age of ____________?",
+      "options": [
+        {
+          "label": "A",
+          "text": "18 years"
+        },
+        {
+          "label": "B",
+          "text": "20 years"
+        },
+        {
+          "label": "C",
+          "text": "21 years"
+        },
+        {
+          "label": "D",
+          "text": "25 years"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "21 years"
+      },
+      "explanation": "Article 326 of the Indian Constitution provides that the elections to the Lok Sabha and to the Legislative Assembly of every state shall be on the basis of adult suffrage which means a person should not be less than 21 years of age. However, this article was amended by Constitution (Sixty-first Amendment) Act, 1988 to reduce the age from 21 to 18 years."
+    },
+    {
+      "id": 8515,
+      "question": "Which among the following regarding NRI’s Voting rights is correct ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NRIs can not vote in parliamentary and assembly elections"
+        },
+        {
+          "label": "B",
+          "text": "NRIs can not vote in parliamentary elections but can vote in assembly elections"
+        },
+        {
+          "label": "C",
+          "text": "NRIs can vote in parliamentary elections but can not vote in assembly elections"
+        },
+        {
+          "label": "D",
+          "text": "NRIs can vote in parliamentary as well as assembly elections"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "NRIs can vote in parliamentary as well as assembly elections"
+      },
+      "explanation": "NRIs can vote in parliamentary as well as assembly elections. An NRI is any Indian citizen who is ordinarily residing outside India and holds an Indian Passport."
+    },
+    {
+      "id": 8519,
+      "question": "For elections in Lok Sabha & Assemblies in India, the following system is used?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Proportional representation"
+        },
+        {
+          "label": "B",
+          "text": "Functional representation"
+        },
+        {
+          "label": "C",
+          "text": "Territorial representation"
+        },
+        {
+          "label": "D",
+          "text": "Communal representation"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Territorial representation"
+      },
+      "explanation": "For the election of Lok Sabha and assemblies in India, the system of territorial representation is adopted. It aims at giving representation on the basis of territories irrespective of the population of that territory."
+    },
+    {
+      "id": 8865,
+      "question": "Which article of Indian Constitution provides adult suffrage?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Article 321"
+        },
+        {
+          "label": "B",
+          "text": "Article 325"
+        },
+        {
+          "label": "C",
+          "text": "Article 326"
+        },
+        {
+          "label": "D",
+          "text": "Article 330"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Article 326"
+      },
+      "explanation": "Article 326 provides universal suffrage to every citizen of India who has completed 18 years. Originally, the age of voting eligibility was 21 years byt the 61st Amendment of the Constitution of India lowered the voting age of elections to the Lok Sabha and to the Legislative Assemblies of States from 21 years to 18 years."
+    }
+  ]
+}

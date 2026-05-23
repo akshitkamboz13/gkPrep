@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "sports-gk",
+    "title": "Sports GK MCQs",
+    "page": 4,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 07:02:03",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:32:12"
+  },
+  "questions": [
+    {
+      "id": 31,
+      "question": "What is Deng Yaping famous for?",
+      "options": [
+        {
+          "label": "A",
+          "text": "As a Chinese badminton player"
+        },
+        {
+          "label": "B",
+          "text": "As a Chinese badminton squash player"
+        },
+        {
+          "label": "C",
+          "text": "As a Chinese badminton table tennis player"
+        },
+        {
+          "label": "D",
+          "text": "As a Chinese badminton football player"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "As a Chinese badminton table tennis player"
+      },
+      "explanation": "Deng Yaping is a Chinese table tennis player, who won eighteen world championships including four Olympic championships between 1989 and 1997. She is regarded as one of the greatest players in the history of the sport."
+    },
+    {
+      "id": 32,
+      "question": "Which Indian players won the silver medal in table tennis men’s doubles at the 2018 Commonwealth Games?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Harmeet Desai and Sanil Shetty"
+        },
+        {
+          "label": "B",
+          "text": "Anthony Amalraj and Harmeet Desai"
+        },
+        {
+          "label": "C",
+          "text": "Sharath Achanta and Sathiyan Gnanasekaran"
+        },
+        {
+          "label": "D",
+          "text": "Sharath Achanta and Sanil Shetty"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Sharath Achanta and Sathiyan Gnanasekaran"
+      },
+      "explanation": "Sharath Achanta and Sathiyan Gnanasekaran won the silver medal in table tennis men’s doubles at the 2018 Commonwealth Games. Table tennis at the 2018 Commonwealth Games was held at the Oxenford Studios on the Gold Coast, Australia from April 5 to 15."
+    },
+    {
+      "id": 33,
+      "question": "Which is the oldest golf club in the world?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Royal and Ancient Golf Club of St .Andrews"
+        },
+        {
+          "label": "B",
+          "text": "United States Golf Association"
+        },
+        {
+          "label": "C",
+          "text": "International Golf Federation"
+        },
+        {
+          "label": "D",
+          "text": "The R&A"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "The Royal and Ancient Golf Club of St .Andrews"
+      },
+      "explanation": "The Royal and Ancient Golf Club of St Andrews is the oldest golf club in the world. It is based in Scotland, United Kingdom and is regarded as the worldwide “Home of Golf”. Formerly, it was also one of the governing authorities of the game, but this role was handed over to The R&A."
+    },
+    {
+      "id": 34,
+      "question": "Which sport’s competition is known as “The Open Championship”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tennis"
+        },
+        {
+          "label": "B",
+          "text": "Basketball"
+        },
+        {
+          "label": "C",
+          "text": "Golf"
+        },
+        {
+          "label": "D",
+          "text": "Cricket"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Golf"
+      },
+      "explanation": "The Open Championship, often referred to as The Open or the British Open, is the oldest golf tournament in the world, and one of the most prestigious. Founded in 1860, it was originally held annually at Prestwick Golf Club, Scotland, before evolving to being rotated between a select group of coastal links golf courses in the United Kingdom, under the authority of The R&A."
+    },
+    {
+      "id": 35,
+      "question": "What is the “Pebble Beach Club” famous for?",
+      "options": [
+        {
+          "label": "A",
+          "text": "As a tennis club"
+        },
+        {
+          "label": "B",
+          "text": "As a cricket club"
+        },
+        {
+          "label": "C",
+          "text": "As a golf club"
+        },
+        {
+          "label": "D",
+          "text": "As a football club"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "As a golf club"
+      },
+      "explanation": "Pebble Beach Golf Links is a public golf course on the west coast of the United States, located in Pebble Beach, California. Widely regarded as one of the most beautiful courses in the world, it hugs the rugged coastline and has wide-open views of Carmel Bay, opening to the Pacific Ocean on the south side of the Monterey Peninsula. In 2001, it became the first public course to be selected as the No. 1 Golf Course in America by Golf Digest. Greens fees are among the highest in the world."
+    },
+    {
+      "id": 36,
+      "question": "Which sport’s professional competition is “ANA Inspiration”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Golf"
+        },
+        {
+          "label": "B",
+          "text": "Basketball"
+        },
+        {
+          "label": "C",
+          "text": "Tennis"
+        },
+        {
+          "label": "D",
+          "text": "Football"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Golf"
+      },
+      "explanation": "The ANA Inspiration (formerly known most recently as the Kraft Nabisco Championship, and still sometimes referred to as the Dinah Shore) is one of the five major championships of professional women’s golf. It is an event of the LPGA Tour. Currently, in the United States, it is the only one of the five women’s major golf tournaments not to have broadcast network exposure on the weekend; all four rounds are currently televised by the Golf Channel cable television network."
+    },
+    {
+      "id": 37,
+      "question": "Who won the gold medal in golf men’s individual at the 2018 Asian Games?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Keita Nakajima"
+        },
+        {
+          "label": "B",
+          "text": "Oh Seung-taek"
+        },
+        {
+          "label": "C",
+          "text": "Jin Cheng"
+        },
+        {
+          "label": "D",
+          "text": "Takumi Kanaya"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Keita Nakajima"
+      },
+      "explanation": "Keita Nakajima won the gold medal in golf men’s individual at the 2018 Asian Games. Golf at the 2018 Asian Games was held at Pondok Indah Golf Course, Jakarta, Indonesia, from 23 to 26 August 2018 and featured four events: the men’s individual and team events and women’s individual and team events."
+    },
+    {
+      "id": 38,
+      "question": "Who is the youngest boxer to win a heavyweight title?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Muhammad Ali"
+        },
+        {
+          "label": "B",
+          "text": "Mike Tyson"
+        },
+        {
+          "label": "C",
+          "text": "Joe Frazier"
+        },
+        {
+          "label": "D",
+          "text": "James Toney"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Mike Tyson"
+      },
+      "explanation": "Mike Tyson is an American former professional boxer who competed from 1985 to 2005. Nicknamed “Iron Mike” and “Kid Dynamite” in his early career, and later known as “The Baddest Man on the Planet”, Tyson is considered one of the best heavyweight boxers of all time. He reigned as the undisputed world heavyweight champion from 1987 to 1990. Claiming his first belt at 20 years, four months, and 22 days old, Tyson holds the record as the youngest boxer to win a heavyweight title."
+    },
+    {
+      "id": 39,
+      "question": "Which sport’s competition is the “Fight of the Century” match between Jack Dempsey and Georges Carpentier in 1921?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wrestling"
+        },
+        {
+          "label": "B",
+          "text": "Boxing"
+        },
+        {
+          "label": "C",
+          "text": "Weightlifting"
+        },
+        {
+          "label": "D",
+          "text": "Tennis"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Boxing"
+      },
+      "explanation": "Jack Dempsey versus Georges Carpentier was a boxing fight between world heavyweight champion Jack Dempsey and world light-heavyweight champion Georges Carpentier, which was one of the fights named the “Fight of the Century”. The bout took place in the United States on Saturday, July 2, 1921, at Boyle’s Thirty Acres in Jersey City, New Jersey."
+    },
+    {
+      "id": 40,
+      "question": "Who is the first Indian female boxer to win a gold medal in the Asian Games?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pinki Jangra"
+        },
+        {
+          "label": "B",
+          "text": "Mary Kom"
+        },
+        {
+          "label": "C",
+          "text": "Manisha Moun"
+        },
+        {
+          "label": "D",
+          "text": "Simranjit Kaur"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Mary Kom"
+      },
+      "explanation": "Mary Kom is the first Indian female boxer to win a gold medal in the Asian Games. Mary Kom is an Indian amateur boxer. She is the only female to become World Amateur Boxing champion for a record six times, the only female boxer to have won a medal in each one of the first seven World Championships, and the only boxer (male or female) to win eight World Championship medals. Nicknamed Magnificent Mary, she is the only Indian female boxer to have qualified for the 2012 Summer Olympics, competing in the flyweight (51 kg) category and winning a bronze medal. She became the first Indian female boxer to win a gold medal in the Asian Games in 2014 at Incheon, South Korea and is the first Indian female boxer to win gold at the 2018 Commonwealth Games. She is also the only boxer to become Asian Amateur Boxing Champion for a record six times."
+    }
+  ]
+}

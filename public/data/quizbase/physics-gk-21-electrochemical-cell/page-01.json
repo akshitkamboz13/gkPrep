@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physics-gk-21-electrochemical-cell",
+    "title": "Physics GK 21 - Electrochemical Cell",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:31:45"
+  },
+  "questions": [
+    {
+      "id": 27055,
+      "question": "What is the equivalent internal resistance of a series combination of n cells?",
+      "options": [
+        {
+          "label": "A",
+          "text": "the arithmetic mean of their internal resistance"
+        },
+        {
+          "label": "B",
+          "text": "the product of their individual internal resistance"
+        },
+        {
+          "label": "C",
+          "text": "the sum of their individual internal resistance"
+        },
+        {
+          "label": "D",
+          "text": "the sum of the reciprocal of their individual internal resistance"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "the sum of their individual internal resistance"
+      },
+      "explanation": "The equivalent internal resistance of a series combination of n cells is just the sum of their internal resistances."
+    },
+    {
+      "id": 27058,
+      "question": "What do we call a cell that induces a spontaneous redox reaction to create a flow of electrical charges?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Voltaic cell"
+        },
+        {
+          "label": "B",
+          "text": "Electrolytic cell"
+        },
+        {
+          "label": "C",
+          "text": "Such cells don’t exist"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Voltaic cell"
+      },
+      "explanation": "A Galvanic cell or Voltaic cell induces a spontaneous redox reaction to create a flow of electrical charges, or electricity."
+    },
+    {
+      "id": 27059,
+      "question": "Which of the following cells is the basis of Non-rechargeable batteries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Galvanic cells"
+        },
+        {
+          "label": "B",
+          "text": "Electrolytic cells"
+        },
+        {
+          "label": "C",
+          "text": "Both a and b"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Galvanic cells"
+      },
+      "explanation": "Non-rechargeable batteries are examples of Galvanic cells."
+    },
+    {
+      "id": 27060,
+      "question": "What do we call the cell that requires an outside electrical source to drive the non-spontaneous redox reaction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Voltaic cell"
+        },
+        {
+          "label": "B",
+          "text": "Electrolytic cell"
+        },
+        {
+          "label": "C",
+          "text": "Galvanic cell"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Electrolytic cell"
+      },
+      "explanation": "An Electrolytic cell is one kind of battery that requires an outside electrical source to drive the non-spontaneous redox reaction."
+    },
+    {
+      "id": 27061,
+      "question": "What kind of cell is the mobile phone battery when it is being charged?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Galvanic cell"
+        },
+        {
+          "label": "B",
+          "text": "Fuel cell"
+        },
+        {
+          "label": "C",
+          "text": "Electrolytic cell"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Electrolytic cell"
+      },
+      "explanation": "While the battery is being used in the device it is a galvanic cell function (using the redox energy to produce electricity). While the battery is charging it is an electrolytic cell function (using outside electricity to reverse the completed redox reaction)."
+    }
+  ]
+}

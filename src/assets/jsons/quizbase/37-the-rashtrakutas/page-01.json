@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "37-the-rashtrakutas",
+    "title": "35. The Rashtrakutas",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:53:44"
+  },
+  "questions": [
+    {
+      "id": 5726,
+      "question": "Who among the following was the founder of Rastrakuta dynasty ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dantidurga"
+        },
+        {
+          "label": "B",
+          "text": "Krishna -I"
+        },
+        {
+          "label": "C",
+          "text": "Indra – II"
+        },
+        {
+          "label": "D",
+          "text": "Govinda -I"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Dantidurga"
+      },
+      "explanation": "In the mid of the 8th century, Dantidurga , who was one of the chieftain of ancient Rastrakuta family fought his way to the front and overthrew Kirtivarman II, thus bringing an end to the main branch of Chalukyas. This was the beginning of the Rastrakuta Empire in Deccan."
+    },
+    {
+      "id": 6702,
+      "question": "Krishna I , who was a king of Rashtrakuta dynasty is related to which of the following ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shiva Temples of Ellora"
+        },
+        {
+          "label": "B",
+          "text": "Ajanata Caves"
+        },
+        {
+          "label": "C",
+          "text": "Khajuraho Temples"
+        },
+        {
+          "label": "D",
+          "text": "Ellora caves"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Shiva Temples of Ellora"
+      },
+      "explanation": "Krishna I is known for completing the establishment of Rastrakuta supremacy over the dominions of Chalukyas. Last Badami Chalukya Kirtivarman II though defeated by Dantidurga, but remained in power till 757 AD when he was destroyed by Krishna I. This is mentioned in the copper plate grant of Govinda III. Krishna I is best known for execution of the most marvelous architectural work in India i.e. Kailas Temple at Ellora. Kailas Temple is the most extensive and most opulent example of rock cut architecture in India."
+    },
+    {
+      "id": 6779,
+      "question": "Manyakheta (modern Malkhed) on the banks of Kagina River in Gulbarga district, Karnataka state was the capital of ______?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Satvahanas"
+        },
+        {
+          "label": "B",
+          "text": "Rastrakutas"
+        },
+        {
+          "label": "C",
+          "text": "Hoysalas"
+        },
+        {
+          "label": "D",
+          "text": "Kakatiyas"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Rastrakutas"
+      },
+      "explanation": "Manyakheta, also known as Malkhed, was the capital of the Rashtrakutas from 818 to 982. The city is located on the banks of the Kagina River in the Gulbarga district of Karnataka, India. It's about 40 miles (25 km) from Gulbarga city. The Rashtrakutas were a royal dynasty that ruled large parts of the Indian subcontinent between the 6th and 10th centuries. The city became well-known during the Rashtrakuta dynasty because it was a place where Jain, Buddhist, and Hindu scholars studied. The city was destroyed by Rajendra Chola in 1007 CE. It remained the capital of the Rashtrakutas' successors, the Kalyani Chalukyas, until about 1050 CE. Today, Malkhed is a place of historical importance. It has the ruins of an ancient fort with four entrances and 52 bastions. The fort is currently under renovation."
+    },
+    {
+      "id": 14276,
+      "question": "Which language was used by Rashtrakutas as their mother tongue ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kannada"
+        },
+        {
+          "label": "B",
+          "text": "Tamil"
+        },
+        {
+          "label": "C",
+          "text": "Oddisi"
+        },
+        {
+          "label": "D",
+          "text": "Telgu"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Kannada"
+      },
+      "explanation": "The Rashtrakutas were of Kannada origin and Kannada language was their mother tongue."
+    },
+    {
+      "id": 14280,
+      "question": "Who is the author of the ancient Sanskrit text Kavirahasya?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Halayudha"
+        },
+        {
+          "label": "B",
+          "text": "Trivikrama"
+        },
+        {
+          "label": "C",
+          "text": "Mufija"
+        },
+        {
+          "label": "D",
+          "text": "Nalachampu"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Halayudha"
+      },
+      "explanation": "Halayudha is known to compose the Sanskrit text 'Kavirahasya' during the reign of Emperor Krishna III of the Rashtrakuta Dynasty. This valuable work provides an exhaustive list of Sanskrit verbs and their meanings, thus making significant contributions to the field of Sanskrit grammar. Halayudha's efforts remain recognized for their complicacy and accuracy in understanding the life and language of ancient India."
+    }
+  ]
+}

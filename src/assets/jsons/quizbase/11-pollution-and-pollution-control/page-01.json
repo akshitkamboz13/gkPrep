@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "11-pollution-and-pollution-control",
+    "title": "11. Pollution and Pollution Control",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:50:44"
+  },
+  "questions": [
+    {
+      "id": 3215,
+      "question": "Which of the following is not a feature of the Eutrophic lakes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They are generally occupied by blooms"
+        },
+        {
+          "label": "B",
+          "text": "They have high plant nutrient flux"
+        },
+        {
+          "label": "C",
+          "text": "They have low primary productivity"
+        },
+        {
+          "label": "D",
+          "text": "They are dominated by blue green algae"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "They have low primary productivity"
+      },
+      "explanation": "C is incorrect because its high primary productivity which makes occupied by blooms."
+    },
+    {
+      "id": 4423,
+      "question": "Which of the following work as bio indicator of environmental pollution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diatoms"
+        },
+        {
+          "label": "B",
+          "text": "Coral Reefs"
+        },
+        {
+          "label": "C",
+          "text": "Fishes"
+        },
+        {
+          "label": "D",
+          "text": "Lichens"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Lichens"
+      },
+      "explanation": "Lichens are very sensitive to air pollution and water pollution. Areas with healthy lichen populations are lower in air pollution and water pollution. Lichens can thus be used as reliable biological indicators of pollution."
+    },
+    {
+      "id": 4622,
+      "question": "Which among the following is measured by Dobson unit ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ozone concentration"
+        },
+        {
+          "label": "B",
+          "text": "Thermal conductivity"
+        },
+        {
+          "label": "C",
+          "text": "Soil moisture"
+        },
+        {
+          "label": "D",
+          "text": "Radiation"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Ozone concentration"
+      },
+      "explanation": "Dobson is the most common unit for measuring ozone concentration. One Dobson unit is the number of molecules of ozone that would be required to create a layer of pure ozone 0.01 millimetres thick at a temperature of 0 degree Celsius and pressure of 1 atmosphere."
+    },
+    {
+      "id": 4626,
+      "question": "Contamination of drinking water with which of the following causes Blackfoot disease (BFD)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nitrates"
+        },
+        {
+          "label": "B",
+          "text": "Arsenic"
+        },
+        {
+          "label": "C",
+          "text": "Mercury"
+        },
+        {
+          "label": "D",
+          "text": "Cadmium"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Arsenic"
+      },
+      "explanation": "Arsenicosis or Black foot is caused by exposure over a period of time to Arsenic in drinking water. It may also be due to intake of arsenic via food or air. Kindly note that Itai-itai disease is caused by Cadmium poisoning."
+    },
+    {
+      "id": 4628,
+      "question": "The Great Smog of 1952 took place in which of the following cities?",
+      "options": [
+        {
+          "label": "A",
+          "text": "London"
+        },
+        {
+          "label": "B",
+          "text": "New York"
+        },
+        {
+          "label": "C",
+          "text": "Tokyo"
+        },
+        {
+          "label": "D",
+          "text": "Berlin"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "London"
+      },
+      "explanation": "The Great Smog of 1952, also known as the Killer Fog, took place in London. On 5 December 1952, a thick yellow smog brought the London city to a standstill for four days and it is estimated to have killed more than 4,000 people. Coal combustion was considered as the main reason for the formation of smog."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "physics-gk-12-density",
+    "title": "Physics GK 12 - Density",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:30:52"
+  },
+  "questions": [
+    {
+      "id": 26476,
+      "question": "Which of the following represents the Density of a material?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mass/weight"
+        },
+        {
+          "label": "B",
+          "text": "Mass/Length"
+        },
+        {
+          "label": "C",
+          "text": "Mass/Volume"
+        },
+        {
+          "label": "D",
+          "text": "Mass/Area"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Mass/Volume"
+      },
+      "explanation": "Density is the ratio of mass to volume. It is a measure of material's compactness. Density = Mass/Volume"
+    },
+    {
+      "id": 26477,
+      "question": "Which of the following is the S.I. unit of density?",
+      "options": [
+        {
+          "label": "A",
+          "text": "m-2"
+        },
+        {
+          "label": "B",
+          "text": "m-3"
+        },
+        {
+          "label": "C",
+          "text": "kg m-2"
+        },
+        {
+          "label": "D",
+          "text": "kg m-3"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "kg m-3"
+      },
+      "explanation": "The SI unit of density is kg m-3. It is a positive scalar quantity. The Gaussian unit of density is the gram per cubic centimeter which is equivalent to a gram per milliliter [1 g/cm3 = 1 g/ml]."
+    },
+    {
+      "id": 26478,
+      "question": "What is Specific Gravity of a liquid?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ratio of the density of a liquid to the density of water"
+        },
+        {
+          "label": "B",
+          "text": "product of the density of a substance to the density of water"
+        },
+        {
+          "label": "C",
+          "text": "ratio of the density of water to the density of a liquid"
+        },
+        {
+          "label": "D",
+          "text": "ratio of density of the liquid to the mass of the equal density of water"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "ratio of the density of a liquid to the density of water"
+      },
+      "explanation": "Specific gravity of a liquid is the ratio of the density of a substance to the density of water. The density of liquid water at standard conditions on earth is approximately 1,000 kg/m3."
+    },
+    {
+      "id": 26479,
+      "question": "What is the unit of Specific gravity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "kg m-3"
+        },
+        {
+          "label": "B",
+          "text": "kg m-2"
+        },
+        {
+          "label": "C",
+          "text": "kg m-1"
+        },
+        {
+          "label": "D",
+          "text": "No units"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "No units"
+      },
+      "explanation": "Specific gravity is a unitless quantity. Specific gravity is the ratio of two same dimensions. The dimensions of density is M1 L- 3"
+    },
+    {
+      "id": 26480,
+      "question": "What is the density of water at 4°?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1.0"
+        },
+        {
+          "label": "B",
+          "text": "1.0 × 102 kg m–3"
+        },
+        {
+          "label": "C",
+          "text": "1.0 × 103 kg m–3"
+        },
+        {
+          "label": "D",
+          "text": "10 kg m–3"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "1.0 × 103 kg m–3"
+      },
+      "explanation": "The density of water at 4°C (277 K) is 1.0 × 103 kg m–3. The relative density of a substance is the ratio of its density to the density of water at 4° C."
+    }
+  ]
+}

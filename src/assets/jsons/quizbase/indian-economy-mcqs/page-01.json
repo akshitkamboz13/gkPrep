@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "indian-economy-mcqs",
+    "title": "40000+MCQS [Book-10 & 11] #Indian Economy MCQs",
+    "page": 1,
+    "total_pages": 5,
+    "generated_at": "2026-05-02 05:52:48",
+    "total_questions": 10,
+    "scraped_at": "2026-05-02 12:18:21"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which among the following bodies estimates the national income of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Office of the Economic Advisor"
+        },
+        {
+          "label": "B",
+          "text": "Ministry of Statistics"
+        },
+        {
+          "label": "C",
+          "text": "Central Statistical Office"
+        },
+        {
+          "label": "D",
+          "text": "Ministry of Finance"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Central Statistical Office"
+      },
+      "explanation": "The Central Statistics Office (CSO) is a governmental agency in India under the Ministry of Statistics and Programme Implementation. It is responsible for estimating National Income, Index of Industrial Production and Consumer Price Indices."
+    },
+    {
+      "id": 2,
+      "question": "Which statement about Giffen goods is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They follow the standard law of demand"
+        },
+        {
+          "label": "B",
+          "text": "They are luxury goods with increasing demand"
+        },
+        {
+          "label": "C",
+          "text": "They violate the law of demand with an upward-sloping demand curve"
+        },
+        {
+          "label": "D",
+          "text": "They have many close substitutes"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "They violate the law of demand with an upward-sloping demand curve"
+      },
+      "explanation": "Giffen goods violate the law of demand and display an upward-sloping demand curve. They are inferior goods for which demand increases as price rises. The term comes from economist Sir Robert Giffen. Classic Giffen goods require that the good is a staple, lacks close substitutes, and constitutes a large part of the consumer’s budget. This is a rare phenomenon in actual markets."
+    },
+    {
+      "id": 3,
+      "question": "Which among the following is used for a situation of “Too much money chasing too few goods?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Demand Pull Inflation"
+        },
+        {
+          "label": "B",
+          "text": "Cost pull inflation"
+        },
+        {
+          "label": "C",
+          "text": "Stagflation"
+        },
+        {
+          "label": "D",
+          "text": "Hyperinflation"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Demand Pull Inflation"
+      },
+      "explanation": "Demand-pull inflation refers to the inflation from rapid growth in aggregate demand and when excess demand causes ‘too much money chasing too few goods.’ This generally happens when an economy is growing at a faster rate."
+    },
+    {
+      "id": 4,
+      "question": "A competitive firm maximizes its profit when _______?",
+      "options": [
+        {
+          "label": "A",
+          "text": "MR=AR"
+        },
+        {
+          "label": "B",
+          "text": "MR=MC"
+        },
+        {
+          "label": "C",
+          "text": "MC=AC"
+        },
+        {
+          "label": "D",
+          "text": "MC=AR"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "MR=MC"
+      },
+      "explanation": "A competitive firm maximizes its profit when its marginal revenue equals its marginal cost. Marginal revenue is the additional revenue earned by the firm from selling an additional unit of output. When marginal revenue equals marginal cost, the firm is earning the maximum possible profit. The marginal cost of production and marginal revenues are two determinants used to analyze the profitability of the production. When the marginal cost is below the marginal revenue, the firm can increase its revenue by producing more. When a competitive firm maximizes profit, profits are always greater than 0."
+    },
+    {
+      "id": 5,
+      "question": "Consider the following: Allotting of the shares of net proceeds of taxes Laying down principles governing grants in aid Looking into the financial relations between the central government and the state Governments The above mentioned functions are carried out by which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cabinet Committee on Economic Affairs"
+        },
+        {
+          "label": "B",
+          "text": "National Development Council"
+        },
+        {
+          "label": "C",
+          "text": "Finance Commission"
+        },
+        {
+          "label": "D",
+          "text": "NITI Aayog"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Finance Commission"
+      },
+      "explanation": "The correct answer is the Finance Commission. The Finance Commission is a constitutional body established under Article 280 of the Indian Constitution. Its primary role is to recommend the distribution of tax revenues between the central and state governments, ensuring fiscal federalism. It also lays down principles for grants-in-aid to states, addressing financial relations between different levels of government. The Finance Commission is constituted every five years, and its recommendations are crucial for maintaining balanced economic development across states."
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is not included in the World Bank Group?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IBRD"
+        },
+        {
+          "label": "B",
+          "text": "IDA"
+        },
+        {
+          "label": "C",
+          "text": "MIGA"
+        },
+        {
+          "label": "D",
+          "text": "UNCTAD"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "UNCTAD"
+      },
+      "explanation": "The World Bank Group (WBG) is a family of five international organizations that make leveraged loans to developing countries. Its five organizations are the International Bank for Reconstruction and Development (IBRD), the International Development Association (IDA), the International Finance Corporation (IFC), the Multilateral Investment Guarantee Agency (MIGA) and the International Centre for Settlement of Investment Disputes (ICSID). UNCTAD is the principal organ of the United Nations General Assembly dealing with trade, investment, and development issues. The primary objective of UNCTAD is to formulate policies relating to all aspects of development including trade, aid, transport, finance and technology."
+    },
+    {
+      "id": 7,
+      "question": "Which statement about indirect taxes in India is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They decrease as value of goods increases"
+        },
+        {
+          "label": "B",
+          "text": "They are not part of Consolidated Fund of India"
+        },
+        {
+          "label": "C",
+          "text": "They apply same tax rate to all income groups"
+        },
+        {
+          "label": "D",
+          "text": "Most governments avoid indirect taxes"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "They apply same tax rate to all income groups"
+      },
+      "explanation": "Indirect taxes such as GST and excise duties are levied at uniform rates regardless of the income level of the consumer. This results in all consumers, irrespective of their earning capacity, paying the same rate on goods and services. Indirect taxes are considered regressive for this reason. The tax rate is not linked to income or earning ability."
+    },
+    {
+      "id": 8,
+      "question": "Which state in India has the largest coal reserves?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chhattisgarh"
+        },
+        {
+          "label": "B",
+          "text": "West Bengal"
+        },
+        {
+          "label": "C",
+          "text": "Jharkhand"
+        },
+        {
+          "label": "D",
+          "text": "Odisha"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Odisha"
+      },
+      "explanation": "Odisha has the largest coal reserves in India with 94.52 billion tonnes as of April 1, 2025. This constitutes about 28.8% of India’s total coal reserves. Major coalfields in Odisha include Talcher, Ib Valley, and Rampia. The state is a leading coal producer and exporter, and vast coal resources are managed under the Mahanadi Coalfields Limited, a subsidiary of Coal India Limited."
+    },
+    {
+      "id": 9,
+      "question": "In which city was India’s first cotton mill established?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hyderabad"
+        },
+        {
+          "label": "B",
+          "text": "Madras"
+        },
+        {
+          "label": "C",
+          "text": "Bombay"
+        },
+        {
+          "label": "D",
+          "text": "Calcutta"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Bombay"
+      },
+      "explanation": "The first cotton mill in India was the Bombay Spinning Mill. It was established in Bombay in 1854 by Cowasji Nanabhai Davar. Bombay was a major commercial centre for the cotton trade in the 19th century. The mill contributed to the industrialization of the textile sector in western India and marked the start of the modern textile industry in India."
+    },
+    {
+      "id": 10,
+      "question": "What is India’s current global ranking in cotton production?",
+      "options": [
+        {
+          "label": "A",
+          "text": "First"
+        },
+        {
+          "label": "B",
+          "text": "Second"
+        },
+        {
+          "label": "C",
+          "text": "Third"
+        },
+        {
+          "label": "D",
+          "text": "Fourth"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Second"
+      },
+      "explanation": "In 2025, India ranks second worldwide in cotton production, producing about 5.1 million tonnes. China ranks first with 7.5 million tonnes. India accounts for 20% of world cotton production and leads in total cotton cultivation area, covering 38% of the world’s cotton-growing land. The expected output for 2025-26 in India is around 23.5-24.5 million bales."
+    }
+  ]
+}

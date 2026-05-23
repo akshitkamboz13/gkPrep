@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "development-of-civil-services",
+    "title": "17. Development of Civil Services",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:10:24"
+  },
+  "questions": [
+    {
+      "id": 4946,
+      "question": "Which among the following act provided for the Public Service Commission in India for the first time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Government of India Act 1919"
+        },
+        {
+          "label": "B",
+          "text": "Indian Councils act 1909"
+        },
+        {
+          "label": "C",
+          "text": "Government of India Act 1935"
+        },
+        {
+          "label": "D",
+          "text": "Government of India act 1858"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Government of India Act 1919"
+      },
+      "explanation": "The Government of India Act 1919 provided for the establishment of a Public Service Commission in India for the first time. The Royal Commission under the chairmanship of Lord Lee was constituted on the superior civil services. Later the first Public Service Commission was constituted on 1 October 1926 under the chairmanship of Sir Ross Barker."
+    },
+    {
+      "id": 5263,
+      "question": "In which year, IAS (Not ICS) exam was conducted in India for the first time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1949"
+        },
+        {
+          "label": "B",
+          "text": "1950"
+        },
+        {
+          "label": "C",
+          "text": "1951"
+        },
+        {
+          "label": "D",
+          "text": "1953"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "1950"
+      },
+      "explanation": "Indian Civil Service (ICS) was founded in 1858. On 26 January 1950, it became Indian Administrative Service (IAS)."
+    },
+    {
+      "id": 6159,
+      "question": "Who among the following was the first Indian to get selected in ICS (Indian Civil Services)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ras Bihari Bose"
+        },
+        {
+          "label": "B",
+          "text": "Satyendra Nath Tagore"
+        },
+        {
+          "label": "C",
+          "text": "Devendranath Tagore"
+        },
+        {
+          "label": "D",
+          "text": "Surendranath Banerjee"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Satyendra Nath Tagore"
+      },
+      "explanation": "Satyendranath Tagore was selected for the Indian Civil Service in June, 1863. He completed his probationary training and returned to India in November 1864. He was posted as Judge, Satara after this examination."
+    },
+    {
+      "id": 8717,
+      "question": "Who was India’s first I.C.S. Officer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Satyendra Nath Tagore"
+        },
+        {
+          "label": "B",
+          "text": "Sukumar Sen"
+        },
+        {
+          "label": "C",
+          "text": "Uday Singh"
+        },
+        {
+          "label": "D",
+          "text": "Annada Shankar Ray"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Satyendra Nath Tagore"
+      },
+      "explanation": "Satyendranath Tagore was the first Indian to join the Indian Civil Service in the year 1864. Tagore and his friend Monomohun Ghose sailed for England in 1862. Monomohun Ghose did not succeed in the Civil Service Examination. Satyendranath Tagore was posted to Bombay presidency. Gurusaday Dutt was the first Indian to come first in any part of the Open Competitive Services examination. In the year 1920, Subhas Chandra Bose ranked 4th in the Civil Service Examination."
+    },
+    {
+      "id": 9819,
+      "question": "Which of the following commissions appointed by the British Government abolished the statutory civil service and recommended a Provincial Civil Service in 1888?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Islington Commission"
+        },
+        {
+          "label": "B",
+          "text": "Aitchison Commission"
+        },
+        {
+          "label": "C",
+          "text": "Royal commission on the Superior Civil Services in India"
+        },
+        {
+          "label": "D",
+          "text": "Charles Freer Andrews Commission"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Aitchison Commission"
+      },
+      "explanation": "In the year 1886, Aitchison Commission was appointed. Sir Charles Umpherston Aitchison was the chairman of the committee. The objective of the committee was to fulfill the demand of Indians to higher and more extensive employment in public service. As per the recommendation of the committee, the statutory civil service was abolished and it recommended a Provincial Civil Service in 1888."
+    }
+  ]
+}

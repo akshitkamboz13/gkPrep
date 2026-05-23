@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "famines-and-other-natural-disasters",
+    "title": "23. Famines and other Natural Disasters",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 13:12:23"
+  },
+  "questions": [
+    {
+      "id": 10942,
+      "question": "Which among the following two El Niño Years led to the disastrous Chhappania Akal in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1896 & 1897"
+        },
+        {
+          "label": "B",
+          "text": "1896 & 1899"
+        },
+        {
+          "label": "C",
+          "text": "1900 & 1902"
+        },
+        {
+          "label": "D",
+          "text": "1895 & 1897"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "1896 & 1899"
+      },
+      "explanation": "The result of these two El Niño Years 1896 & 1899 was that in October 1897 Three Lakh square miles of the population of the Agra, Oudh, Bengal and the Central Provinces got affected."
+    },
+    {
+      "id": 23783,
+      "question": "Maximum number of Famines attacked India during__?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1750-1800"
+        },
+        {
+          "label": "B",
+          "text": "1800-1850"
+        },
+        {
+          "label": "C",
+          "text": "1850-1900"
+        },
+        {
+          "label": "D",
+          "text": "1900-1950"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "1850-1900"
+      },
+      "explanation": "This period is known for at least 2 dozen severe famines in India. Some important were: 1866-67 United Provinces, 1872-73;Punjab, Rajputana, 1874-Bihar, 1876 Deccan, Chhappania Akal 1899-1900."
+    },
+    {
+      "id": 45037,
+      "question": "First Famine Commission in India was appointed in which year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1878"
+        },
+        {
+          "label": "B",
+          "text": "1880"
+        },
+        {
+          "label": "C",
+          "text": "1883"
+        },
+        {
+          "label": "D",
+          "text": "1885"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "1878"
+      },
+      "explanation": "In the year 1878, the First Famine Commission was appointed during the viceroyship of Lord Lytton. Sir Richard Strachey was the first chairman of this commission."
+    },
+    {
+      "id": 45709,
+      "question": "First Famine code was formulated in which year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1881"
+        },
+        {
+          "label": "B",
+          "text": "1883"
+        },
+        {
+          "label": "C",
+          "text": "1885"
+        },
+        {
+          "label": "D",
+          "text": "1889"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "1883"
+      },
+      "explanation": "The first famine code was formulated in the year 1883 by the British Commission during the viceroyship of Lord Ripon. It was actually precautionary measures and necessary instructions to be followed during a Famine."
+    },
+    {
+      "id": 47218,
+      "question": "Who among the following was the chairman of the first famine commission?",
+      "options": [
+        {
+          "label": "A",
+          "text": "John Lyall"
+        },
+        {
+          "label": "B",
+          "text": "Richard Strachey"
+        },
+        {
+          "label": "C",
+          "text": "Antony Macdonell"
+        },
+        {
+          "label": "D",
+          "text": "K.C. Neogy"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Richard Strachey"
+      },
+      "explanation": "The first famine commission was appointed in the year 1778. The name of the chairman was Richard Strachey. The report of the commission was submitted in 1880."
+    }
+  ]
+}

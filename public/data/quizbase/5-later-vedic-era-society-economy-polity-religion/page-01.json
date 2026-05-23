@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "5-later-vedic-era-society-economy-polity-religion",
+    "title": "5. Later Vedic Society, Economy, Polity & Religion",
+    "page": 1,
+    "total_pages": 1,
+    "total_questions": 5,
+    "scraped_at": "2026-05-02 12:54:41"
+  },
+  "questions": [
+    {
+      "id": 48002,
+      "question": "Which of the following assemblies completly disappeared during the later vedic times?1. Sabha2. Samiti3. VidhataSelect the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1"
+        },
+        {
+          "label": "B",
+          "text": "Only 1 & 2"
+        },
+        {
+          "label": "C",
+          "text": "Only 3"
+        },
+        {
+          "label": "D",
+          "text": "1, 2 & 3"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Only 3"
+      },
+      "explanation": "The vedic assemblies in the later vedic period were dominated by nobles and affluent men. Women were no longer permitted to attend assemblies. Sabha and Samities continued to hold ground, though not like the Rig Vedic Age. The vidatha completely disappeared during the later vedic times."
+    },
+    {
+      "id": 48003,
+      "question": "The rows of hearths were discovered at which of the following place?1. Atranjikhera 2. Ahichchhtra3. VidehaSelect the correct option from the codes given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only 1"
+        },
+        {
+          "label": "B",
+          "text": "Only 1 & 2"
+        },
+        {
+          "label": "C",
+          "text": "Only 2 & 3"
+        },
+        {
+          "label": "D",
+          "text": ""
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Only 1 & 2"
+      },
+      "explanation": "The rows of hearths were discovered at Atranjikhera and at Ahichchhtra both of which are in western Uttar Pradesh. The excavations show that these hearths were meant for communal feeding or for cooking the food of large families."
+    },
+    {
+      "id": 48004,
+      "question": "The institution of gotra appeared in which of the following periods?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rig Vedic Age"
+        },
+        {
+          "label": "B",
+          "text": "Later Vedic Age"
+        },
+        {
+          "label": "C",
+          "text": "Mauryan Age"
+        },
+        {
+          "label": "D",
+          "text": "Satavahan period"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Later Vedic Age"
+      },
+      "explanation": "The institution of gotra appeared in the Later Vedic period. It's literal meaning is ‘cow pen’ or the place where cattle belonging to whole clan are kept. However in course of time its meaning changed to 'descent from a common ancestor'."
+    },
+    {
+      "id": 48005,
+      "question": "What is Chandrayana?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Penance for men marrying women of the same gotra"
+        },
+        {
+          "label": "B",
+          "text": "Penance for men marrying women of the same religion"
+        },
+        {
+          "label": "C",
+          "text": "Penance for men marrying women of the same jati"
+        },
+        {
+          "label": "D",
+          "text": "Penance for men marrying women of the same varna"
+        }
+      ],
+      "answer": {
+        "label": "A",
+        "text": "Penance for men marrying women of the same gotra"
+      },
+      "explanation": "During the later vedic period the marriage between persons of the same gotra was forbidden. We also find the mention of the Chandrayana which is a penance for men marrying women of the same gotra."
+    },
+    {
+      "id": 48006,
+      "question": "The Later Vedic culture is also called?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Calcholithic culture"
+        },
+        {
+          "label": "B",
+          "text": "Painted grey ware culture"
+        },
+        {
+          "label": "C",
+          "text": "Painted red ware culture"
+        },
+        {
+          "label": "D",
+          "text": "Bronze age"
+        }
+      ],
+      "answer": {
+        "label": "B",
+        "text": "Painted grey ware culture"
+      },
+      "explanation": "The Later Vedic culture is also referred to as Painted Grey Ware–Iron Phase culture, as a particular kind of pottery known as painted grey ware was used during that phase."
+    }
+  ]
+}

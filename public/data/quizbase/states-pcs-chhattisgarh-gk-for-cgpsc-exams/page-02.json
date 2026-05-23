@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "source": "gktoday.in",
+    "category_slug": "states-pcs-chhattisgarh-gk-for-cgpsc-exams",
+    "title": "States PCS: Chhattisgarh GK for CGPSC Exams",
+    "page": 2,
+    "total_pages": 2,
+    "generated_at": "2026-05-02 07:02:17",
+    "total_questions": 2,
+    "scraped_at": "2026-05-02 12:32:43"
+  },
+  "questions": [
+    {
+      "id": 11,
+      "question": "Which temple in Malhar is renowned for showcasing the early medieval architectural style of Chhattisgarh?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bhoramdeo Temple"
+        },
+        {
+          "label": "B",
+          "text": "Rajiv Lochan Temple"
+        },
+        {
+          "label": "C",
+          "text": "Deor Temple"
+        },
+        {
+          "label": "D",
+          "text": "Pataleshwar Temple"
+        }
+      ],
+      "answer": {
+        "label": "D",
+        "text": "Pataleshwar Temple"
+      },
+      "explanation": "Pataleshwar Temple in Malhar, dedicated to Lord Shiva, exemplifies early medieval Kalachuri architecture with its unique stone carvings and religious motifs."
+    },
+    {
+      "id": 12,
+      "question": "During the medieval Kalachuri dynasty’s rule in Chhattisgarh, which language was predominantly used in official inscriptions and temple records?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Marathi"
+        },
+        {
+          "label": "B",
+          "text": "Kannada"
+        },
+        {
+          "label": "C",
+          "text": "Sanskrit"
+        },
+        {
+          "label": "D",
+          "text": "Chhattisgarhi"
+        }
+      ],
+      "answer": {
+        "label": "C",
+        "text": "Sanskrit"
+      },
+      "explanation": "Sanskrit was the main language for Kalachuri inscriptions in Chhattisgarh, emphasizing classical tradition in administration and religion."
+    }
+  ]
+}
